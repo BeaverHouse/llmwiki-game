@@ -3,7 +3,7 @@ title: 블루 아카이브 스탯 가이드
 type: guide
 status: seeded
 sources:
-  - "seed: ba-analyzer 내장 가이드에서 이전 (2026-07-06)"
+  - "seed: 내장 가이드에서 이전 (2026-07-06)"
 created: 2026-07-06
 updated: 2026-07-06
 ---
