@@ -4,12 +4,15 @@ type: note
 status: ai-draft
 aliases: [S34, 호버크래프트 대결전, 3S34]
 sources:
-  - "BA Torment CDN v3 집계 (summary/party/nonlunatic-filter, 3S34-1·3·4)"
-  - "학생 킷: ba-analyzer get_student_detail (DB, 치환된 스킬)"
+  - "총력전 집계 데이터 (파티·필터·요약, 3장갑 3S34-1·3·4)"
+  - "학생 스킬: 게임 내 공식 스킬 데이터"
   - "보스 기믹: 호버크래프트/와카모 보스 문서"
 created: 2026-07-21
 updated: 2026-07-21
 ---
+
+<!-- AI 갱신 지침: 파티·필터·요약은 CDN v3(use-raids.ts base URL),
+학생 스킬은 get_student_detail(ba-analyzer)로 재조회. -->
 
 # 대결전 S34 호버크래프트 — 픽률·메타 리포트
 

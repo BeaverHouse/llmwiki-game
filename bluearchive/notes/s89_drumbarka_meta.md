@@ -4,11 +4,14 @@ type: note
 status: ai-draft
 aliases: [S89, 드럼통 게 메타]
 sources:
-  - "BA Torment CDN v3 집계 (party/summary/filter/total-analysis, S89-0)"
-  - "S89-0 검증 영상 34건 (루나틱 최종 3위 https://www.youtube.com/watch?v=0ZqFzJ8gqY8)"
+  - "총력전 S89 집계 데이터 (파티·요약·필터·누적 분석)"
+  - "S89 검증 영상 34건 (루나틱 최종 3위 https://www.youtube.com/watch?v=0ZqFzJ8gqY8)"
 created: 2026-07-21
 updated: 2026-07-21
 ---
+
+<!-- AI 갱신 지침: 파티·필터·요약·누적 분석은 CDN v3(use-raids.ts base URL)로 재조회. -->
+
 
 # 총력전 S89 드럼통 게 — 픽률·메타 리포트
 
