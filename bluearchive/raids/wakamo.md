@@ -3,7 +3,7 @@ title: 호버크래프트 / 와카모 (Hovercraft / Wakamo)
 type: raid-guide
 status: seeded
 sources:
-  - "seed: ba-analyzer 내장 가이드에서 이전 (2026-07-06)"
+  - "seed: 내장 가이드에서 이전 (2026-07-06)"
 created: 2026-07-06
 updated: 2026-07-06
 ---
