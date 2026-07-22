@@ -31,6 +31,11 @@
 3. **rename은 신중하게**: 표기·제목이 바뀌면 frontmatter의 `title`만 수정하고 파일명은 유지합니다. rename이 꼭 필요하면 참조 링크 전체 수정 + `log.md` 기록을 동반해야 합니다.
 4. **별칭은 `aliases` frontmatter로**: 여러 이름으로 불리는 엔티티는 파일을 하나만 두고 별칭을 `aliases`에 적습니다. 파일을 이름별로 중복 생성하지 않습니다.
 5. **notes/ 파일명은 구체적인 주제 슬러그**: 예: `notes/geburah_special_dealer_meta.md`. 세션 ID·날짜를 파일명에 넣지 않습니다.
+6. **표준 슬러그 스킴 (bluearchive)** — 슬러그는 외부(사이트·도구)가 참조하는 영구 계약이므로 새 문서는 반드시 이 스킴을 따릅니다:
+   - 보스 가이드: `raids/{SchaleDB PathName}.md` (예: `raids/drumbarka.md`)
+   - 시즌 리포트: raid_id 접두사를 그대로 따릅니다 — 총력전(id `S{N}-0`) → `notes/s{N}_{pathname}_meta.md`, 대결전(id `3S{N}-{장갑}`) → `notes/3s{N}_{pathname}_meta.md`. 접두사 s/3s가 총력전/대결전을 구분하고 시즌 번호 충돌도 막습니다
+   - 육성 동향: 전체 `notes/skill_build_trends.md`, 학생별 분리 시 `notes/builds/{pathname}.md`
+   - 일반 가이드: `guides/{주제}.md`
 
 ### 재구성 (폴더 이동·문서 병합)
 
@@ -50,6 +55,7 @@ title: 비나 (Binah)            # 사람이 읽는 제목
 type: guide                    # hub | guide | raid-guide | note | history
 status: seeded                 # seeded | ai-draft | human-verified
 aliases: []                    # (선택) 별칭·통칭·다른 표기. 검색 힌트로 쓰임
+raid_ids: []                   # (시즌 리포트 전용) 이 리포트가 다루는 raid_id 목록
 sources:                       # 근거. URL, "user-feedback", "seed" 등
   - seed: ba-analyzer 내장 가이드에서 이전 (2026-07-06)
 created: 2026-07-06
@@ -59,6 +65,7 @@ updated: 2026-07-06
 
 - `status` 의미: `seeded` = 기존 검증된 자료에서 이전됨 / `ai-draft` = AI가 작성, 사람 검토 전 / `human-verified` = 사람이 확인함.
 - AI가 문서를 수정하면 `updated`를 갱신하고, 새 근거를 `sources`에 추가합니다.
+- **`raid_ids`** (시즌 리포트에만): 사이트가 시즌 → 리포트를 역매핑하는 계약 키입니다. 해당 시즌의 raid_id를 모두 적습니다 — 총력전은 하나(`[S90-0]`), 대결전은 장갑별 변형을 모두(`[3S34-1, 3S34-3, 3S34-4]`). 누락되면 `/party`에 시즌 노트 카드가 뜨지 않습니다.
 
 ## 3. 수록 기준 — 무엇을 위키에 넣는가
 
