@@ -1,5 +1,5 @@
 ---
-title: 총력전 S90 그레고리오 — 픽률·메타 리포트
+title: 총력전 S90 그레고리오 — 픽률·리포트
 type: note
 status: ai-draft
 aliases: [S90, 그레고리오 메타]
