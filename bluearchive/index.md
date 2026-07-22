@@ -34,7 +34,30 @@
 ## notes/ — 단일 주제 노트
 
 - [스작 동향](notes/skill_build_trends.md) — 4자 M표기(EX/노말/패시브/서브) 집계로 슬롯별 저투자 이유. 패시브=자버프, 노말=서포터 자기딜, 서브=조건부, EX=코스트/역할무관
-- [S88 카이텐져 메타](notes/s88_kaitenger_meta.md) — 경장갑 폭발 딜러 + 1페 CC 탱커 정형, 토먼트 단일 파티/루나틱 총동원 분리 리포트
+
+### 총력전 시즌 리포트
+
+- [S80 호드 메타](notes/s80_hod_meta.md) — CC로 딜 창을 여는 보스, 관통 딜러 하나에 몰아준 단일 정답(99%)
+- [S81 페로로지라 메타](notes/s81_perorodzilla_meta.md) — 신비 단일 딜러(빛로로 처리) + 백열안광 대응 탱커
+- [S82 게부라 메타](notes/s82_geburah_meta.md) — 스페셜 딜러 필수, 신비 스페셜 딜러 + 스페셜 버퍼
+- [S83 예소드 메타](notes/s83_yesod_meta.md) — 등불 교대 처리로 딜러 다수 + 2페 평타 딜러 + 힐러 둘
+- [S84 쿠로카게 메타](notes/s84_kurokage_meta.md) — 위압으로 힐러 필수(고즈와 정반대), 진동 딜러
+- [S85 호버크래프트 메타](notes/s85_hovercraft_meta.md) — 관통 딜러 다수 + 1페 CC + 2페 타수 대응
+- [S86 비나 메타](notes/s86_binah_meta.md) — 기믹 없는 딜 체크, 관통 딜러 + 방깎·확정 치명
+- [S87 고즈 메타](notes/s87_goz_meta.md) — 신비 딜러 + 보호막 탱커, 회복 감소로 힐러 배제
+- [S88 카이텐져 메타](notes/s88_kaitenger_meta.md) — 경장갑 폭발 딜러 + 1페 CC 탱커, 토먼트 단일 파티/루나틱 총동원 분리
 - [S89 드럼통 게 메타](notes/s89_drumbarka_meta.md) — 신캐 진입장벽·이중 구조 픽률 리포트
-- [S90 그레고리오 메타](notes/s90_gregorius_meta.md) — 토먼트 단일 정답 조합(70.7%)·루나틱 상위/대중 로스터 분리 픽률 리포트
-- [S34 호버크래프트 대결전 메타](notes/3s34_hovercraft_meta.md) — 3장갑(폭발/신비/진동) 약점 딜러 교체 + 속성 무관 공통 코어 픽률 리포트
+- [S90 그레고리오 메타](notes/s90_gregorius_meta.md) — 토먼트 단일 정답 조합(70.7%)·루나틱 상위/대중 로스터 분리
+
+### 대결전 시즌 리포트
+
+- [S25 비나 대결전](notes/3s25_binah_meta.md) — 기믹 없는 딜 체크, 장갑별 약점 딜러만 교체
+- [S26 헤세드 대결전](notes/3s26_chesed_meta.md) — 광역 딜러(잡몹 처리) 공통 + 장갑별 그로기 딜러
+- [S27 시로쿠로 대결전](notes/3s27_shiro_kuro_meta.md) — 지속 범위·즉사 대응 + 장갑별 약점 딜러
+- [S28 예로니무스 대결전](notes/3s28_hieronymus_meta.md) — 힐러 공통 고정 + 장갑별 딜러(신비엔 범용 평타)
+- [S29 카이텐 대결전](notes/3s29_kaitenger_meta.md) — 1페 CC 탱커 공통 + 장갑별 약점 딜러
+- [S30 시로쿠로 대결전](notes/3s30_shiro_kuro_meta.md) — 지속 범위·즉사 대응 + 장갑별 약점 딜러
+- [S31 예로니무스 대결전](notes/3s31_hieronymus_meta.md) — 힐러(마리아이돌 99~100%) 공통 + 장갑별 딜러
+- [S32 페로로지라 대결전](notes/3s32_perorodzilla_meta.md) — 백열안광 탱커·단일 딜러 공통 + 장갑별 약점 딜러
+- [S33 쿠로카게 대결전](notes/3s33_kurokage_meta.md) — 위압 힐러 공통 + 장갑별 약점 딜러
+- [S34 호버크래프트 대결전](notes/3s34_hovercraft_meta.md) — 3장갑(폭발/신비/진동) 약점 딜러 교체 + 속성 무관 공통 코어
