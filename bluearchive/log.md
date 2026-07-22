@@ -1,5 +1,7 @@
 # Blue Archive — 변경 기록 (append-only, 최신이 위)
 
+- 2026-07-22 | ai | AGENTS.md 네이밍 표준 추가, notes/s34→3s34_hovercraft_meta rename, index 갱신 | 슬러그가 사이트·도구의 영구 계약이 되기 전에 표준 확정 — 시즌 리포트 접두사를 raid_id(총력전 S/대결전 3S) 스킴에 정렬 | 근거: 사이트 노출 계획(improvement-plan)
+
 - 2026-07-21 | ai | raids/drumbarka.md, notes/s89_drumbarka_meta.md | S89 드럼통 게 신보스 가이드 + 픽률 리포트. 이중장갑(특수+경장갑)·페이즈별 딜러 요구·난이도별 HP/부위 스탯, 각 픽 킷×기믹 인과 | 근거: 게임 데이터 + 검증영상 + 커뮤니티
 - 2026-07-21 | ai | notes/s90_gregorius_meta.md, raids/gregorius.md | S90 그레고리오 리포트. 스트라이커 공격력 감소 40→70%로 딜 축이 스트라이커→스페셜 전환, 디버프 개수 기믹(미네·미나) | 근거: 집계 + 게임 데이터 + 커뮤니티 공략
 - 2026-07-21 | ai | notes/s34_hovercraft_meta.md | 대결전 S34 3장갑 단일 리포트. 약점 딜러 교체 + 속성 무관 공통 코어 + 1페 CC 기믹 | 근거: 집계 + 게임 스킬 + 보스 문서

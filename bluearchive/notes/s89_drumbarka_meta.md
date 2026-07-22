@@ -3,6 +3,7 @@ title: 총력전 S89 드럼통 게 — 픽률·메타 리포트
 type: note
 status: ai-draft
 aliases: [S89, 드럼통 게 메타]
+raid_ids: [S89-0]
 sources:
   - "총력전 S89 집계 데이터 (파티·요약·필터·누적 분석)"
   - "S89 검증 영상 34건 (루나틱 최종 3위 https://www.youtube.com/watch?v=0ZqFzJ8gqY8)"
