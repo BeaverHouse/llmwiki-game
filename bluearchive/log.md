@@ -1,5 +1,9 @@
 # Blue Archive — 변경 기록 (append-only, 최신이 위)
 
+- 2026-07-22 | ai | notes/s88_kaitenger_meta.md 신설, index 등록 | S88 카이텐져 리포트(정중체). 경장갑 폭발 딜러+1페 CC 탱커(츠바키 도발) 정형, 토먼트 단일파티/루나틱 총동원 분리 | 근거: 집계 18,560/1,440 + SchaleDB 속성역할 + 보스 문서
+- 2026-07-22 | ai | guides/beginner.md 신설, index 등록 | 사이트 하드코딩 입문 가이드를 위키로 이관. 친근한 문체 | 근거: 사이트 입문 가이드 seed
+- 2026-07-22 | ai | s89/s90/skill_build 슬랭 순화 | 공무원·벤치·박제·셔틀·접대·딜컷·휴리스틱 등 일반 플레이어가 안 쓰는 용어를 평이하게 | 근거: 문체 통일 요청
+
 - 2026-07-22 | ai | AGENTS.md 네이밍 표준 추가, notes/s34→3s34_hovercraft_meta rename, index 갱신 | 슬러그가 사이트·도구의 영구 계약이 되기 전에 표준 확정 — 시즌 리포트 접두사를 raid_id(총력전 S/대결전 3S) 스킴에 정렬 | 근거: 사이트 노출 계획(improvement-plan)
 
 - 2026-07-21 | ai | raids/drumbarka.md, notes/s89_drumbarka_meta.md | S89 드럼통 게 신보스 가이드 + 픽률 리포트. 이중장갑(특수+경장갑)·페이즈별 딜러 요구·난이도별 HP/부위 스탯, 각 픽 킷×기믹 인과 | 근거: 게임 데이터 + 검증영상 + 커뮤니티

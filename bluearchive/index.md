@@ -8,6 +8,7 @@
 
 ## guides/ — 시스템·컨텐츠 가이드
 
+- [총력전·대결전 입문](guides/beginner.md) — 난이도 사다리(EXTREME→INSANE→TORMENT→LUNATIC), 단계별 준비, LUNATIC 입문은 비나, 사이트 활용법
 - [스탯 가이드](guides/stat_guide.md) — 전투 스탯(공방·명중/회피·치명·안정·CC·지형 적성·속성 특효)의 의미와 공식
 - [컨텐츠 가이드](guides/content_guide.md) — 종합전술시험·제약해제결전·전술대항전 개요와 YouTube 검색 키워드, 유용한 외부 사이트
 
@@ -33,6 +34,7 @@
 ## notes/ — 단일 주제 노트
 
 - [스작 동향](notes/skill_build_trends.md) — 4자 M표기(EX/노말/패시브/서브) 집계로 슬롯별 저투자 이유. 패시브=자버프, 노말=서포터 자기딜, 서브=조건부, EX=코스트/역할무관
-- [S89 드럼통 게 메타](notes/s89_drumbarka_meta.md) — 신캐 진입장벽·이중 구조·박제 실력 신호 픽률 리포트
+- [S88 카이텐져 메타](notes/s88_kaitenger_meta.md) — 경장갑 폭발 딜러 + 1페 CC 탱커 정형, 토먼트 단일 파티/루나틱 총동원 분리 리포트
+- [S89 드럼통 게 메타](notes/s89_drumbarka_meta.md) — 신캐 진입장벽·이중 구조 픽률 리포트
 - [S90 그레고리오 메타](notes/s90_gregorius_meta.md) — 토먼트 단일 정답 조합(70.7%)·루나틱 상위/대중 로스터 분리 픽률 리포트
 - [S34 호버크래프트 대결전 메타](notes/3s34_hovercraft_meta.md) — 3장갑(폭발/신비/진동) 약점 딜러 교체 + 속성 무관 공통 코어 픽률 리포트
