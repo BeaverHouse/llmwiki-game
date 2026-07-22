@@ -1,5 +1,5 @@
 ---
-title: 대결전 S34 호버크래프트 — 픽률·메타 리포트
+title: 대결전 S34 호버크래프트 — 픽률·리포트
 type: note
 status: ai-draft
 aliases: [S34, 호버크래프트 대결전, 3S34]
