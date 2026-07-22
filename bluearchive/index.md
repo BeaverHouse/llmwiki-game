@@ -8,6 +8,7 @@
 
 ## guides/ — 시스템·컨텐츠 가이드
 
+- [총력전·대결전 입문](guides/beginner.md) — 난이도 사다리(EXTREME→INSANE→TORMENT→LUNATIC), 단계별 준비, LUNATIC 입문은 비나, 사이트 활용법
 - [스탯 가이드](guides/stat_guide.md) — 전투 스탯(공방·명중/회피·치명·안정·CC·지형 적성·속성 특효)의 의미와 공식
 - [컨텐츠 가이드](guides/content_guide.md) — 종합전술시험·제약해제결전·전술대항전 개요와 YouTube 검색 키워드, 유용한 외부 사이트
 
