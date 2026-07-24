@@ -5,8 +5,9 @@ status: seeded
 aliases: [입문, 초보 가이드, 뉴비 가이드, 시작 가이드]
 sources:
   - "seed: BA Torment 사이트 입문 가이드에서 이전 (2026-07-22)"
+  - "ba-analyzer: 사람 검증 완료 영상 8건 (2026-07-24)"
 created: 2026-07-22
-updated: 2026-07-22
+updated: 2026-07-24
 ---
 
 처음이라도 괜찮아요. 총력전과 대결전은 한 번에 잘할 필요가 없는 콘텐츠라서,
@@ -40,6 +41,46 @@ updated: 2026-07-22
 - TORMENT는 보통 **핵심 학생만 있으면 1~2파티로** 준비할 수 있어요.
 - LUNATIC 첫 도전은 **비나**가 가장 무난해요. 기믹이 거의 없고 60레벨대로도 클리어한 기록이 있을 만큼 진입장벽이 낮거든요.
 - 막힐 땐 이 사이트의 **파티 찾기**와 **클리어 영상**을 참고하세요. 상위 선생님들이 실제로 쓴 편성을 그대로 따라 해볼 수 있어요.
+
+## 처음 따라 하기 좋은 검증 영상
+
+아래 영상은 BA Torment의 영상 분석에서 **사람이 편성과 점수를 확인한 기록** 가운데,
+초보자용·저육성·5주년 선생님용이라고 명시된 공략을 골랐어요.
+
+처음에는 EXTREME부터 따라 해 보세요. 같은 보스의 INSANE 영상은 EXTREME을
+안정적으로 클리어한 뒤 다음 단계로 올라갈 때 보면 좋습니다.
+
+### 비나
+
+[5주년 선생님도 가능한 저육성 EXTREME 공략](https://www.youtube.com/watch?v=2NI_MRwoPOY)
+
+[5주년 선생님용 저육성 INSANE 공략](https://www.youtube.com/watch?v=67etJGOJnDI)
+
+### 고즈
+
+[5주년 선생님용 간단 EXTREME 공략](https://www.youtube.com/watch?v=v5wabaK6VDk)
+
+[레벨 70대부터 따라 하는 INSANE 공략](https://www.youtube.com/watch?v=yhYZ9NKm2hI)
+
+### 드럼통 게
+
+[저비용 1파티 EXTREME 공략](https://www.youtube.com/watch?v=qrLaK0uLRdg)
+
+### 그레고리오
+
+[저비용 1파티 EXTREME 공략](https://www.youtube.com/watch?v=uzUscunh7GY)
+
+### 페로로지라
+
+[5주년 선생님용 전 속성 EXTREME 공략](https://www.youtube.com/watch?v=St-3KrqOLX8)
+
+### 예로니무스
+
+[간단 조작 폭발 EXTREME 공략](https://www.youtube.com/watch?v=69iFSgj3Vd0)
+
+> 영상의 학생·장비 조건은 시즌과 계정 상태에 따라 달라질 수 있어요.
+> 편성을 그대로 맞추기 어렵다면 핵심 조력자를 먼저 빌리고, 빈자리는 같은 역할의
+> 학생으로 바꿔 보세요.
 
 ## 이 사이트, 이렇게 쓰면 좋아요
 
