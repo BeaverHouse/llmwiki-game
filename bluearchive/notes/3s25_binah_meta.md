@@ -1,7 +1,7 @@
 ---
 title: 대결전 S25 비나 — 픽률·리포트
 type: note
-status: ai-draft
+status: human-verified
 aliases: [S25, 비나 대결전, 3S25]
 raid_ids: [3S25-1, 3S25-3, 3S25-4]
 sources:
