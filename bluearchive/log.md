@@ -1,5 +1,6 @@
 # Blue Archive — 변경 기록 (append-only, 최신이 위)
 
+- 2026-07-27 | ai | notes/3s28_hieronymus_meta.md·notes/3s31_hieronymus_meta.md·notes/skill_build_trends.md 교정 | 성유물 5중첩과 시가지 적성 해석을 바로잡고, WeaponPassive 전수 대조로 유지력 별표 누락 6명 추가 | 근거: user-feedback + raids.json + SchaleDB 공개 학생 원본
 - 2026-07-26 | ai | 남은 시즌 리포트 14건 초안 재작성 | 총력전 S80~S85·S87과 대결전 3S28~3S34를 전체 파티·순위대·1위 편성, 보스 기믹, 학생 스킬에 다시 맞춰 전투 진행과 채용 이유가 이어지도록 재작성 | 근거: CDN v3 전체 summary/party + 공개 학생 데이터 + 보스 문서
 - 2026-07-26 | ai | notes/s88_kaitenger_meta.md 재작성 | 전체 파티·순위대와 실제 EX 타격 수를 재대조해 토먼트의 리오(무장) 1파티/고득점 2파티 분기, 루나틱의 야쿠모·아루 전반 1파티와 로봇 다파티 구조를 교정 | 근거: CDN v3 전체 summary/party + SchaleDB 공개 학생 데이터 + 보스 기믹 교차 검증
 - 2026-07-26 | ai | notes/s89_drumbarka_meta.md 재작성 | 검증된 학생별 테이블과 파티 분포는 유지하고, 전후반의 공격 방식·부위 담당·난이도별 후속 파티 확장이 한 흐름으로 읽히도록 본문과 아로나 코멘트를 교정 | 근거: 기존 전체 집계·학생 스킬·검증 영상 + user-feedback
