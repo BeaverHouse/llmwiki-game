@@ -2,7 +2,7 @@
 title: 드럼통 게 (DRUMBARKA)
 type: raid-guide
 status: ai-draft
-aliases: [드럼바르카, 드럽통 게, ドラム缶ガニ]
+aliases: [드럼바르카, 드럽통 게, 드롭통 게, ドラム缶ガニ]
 sources:
   - "게임 공식 데이터: 부위별 장갑·HP·방어 스탯·보스 스킬"
   - "공식 보스 스킬 텍스트 (2026-07-21 제공)"
