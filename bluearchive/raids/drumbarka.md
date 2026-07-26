@@ -9,7 +9,7 @@ sources:
   - "https://namu.wiki/w/드럼통 게 (2026-07-21 발췌 제공)"
   - "https://arca.live/b/bluearchive/172733999 (루나틱 기믹·조합 정리, 검색 요약 기반)"
 created: 2026-07-21
-updated: 2026-07-21
+updated: 2026-07-27
 ---
 
 # 드럼통 게 (DRUMBARKA)
