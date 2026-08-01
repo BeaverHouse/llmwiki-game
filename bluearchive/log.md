@@ -1,5 +1,6 @@
 # Blue Archive — 변경 기록 (append-only, 최신이 위)
 
+- 2026-08-02 | ai | guides/beginner.md 영상 갱신 | 키워드 조건을 만족한 사람 검증 영상 21건을 보스별 YouTube 임베드로 정리 | 근거: ba-analyzer human-verified 분석
 - 2026-07-27 | ai | 대결전 리포트 3S28~3S33 아로나 코멘트 규격 교정 | 장갑명을 카드 라벨로 쓴 항목을 `Top 5 파티(장갑)` 범위 표기로 바꿔 요약 카드와 연결 | 근거: user-feedback + 기존 아로나 코멘트 라벨 계약
 - 2026-07-27 | ai | notes/3s28_hieronymus_meta.md·notes/3s31_hieronymus_meta.md·notes/skill_build_trends.md 교정 | 성유물 5중첩과 시가지 적성 해석을 바로잡고, WeaponPassive 전수 대조로 유지력 별표 누락 6명 추가 | 근거: user-feedback + raids.json + SchaleDB 공개 학생 원본
 - 2026-07-26 | ai | 남은 시즌 리포트 14건 초안 재작성 | 총력전 S80~S85·S87과 대결전 3S28~3S34를 전체 파티·순위대·1위 편성, 보스 기믹, 학생 스킬에 다시 맞춰 전투 진행과 채용 이유가 이어지도록 재작성 | 근거: CDN v3 전체 summary/party + 공개 학생 데이터 + 보스 문서
