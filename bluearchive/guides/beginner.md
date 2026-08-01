@@ -5,9 +5,9 @@ status: seeded
 aliases: [입문, 초보 가이드, 뉴비 가이드, 시작 가이드]
 sources:
   - "seed: BA Torment 사이트 입문 가이드에서 이전 (2026-07-22)"
-  - "ba-analyzer: 사람 검증 완료 영상 8건 (2026-07-24)"
+  - "ba-analyzer: 사람 검증 완료 영상 21건 (2026-08-02)"
 created: 2026-07-22
-updated: 2026-07-24
+updated: 2026-08-02
 ---
 
 처음이라도 괜찮아요. 총력전과 대결전은 한 번에 잘할 필요가 없는 콘텐츠라서,
@@ -56,6 +56,8 @@ updated: 2026-07-24
 
 [5주년 선생님용 저육성 INSANE 공략](https://www.youtube.com/watch?v=67etJGOJnDI)
 
+[초보자용 INSANE 공략](https://www.youtube.com/watch?v=NTASuFLA8zE)
+
 ### 고즈
 
 [5주년 선생님용 간단 EXTREME 공략](https://www.youtube.com/watch?v=v5wabaK6VDk)
@@ -66,6 +68,8 @@ updated: 2026-07-24
 
 [저비용 1파티 EXTREME 공략](https://www.youtube.com/watch?v=qrLaK0uLRdg)
 
+[5주년 선생님용 INSANE 3파티 공략](https://www.youtube.com/watch?v=lcvP8WKKhZ8)
+
 ### 그레고리오
 
 [저비용 1파티 EXTREME 공략](https://www.youtube.com/watch?v=uzUscunh7GY)
@@ -74,9 +78,39 @@ updated: 2026-07-24
 
 [5주년 선생님용 전 속성 EXTREME 공략](https://www.youtube.com/watch?v=St-3KrqOLX8)
 
+[5주년 선생님용 전 속성 INSANE 공략](https://www.youtube.com/watch?v=QXSOk-ITZLk)
+
 ### 예로니무스
 
 [간단 조작 폭발 EXTREME 공략](https://www.youtube.com/watch?v=69iFSgj3Vd0)
+
+[간단 조작 관통 EXTREME 공략](https://www.youtube.com/watch?v=n1CwzkenlY4)
+
+[간단 조작 신비 EXTREME 공략](https://www.youtube.com/watch?v=BU652VOnvsk)
+
+[4주년 선생님용 경장갑 TORMENT 1파티 공략](https://www.youtube.com/watch?v=9dfi5W0JAHU)
+
+### 호드
+
+[4주년 선생님용 EXTREME 1파티 공략](https://www.youtube.com/watch?v=ITVzlsiN8rA)
+
+[4주년 선생님용 INSANE 1파티 공략](https://www.youtube.com/watch?v=EMiLSRal8_g)
+
+[5주년 선생님용 중장갑 TORMENT 1파티 공략](https://www.youtube.com/watch?v=zevesSza_3s)
+
+### 크로카게
+
+[4주년 선생님용 TORMENT 1파티 공략](https://www.youtube.com/watch?v=e71g-qn4bRc)
+
+[초보자용 특수장갑 TORMENT 공략](https://www.youtube.com/watch?v=RLsLtXXoxxc)
+
+### 예소드
+
+[4주년 선생님용 TORMENT 3파티 공략](https://www.youtube.com/watch?v=smvDR7uWBuc)
+
+### 게부라
+
+[4주년 선생님용 EXTREME 1파티 공략](https://www.youtube.com/watch?v=sPkzwHFd8lM)
 
 > 영상의 학생·장비 조건은 시즌과 계정 상태에 따라 달라질 수 있어요.
 > 편성을 그대로 맞추기 어렵다면 핵심 조력자를 먼저 빌리고, 빈자리는 같은 역할의
