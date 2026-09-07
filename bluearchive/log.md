@@ -1,5 +1,11 @@
 # Blue Archive — 변경 기록 (append-only, 최신이 위)
 
+- 2026-09-07 | ai | notes/s91_hieronymus_meta.md 신설 | 토먼트 이로하 대중 편성·하루카 고점 편성과 루나틱 저주 회복·이중 이로하·후속 파티를 정리 | 근거: CDN v3 전체 파티·요약, 학생·보스 원본, 고점 영상 2건
+- 2026-09-07 | ai | notes/3s35_hod_meta.md 신설 | 경장갑 타워 처리 후 교대, 중장갑 미카·탄력장갑 노조미의 CC와 코스트 지원을 정리 | 근거: CDN v3 3장갑 전체 파티·요약, 학생·보스 원본, 고점 영상 3건
+- 2026-09-07 | ai | notes/3s36_binah_meta.md 신설 | 장갑별 고점·대중 편성, 이중 히나와 슈에링의 초반 EX·히카리 발동 조건을 정리 | 근거: CDN v3 3장갑 전체 파티·요약, 학생·보스 원본, 검증 영상·공개 타임라인
+- 2026-09-07 | ai | raids/hieronymus.md 보강 | 루나틱 체력·방어력, 저주 해제와 성유물 기믹을 추가 | 근거: SchaleDB 일본 서버 raids.json·enemies.json
+- 2026-09-07 | ai | index.md·raids/hieronymus.md·raids/hod.md·raids/binah.md 갱신 | S91·3S35·3S36 리포트 색인과 관련 보스 상호 링크 추가 | 근거: 신규 시즌 리포트
+- 2026-09-07 | ai | glossary.md 보강 | 예로니무스 성유물 색상과 저주 표기 등록 | 근거: 기존 보스 문서·SchaleDB raids.json
 - 2026-08-02 | ai | guides/beginner.md 영상 갱신 | 키워드 조건을 만족한 사람 검증 영상 21건을 보스별 YouTube 임베드로 정리 | 근거: ba-analyzer human-verified 분석
 - 2026-07-27 | ai | 대결전 리포트 3S28~3S33 아로나 코멘트 규격 교정 | 장갑명을 카드 라벨로 쓴 항목을 `Top 5 파티(장갑)` 범위 표기로 바꿔 요약 카드와 연결 | 근거: user-feedback + 기존 아로나 코멘트 라벨 계약
 - 2026-07-27 | ai | notes/3s28_hieronymus_meta.md·notes/3s31_hieronymus_meta.md·notes/skill_build_trends.md 교정 | 성유물 5중첩과 시가지 적성 해석을 바로잡고, WeaponPassive 전수 대조로 유지력 별표 누락 6명 추가 | 근거: user-feedback + raids.json + SchaleDB 공개 학생 원본
