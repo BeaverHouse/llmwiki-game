@@ -4,8 +4,11 @@ type: guide
 status: seeded
 sources:
   - "seed: 내장 가이드에서 이전 (2026-07-06)"
+  - "https://forum.nexon.com/bluearchive/board_view?board=1071&thread=2719477"
+  - "https://kamigame.jp/bluearchive/page/309114476051847510.html"
+  - "https://appmedia.jp/blue_archive/78805118"
 created: 2026-07-06
-updated: 2026-07-06
+updated: 2026-09-07
 ---
 
 # 블루 아카이브 컨텐츠 가이드
@@ -36,8 +39,8 @@ YouTube 검색 링크 생성 규칙: `https://www.youtube.com/results?search_que
 
 ## 제약해제결전 (制約解除決戦)
 
-단계별로 보스가 강해지는 연속 전투. 구간: 1~24, 25~49, 50~74, 75~99, 100~124층.
-97층까지 클리어하면 능력해방 재화 전부 획득 가능.
+최대 10명으로 단계별 보스에 도전하는 콘텐츠. 97층에서 교양 WB를 모두 받고, 99층에서 고급 선물 상자를 추가로 획득합니다.
+진행 방식·보상·보스 특징과 최신 공략 영상은 [제약해제결전 입문과 99층 공략](final_restriction_release.md)을 참고하세요.
 
 ### 보스 목록 (한국어 / 일본어)
 
@@ -45,7 +48,7 @@ YouTube 검색 링크 생성 규칙: `https://www.youtube.com/results?search_que
 | ----------- | ------------ | -------------------- |
 | 세트의 분노 | セトの憤怒   | 특수장갑/경장갑 교대 |
 | 호크마      | コクマー     | 중장갑/특수장갑      |
-| 티페레트    | ティフェレト | 탄력장갑/중장갑      |
+| 티페레트    | ティファレト | 탄력장갑/중장갑      |
 
 ### 검색 키워드
 
