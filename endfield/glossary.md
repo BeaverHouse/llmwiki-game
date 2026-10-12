@@ -54,6 +54,19 @@ updated: 2026-10-12
 | 4번 협곡 | Valley IV | 四号谷地 | 공식 | 문명 밴드 외곽의 광물 지대. ko/ja 표기는 Austin 확인 |
 | 무릉 | Wuling | 武陵 | 2차 | 정식 명칭 Wuling Scientific Developmental District |
 
+## 제강호 시설
+
+| 한국어 | English | 日本語 | 확인 | 메모 |
+|---|---|---|---|---|
+| 핵심 제어 중추 | Control Nexus | 指揮中枢 | 공식(ko) | ko는 게임 화면(Austin 제공). ja는 공략 사이트 기준 |
+| 응접실 | Reception Room | 応接室 | 공식(ko) | 단서 수집·교환, 정보 교류 |
+| 제조실 | Manufacturing Cabin | 製造室 | 공식(ko) | 제조실 I, 제조실 II처럼 번호를 붙임 |
+| 재배실 | Growth Chamber | 培養室 | 공식(ko) | 재배실 I처럼 번호를 붙임 |
+| 정보 교류 | Clue Exchange | — | 미확인 | 응접실에서 단서 7개로 활성화. ko는 Austin 설명, ja 미확인 |
+| 신뢰도 | Trust | 信頼度 | 공식(ko) | 오퍼레이터와의 관계 수치. ko는 게임 화면 |
+| 컨디션 | Mood | — | 공식(ko) | 배치된 오퍼레이터의 상태 수치. ko는 게임 화면, ja 미확인 |
+
 ## 히스토리
 
+- 2026-10-12: 제강호 시설 표기 추가 (게임 화면 캡처, appmedia.jp).
 - 2026-10: 최초 작성. 공식 X 계정 소개문과 2차 위키를 근거로 정리. `미확인` 항목은 사람 확인 필요.
