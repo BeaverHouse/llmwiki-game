@@ -14,8 +14,13 @@ sources:
   - user-feedback: 나무위키 「펠리카」 문서 사본, 무기 종류 '아츠 유닛' 정정 (Slack, 2026-10-13)
   - https://www.icy-veins.com/arknights-endfield/perlica-profile-skills
   - https://www.prydwen.gg/arknights-endfield/characters/perlica
+  - https://namu.wiki/w/명일방주:%20엔드필드/오퍼레이터
+  - https://namu.wiki/w/장방이
+  - https://namu.wiki/w/아크라이트(명일방주:%20엔드필드)
+  - https://genshin-builds.com/en/arknights-endfield/characters/zhuang_fangyi
+  - https://www.prydwen.gg/arknights-endfield/characters/arclight
 created: 2026-10-12
-updated: 2026-10-13
+updated: 2026-10-14
 ---
 
 # 엔드필드 고유명사 표기 (ko/en/ja)
@@ -92,8 +97,64 @@ ko는 나무위키 「펠리카」 문서 사본(Austin 제공) 기준, en은 �
 | 실시간 프로토콜 · 연쇄 섬광 | Instant Protocol: Chain | — | 2차 | 펠리카 연계 스킬 |
 | 프로토콜ε · 70.41κ | Protocol ε: 70.41K | — | 2차 | 펠리카 궁극기 |
 
+### 속성·무기·직군·능력치
+
+ko·en·zh는 나무위키 오퍼레이터 틀 기준이다. ja는 확인하지 못했다.
+
+| 한국어 | English | 日本語 | 확인 | 메모 |
+|---|---|---|---|---|
+| 물리 | Physical | — | 2차 | 속성. zh 物理 |
+| 냉기 | Cryo | — | 2차 | 속성. zh 寒冷 |
+| 열기 | Heat | — | 2차 | 속성. zh 灼热 |
+| 자연 | Nature | — | 2차 | 속성. zh 自然 |
+| 전기 | Electric | — | 2차 | 속성. zh 电磁 |
+| 한손검 | Sword | — | 2차 | 무기 종류 |
+| 양손검 | Great Sword | — | 2차 | 무기 종류 |
+| 장병기 | Polearm | — | 2차 | 무기 종류 |
+| 권총 | Handcannon | — | 2차 | 무기 종류 |
+| 뱅가드 | Vanguard | — | 2차 | 직군. zh 先锋 |
+| 가드 | Guard | — | 2차 | 직군. zh 近卫 |
+| 디펜더 | Defender | — | 2차 | 직군. zh 重装 |
+| 서포터 | Supporter | — | 2차 | 직군. zh 辅助 |
+| 캐스터 | Caster | — | 2차 | 직군. zh 术师 |
+| 스트라이커 | Striker | — | 2차 | 직군. zh 突击 |
+| 힘 | Strength | — | 미확인 | 능력치. en 미확인 |
+| 민첩 | Agility | — | 미확인 | 능력치. en 미확인 |
+| 지능 | Intellect | — | 2차 | 능력치 |
+| 의지 | Will | — | 2차 | 능력치 |
+| 오리지늄 아츠 강도 | — | — | 미확인 | 물리·아츠 이상, 아츠 폭발 효과에 영향 |
+
+### 장방이·아크라이트
+
+ko는 나무위키 각 오퍼레이터 문서, en은 영어 공략 사이트(genshin-builds, prydwen) 기준이다.
+
+| 한국어 | English | 日本語 | 확인 | 메모 |
+|---|---|---|---|---|
+| 장방이 | Zhuang Fangyi | ゾアン・ファンイ | 2차 | zh 庄方宜. '장 천사'로도 불림 |
+| 홍산 과학원 | — | — | 미확인 | 장방이의 소속 |
+| 천사 | — | — | 미확인 | 장방이의 직함 |
+| 식양 | Xiranite | — | 미확인 | 장방이가 이끄는 신재료 프로젝트. en은 장비명 Xiranflow에서 추정 |
+| 키린 | — | — | 미확인 | 장방이의 종족 |
+| 전격술 | — | — | 미확인 | 장방이 기본 공격 |
+| 뇌정의 부름 | Mantra of Sundering | — | 2차 | 장방이 배틀 스킬 |
+| 변화의 숨결 | Breath of Transformation | — | 2차 | 장방이 연계 스킬 |
+| 심판의 폭풍 | Smiting Tempest | — | 2차 | 장방이 궁극기 |
+| 청뢰검 | Sunderblade | — | 2차 | 장방이 배틀 스킬이 만드는 검. 최대 9자루 |
+| 천리의 경지 | Empyrean of Truth | — | 2차 | 장방이 궁극기 변신 상태 |
+| 뇌격 | Thunder Strike | — | 2차 | 청뢰검의 공격 |
+| 아크라이트 | Arclight | アークライト | 2차 | zh 弧光. 본명 에쿠트 |
+| 만물의 대지 | — | — | 미확인 | 아크라이트의 소속. 황무지 방랑자 집단 |
+| 오리사 사자 | — | — | 미확인 | 아크라이트를 추천한 인물 |
+| 쿠란타 | Kuranta | — | 2차 | 아크라이트의 종족 |
+| 추적 사냥 | — | — | 미확인 | 아크라이트 기본 공격 |
+| 질풍 섬광 | Tempestuous Arc | — | 2차 | 아크라이트 배틀 스킬 |
+| 천둥의 울림 | Peal of Thunder | — | 2차 | 아크라이트 연계 스킬 |
+| 천둥번개 | Exploding Blitz | — | 2차 | 아크라이트 궁극기 |
+| 황무지의 방랑자 | Wildland Trekker | — | 2차 | 아크라이트 재능 |
+
 ## 히스토리
 
+- 2026-10-14: 속성·무기·직군·능력치 용어와 장방이·아크라이트 관련 표기 추가 (나무위키, 영어 공략 사이트).
 - 2026-10-13: 전투·오퍼레이터 용어 추가 (나무위키 사본, 영어 공략 사이트).
 
 - 2026-10-12: 제강호 시설 표기 추가 (게임 화면 캡처, appmedia.jp).
