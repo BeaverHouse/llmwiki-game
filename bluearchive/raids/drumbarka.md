@@ -9,7 +9,7 @@ sources:
   - "https://namu.wiki/w/드럼통 게 (2026-07-21 발췌 제공)"
   - "https://arca.live/b/bluearchive/172733999 (루나틱 기믹·조합 정리, 검색 요약 기반)"
 created: 2026-07-21
-updated: 2026-07-21
+updated: 2026-10-13
 ---
 
 # 드럼통 게 (DRUMBARKA)
@@ -96,3 +96,4 @@ API 매핑 (SchaleDB raid Id 14, 본체 614130X01 기준):
 ## 히스토리
 
 - 2026-07 (S89): 첫 등장. 루나틱은 오픈 첫날 클리어 4명으로 역대 최고 수준의 진입장벽을 보였다. 시즌별 채용 동향은 [S89 총력전 리포트](../notes/s89_drumbarka_meta.md) 참조.
+- 2026-10 (S93): 재등장. 루나틱 클리어 822명, 토먼트 1만 9,178명으로 진입장벽이 크게 낮아졌다. [S93 총력전 리포트](../notes/s93_drumbarka_meta.md) 참조.
