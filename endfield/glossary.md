@@ -11,8 +11,11 @@ sources:
   - https://endfield.wiki.gg/wiki/Endfield
   - https://namu.wiki/w/명일방주:%20엔드필드/설정
   - https://gamesink.net/endfield/articles/285 (JP 용어집)
+  - user-feedback: 나무위키 「펠리카」 문서 사본, 무기 종류 '아츠 유닛' 정정 (Slack, 2026-10-13)
+  - https://www.icy-veins.com/arknights-endfield/perlica-profile-skills
+  - https://www.prydwen.gg/arknights-endfield/characters/perlica
 created: 2026-10-12
-updated: 2026-10-12
+updated: 2026-10-13
 ---
 
 # 엔드필드 고유명사 표기 (ko/en/ja)
@@ -66,7 +69,32 @@ updated: 2026-10-12
 | 신뢰도 | Trust | 信頼度 | 공식(ko) | 오퍼레이터와의 관계 수치. ko는 게임 화면 |
 | 컨디션 | Mood | — | 공식(ko) | 배치된 오퍼레이터의 상태 수치. ko는 게임 화면, ja 미확인 |
 
+## 전투·오퍼레이터
+
+ko는 나무위키 「펠리카」 문서 사본(Austin 제공) 기준, en은 영어 공략 사이트(icy-veins, prydwen) 기준이다. ja는 확인하지 못했다.
+
+| 한국어 | English | 日本語 | 확인 | 메모 |
+|---|---|---|---|---|
+| 리베리 | Liberi | リーベリ | 2차 | 펠리카의 종족 |
+| 위기 대책팀 | — | — | 미확인 | 관리자가 세운 작전팀. 관리자 수면 중 펠리카가 지휘 |
+| 아츠 유닛 | Arts Unit | — | 2차 | 무기 종류. ko는 Austin 확인 |
+| 배틀 스킬 | Battle Skill | — | 2차 | 스킬 게이지 소모 |
+| 연계 스킬 | Combo Skill | — | 2차 | 조건 충족 시 발동, 쿨타임 있음 |
+| 궁극기 | Ultimate | — | 2차 | 궁극기 게이지 소모 |
+| 강력한 일격 | Final Strike | — | 2차 | 일반 공격 마지막 단 |
+| 처형 | Finisher | — | 2차 | 불균형 상태의 적에게 쓰는 일반 공격 |
+| 불균형 | Stagger | — | 2차 | |
+| 전기 부착 | Electric Infliction | — | 2차 | |
+| 감전 | Electrification | — | 2차 | 받는 아츠 피해 증가 |
+| 메인 컨트롤 오퍼레이터 | controlled operator | — | 미확인 | 직접 조작 중인 오퍼레이터 |
+| 프로토콜α · 돌파 | Protocol α: Breach | — | 2차 | 펠리카 기본 공격 |
+| 프로토콜ω · 뇌격 | Protocol ω: Strike | — | 2차 | 펠리카 배틀 스킬 |
+| 실시간 프로토콜 · 연쇄 섬광 | Instant Protocol: Chain | — | 2차 | 펠리카 연계 스킬 |
+| 프로토콜ε · 70.41κ | Protocol ε: 70.41K | — | 2차 | 펠리카 궁극기 |
+
 ## 히스토리
+
+- 2026-10-13: 전투·오퍼레이터 용어 추가 (나무위키 사본, 영어 공략 사이트).
 
 - 2026-10-12: 제강호 시설 표기 추가 (게임 화면 캡처, appmedia.jp).
 - 2026-10: 최초 작성. 공식 X 계정 소개문과 2차 위키를 근거로 정리. `미확인` 항목은 사람 확인 필요.
