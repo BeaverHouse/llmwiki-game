@@ -1,5 +1,7 @@
 # Arknights: Endfield — 변경 기록 (append-only, 최신이 위)
 
+- 2026-10-14 | ai | operators/liino.md·operators/antal.md·operators/avywenna.md 신규, guides/operators.md·operators/perlica.md·operators/zhuang_fangyi.md·operators/arclight.md·glossary.md·index.md 수정 | 리노·안탈·아비웨나 문서 작성 (ai-draft), 개요 명단에 사·명하 미출시 표시와 새 문서 연결, 기존 전기 오퍼레이터 문서에서 상호 링크, 이름·스킬명·소속 표기 등록, index 등록 | 근거: user-feedback (Slack, 사·명하 미출시 확인과 순서 일임), 나무위키 「리노(명일방주: 엔드필드)」「안탈」「아비웨나」
+
 - 2026-10-14 | ai | guides/operators.md·operators/zhuang_fangyi.md·operators/arclight.md 신규, operators/perlica.md·glossary.md·index.md 수정 | 오퍼레이터 개요(능력치·직군·전체 명단)와 장방이·아크라이트 문서 작성 (ai-draft), 펠리카 문서에서 상호 링크, 속성·무기·직군·능력치 용어와 두 오퍼레이터 스킬명 등록, index 등록 | 근거: user-feedback (Slack, 오퍼레이터 정보를 나눠서 등록하라는 요청), 나무위키 「명일방주: 엔드필드/오퍼레이터」「장방이」「아크라이트(명일방주: 엔드필드)」, genshin-builds, prydwen
 
 - 2026-10-13 | ai | operators/perlica.md 수정 | 스킬 수치를 9레벨·M1·M2·M3 표로 정리, 9레벨 미만 수치와 궁극기 레벨 5 미확인 메모 삭제 | 근거: user-feedback (Slack, 9레벨~M3만 다루라는 안내), 나무위키 「펠리카」 스킬 표

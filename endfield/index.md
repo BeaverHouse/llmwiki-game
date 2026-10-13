@@ -15,3 +15,6 @@
 - [operators/perlica.md](operators/perlica.md) — 펠리카 (5성 전기 아츠 유닛 오퍼레이터. 프로필, 배경, 스킬·재능·잠재능력, 무기·장비·편성, 평가)
 - [operators/zhuang_fangyi.md](operators/zhuang_fangyi.md) — 장방이 (6성 한정 전기 아츠 유닛 스트라이커. 감전 소모로 청뢰검을 쌓는 변신형 딜러. 프로필, 배경, 스킬·재능·잠재능력, 무기·장비·궁극기 충전 기준·편성, 평가)
 - [operators/arclight.md](operators/arclight.md) — 아크라이트 (5성 전기 한손검 뱅가드. 쿨타임 3초 연계 스킬로 스킬 게이지 공급. 프로필, 배경, 스킬·재능·잠재능력, 무기·장비·편성, 평가)
+- [operators/liino.md](operators/liino.md) — 리노 (6성 한정 전기 장병기 서포터. 라이브 모드의 공격력·치유, 궁극기의 전기·자연 증폭. 프로필, 배경, 스킬·재능·잠재능력, 무기·장비·편성, 평가)
+- [operators/antal.md](operators/antal.md) — 안탈 (4성 전기 아츠 유닛 서포터. 60초 포커싱의 전기·열기 취약, 궁극기 증폭, 연계 스킬 아츠 부착. 프로필, 배경, 스킬·재능·잠재능력, 무기·장비·궁극기 충전 기준·편성, 평가)
+- [operators/avywenna.md](operators/avywenna.md) — 아비웨나 (5성 전기 장병기 스트라이커. 썬더랜스를 쌓았다가 배틀 스킬로 회수하는 딜러. 프로필, 배경, 스킬·재능·잠재능력, 무기·장비·편성, 평가)
