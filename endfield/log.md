@@ -1,5 +1,6 @@
 # Arknights: Endfield — 변경 기록 (append-only, 최신이 위)
 
+- 2026-10-13 | ai | operators/perlica.md 수정 | 스킬 수치를 9레벨·M1·M2·M3 표로 정리, 9레벨 미만 수치와 궁극기 레벨 5 미확인 메모 삭제 | 근거: user-feedback (Slack, 9레벨~M3만 다루라는 안내), 나무위키 「펠리카」 스킬 표
 - 2026-10-13 | ai | operators/perlica.md 신규, glossary.md·index.md·guides/setting_basics.md 수정 | 펠리카 오퍼레이터 문서 작성 (ai-draft), 전투 용어·스킬명 표기 등록, index 등록, 기본 설정에서 링크 | 근거: user-feedback (Slack, 무기 아츠 유닛 정정과 나무위키 사본), icy-veins, prydwen
 
 - 2026-10-12 | ai | guides/dijiang.md 신규, glossary.md·index.md·guides/setting_basics.md 수정 | 제강호 설정과 시설 기능 정리 (ai-draft), 시설 표기 등록, index 등록, 기본 설정에서 링크 | 근거: user-feedback (Slack, 게임 화면 캡처), endfield.wiki.gg, appmedia.jp
