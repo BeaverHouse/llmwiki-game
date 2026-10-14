@@ -64,9 +64,9 @@ updated: 2026-10-15
 | 진천우 | 물리 | 한손검 | 가드 | [operators/chen_qianyu.md](../operators/chen_qianyu.md) |
 | 판 | 물리 | 양손검 | 스트라이커 | |
 | 여풍 | 물리 | 장병기 | 가드 | |
-| 포그라니치니크 | 물리 | 한손검 | 뱅가드 | |
-| 로시 | 물리 | 한손검 | 가드 | |
-| 미브 | 물리 | 양손검 | 가드 | |
+| 포그라니치니크 | 물리 | 한손검 | 뱅가드 | [operators/pogranichnik.md](../operators/pogranichnik.md) |
+| 로시 | 물리 | 한손검 | 가드 | [operators/rossi.md](../operators/rossi.md) |
+| 미브 | 물리 | 양손검 | 가드 | [operators/mi_fu.md](../operators/mi_fu.md) |
 | 푸치나 | 물리 | 한손검 | 디펜더 | |
 | 에스텔라 | 냉기 | 장병기 | 가드 | [operators/estella.md](../operators/estella.md) |
 | 자이히 | 냉기 | 아츠 유닛 | 서포터 | [operators/xaihi.md](../operators/xaihi.md) |
