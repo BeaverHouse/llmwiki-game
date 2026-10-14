@@ -1,5 +1,7 @@
 # Arknights: Endfield — 변경 기록 (append-only, 최신이 위)
 
+- 2026-10-14 | ai | guides/reconvener.md 신규, operators/laevatain.md·guides/setting_basics.md·glossary.md·index.md 수정 | 리컨비너 설정 문서 작성 (ai-draft), 레바테인의 리컨비너 설명을 '기억 원형' 기준으로 고치고 미확인 항목 삭제, 기본 설정에 안내 문단·링크 추가, 관련 용어 등록, index 등록 | 근거: user-feedback (Slack, 공식 인사 기록 '리컨비너' 한국어 전문), endfield.wiki.gg Nexus Files: Reconveners (영어 텍스트 대조)
+
 - 2026-10-14 | ai | operators/laevatain.md·operators/wulfgard.md·operators/akekuri.md 신규, guides/operators.md·operators/antal.md·operators/avywenna.md·operators/arclight.md·operators/zhuang_fangyi.md·glossary.md·index.md 수정 | 열기 파티 레바테인·울프가드·아케쿠리 문서 작성 (ai-draft), 개요 명단 연결, 기존 문서에서 상호 링크, 이름·스킬명·소속 표기 등록, index 등록 | 근거: user-feedback (Slack, 계속 진행 요청), 나무위키 「레바테인(명일방주: 엔드필드)」「울프가드」「아케쿠리」
 
 - 2026-10-14 | ai | operators/liino.md·operators/antal.md·operators/avywenna.md 신규, guides/operators.md·operators/perlica.md·operators/zhuang_fangyi.md·operators/arclight.md·glossary.md·index.md 수정 | 리노·안탈·아비웨나 문서 작성 (ai-draft), 개요 명단에 사·명하 미출시 표시와 새 문서 연결, 기존 전기 오퍼레이터 문서에서 상호 링크, 이름·스킬명·소속 표기 등록, index 등록 | 근거: user-feedback (Slack, 사·명하 미출시 확인과 순서 일임), 나무위키 「리노(명일방주: 엔드필드)」「안탈」「아비웨나」
