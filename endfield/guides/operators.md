@@ -78,11 +78,11 @@ updated: 2026-10-14
 | 사 | 냉기 | 양손검 | 서포터 | 미출시 (2026-10-14 기준) |
 | 아케쿠리 | 열기 | 한손검 | 뱅가드 | [operators/akekuri.md](../operators/akekuri.md) |
 | 울프가드 | 열기 | 권총 | 캐스터 | [operators/wulfgard.md](../operators/wulfgard.md) |
-| 엠버 | 열기 | 양손검 | 디펜더 | |
+| 엠버 | 열기 | 양손검 | 디펜더 | [operators/ember.md](../operators/ember.md) |
 | 레바테인 | 열기 | 한손검 | 스트라이커 | [operators/laevatain.md](../operators/laevatain.md) |
-| 카뮤 | 열기 | 장병기 | 뱅가드 | |
+| 카뮤 | 열기 | 장병기 | 뱅가드 | [operators/camille.md](../operators/camille.md) |
 | 플루라이트 | 자연 | 권총 | 캐스터 | |
-| 아델리아 | 자연 | 아츠 유닛 | 서포터 | |
+| 아델리아 | 자연 | 아츠 유닛 | 서포터 | [operators/ardelia.md](../operators/ardelia.md) |
 | 질베르타 | 자연 | 아츠 유닛 | 서포터 | |
 | 결 | 자연 | 아츠 유닛 | 캐스터 | |
 | 티프로스 | 자연 | 아츠 유닛 | 스트라이커 | |

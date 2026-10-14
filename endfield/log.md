@@ -1,5 +1,7 @@
 # Arknights: Endfield — 변경 기록 (append-only, 최신이 위)
 
+- 2026-10-14 | ai | operators/camille.md·operators/ember.md·operators/ardelia.md 신규, guides/operators.md·guides/reconvener.md·operators/laevatain.md·operators/wulfgard.md·operators/akekuri.md·operators/antal.md·operators/zhuang_fangyi.md·operators/perlica.md·glossary.md·index.md 수정 | 카뮤·엠버·아델리아 문서 작성 (ai-draft), 개요 명단 연결, 리컨비너 표에 아델리아 추가(나무위키 기준), 기존 문서에서 상호 링크, 이름·스킬명·소속 표기 등록, index 등록 | 근거: user-feedback (Slack, 다음 묶음 진행 요청), 나무위키 「카뮤(명일방주: 엔드필드)」「엠버(명일방주: 엔드필드)」「아델리아」
+
 - 2026-10-14 | ai | guides/reconvener.md 수정 | 상태를 ai-draft에서 human-verified로 변경 | 근거: user-feedback (Slack, Austin이 리컨비너 문서 내용 확인)
 
 - 2026-10-14 | ai | guides/reconvener.md 신규, operators/laevatain.md·guides/setting_basics.md·glossary.md·index.md 수정 | 리컨비너 설정 문서 작성 (ai-draft), 레바테인의 리컨비너 설명을 '기억 원형' 기준으로 고치고 미확인 항목 삭제, 기본 설정에 안내 문단·링크 추가, 관련 용어 등록, index 등록 | 근거: user-feedback (Slack, 공식 인사 기록 '리컨비너' 한국어 전문), endfield.wiki.gg Nexus Files: Reconveners (영어 텍스트 대조)
