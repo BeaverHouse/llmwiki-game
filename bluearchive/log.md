@@ -1,5 +1,7 @@
 # Blue Archive — 변경 기록 (append-only, 최신이 위)
 
+- 2026-10-15 | ai | notes/3s37_shiro_kuro_meta.md 보강 | 특수장갑 2파티 담당(1파티 시로·2파티 쿠로)과 쿠로 담당 파티의 코스트 회복·버프 구성 추가 | 근거: user-feedback(시로쿠로 2파티 분담 관행), 체리노·히마리·아코 학생 스킬, raids/shiro_kuro.md 체력
+
 - 2026-10-14 | ai | notes/3s37_shiro_kuro_meta.md 신설, index.md·raids/shiro_kuro.md 링크 추가 | S37 시가지 시로쿠로 3장갑 리포트: 경장갑 이로하(수영복)·아루 동료 가방과 최상위 무회피 처치, 특수장갑 아리스(무장) 이중 출전 2파티, 탄력장갑 인세인 미카(수영복) 연사 편성, 세 장갑 공통 코코로 정리 | 근거: 사이트 3S37-1·3S37-3·3S37-4 summary·party 조회, 학생 스킬·누적 분석, 고점 영상 4건, user-feedback(경장갑 최상위 영상 확인)
 
 - 2026-10-13 | ai | notes/s90_gregorius_meta.md 보강 | "미네·미나가 없을 때" 섹션 추가: 둘 다 없으면 루나틱 기록 0건, 미나 없으면 미네 2파티, 미네 없으면 미나 1파티 | 근거: user-feedback + S90 미네·미나 제외 파티 조회
