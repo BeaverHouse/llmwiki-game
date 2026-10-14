@@ -83,9 +83,9 @@ updated: 2026-10-14
 | 카뮤 | 열기 | 장병기 | 뱅가드 | [operators/camille.md](../operators/camille.md) |
 | 플루라이트 | 자연 | 권총 | 캐스터 | |
 | 아델리아 | 자연 | 아츠 유닛 | 서포터 | [operators/ardelia.md](../operators/ardelia.md) |
-| 질베르타 | 자연 | 아츠 유닛 | 서포터 | |
-| 결 | 자연 | 아츠 유닛 | 캐스터 | |
-| 티프로스 | 자연 | 아츠 유닛 | 스트라이커 | |
+| 질베르타 | 자연 | 아츠 유닛 | 서포터 | [operators/gilberta.md](../operators/gilberta.md) |
+| 결 | 자연 | 아츠 유닛 | 캐스터 | [operators/arcane.md](../operators/arcane.md) |
+| 티프로스 | 자연 | 아츠 유닛 | 스트라이커 | [operators/typhoeus.md](../operators/typhoeus.md) |
 | 안탈 | 전기 | 아츠 유닛 | 서포터 | [operators/antal.md](../operators/antal.md) |
 | 펠리카 | 전기 | 아츠 유닛 | 캐스터 | [operators/perlica.md](../operators/perlica.md) |
 | 아비웨나 | 전기 | 장병기 | 스트라이커 | [operators/avywenna.md](../operators/avywenna.md) |

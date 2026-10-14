@@ -1,5 +1,7 @@
 # Arknights: Endfield — 변경 기록 (append-only, 최신이 위)
 
+- 2026-10-14 | ai | operators/gilberta.md·operators/arcane.md·operators/typhoeus.md 신규, guides/operators.md·guides/reconvener.md·operators/perlica.md·operators/zhuang_fangyi.md·operators/arclight.md·operators/liino.md·operators/antal.md·operators/avywenna.md·operators/laevatain.md·operators/wulfgard.md·operators/camille.md·operators/ember.md·operators/ardelia.md·glossary.md·index.md 수정 | 자연 오퍼레이터 질베르타·결·티프로스 문서 작성 (ai-draft), 개요 명단 연결, 리컨비너 표에 질베르타·티프로스 추가(나무위키 기준), 기존 문서에서 상호 링크, 이름·스킬명·소속 표기 등록, index 등록 | 근거: user-feedback (Slack, 다음 묶음 진행 요청), 나무위키 「질베르타」「결(명일방주: 엔드필드)」「티프로스」
+
 - 2026-10-14 | ai | operators/camille.md·operators/ember.md·operators/ardelia.md 신규, guides/operators.md·guides/reconvener.md·operators/laevatain.md·operators/wulfgard.md·operators/akekuri.md·operators/antal.md·operators/zhuang_fangyi.md·operators/perlica.md·glossary.md·index.md 수정 | 카뮤·엠버·아델리아 문서 작성 (ai-draft), 개요 명단 연결, 리컨비너 표에 아델리아 추가(나무위키 기준), 기존 문서에서 상호 링크, 이름·스킬명·소속 표기 등록, index 등록 | 근거: user-feedback (Slack, 다음 묶음 진행 요청), 나무위키 「카뮤(명일방주: 엔드필드)」「엠버(명일방주: 엔드필드)」「아델리아」
 
 - 2026-10-14 | ai | guides/reconvener.md 수정 | 상태를 ai-draft에서 human-verified로 변경 | 근거: user-feedback (Slack, Austin이 리컨비너 문서 내용 확인)
