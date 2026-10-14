@@ -70,11 +70,11 @@ updated: 2026-10-14
 | 푸치나 | 물리 | 한손검 | 디펜더 | |
 | 에스텔라 | 냉기 | 장병기 | 가드 | |
 | 자이히 | 냉기 | 아츠 유닛 | 서포터 | [operators/xaihi.md](../operators/xaihi.md) |
-| 알레쉬 | 냉기 | 한손검 | 뱅가드 | |
-| 스노우샤인 | 냉기 | 양손검 | 디펜더 | |
+| 알레쉬 | 냉기 | 한손검 | 뱅가드 | [operators/alesh.md](../operators/alesh.md) |
+| 스노우샤인 | 냉기 | 양손검 | 디펜더 | [operators/snowshine.md](../operators/snowshine.md) |
 | 라스트 라이트 | 냉기 | 양손검 | 스트라이커 | [operators/last_rite.md](../operators/last_rite.md) |
 | 이본 | 냉기 | 권총 | 스트라이커 | [operators/yvonne.md](../operators/yvonne.md) |
-| 탕탕 | 냉기 | 권총 | 캐스터 | |
+| 탕탕 | 냉기 | 권총 | 캐스터 | [operators/tangtang.md](../operators/tangtang.md) |
 | 사 | 냉기 | 양손검 | 서포터 | 미출시 (2026-10-14 기준) |
 | 아케쿠리 | 열기 | 한손검 | 뱅가드 | [operators/akekuri.md](../operators/akekuri.md) |
 | 울프가드 | 열기 | 권총 | 캐스터 | [operators/wulfgard.md](../operators/wulfgard.md) |
