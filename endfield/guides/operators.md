@@ -6,7 +6,7 @@ aliases: [오퍼레이터, 오퍼레이터 목록, 캐릭터 목록, 직군, 속
 sources:
   - https://namu.wiki/w/명일방주:%20엔드필드/오퍼레이터 (2026-09-02 수정본, CC BY-NC-SA 2.0 KR)
 created: 2026-10-14
-updated: 2026-10-14
+updated: 2026-10-15
 ---
 
 # 오퍼레이터 개요
@@ -61,14 +61,14 @@ updated: 2026-10-14
 |---|---|---|---|---|
 | 관리자 | 물리 | 한손검 | 가드 | [기본 설정](setting_basics.md) |
 | 카치르 | 물리 | 양손검 | 디펜더 | |
-| 진천우 | 물리 | 한손검 | 가드 | |
+| 진천우 | 물리 | 한손검 | 가드 | [operators/chen_qianyu.md](../operators/chen_qianyu.md) |
 | 판 | 물리 | 양손검 | 스트라이커 | |
 | 여풍 | 물리 | 장병기 | 가드 | |
 | 포그라니치니크 | 물리 | 한손검 | 뱅가드 | |
 | 로시 | 물리 | 한손검 | 가드 | |
 | 미브 | 물리 | 양손검 | 가드 | |
 | 푸치나 | 물리 | 한손검 | 디펜더 | |
-| 에스텔라 | 냉기 | 장병기 | 가드 | |
+| 에스텔라 | 냉기 | 장병기 | 가드 | [operators/estella.md](../operators/estella.md) |
 | 자이히 | 냉기 | 아츠 유닛 | 서포터 | [operators/xaihi.md](../operators/xaihi.md) |
 | 알레쉬 | 냉기 | 한손검 | 뱅가드 | [operators/alesh.md](../operators/alesh.md) |
 | 스노우샤인 | 냉기 | 양손검 | 디펜더 | [operators/snowshine.md](../operators/snowshine.md) |
@@ -81,7 +81,7 @@ updated: 2026-10-14
 | 엠버 | 열기 | 양손검 | 디펜더 | [operators/ember.md](../operators/ember.md) |
 | 레바테인 | 열기 | 한손검 | 스트라이커 | [operators/laevatain.md](../operators/laevatain.md) |
 | 카뮤 | 열기 | 장병기 | 뱅가드 | [operators/camille.md](../operators/camille.md) |
-| 플루라이트 | 자연 | 권총 | 캐스터 | |
+| 플루라이트 | 자연 | 권총 | 캐스터 | [operators/fluorite.md](../operators/fluorite.md) |
 | 아델리아 | 자연 | 아츠 유닛 | 서포터 | [operators/ardelia.md](../operators/ardelia.md) |
 | 질베르타 | 자연 | 아츠 유닛 | 서포터 | [operators/gilberta.md](../operators/gilberta.md) |
 | 결 | 자연 | 아츠 유닛 | 캐스터 | [operators/arcane.md](../operators/arcane.md) |
