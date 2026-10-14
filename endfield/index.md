@@ -8,6 +8,7 @@
 
 - [guides/setting_basics.md](guides/setting_basics.md) — 기본 설정 (탈로스2와 문명 밴드, 엔드필드 공업과 로도스 아일랜드의 관계, 관리자, 펠리카)
 - [guides/dijiang.md](guides/dijiang.md) — 제강호 (본부 함선의 설정, 핵심 제어 중추·응접실·제조실·재배실 기능)
+- [guides/reconvener.md](guides/reconvener.md) — 리컨비너 (최초의 오리지늄 속 정보 파편에서 나온 독립된 개인. 엔드필드에서의 신분, 기원과 와파린의 역할, 성질, 리컨비너인 오퍼레이터)
 - [guides/operators.md](guides/operators.md) — 오퍼레이터 개요 (등급, 능력치 효과, 직군 역할, 무기·장비, 전체 34명의 속성·무기·직군 명단)
 
 ## operators/

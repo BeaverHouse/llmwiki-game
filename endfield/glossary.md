@@ -25,6 +25,8 @@ sources:
   - https://namu.wiki/w/레바테인(명일방주:%20엔드필드)
   - https://namu.wiki/w/울프가드
   - https://namu.wiki/w/아케쿠리
+  - user-feedback: 엔드필드 공업 인사 기록 '리컨비너' 한국어 전문, 공식 설정 (Slack, 2026-10-14)
+  - https://endfield.wiki.gg/wiki/Nexus_Files:_Reconveners
 created: 2026-10-12
 updated: 2026-10-14
 ---
@@ -51,6 +53,26 @@ updated: 2026-10-14
 | 프로토콜 오리지늄 | Protocol-Originium | 協約源石 | 공식(ko) | ja 공식 소개문은 '協約技術'. '協約源石' 형태는 미확인 |
 | 오리지늄 | Originium | 源石 | 2차 | |
 | 문명 밴드 | Civilization Band | 文明地帯 | 공식 | ko/ja 표기는 Austin 확인 |
+
+## 리컨비너·최초의 오리지늄
+
+ko는 엔드필드 공업 인사 기록 '리컨비너' 한국어 전문(Austin 제공, 공식 설정), en은 같은 기록의 영어 텍스트(endfield.wiki.gg) 기준이다. ja는 확인하지 못했다.
+
+| 한국어 | English | 日本語 | 확인 | 메모 |
+|---|---|---|---|---|
+| 리컨비너 | Reconvener | — | 공식(ko) | 최초의 오리지늄 속 정보 파편이 현실로 나와 독립된 개인이 된 존재. [리컨비너](guides/reconvener.md) 참고 |
+| 기억 원형 | — | — | 공식(ko) | 리컨비너가 기억 일부를 지닌 테라의 인물. en 텍스트는 'original counterparts'로 풀어 씀 |
+| 최초의 오리지늄 | First Originium | — | 공식(ko) | 스타게이트로 탈로스2에 건너온 오리지늄 |
+| 스타게이트 | Cosmic Gate | — | 공식(ko) | 최초의 오리지늄과 개척자들이 탈로스2로 건너온 통로 |
+| 제1차 아겔로스 전쟁 | First Aggeloi War | — | 공식(ko) | 최초의 오리지늄이 오염된 전쟁 |
+| 융합 우주 | Assimilated Universe | — | 공식(ko) | 최초의 오리지늄 내부의 정보 공간 |
+| 정보 파편 | data shard | — | 공식(ko) | 융합 우주 속에 온전히 남은 정보 |
+| 오리지늄 숲 | Originium Woods | — | 공식(ko) | 리컨비너가 나오는 곳 |
+| 심도 | Depth | — | 공식(ko) | 정보 파편의 수치 |
+| 와파린 | Warfarin | ワルファリン | 공식(ko) | 당시 로도스 아일랜드의 지도자. 리컨비너를 데려옴. ja 미확인 |
+| M3 | M3 | M3 | 공식(ko) | 관리자와 함께 와파린의 연구를 묵인한 인물 |
+| 로도스 아일랜드 제약회사 | Rhodes Island Pharmaceuticals | — | 공식(ko) | 로도스 아일랜드의 정식 명칭 |
+| 엔드필드 공업과 로도스 아일랜드 제약회사 간 특수 기술직 협력에 관한 협약 | Framework Agreement on Special Technical Roles and Co-Operation Between Endfield Industries and Rhodes Island Pharmaceuticals | — | 공식(ko) | 리컨비너 오퍼레이터 파견의 근거 |
 
 ## 위협·현상
 
@@ -200,8 +222,7 @@ ko와 이름의 en·ja·zh는 나무위키 각 오퍼레이터 문서 기준이�
 | 한국어 | English | 日本語 | 확인 | 메모 |
 |---|---|---|---|---|
 | 레바테인 | Laevatain | レーヴァテイン | 2차 | zh 萊萬汀 |
-| 리컨비너 | — | — | 미확인 | 레바테인을 가리키는 말. 테라의 수르트를 원본으로 한다 |
-| 수르트 | Surtr | スルト | 미확인 | 레바테인의 원본이 되는 테라의 인물 |
+| 수르트 | Surtr | スルト | 미확인 | 레바테인의 기억 원형인 테라의 인물 |
 | 카즈델 | Kazdel | カズデル | 미확인 | 살카즈의 고향. en·ja는 출처 미확인 |
 | 프로토콜 공간 | — | — | 미확인 | 레바테인이 기억을 찾아 떠돈 공간 |
 | 재 | — | — | 미확인 | 레바테인 기본 공격 |
@@ -230,6 +251,7 @@ ko와 이름의 en·ja·zh는 나무위키 각 오퍼레이터 문서 기준이�
 
 ## 히스토리
 
+- 2026-10-14: 리컨비너·최초의 오리지늄 관련 표기 추가 (공식 인사 기록, Austin 제공. 영어는 endfield.wiki.gg). 리컨비너 행을 미확인에서 공식(ko)으로 옮김.
 - 2026-10-14: 레바테인·울프가드·아케쿠리 관련 표기 추가 (나무위키).
 - 2026-10-14: 리노·안탈·아비웨나 관련 표기 추가 (나무위키).
 - 2026-10-14: 속성·무기·직군·능력치 용어와 장방이·아크라이트 관련 표기 추가 (나무위키, 영어 공략 사이트).
