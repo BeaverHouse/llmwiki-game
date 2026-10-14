@@ -1,10 +1,11 @@
 ---
 title: 리컨비너 (Reconvener)
 type: guide
-status: ai-draft
+status: human-verified
 aliases: [리컨비너, Reconvener, Reconveners, 기억 원형, 정보 파편, 오리지늄 숲]
 sources:
   - user-feedback: 엔드필드 공업 인사 기록 '리컨비너' 전문 (열람 권한 8, 파일 분류 302) 한국어 텍스트, 공식 설정으로 제공 (Slack, 2026-10-14)
+  - user-feedback: 작성된 문서 내용 확인 (Slack, 2026-10-14)
   - https://endfield.wiki.gg/wiki/Nexus_Files:_Reconveners (같은 기록의 영어 텍스트, 2026-09-03 수정본)
 created: 2026-10-14
 updated: 2026-10-14
@@ -51,4 +52,5 @@ updated: 2026-10-14
 
 ## 히스토리
 
+- 2026-10-14: Austin이 내용을 확인해 human-verified로 변경.
 - 2026-10-14: 최초 작성. 엔드필드 공업 인사 기록 한국어 전문(Austin 제공)을 기준으로, 같은 기록의 영어 텍스트와 대조함.
