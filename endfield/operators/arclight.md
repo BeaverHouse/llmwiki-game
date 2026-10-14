@@ -111,7 +111,7 @@ updated: 2026-10-14
 
 ### 추천 편성
 
-- 장방이 전기 파티: 아크라이트, [장방이](zhuang_fangyi.md), [펠리카](perlica.md), [결](arcane.md). 결 자리는 [리노](liino.md), 아델리아, [안탈](antal.md), 알레쉬로 바꿀 수 있다.
+- 장방이 전기 파티: 아크라이트, [장방이](zhuang_fangyi.md), [펠리카](perlica.md), [결](arcane.md). 결 자리는 [리노](liino.md), 아델리아, [안탈](antal.md), [알레쉬](alesh.md)로 바꿀 수 있다.
 - 아비웨나 전기 파티: 아크라이트, [아비웨나](avywenna.md), 펠리카, [질베르타](gilberta.md). 질베르타 자리는 결, 안탈, 리노, [아케쿠리](akekuri.md)로 바꿀 수 있다.
 
 ## 평가

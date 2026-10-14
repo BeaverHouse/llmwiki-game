@@ -9,6 +9,7 @@ sources:
   - https://namu.wiki/w/아델리아 (아델리아의 기억 원형, 2026-10-03 수정본)
   - https://namu.wiki/w/질베르타 (질베르타의 기억 원형, 2026-09-25 수정본)
   - https://namu.wiki/w/티프로스 (티프로스의 기억 원형과 인사 기록, 2026-10-10 수정본)
+  - https://namu.wiki/w/스노우샤인 (스노우샤인의 기억 원형, 2026-09-29 수정본)
   - https://endfield.wiki.gg/wiki/Nexus_Files:_Reconveners (같은 기록의 영어 텍스트, 2026-09-03 수정본)
 created: 2026-10-14
 updated: 2026-10-14
@@ -52,12 +53,14 @@ updated: 2026-10-14
 | 레바테인 | 수르트 | [operators/laevatain.md](../operators/laevatain.md) |
 | 아델리아 | 에이야퍄들라 (나무위키 기준, 공식 기록 미확인) | [operators/ardelia.md](../operators/ardelia.md) |
 | 질베르타 | 안젤리나 (나무위키 기준, 공식 기록 미확인) | [operators/gilberta.md](../operators/gilberta.md) |
+| 스노우샤인 | 오로라 (나무위키 기준, 공식 기록 미확인) | [operators/snowshine.md](../operators/snowshine.md) |
 | 티프로스 | 티폰 (나무위키 기준, 공식 기록 미확인. 리컨비너라는 점은 인사 기록에 명시) | [operators/typhoeus.md](../operators/typhoeus.md) |
 
 위키에 문서가 있는 오퍼레이터만 적는다. 레바테인은 다른 리컨비너와 달리 어떤 기억이 자기 것인지 인지하지 못해 기억을 찾아 헤맨 사례다.
 
 ## 히스토리
 
+- 2026-10-14: 리컨비너 오퍼레이터 표에 스노우샤인 추가 (나무위키 기준, 이 행은 사람 확인 전).
 - 2026-10-14: 리컨비너 오퍼레이터 표에 질베르타·티프로스 추가 (나무위키 기준, 이 행들은 사람 확인 전).
 - 2026-10-14: 리컨비너 오퍼레이터 표에 아델리아 추가 (나무위키 기준, 이 행은 사람 확인 전).
 - 2026-10-14: Austin이 내용을 확인해 human-verified로 변경.
