@@ -60,14 +60,14 @@ updated: 2026-10-15
 | 오퍼레이터 | 속성 | 무기 | 직군 | 문서 |
 |---|---|---|---|---|
 | 관리자 | 물리 | 한손검 | 가드 | [기본 설정](setting_basics.md) |
-| 카치르 | 물리 | 양손검 | 디펜더 | |
+| 카치르 | 물리 | 양손검 | 디펜더 | [operators/catcher.md](../operators/catcher.md) |
 | 진천우 | 물리 | 한손검 | 가드 | [operators/chen_qianyu.md](../operators/chen_qianyu.md) |
-| 판 | 물리 | 양손검 | 스트라이커 | |
-| 여풍 | 물리 | 장병기 | 가드 | |
+| 판 | 물리 | 양손검 | 스트라이커 | [operators/da_pan.md](../operators/da_pan.md) |
+| 여풍 | 물리 | 장병기 | 가드 | [operators/lifeng.md](../operators/lifeng.md) |
 | 포그라니치니크 | 물리 | 한손검 | 뱅가드 | [operators/pogranichnik.md](../operators/pogranichnik.md) |
 | 로시 | 물리 | 한손검 | 가드 | [operators/rossi.md](../operators/rossi.md) |
 | 미브 | 물리 | 양손검 | 가드 | [operators/mi_fu.md](../operators/mi_fu.md) |
-| 푸치나 | 물리 | 한손검 | 디펜더 | |
+| 푸치나 | 물리 | 한손검 | 디펜더 | [operators/purrchena.md](../operators/purrchena.md) |
 | 에스텔라 | 냉기 | 장병기 | 가드 | [operators/estella.md](../operators/estella.md) |
 | 자이히 | 냉기 | 아츠 유닛 | 서포터 | [operators/xaihi.md](../operators/xaihi.md) |
 | 알레쉬 | 냉기 | 한손검 | 뱅가드 | [operators/alesh.md](../operators/alesh.md) |
@@ -105,5 +105,6 @@ updated: 2026-10-15
 
 ## 히스토리
 
+- 2026-10-15: 카치르·판·여풍·푸치나 문서 연결. 관리자를 제외한 출시 오퍼레이터 문서가 모두 연결됨.
 - 2026-10-14: 사와 명하가 아직 출시되지 않았음을 표시 (Austin 확인). 리노·안탈·아비웨나 문서 연결.
 - 2026-10: 최초 작성. 나무위키 오퍼레이터 문서 2026-09-02 수정본 기준.
