@@ -5,7 +5,7 @@ status: seeded
 sources:
   - "seed: 내장 가이드에서 이전 (2026-07-06)"
 created: 2026-07-06
-updated: 2026-07-06
+updated: 2026-10-14
 ---
 
 # 시로 & 쿠로 (Shiro & Kuro)
@@ -70,3 +70,9 @@ API 매핑:
 - **속성에 맞는** 딜러
 - **환경 적성**이 좋은 딜러: 시가지 or 야외 or 실내
 - 공격력/치명/치명 데미지 등 공격 관련 버프 제공하는 학생
+
+## 시즌 리포트
+
+- [대결전 S27](../notes/3s27_shiro_kuro_meta.md)
+- [대결전 S30](../notes/3s30_shiro_kuro_meta.md)
+- [대결전 S37 (시가지)](../notes/3s37_shiro_kuro_meta.md)
