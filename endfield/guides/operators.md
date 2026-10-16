@@ -6,12 +6,12 @@ aliases: [오퍼레이터, 오퍼레이터 목록, 캐릭터 목록, 직군, 속
 sources:
   - https://namu.wiki/w/명일방주:%20엔드필드/오퍼레이터 (2026-09-02 수정본, CC BY-NC-SA 2.0 KR)
 created: 2026-10-14
-updated: 2026-10-15
+updated: 2026-10-17
 ---
 
 # 오퍼레이터 개요
 
-오퍼레이터의 등급, 능력치, 직군을 정리하고 전체 명단을 속성·무기·직군으로 나눈다. 개별 오퍼레이터의 스킬과 운용은 operators/ 아래 문서에서 다룬다. 고유명사 표기는 [glossary.md](../glossary.md)를 따른다.
+오퍼레이터의 등급, 능력치, 직군을 정리하고 전체 명단을 속성·무기·직군으로 나눈다. 개별 오퍼레이터의 스킬과 운용은 operators/ 아래 문서에서 다루고, 스킬 게이지·연계 스킬·궁극기와 아츠·물리 이상의 공통 규칙은 [전투 기본](combat.md), [아츠 부착과 아츠 이상](arts_reactions.md), [물리 이상](physical_anomalies.md)에서 다룬다. 고유명사 표기는 [glossary.md](../glossary.md)를 따른다.
 
 ## 등급
 
@@ -59,7 +59,7 @@ updated: 2026-10-15
 
 | 오퍼레이터 | 속성 | 무기 | 직군 | 문서 |
 |---|---|---|---|---|
-| 관리자 | 물리 | 한손검 | 가드 | [기본 설정](setting_basics.md) |
+| 관리자 | 물리 | 한손검 | 가드 | [operators/endministrator.md](../operators/endministrator.md) |
 | 카치르 | 물리 | 양손검 | 디펜더 | [operators/catcher.md](../operators/catcher.md) |
 | 진천우 | 물리 | 한손검 | 가드 | [operators/chen_qianyu.md](../operators/chen_qianyu.md) |
 | 판 | 물리 | 양손검 | 스트라이커 | [operators/da_pan.md](../operators/da_pan.md) |
@@ -105,6 +105,7 @@ updated: 2026-10-15
 
 ## 히스토리
 
+- 2026-10-17: 관리자 문서 연결. 출시 오퍼레이터 문서가 모두 연결됨.
 - 2026-10-15: 카치르·판·여풍·푸치나 문서 연결. 관리자를 제외한 출시 오퍼레이터 문서가 모두 연결됨.
 - 2026-10-14: 사와 명하가 아직 출시되지 않았음을 표시 (Austin 확인). 리노·안탈·아비웨나 문서 연결.
 - 2026-10: 최초 작성. 나무위키 오퍼레이터 문서 2026-09-02 수정본 기준.
