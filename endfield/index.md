@@ -10,6 +10,15 @@
 - [guides/dijiang.md](guides/dijiang.md) — 제강호 (본부 함선의 설정, 핵심 제어 중추·응접실·제조실·재배실 기능)
 - [guides/reconvener.md](guides/reconvener.md) — 리컨비너 (최초의 오리지늄 속 정보 파편에서 나온 독립된 개인. 엔드필드에서의 신분, 기원과 와파린의 역할, 성질, 리컨비너인 오퍼레이터)
 - [guides/operators.md](guides/operators.md) — 오퍼레이터 개요 (등급, 능력치 효과, 직군 역할, 무기·장비, 전체 34명의 속성·무기·직군 명단)
+- [guides/combat_basics.md](guides/combat_basics.md) — 전투 기본 체계 (파티와 교대, 강력한 일격·처형·극한 회피, 공유 스킬 게이지, 연계 스킬 규칙, 궁극기 에너지 획득, 불균형, 증폭·취약·허약·비호 분류와 피해 계산, 사이클 설명 용어)
+- [guides/status_anomalies.md](guides/status_anomalies.md) — 아츠 이상과 물리 이상 (아츠 부착·아츠 폭발, 연소·감전·동결·부식·쇄빙 수치, 강제 이상, 방어 불능과 띄우기·넘어뜨리기·강타·갑옷 파괴)
+- [guides/valley_iv.md](guides/valley_iv.md) — 4번 협곡 (연맹 공단의 개척지, 별체 사건, 세력과 하위 지역, 메인 스토리 1장 줄거리와 무릉으로의 연결)
+- [guides/wuling.md](guides/wuling.md) — 무릉 (무릉 대균열과 침식 조류, 홍산 과학원·응룡 특수부대·무릉성·청파채, 탈로스력 연표, 하위 지역, 메인 스토리 2장 줄거리)
+
+## parties/
+
+- [parties/electric.md](parties/electric.md) — 전기 파티 (감전의 공급과 소모, 자리별 역할, 장방이 사이클과 아비웨나 사이클, 새 오퍼레이터 배치 기준)
+- [parties/physical.md](parties/physical.md) — 물리 파티 (방어 불능 쌓기와 갑옷 파괴·강타 소모, 포그라니치니크의 게이지 공급, 기본 사이클, 디펜더·쇄빙·하이브리드 변형, 새 오퍼레이터 배치 기준)
 
 ## operators/
 
