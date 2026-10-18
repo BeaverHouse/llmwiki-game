@@ -7,8 +7,10 @@ sources:
   - "https://schaledb.com/data/jp/raids.json"
   - "https://forum.nexon.com/bluearchive/board_view?board=1071&thread=2719465"
   - "https://appmedia.jp/blue_archive/78805118"
+  - "https://namu.wiki/w/미래시"
+  - "batorment 학생 데이터: 전용 무기 항목의 '전무 3성' 표기, 파티 기록의 성급·전용무기 단계 필드 (2026-10-18)"
 created: 2026-07-06
-updated: 2026-09-07
+updated: 2026-10-18
 ---
 
 # 용어집 (Glossary)
@@ -78,3 +80,5 @@ updated: 2026-09-07
 | -------- | --------------------------------------------------------------------------------------- | ---------------------------------------- |
 | 빛만튀   | 빛나는 페로로 1-2마리만 공격해 데미지를 주고 퇴각하는 전략                              | [perorodzilla.md](raids/perorodzilla.md) |
 | 민초택틱 | 무적 자리 탱커 + 아이리 EX로 쿠로에게 이속 감소를 계속 부여해 자해 데미지를 입히는 전략 | [shiro_kuro.md](raids/shiro_kuro.md)     |
+| 미래시   | 먼저 서비스한 서버(블루 아카이브는 일본 서버)의 업데이트·시즌 기록으로 다른 서버의 앞날을 미리 보는 것. "미래시의 ○○ 총력전" = 일본 서버에서 이미 열린 시즌 | [beginner.md](guides/beginner.md) |
+| 전N (전무 N성) | 전용무기(고유무기) N성. 예: "노조미 전3" = 노조미 전용무기 3성. 학생 5성 이후 단계이며, "N성"만 쓰면 학생 성급. 파티 수(N파티)와 구분 | [beginner.md](guides/beginner.md) |
