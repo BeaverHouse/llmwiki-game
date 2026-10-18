@@ -14,12 +14,12 @@ sources:
   - https://endfield.wiki.gg/wiki/Electrification
   - https://endfield.wiki.gg/wiki/Ultimate_Energy
 created: 2026-10-18
-updated: 2026-10-18
+updated: 2026-10-19
 ---
 
 # 전기 파티
 
-전기 부착과 감전을 중심으로 돌아가는 파티의 원리와 사이클을 정리한다. 메인 딜러에 따라 감전을 소모하는 [장방이](../operators/zhuang_fangyi.md) 사이클과, 전기 부착·감전을 연계 스킬 조건으로만 쓰는 [아비웨나](../operators/avywenna.md) 사이클로 나뉜다. 용어는 [전투 기본 체계](../guides/combat_basics.md)와 [아츠 이상과 물리 이상](../guides/status_anomalies.md)을 따른다. 고유명사 표기는 [glossary.md](../glossary.md)를 따른다.
+전기 부착과 감전을 중심으로 돌아가는 파티의 원리와 사이클을 정리한다. 메인 딜러에 따라 감전을 소모하는 [장방이](../operators/zhuang_fangyi.md) 사이클과, 전기 부착·감전을 연계 스킬 조건으로만 쓰는 [아비웨나](../operators/avywenna.md) 사이클로 나뉜다. 용어는 [전투 기본 체계](../guides/combat_basics.md)와 [아츠 이상과 물리 이상](../guides/status_anomalies.md)을 따른다. 고유명사 표기는 [glossary.md](../glossary.md)를 따른다. 펠리카가 감전을 공급하는 다른 편성은 [로시 하이브리드 파티](rossi_hybrid.md)와 [냉기 파티](cryo.md)에서, 리노·아델리아·질베르타가 중심이 되는 자연 쪽 사이클은 [자연 파티](nature.md)에서 다룬다.
 
 ## 바탕이 되는 원리
 
@@ -93,4 +93,5 @@ updated: 2026-10-18
 
 ## 히스토리
 
+- 2026-10-19: 로시 하이브리드·냉기·자연 파티 문서로 링크.
 - 2026-10-18: 최초 작성. 1.3 버전 시점의 나무위키 오퍼레이터 문서와 「명일방주: 엔드필드/전투」 기준. 장방이(1.2 버전 출시) 이전에는 아비웨나가 전기 파티의 메인 딜러였다(펠리카 문서 히스토리).

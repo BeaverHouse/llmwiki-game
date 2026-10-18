@@ -1,5 +1,7 @@
 # Arknights: Endfield — 변경 기록 (append-only, 최신이 위)
 
+- 2026-10-19 | ai | parties/heat.md·parties/cryo.md·parties/nature.md·parties/rossi_hybrid.md 신규, operators/*.md 31개·parties/electric.md·parties/physical.md·glossary.md·index.md·backlog.md 수정 | 열기·냉기·자연·로시 하이브리드 파티 문서 작성 (ai-draft), 모든 오퍼레이터 문서에 사이클 역할 절 추가, 평가 절을 특징 절로 바꾸고 오퍼레이터 간 서열 표현 삭제(날짜 있는 히스토리 사건은 유지), 파티 문서 상호 링크, 강제 이상·속성 폭발·취약·증폭 용어와 편성 통칭 등록, index 등록, backlog 갱신 | 근거: 정기 성장 작업, 운영 원칙(서열 판단 제외), 나무위키 「명일방주: 엔드필드/전투」와 각 오퍼레이터 문서, endfield.wiki.gg
+
 - 2026-10-18 | ai | guides/combat_basics.md·guides/status_anomalies.md·guides/valley_iv.md·guides/wuling.md·parties/electric.md·parties/physical.md·backlog.md 신규, guides/setting_basics.md·guides/operators.md·glossary.md·index.md 수정 | 전투 기본 체계, 아츠·물리 이상, 4번 협곡, 무릉, 전기 파티, 물리 파티 문서 작성 (ai-draft), backlog 생성, 기본 설정·개요에서 링크, 전투·지역·스토리 용어 등록, index 등록 | 근거: 정기 성장 작업, 나무위키 「명일방주: 엔드필드/전투」「/지역」「/스토리」「/등장인물 및 세력」, endfield.wiki.gg, 기존 오퍼레이터 문서
 
 - 2026-10-15 | ai | operators/catcher.md·operators/da_pan.md·operators/lifeng.md·operators/purrchena.md 신규, guides/operators.md·operators/akekuri.md·operators/chen_qianyu.md·operators/ember.md·operators/estella.md·operators/mi_fu.md·operators/pogranichnik.md·operators/rossi.md·operators/typhoeus.md·glossary.md·index.md 수정 | 물리 오퍼레이터 카치르·판·여풍·푸치나 문서 작성 (ai-draft), 개요 명단 연결, 기존 문서에서 상호 링크, 이름·스킬명·소속·전투 용어 표기 등록, index 등록 | 근거: user-feedback (Slack, 남은 출시 오퍼레이터 진행 요청), 나무위키 「카치르」「판(명일방주: 엔드필드)」「여풍」「푸치나」
