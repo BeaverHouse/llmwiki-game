@@ -1,5 +1,6 @@
 # Arknights: Endfield — 변경 기록 (append-only, 최신이 위)
 
+- 2026-10-19 | human | guides/status_anomalies.md·guides/arts_reactions.md·parties/rossi_hybrid.md·backlog.md 수정 | 강제 아츠 이상은 적에게 쌓인 부착을 소모하지 않음을 확정(펠리카 강제 감전으로 확인), 아델리아 강제 부식은 같을 것으로 보되 미확인으로 남김 | 근거: Austin 확인 (2026-10-19)
 - 2026-10-19 | human | guides/combat_basics.md·guides/combat.md·parties/electric.md·operators/perlica.md·operators/zhuang_fangyi.md·backlog.md 수정 | 전기 부착 상태의 적에게 강력한 일격이 맞으면 펠리카·장방이 연계 스킬이 모두 발동함을 확정, 연계 스킬 발동 순서는 기본 슬롯 순서이되 1.6 버전부터 플레이어가 직접 조정할 수 있음을 기록, 답을 받은 질문 삭제 | 근거: Austin 확인 (2026-10-19)
 - 2026-10-19 | human | guides/status_anomalies.md·guides/arts_reactions.md·guides/combat_basics.md·guides/combat.md·guides/operators.md·backlog.md 수정 | 동결은 지속 6/7/8/9초만 적고 피해 배율은 적지 않음, 허약은 걸린 적이 아군에게 주는 피해 감소로 확정, 사·명하 출시 표시, 두 오퍼레이터 문서를 대기 목록 맨 위로, 답을 받은 질문 세 개 삭제 | 근거: Austin 확인 (2026-10-19)
 - 2026-10-19 | human | guides/combat.md·guides/arts_reactions.md·guides/physical_anomalies.md·operators/endministrator.md 신규, guides/operators.md·index.md 수정 | 같은 날 다른 PR의 첫 성장 실행이 쓴 전투 기본·아츠 이상·물리 이상·관리자 문서를 이 PR로 옮김 (ai-draft), 개요의 관리자 행 연결, index 등록 | 근거: PR #32 (2026-10-17 성장 실행), 나무위키 「명일방주: 엔드필드/전투」, endfield.wiki.gg, 관리자(명일방주: 엔드필드)

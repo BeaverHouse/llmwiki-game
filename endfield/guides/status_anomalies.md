@@ -40,7 +40,7 @@ updated: 2026-10-19
 부착이 있는 적에게 다른 속성 부착이 걸리면 아츠 이상이 일어나고, 쌓여 있던 부착은 모두 소모된다. 어떤 이상이 될지는 나중에 걸린 속성이 정한다. 예를 들어 냉기 부착 3스택이 있는 적에게 전기 부착을 걸면 감전이 된다.
 
 - 이상 레벨: 소모된 부착 스택 수가 이상의 레벨이 된다(I~IV). "이상 레벨 +1" 효과는 스택 수를 하나 더 센 것으로 치며, IV를 넘지 않는다. 오퍼레이터 문서의 '감전 II'는 레벨 2 감전이다.
-- 강제 이상: 강제 연소·강제 감전·강제 동결·강제 부식은 부착 없이 이상의 부가 효과만 레벨 I로 건다. [펠리카](../operators/perlica.md)·[아크라이트](../operators/arclight.md)·[장방이](../operators/zhuang_fangyi.md)·[리노](../operators/liino.md)의 강제 감전, [레바테인](../operators/laevatain.md)·[울프가드](../operators/wulfgard.md)의 강제 연소, [이본](../operators/yvonne.md)·[알레쉬](../operators/alesh.md)의 강제 동결, [결](../operators/arcane.md)의 강제 부식이 있다.
+- 강제 이상: 강제 연소·강제 감전·강제 동결·강제 부식은 부착 없이 이상의 부가 효과만 레벨 I로 건다. 적에게 쌓여 있던 아츠 부착은 소모하지 않는다 (펠리카의 강제 감전으로 Austin 확인, 2026-10-19). 스킬 설명이 따로 부착을 소모한다고 적은 경우(알레쉬·이본·장방이)만 예외다. [펠리카](../operators/perlica.md)·[아크라이트](../operators/arclight.md)·[장방이](../operators/zhuang_fangyi.md)·[리노](../operators/liino.md)의 강제 감전, [레바테인](../operators/laevatain.md)·[울프가드](../operators/wulfgard.md)의 강제 연소, [이본](../operators/yvonne.md)·[알레쉬](../operators/alesh.md)의 강제 동결, [결](../operators/arcane.md)의 강제 부식이 있다.
 - 갱신: 연소와 감전은 새로 걸리면 이전 것을 덮어쓰고 지속 시간이 다시 시작된다. 부식은 이미 깎인 저항이 유지되어, 레벨 IV 부식을 레벨 I 부식으로 갱신해도 IV의 최대 감소량이 남는다.
 
 | 이상 | 마지막에 걸린 속성 | 즉시 피해 (I/II/III/IV) | 부가 효과 (I/II/III/IV) |
