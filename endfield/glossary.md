@@ -49,8 +49,15 @@ sources:
   - https://namu.wiki/w/판(명일방주:%20엔드필드)
   - https://namu.wiki/w/여풍
   - https://namu.wiki/w/푸치나
+  - https://namu.wiki/w/명일방주:%20엔드필드/전투
+  - https://namu.wiki/w/명일방주:%20엔드필드/지역
+  - https://namu.wiki/w/명일방주:%20엔드필드/등장인물%20및%20세력
+  - https://endfield.wiki.gg/wiki/Valley_IV
+  - https://endfield.wiki.gg/wiki/Wuling
+  - https://appmedia.jp/?p=79683638
+  - https://appmedia.jp/?p=79690247
 created: 2026-10-12
-updated: 2026-10-15
+updated: 2026-10-18
 ---
 
 # 엔드필드 고유명사 표기 (ko/en/ja)
@@ -552,8 +559,141 @@ ko와 이름의 en·ja·zh는 나무위키 각 오퍼레이터 문서 기준이�
 | 검술사 | — | — | 미확인 | 장비 세트. 불균형 효율, 물리 이상 부여 시 추가 피해 |
 | 경량 초자연 | — | — | 미확인 | 장비 세트. 방어 불능 부여 시 물리 피해 증가 |
 
+### 전투 체계·아츠 이상·물리 이상
+
+ko는 나무위키 「명일방주: 엔드필드/전투」, en은 endfield.wiki.gg, ja는 공략 사이트 appmedia.jp 기준이다(ja는 공식 클라이언트로 확인하지 못함). [전투 기본 체계](guides/combat_basics.md), [아츠 이상과 물리 이상](guides/status_anomalies.md) 참고.
+
+| 한국어 | English | 日本語 | 확인 | 메모 |
+|---|---|---|---|---|
+| 스킬 게이지 | Skill Points (SP) | — | 2차 | 파티 공유. 최대 300 |
+| 궁극기 에너지 | Ultimate Energy | — | 2차 | 오퍼레이터별로 따로 쌓임 |
+| 궁극기 충전 효율 | Ultimate Gain Efficiency | — | 2차 | |
+| 낙하 공격 | Plunging Attack | — | 미확인 | en 미확인 |
+| 극한 회피 | Perfect Dodge | — | 2차 | 타이밍 맞춘 회피. 무적과 스킬 게이지 회복 |
+| 불균형 지점 | Stagger Node | — | 2차 | 불균형치 게이지 중간 지점 |
+| 차지 | — | — | 미확인 | 보스 공격 예고(붉은 원). 스킬로 끊을 수 있음 |
+| 반환 | Return | — | 2차 | 소모한 스킬 게이지를 돌려받음. 회복으로 판정되지 않음 |
+| 흡수 | — | — | 미확인 | 상태를 없애지만 소모로 판정되지 않음 |
+| 증폭 | Amp | 増幅 | 2차 | 주는 피해 증가 |
+| 취약 | Susceptibility | 脆弱 | 2차 | 받는 피해 증가 |
+| 연타 | Link | リンク | 2차 | 다음 배틀 스킬·궁극기 피해 증가 버프 |
+| 고정 피해 | — | — | 미확인 | 방어·저항·증감 무시 |
+| 아츠 부착 | Arts Infliction | アーツ付着 | 2차 | 최대 4스택, 20초 |
+| 열기 부착 | Heat Infliction | — | 2차 | |
+| 냉기 부착 | Cryo Infliction | — | 2차 | |
+| 아츠 폭발 | Arts Burst | アーツ爆発 | 2차 | 같은 속성 부착 2스택 이상. 부착을 소모하지 않음 |
+| 아츠 이상 | Arts Reaction | アーツ異常 | 2차 | 다른 속성 부착. 나중 속성이 결과를 정함 |
+| 이상 레벨 | Status Level | — | 2차 | 소모한 스택 수. I~IV |
+| 연소 | Combustion | 燃焼 | 2차 | 열기 아츠 이상 |
+| 감전 | Electrification | 感電 | 2차 | 전기 아츠 이상. ja 추가 |
+| 동결 | Solidification | 凍結 | 2차 | 냉기 아츠 이상. en·ja 추가 |
+| 부식 | Corrosion | 腐食 | 2차 | 자연 아츠 이상. 저항 감소 |
+| 쇄빙 | Shatter | — | 2차 | 동결 소모 물리 피해. ja 미확인 |
+| 강제 감전 | forced Electrification | — | 미확인 | 부착 없이 레벨 I 이상을 거는 강제 이상의 예 |
+| 물리 이상 | Physical Status | 物理異常 | 2차 | |
+| 방어 불능 | Vulnerable | — | 2차 | 최대 4스택. ja 미확인 |
+| 띄우기 | Lift | 浮遊 | 2차 | |
+| 넘어뜨리기 | Knock Down | 転倒 | 2차 | |
+| 강타 | Crush | 猛撃 | 2차 | |
+| 갑옷 파괴 | Breach | 破砕 | 2차 | 받는 물리 피해 증가 |
+| 받는 피해 증가 | — | — | 미확인 | 감전·갑옷 파괴의 효과. 취약과 별도 합연산 |
+| 강제 연소 | forced Combustion | — | 2차 | 부착 없이 거는 연소. en은 wiki.gg |
+| 강제 동결 | forced Solidification | — | 2차 | en은 wiki.gg |
+| 강제 부식 | forced Corrosion | — | 2차 | en은 wiki.gg |
+| 강제 띄우기 | forced Lift | — | 2차 | en은 wiki.gg |
+| 열기 폭발 | Heat Burst | — | 2차 | 같은 속성 부착에 의한 아츠 폭발 |
+| 냉기 폭발 | Cryo Burst | — | 미확인 | en 미확인 |
+| 자연 폭발 | Nature Burst | — | 2차 | 티프로스 계시 획득 조건 |
+| 열기 취약 / 냉기 취약 / 자연 취약 | Heat / Cryo / Nature Susceptibility | — | 미확인 | en 형식 추정 |
+| 열기 증폭 / 냉기 증폭 / 자연 증폭 | Heat / Cryo / Nature Amp | — | 미확인 | en 형식 추정 |
+| 공중에 뜸 | Hovering | — | 2차 | 티프로스의 공중 상태 |
+| 정확 연계 | — | — | 미확인 | 연계 스킬을 정확한 타이밍에 입력하는 조건. 로시 연계 스킬 2타 |
+| 로질펠 | — | — | 미확인 | 커뮤니티 통칭. 로시·질베르타·펠리카 연계 묶음. [로시 하이브리드 파티](parties/rossi_hybrid.md) |
+| 질펠엔진 | — | — | 미확인 | 커뮤니티 통칭. 질베르타·펠리카의 부착·이상 공급 묶음 |
+| 로포질펠 / 로울질포 / 로탕질펠 | — | — | 미확인 | 커뮤니티 통칭. 로시 편성 이름(앞 글자를 이은 것) |
+| 망자의 노래 | — | — | 미확인 | 5성 무기. 궁극기 사용 시 다른 속성 오퍼레이터 공격력 증가 |
+| 열 작업용 세트 | — | — | 미확인 | 장비 세트 |
+| 조류의 물결 세트 | — | — | 미확인 | 장비 세트 |
+
+## 4번 협곡·메인 스토리 1장
+
+ko는 나무위키 지역·스토리·등장인물 문서, en은 endfield.wiki.gg, ja·zh는 검색 결과 요약 기준이다. [4번 협곡](guides/valley_iv.md) 참고.
+
+| 한국어 | English | 日本語 | 확인 | 메모 |
+|---|---|---|---|---|
+| 거점 지역 | The Hub | 中枢エリア | 2차 | zh 枢纽区. 4번 협곡 통합 핵심 구역이 있음 |
+| 협곡길 | Valley Pass | 谷地通路 | 2차 | zh 谷地通道 |
+| 아부레이 채석장 | Aburrey Quarry | アブリー採石場 | 2차 | zh 阿伯莉采石场 |
+| 오리지늄 연구 구역 | Originium Science Park | 源石研究パーク | 2차 | zh 源石研究园 |
+| 광맥 구역 | Origin Lodespring | 鉱山エリア | 2차 | zh 矿脉源区 |
+| 에너지 공급 고지 | Power Plateau | エネルギー高地 | 2차 | zh 供能高地 (미확인) |
+| 유랑자 임시 거주지 | Refugee Camp | — | 2차 | 협곡길의 서브 코어 |
+| 기초 건설 주둔지 | Infra-Station | — | 2차 | 오리지늄 연구 구역의 서브 코어 |
+| 재건 지휘부 | Reconstruction HQ | — | 2차 | 에너지 공급 고지의 서브 코어 |
+| 세대의 요람 | Cradle of the Ages | — | 2차 | 광맥 구역. 트리아겔로스와 싸운 곳 |
+| 프로토콜 코어 | Protocol Automation-Core (PAC) | — | 2차 | 새 지역에 투하하는 통합 공업 시스템 중심 |
+| 서브 코어 | Sub-PAC | — | 미확인 | 정착지에 두는 보조 코어. en 미확인 |
+| 통합 공업 시스템 | Automated Industry Complex (AIC) | — | 2차 | 엔드필드 공업의 핵심 기술 |
+| 연맹 공단 | United Workers' Syndicates of Talos II (UWST) | 工業団連盟 | 2차 | zh 联盟工团. 정식 명칭 탈로스 II 전 연맹 공단 |
+| 맛 고로도프 | Mat' Gorodov | — | 미확인 | 연맹 공단의 수도 |
+| U3 | U3 | — | 2차 | 밴드 협약을 주도한 세 세력 |
+| 밴드 협약 | — | — | 미확인 | 문명 밴드 세력 간 협약. 탈로스력 17년 체결 |
+| 본 크러셔 | Bonekrusha | — | 2차 | 4번 협곡의 주적 랜드브레이커 집단 |
+| 네파리스 | Nefarith | ネファリス | 2차 | zh 聂菲斯. 본 크러셔를 장악한 인물 |
+| 지옥의 용광로 | — | — | 미확인 | 본 크러셔의 상징 시설 |
+| 별체 | — | — | 미확인 | zh 星体. 약 20년 전 4번 협곡에 침입한 거대 아겔로스 |
+| 오리지늄 나무 | Great Originium Oak | — | 미확인 | zh 源石大树. 관리자가 남긴 나무 |
+| 트리아겔로스 | — | — | 미확인 | 1장 Ⅲ의 보스 |
+| 마블 아겔로미레 | — | — | 미확인 | 1장 Ⅳ의 보스 |
+| TA-TA | Trans-Æther Tranquilizer-Automata | — | 2차 | 프로토타입 기계. 균열을 봉인하고 자폭 |
+| 진강척 | Qin Jiangchi | — | 2차 | 거점 구역 기지장. en 표기 출처마다 다름 |
+| 리시아 | — | — | 미확인 | 펠리카의 친구. 엔드필드 공업 출신 랜드브레이커 |
+
+## 무릉·메인 스토리 2장
+
+ko는 나무위키 지역·등장인물 문서, en은 endfield.wiki.gg, ja는 appmedia.jp 기준이다. 나무위키 스토리 문서는 표기가 섞여 있어(완의채, 표석, 시라나이트 등) 쓰지 않았다. [무릉](guides/wuling.md) 참고.
+
+| 한국어 | English | 日本語 | 확인 | 메모 |
+|---|---|---|---|---|
+| 무릉 과학 개발 구역 | Wuling Scientific Developmental District | — | 2차 | 무릉의 정식 명칭 |
+| 홍산 과학원 | Hongshan Academy of Sciences (HAS) | — | 2차 | zh 宏山科学院. 기존 항목 보완 |
+| 천사 | Tianshi | — | 2차 | zh 天师. 기존 항목 보완 |
+| 염국 | Yan | — | 미확인 | 천사부가 있는 테라의 나라. en 미확인 |
+| 천사부 | — | — | 미확인 | 염국의 천사 기관 |
+| 무릉성 순찰대 | Wuling Watchguards | — | 2차 | 기존 항목 보완 |
+| 응룡 특수부대 | Yinglung Special Task Force (YSTF) | — | 2차 | 기존 항목 보완 |
+| 응룡 관문 | Yinglung Pass | 応竜関 | 2차 | zh 应龙关 |
+| 청파채 | Qingbo Stockade | 清波砦 | 2차 | zh 清波寨 |
+| 선조의 샘 | Ancestral Spring | — | 2차 | 청파채의 수원 |
+| 무릉 대균열 | Wuling Very Large Rift | — | 2차 | 기존 항목 보완 |
+| 침식 조류 | Blight Tide | — | 2차 | 대균열이 일으키는 주기적 재해 |
+| 수돈 | Marker Stone | 首礎 | 2차 | zh 首础. 첫 천사장 |
+| 천사장 배열 | Tianshi Pillar Array | — | 2차 | 식양 입자로 침식 조류를 통제하는 시설 |
+| 식양 | Xiranite | 息壌 | 2차 | zh 息壤. 기존 항목 보완 |
+| 액화 중식양 | — | — | 미확인 | 과활성 침식을 제거하는 액체 |
+| 경옥 골짜기 | Jingyu Valley | 景玉谷 | 2차 | |
+| 장검 골짜기 | Sword Vault Dale | — | 2차 | |
+| 실험 구역 | Test Area | — | 2차 | |
+| 북쪽 금지 구역 | North Wuling Exclusion Zone | 北部封鎖区域 | 2차 | 142년 대재앙으로 생김 |
+| 눈 덮인 소나무 숲 | Snowy Forest | 雪松林 | 2차 | |
+| 수명 | Suiming | — | 2차 | 옛 수몰 도시를 재구성한 공간 |
+| 사의 그림 | Si's Painting | — | 2차 | |
+| 천왕 평지 | — | — | 미확인 | 경옥 골짜기의 청파채 주민 마을 |
+| 사 | Si | スー | 2차 | zh 祀. 1.6 버전 메인 스토리 인물 |
+| 아다시르 | Ardashir | アルダシル | 2차 | zh 阿达希尔 |
+| 원일 | Ruan Yi | — | 2차 | 탕탕의 양오빠. 청파채 복수파 |
+| 완 | Ruan | — | 2차 | 청파채를 세운 천사 |
+| 봉 | — | — | 미확인 | 응룡 특수부대 부대장. 본명 심교아 |
+| 축 | — | — | 미확인 | 응룡 특수부대의 고인이 된 교관 |
+| 수구 | — | — | 미확인 | 청파채 인물 |
+| 알레이크레오스 | — | — | 미확인 | 파운데이션의 병사. 2장 VII 대균열 핵심부의 적 |
+| 파운데이션 | Foundation | — | 미확인 | 탈로스2의 좌표를 노리는 세력. en 미확인 |
+| 베헤모스 | — | — | 미확인 | wiki.gg는 Feranmut. 식양 개발에 대리인이 협력 |
+
 ## 히스토리
 
+- 2026-10-19: 열기·냉기·자연·로시 하이브리드 파티 문서의 강제 이상·속성 폭발·속성 취약·증폭 용어, 로시 편성 통칭, 장비 세트·무기 이름 추가 (나무위키, endfield.wiki.gg).
+- 2026-10-18: 전투 체계·아츠 이상·물리 이상 용어, 4번 협곡·무릉 지명과 1·2장 인물 표기 추가 (나무위키, endfield.wiki.gg, appmedia.jp).
 - 2026-10-15: 카치르·판·여풍·푸치나 관련 표기 추가 (나무위키).
 - 2026-10-15: 포그라니치니크·로시·미브 관련 표기 추가 (나무위키).
 - 2026-10-15: 에스텔라·플루라이트·진천우 관련 표기 추가 (나무위키).
