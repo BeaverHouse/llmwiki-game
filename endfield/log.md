@@ -1,5 +1,6 @@
 # Arknights: Endfield — 변경 기록 (append-only, 최신이 위)
 
+- 2026-10-19 | human | operators/rossi.md·parties/rossi_hybrid.md·backlog.md 수정 | 로시 연계 스킬의 궁극기 에너지는 1회 10이며 연속 2회 모두 쓰면 20임을 확정, 답을 받은 질문 삭제 | 근거: Austin 확인 (2026-10-19)
 - 2026-10-19 | human | operators/zhuang_fangyi.md·operators/perlica.md·operators/gilberta.md·parties/electric.md·parties/rossi_hybrid.md·backlog.md 수정 | 장방이는 천리의 경지 중 궁극기 에너지를 회복하지 못함을 확정, 질베르타 연계 스킬의 강제 띄우기는 방어 불능 1스택임을 확정, 펠리카 연계가 앞이면 감전 II·장방이 연계가 앞이면 감전 I임을 명시, 답을 받은 질문 정리 | 근거: Austin 확인 (2026-10-19)
 - 2026-10-19 | human | guides/status_anomalies.md·guides/arts_reactions.md·parties/rossi_hybrid.md·backlog.md 수정 | 강제 아츠 이상은 적에게 쌓인 부착을 소모하지 않음을 확정(펠리카 강제 감전으로 확인), 아델리아 강제 부식은 같을 것으로 보되 미확인으로 남김 | 근거: Austin 확인 (2026-10-19)
 - 2026-10-19 | human | guides/combat_basics.md·guides/combat.md·parties/electric.md·operators/perlica.md·operators/zhuang_fangyi.md·backlog.md 수정 | 전기 부착 상태의 적에게 강력한 일격이 맞으면 펠리카·장방이 연계 스킬이 모두 발동함을 확정, 연계 스킬 발동 순서는 기본 슬롯 순서이되 1.6 버전부터 플레이어가 직접 조정할 수 있음을 기록, 답을 받은 질문 삭제 | 근거: Austin 확인 (2026-10-19)
