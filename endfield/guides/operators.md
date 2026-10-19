@@ -59,7 +59,7 @@ updated: 2026-10-18
 
 | 오퍼레이터 | 속성 | 무기 | 직군 | 문서 |
 |---|---|---|---|---|
-| 관리자 | 물리 | 한손검 | 가드 | [기본 설정](setting_basics.md) |
+| 관리자 | 물리 | 한손검 | 가드 | [operators/endministrator.md](../operators/endministrator.md) |
 | 카치르 | 물리 | 양손검 | 디펜더 | [operators/catcher.md](../operators/catcher.md) |
 | 진천우 | 물리 | 한손검 | 가드 | [operators/chen_qianyu.md](../operators/chen_qianyu.md) |
 | 판 | 물리 | 양손검 | 스트라이커 | [operators/da_pan.md](../operators/da_pan.md) |

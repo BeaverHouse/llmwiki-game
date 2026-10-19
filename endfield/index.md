@@ -12,6 +12,9 @@
 - [guides/operators.md](guides/operators.md) — 오퍼레이터 개요 (등급, 능력치 효과, 직군 역할, 무기·장비, 전체 34명의 속성·무기·직군 명단)
 - [guides/combat_basics.md](guides/combat_basics.md) — 전투 기본 체계 (파티와 교대, 강력한 일격·처형·극한 회피, 공유 스킬 게이지, 연계 스킬 규칙, 궁극기 에너지 획득, 불균형, 증폭·취약·허약·비호 분류와 피해 계산, 사이클 설명 용어)
 - [guides/status_anomalies.md](guides/status_anomalies.md) — 아츠 이상과 물리 이상 (아츠 부착·아츠 폭발, 연소·감전·동결·부식·쇄빙 수치, 강제 이상, 방어 불능과 띄우기·넘어뜨리기·강타·갑옷 파괴)
+- [guides/combat.md](guides/combat.md) — 전투 기본 (4인 편성과 교대, 강력한 일격·처형·극한 회피, 공유 스킬 게이지와 반환, 연계 스킬 조건 유형과 자리 우선순위, 궁극기 에너지 충전 규칙, 불균형·차지, 증폭·취약·허약·비호 분류와 피해 배율 공식, 순환 구성의 기초)
+- [guides/arts_reactions.md](guides/arts_reactions.md) — 아츠 부착과 아츠 이상 (부착 스택, 아츠 폭발, 연소·감전·동결·부식과 쇄빙의 수치와 이상 레벨, 강제 부여, 아츠·속성 취약 계층, 아츠 파티 순환 구성)
+- [guides/physical_anomalies.md](guides/physical_anomalies.md) — 물리 이상 (방어 불능 스택, 띄우기·넘어뜨리기·강타·갑옷 파괴, 물리 취약, 강제 부여, 물리 파티 순환 구성)
 - [guides/valley_iv.md](guides/valley_iv.md) — 4번 협곡 (연맹 공단의 개척지, 별체 사건, 세력과 하위 지역, 메인 스토리 1장 줄거리와 무릉으로의 연결)
 - [guides/wuling.md](guides/wuling.md) — 무릉 (무릉 대균열과 침식 조류, 홍산 과학원·응룡 특수부대·무릉성·청파채, 탈로스력 연표, 하위 지역, 메인 스토리 2장 줄거리)
 
@@ -26,6 +29,7 @@
 
 ## operators/
 
+- [operators/endministrator.md](operators/endministrator.md) — 관리자 (6성 기본 지급 물리 한손검 가드. 연계 스킬로 오리지늄 결정을 붙이고 배틀 스킬 강타·궁극기로 깨뜨리는 방어 불능 소모 딜러. 잠재능력은 메인 스토리로 획득. 프로필, 스킬·재능·잠재능력, 무기·장비·편성, 사이클 역할)
 - [operators/perlica.md](operators/perlica.md) — 펠리카 (5성 전기 아츠 유닛 오퍼레이터. 프로필, 배경, 스킬·재능·잠재능력, 무기·장비·편성, 사이클 역할, 특징)
 - [operators/zhuang_fangyi.md](operators/zhuang_fangyi.md) — 장방이 (6성 한정 전기 아츠 유닛 스트라이커. 감전 소모로 청뢰검을 쌓는 변신형 딜러. 프로필, 배경, 스킬·재능·잠재능력, 무기·장비·궁극기 충전 기준·편성, 사이클 역할, 특징)
 - [operators/arclight.md](operators/arclight.md) — 아크라이트 (5성 전기 한손검 뱅가드. 쿨타임 3초 연계 스킬로 스킬 게이지 공급. 프로필, 배경, 스킬·재능·잠재능력, 무기·장비·편성, 사이클 역할, 특징)
