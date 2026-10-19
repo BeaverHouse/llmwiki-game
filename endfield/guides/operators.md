@@ -5,8 +5,9 @@ status: ai-draft
 aliases: [오퍼레이터, 오퍼레이터 목록, 캐릭터 목록, 직군, 속성, 능력치]
 sources:
   - https://namu.wiki/w/명일방주:%20엔드필드/오퍼레이터 (2026-09-02 수정본, CC BY-NC-SA 2.0 KR)
+  - user-feedback: 사·명하 출시 확인 (2026-10-19)
 created: 2026-10-14
-updated: 2026-10-18
+updated: 2026-10-19
 ---
 
 # 오퍼레이터 개요
@@ -55,7 +56,7 @@ updated: 2026-10-18
 
 ## 명단
 
-나무위키 오퍼레이터 틀(2026-09-02 기준)의 34명이다. 사와 명하는 2026-10-14 기준으로 아직 출시되지 않았다.
+나무위키 오퍼레이터 틀(2026-09-02 기준)의 34명이다. 사와 명하는 출시되었다 (Austin 확인, 2026-10-19); 두 사람의 오퍼레이터 문서는 작성 대기 중이다.
 
 | 오퍼레이터 | 속성 | 무기 | 직군 | 문서 |
 |---|---|---|---|---|
@@ -75,7 +76,7 @@ updated: 2026-10-18
 | 라스트 라이트 | 냉기 | 양손검 | 스트라이커 | [operators/last_rite.md](../operators/last_rite.md) |
 | 이본 | 냉기 | 권총 | 스트라이커 | [operators/yvonne.md](../operators/yvonne.md) |
 | 탕탕 | 냉기 | 권총 | 캐스터 | [operators/tangtang.md](../operators/tangtang.md) |
-| 사 | 냉기 | 양손검 | 서포터 | 미출시 (2026-10-14 기준) |
+| 사 | 냉기 | 양손검 | 서포터 | 문서 작성 대기 |
 | 아케쿠리 | 열기 | 한손검 | 뱅가드 | [operators/akekuri.md](../operators/akekuri.md) |
 | 울프가드 | 열기 | 권총 | 캐스터 | [operators/wulfgard.md](../operators/wulfgard.md) |
 | 엠버 | 열기 | 양손검 | 디펜더 | [operators/ember.md](../operators/ember.md) |
@@ -92,7 +93,7 @@ updated: 2026-10-18
 | 아크라이트 | 전기 | 한손검 | 뱅가드 | [operators/arclight.md](../operators/arclight.md) |
 | 장방이 | 전기 | 아츠 유닛 | 스트라이커 | [operators/zhuang_fangyi.md](../operators/zhuang_fangyi.md) |
 | 리노 | 전기 | 장병기 | 서포터 | [operators/liino.md](../operators/liino.md) |
-| 명하 | 전기 | 한손검 | 가드 | 미출시 (2026-10-14 기준) |
+| 명하 | 전기 | 한손검 | 가드 | 문서 작성 대기 |
 
 ## 기타
 
@@ -107,5 +108,6 @@ updated: 2026-10-18
 
 - 2026-10-18: 전투 체계·이상 상태·파티 문서 링크 추가.
 - 2026-10-15: 카치르·판·여풍·푸치나 문서 연결. 관리자를 제외한 출시 오퍼레이터 문서가 모두 연결됨.
+- 2026-10-19: 사와 명하가 출시되었음을 표시 (Austin 확인). 문서는 작성 대기.
 - 2026-10-14: 사와 명하가 아직 출시되지 않았음을 표시 (Austin 확인). 리노·안탈·아비웨나 문서 연결.
 - 2026-10: 최초 작성. 나무위키 오퍼레이터 문서 2026-09-02 수정본 기준.
