@@ -9,7 +9,7 @@ sources:
   - 사이트 데이터 (ae_character c101050171, ae_translation)
   - anothereden.wiki/w/Alma_(Another_Style) (글로벌 위키) 는 봇 차단(403)으로 확인하지 못함
 created: 2026-10-19
-updated: 2026-10-19
+updated: 2026-10-20
 ---
 
 # 알마(AS)
@@ -89,6 +89,7 @@ updated: 2026-10-19
 ## 관련 문서
 
 - [환경 캐릭터 평가](../guides/meta_characters.md)
+- [晶 파티](../guides/crystal_party.md), [세스타(AS)](sesta_as.md) (晶 파티의 風 약점 조합), [애니](eni.md) (陰 ZONE 편성), [네코코(ES)](necoco_es.md) (雷 속성화)
 - [틸릴(ES)](thillelille_es.md), [질퍼니(AS)](jillfunny_as.md), [베레토(AS)](velette_as.md)
 
 ## 히스토리
