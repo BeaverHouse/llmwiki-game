@@ -1,5 +1,6 @@
 # Arknights: Endfield — 변경 기록 (append-only, 최신이 위)
 
+- 2026-10-19 | human | operators/last_rite.md·operators/ardelia.md·backlog.md 수정 | 라스트 라이트 재능 저온 취성의 대상은 냉기 취약임을 게임 안 설명으로 확정(아츠 취약 전체에는 미적용), 답을 받은 질문 삭제 | 근거: Austin 제공 게임 화면 (2026-10-19)
 - 2026-10-19 | human | guides/status_anomalies.md·guides/arts_reactions.md·operators/ardelia.md·parties/heat.md·parties/cryo.md·backlog.md 수정 | 모든 강제 아츠 이상은 쌓인 부착을 소모하지 않음을 확정 규칙으로 명시(아델리아 강제 부식 포함), 관련 미확인 항목 전부 삭제 | 근거: Austin 확인 (2026-10-19)
 - 2026-10-19 | human | operators/camille.md·backlog.md 수정 | 카뮤 추적은 연계 스킬로 간주되어 궁극기 에너지 10을 줌을 확정, 답을 받은 질문 삭제 | 근거: Austin 확인 (2026-10-19)
 - 2026-10-19 | human | operators/rossi.md·parties/rossi_hybrid.md·backlog.md 수정 | 로시 연계 스킬의 궁극기 에너지는 1회 10이며 연속 2회 모두 쓰면 20임을 확정, 답을 받은 질문 삭제 | 근거: Austin 확인 (2026-10-19)
