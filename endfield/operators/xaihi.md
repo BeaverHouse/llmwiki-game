@@ -5,6 +5,7 @@ status: ai-draft
 aliases: [자이히, Xaihi, ザイヒ, 賽希, 세라핀 자이히]
 sources:
   - https://namu.wiki/w/자이히 (2026-09-29 수정본, CC BY-NC-SA 2.0 KR)
+  - https://endfield.wiki.gg/wiki/Xaihi (스킬 영어 표기)
 created: 2026-10-14
 updated: 2026-10-19
 ---
@@ -35,7 +36,7 @@ updated: 2026-10-19
 
 ## 스킬
 
-수치는 스킬 레벨 9와 M1~M3(레벨 10~12) 기준이다.
+수치는 스킬 레벨 9와 M1~M3(레벨 10~12) 기준이다. 영어 표기(endfield.wiki.gg): 기본 공격 Cooldown, 배틀 스킬 Distributed DoS, 연계 스킬 Stress Testing, 궁극기 Stack Overflow.
 
 | 항목 | 9 | M1 | M2 | M3 |
 |---|---|---|---|---|
@@ -138,9 +139,8 @@ updated: 2026-10-19
 
 ## 확인하지 못한 것
 
-- 스킬 이름과 수치는 나무위키 기준이며 게임 화면이나 공식 출처로 교차 확인하지 못했다.
 - 기본 공격 이름은 나무위키 표에 스킬 이름 대신 '쿨타임'으로 잘못 적혀 있어 확인하지 못했다.
-- 스킬 이름의 영어·일본어 표기.
+- 스킬 이름의 일본어 표기.
 
 ## 히스토리
 

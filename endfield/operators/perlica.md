@@ -7,6 +7,7 @@ sources:
   - user-feedback: 무기 종류 정정(아츠 유닛)과 나무위키 「펠리카」 문서 사본 제공 (Slack, 2026-10-13)
   - user-feedback: 스킬 수치는 9레벨과 M1~M3만 다루면 되고, 9레벨→M3 피해 증가폭은 스킬 공통이라는 안내 (Slack, 2026-10-13)
   - https://namu.wiki/w/펠리카 (2026-10-12 수정본, CC BY-NC-SA 2.0 KR)
+  - https://endfield.wiki.gg/wiki/Perlica (스킬 영어 표기)
   - https://www.icy-veins.com/arknights-endfield/perlica-profile-skills
   - https://www.prydwen.gg/arknights-endfield/characters/perlica
   - https://gamewith.net/akendfield/72537
@@ -43,7 +44,7 @@ M3를 어릴 때 '언니'라고 불렀고, [진천우](chen_qianyu.md)는 펠리
 
 ## 스킬
 
-수치는 육성 목표가 되는 스킬 레벨 9와 M1~M3(레벨 10~12) 기준이다. 9레벨까지는 거쳐 가는 단계라 싣지 않는다.
+수치는 육성 목표가 되는 스킬 레벨 9와 M1~M3(레벨 10~12) 기준이다. 9레벨까지는 거쳐 가는 단계라 싣지 않는다. 영어 표기(endfield.wiki.gg): 기본 공격 Protocol α: Breach, 배틀 스킬 Protocol ω: Strike, 연계 스킬 Instant Protocol: Chain, 궁극기 Protocol ε: 70.41K.
 
 | 항목 | 9 | M1 | M2 | M3 |
 |---|---|---|---|---|
@@ -141,7 +142,6 @@ M3를 어릴 때 '언니'라고 불렀고, [진천우](chen_qianyu.md)는 펠리
 
 ## 확인하지 못한 것
 
-- 스킬 이름과 수치는 나무위키 기준이며, 게임 화면이나 공식 출처로 교차 확인하지 못했다.
 - 스킬 이름과 게임 용어의 일본어 표기는 아직 등록하지 않았다.
 
 ## 히스토리

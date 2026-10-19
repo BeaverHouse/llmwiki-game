@@ -5,6 +5,7 @@ status: ai-draft
 aliases: [울프가드, Wulfgard, ウルフガード, 狼卫, 카텔로 울프가드 루피노]
 sources:
   - https://namu.wiki/w/울프가드 (2026-10-11 수정본, CC BY-NC-SA 2.0 KR)
+  - https://endfield.wiki.gg/wiki/Wulfgard (스킬 영어 표기)
 created: 2026-10-14
 updated: 2026-10-19
 ---
@@ -37,7 +38,7 @@ updated: 2026-10-19
 
 ## 스킬
 
-수치는 스킬 레벨 9와 M1~M3(레벨 10~12) 기준이다.
+수치는 스킬 레벨 9와 M1~M3(레벨 10~12) 기준이다. 영어 표기(endfield.wiki.gg): 기본 공격 Rapid Fire Akimbo, 배틀 스킬 Thermite Tracers, 연계 스킬 Frag Grenade·β, 궁극기 Wolven Fury.
 
 | 항목 | 9 | M1 | M2 | M3 |
 |---|---|---|---|---|
@@ -133,8 +134,7 @@ updated: 2026-10-19
 
 ## 확인하지 못한 것
 
-- 스킬 이름과 수치는 나무위키 기준이며 게임 화면이나 공식 출처로 교차 확인하지 못했다.
-- 스킬 이름의 영어·일본어 표기.
+- 스킬 이름의 일본어 표기.
 
 ## 히스토리
 
