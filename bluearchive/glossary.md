@@ -55,7 +55,7 @@ updated: 2026-10-18
 | 게부라                | ゲブラ         | Geburah                    |               |
 | 고즈                  | ゴズ           | Goz                        |               |
 | 그레고리오            | グレゴリオ     | Gregorius                  |               |
-| 예로니무스            | ヒエロニムス   | Hieronymus                 |               |
+| 예로니무스            | ヒエロニムス   | Hieronymus                 | 통칭: 히에로니무스 |
 | 호드                  | ホド           | Hod                        |               |
 | 카이텐져              | カイテンジャー | Kaitenger / KAITEN FX MK.0 |               |
 | 쿠로카게              | クロカゲ       | Kurokage                   |               |

@@ -2,7 +2,7 @@
 title: 대결전 S28 예로니무스 — 픽률·리포트
 type: note
 status: ai-draft
-aliases: [S28, 예로니무스 대결전, 3S28]
+aliases: [S28, 예로니무스 대결전, 히에로니무스 대결전, 3S28]
 raid_ids: [3S28-1, 3S28-3, 3S28-4]
 sources:
   - "대결전 S28 집계 데이터 (장갑별 요약·파티, 각 변형 상위 20,000명)"
@@ -11,7 +11,7 @@ sources:
   - "보스 기믹: raids/hieronymus.md"
   - "user-feedback: 성유물 5중첩과 토키·히나(드레스) 시가지 적성 해석 교정 (2026-07-27)"
 created: 2026-07-22
-updated: 2026-07-27
+updated: 2026-10-20
 ---
 
 ## 개요

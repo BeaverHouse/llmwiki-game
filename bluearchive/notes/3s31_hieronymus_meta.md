@@ -2,7 +2,7 @@
 title: 대결전 S31 예로니무스 — 픽률·리포트
 type: note
 status: ai-draft
-aliases: [S31, 예로니무스 대결전, 3S31]
+aliases: [S31, 예로니무스 대결전, 히에로니무스 대결전, 3S31]
 raid_ids: [3S31-1, 3S31-2, 3S31-3]
 sources:
   - "대결전 S31 집계 데이터 (장갑별 요약·파티, 각 변형 상위 20,000명)"
@@ -10,7 +10,7 @@ sources:
   - "보스 기믹: raids/hieronymus.md"
   - "user-feedback: 녹색 성유물 5중첩 구조 교정 (2026-07-27)"
 created: 2026-07-22
-updated: 2026-07-27
+updated: 2026-10-20
 ---
 
 ## 개요
