@@ -9,7 +9,7 @@ sources:
   - 사이트 데이터 (ae_character c101010181, ae_translation)
   - anothereden.wiki/w/Jillfunny_(Another_Style) (글로벌 위키) 는 봇 차단(403)으로 확인하지 못함
 created: 2026-10-17
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # 질퍼니(AS)
@@ -90,6 +90,7 @@ updated: 2026-10-17
 ## 관련 문서
 
 - [환경 캐릭터 평가](../guides/meta_characters.md)
+- [晶 파티](../guides/crystal_party.md)
 
 ## 히스토리
 
