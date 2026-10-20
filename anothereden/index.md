@@ -10,11 +10,15 @@
 - [guides/meta_characters.md](guides/meta_characters.md) — 환경 캐릭터 평가 (2025-07 Seesaa 최상위·상위 등급과 이유, 이후 추가된 질퍼니(AS), アン・キ・ディグマ 공략에서 반복 쓰인 캐릭터)
 - [guides/meta_equipment.md](guides/meta_equipment.md) — 환경 장비와 입수처 (모든 무기 공통 시리즈, 무기 종류별 주요 무기, 방어구 시리즈, 최고 난도 보스 보상)
 - [guides/crystal_party.md](guides/crystal_party.md) — 晶 파티 (질퍼니(AS)·틸릴(ES)·알마(AS)·미스트레아 중심 輝晶陣 편성. 멤버 역할, ZONE 전개·연장, 출처 편성 예 4종, 단기/장기·冥 剣 변형, 개막 AF, 약점, 강적 적성)
+- [guides/thunder_party.md](guides/thunder_party.md) — 雷 파티 (베레토(AS)·오보로·이즈나 중심 招雷陣 편성. 招雷陣의 AF 게이지 성질, 멤버 역할, 오보로+이즈나 弱点看破(雷) 연속 콤보, 출처 편성 예, 버디·장비, 약점, 최상위 보스 적성)
 - [guides/superbosses.md](guides/superbosses.md) — 숨은 보스 난이도 (Seesaa 비공식 난이도표의 기준과 ★11.7 이상 보스 목록)
 
 ## raids/
 
 - [raids/an_ki_digma.md](raids/an_ki_digma.md) — アン・キ・ディグマ (난이도 ★12.0 최상위 숨은 보스. 출현 조건, 7개 凶星 기믹, 패턴 대응, 통상·전점등 공략 방침, 속성별 파티 축, 클리어 영상)
+- [raids/kaputoniku.md](raids/kaputoniku.md) — カプトニク (★11.9, Ver3.8.15, ★12 등급 신설의 계기. 빛나는 팔·頭核의 반대 속성 ANOTHER ZONE·버프 8종 오라, 세 가지 대처법, ライカマジック, 속성별 파티 축, 꼼수 편성, 클리어 영상)
+- [raids/yami_alter_force.md](raids/yami_alter_force.md) — 闇のアルターフォース (★11.9, Ver3.10.0. 버프·디버프 8종 이상 시 주는 피해 95% 감소 오라, 세는 버프·안 세는 버프, 스킬 게이지, 단기·장기 파티, 클리어 사례)
+- [raids/rekisen_kougairyuu.md](raids/rekisen_kougairyuu.md) — 歴戦の甲鎧竜 (★11.8, Ver3.16.50. 超生命力으로 최소 9턴, 傷壊·アングリー・ヘイト, 제2형태 강제 기절과 「海じゃらし」, 날려 보내기 3회, 打 파티 축, 클리어 영상)
 
 ## characters/
 

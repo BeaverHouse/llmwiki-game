@@ -10,7 +10,7 @@ sources:
   - 사이트 데이터 (ae_character c101070131, ae_translation)
   - anothereden.wiki/w/Velette_(Another_Style) (글로벌 위키) 는 봇 차단(403)으로 확인하지 못함
 created: 2026-10-19
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # 베레토(AS)
@@ -96,7 +96,8 @@ AF를 돌리며 화력을 내고 받기는 우츠하라의 守護로 한다. 守
 ## 관련 문서
 
 - [환경 캐릭터 평가](../guides/meta_characters.md)
-- [アン・キ・ディグマ](../raids/an_ki_digma.md)
+- [雷 파티](../guides/thunder_party.md) (오보로·이즈나와의 조합, 편성 예, 강적 적성)
+- [アン・キ・ディグマ](../raids/an_ki_digma.md), [カプトニク](../raids/kaputoniku.md)
 - [알마(AS)](alma_as.md)
 
 ## 히스토리
