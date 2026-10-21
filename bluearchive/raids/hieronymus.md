@@ -7,7 +7,7 @@ sources:
   - "https://schaledb.com/data/jp/raids.json"
   - "https://schaledb.com/data/jp/enemies.json"
 created: 2026-07-06
-updated: 2026-09-07
+updated: 2026-10-20
 ---
 
 # 예로니무스 (Hieronymus)
@@ -80,6 +80,8 @@ API 매핑:
 ## 시즌 리포트
 
 - [총력전 S91 시가지](../notes/s91_hieronymus_meta.md): 토먼트의 대중·고점 딜러 차이와 루나틱의 저주 회복·다파티 구성을 다룹니다.
+- [대결전 S28](../notes/3s28_hieronymus_meta.md): 시가지. 세 장갑 공통 마리(아이돌)의 성유물 5중첩과 경장갑 토키, 특수장갑 수영복 미카·메이드 아리스, 탄력장갑 수영복 미카 편성을 다룹니다.
+- [대결전 S31](../notes/3s31_hieronymus_meta.md): 세 장갑 모두 1파티로 끝난 시즌으로, 경장갑 히나(드레스)·리오(무장), 중장갑 네루(교복), 특수장갑 아리스(무장)·케이 편성을 다룹니다.
 
 ## 히스토리
 

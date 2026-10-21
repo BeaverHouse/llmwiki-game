@@ -9,7 +9,7 @@ sources:
   - https://appmedia.jp/?p=79437818 (JP 시설 명칭)
   - https://www.icy-veins.com/arknights-endfield/news/arknights-endfield-reveals-final-systems-gameplay-and-launch-content/
 created: 2026-10-12
-updated: 2026-10-12
+updated: 2026-10-21
 ---
 
 # 제강호 (Dijiang)
@@ -48,7 +48,7 @@ O.M.V.는 "Originium-powered Multi-surface Vessel"의 줄임말이다.
 
 ### 재배실
 
-버섯, 광물 같은 진화용 재료를 재배한다. 알맞은 오퍼레이터를 배치하면 재배 시간이 줄어든다.
+버섯, 광물 같은 진화용 재료를 재배한다. 알맞은 오퍼레이터를 배치하면 재배 시간이 줄어든다. 재배하는 재료와 재배 코어는 [육성 재료와 획득처](materials.md)에서 다룬다.
 
 ### 그 밖의 구역
 
@@ -67,4 +67,5 @@ O.M.V.는 "Originium-powered Multi-surface Vessel"의 줄임말이다.
 
 ## 히스토리
 
+- 2026-10-21: 재배실 절에 육성 재료 문서 링크 추가.
 - 2026-10: 최초 작성. 시설 한국어 명칭과 기능은 Austin이 제공한 게임 화면과 설명, 설정은 endfield.wiki.gg를 근거로 정리.

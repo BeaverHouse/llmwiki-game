@@ -56,8 +56,34 @@ sources:
   - https://endfield.wiki.gg/wiki/Wuling
   - https://appmedia.jp/?p=79683638
   - https://appmedia.jp/?p=79690247
+  - https://namu.wiki/w/사(명일방주:%20엔드필드)
+  - https://namu.wiki/w/명하(명일방주:%20엔드필드)
+  - https://endfield.wiki.gg/wiki/Si
+  - https://endfield.wiki.gg/wiki/Argent_Flow
+  - https://namu.wiki/w/명일방주:%20엔드필드/장비
+  - https://endfield.wiki.gg/wiki/Gear
+  - https://namu.wiki/w/명일방주:%20엔드필드/무기
+  - https://endfield.wiki.gg/wiki/Weapons
+  - https://namu.wiki/w/명일방주:%20엔드필드/공업
+  - https://namu.wiki/w/명일방주:%20엔드필드/설비
+  - https://endfield.wiki.gg/wiki/AIC
+  - https://endfield.wiki.gg/wiki/Outpost
+  - https://endfield.wiki.gg/wiki/Regional_Development
+  - https://namu.wiki/w/네파리스
+  - https://namu.wiki/w/아다시르
+  - https://namu.wiki/w/명일방주:%20엔드필드/아이템/육성%20재료
+  - https://namu.wiki/w/명일방주:%20엔드필드/아이템/희귀%20재료
+  - https://namu.wiki/w/명일방주:%20엔드필드/아이템/재화
+  - https://endfield.wiki.gg/wiki/Civilization_Band
+  - https://endfield.wiki.gg/wiki/Landbreakers
+  - https://endfield.wiki.gg/wiki/The_Foundation
+  - https://endfield.wiki.gg/wiki/Nefarith
+  - https://endfield.wiki.gg/wiki/Blight
+  - https://endfield.wiki.gg/wiki/Nexus_Files:_Aggelos
+  - https://endfield.wiki.gg/wiki/First_Aggeloi_War
+  - https://endfield.wiki.gg/wiki/Items
 created: 2026-10-12
-updated: 2026-10-18
+updated: 2026-10-21
 ---
 
 # 엔드필드 고유명사 표기 (ko/en/ja)
@@ -110,7 +136,7 @@ ko는 엔드필드 공업 인사 기록 '리컨비너' 한국어 전문(Austin �
 | 아겔로스 | Aggeloi (단수 Aggelos) | アンゲロス | 공식(ko) | 무기물 적대 생명체 |
 | 침식 | Blight | 侵蝕 | 2차 | 초자연의 영향으로 생기는 재해 |
 | 초자연 | Ætherside | 超域 | 공식 | 현실과 겹쳐 있는 차원. ko 공식 표기는 Austin 확인 (영어권 2차 위키의 Ætherside) |
-| 랜드브레이커 | Landbreaker | — | 미확인 | ja 표기 미확인 |
+| 랜드브레이커 | Landbreaker | ランドブレーカー | 2차 | ja·zh(裂地者)는 나무위키·endfield.wiki.gg 표기. [세력](guides/factions.md) 참고 |
 
 ## 지역
 
@@ -687,10 +713,328 @@ ko는 나무위키 지역·등장인물 문서, en은 endfield.wiki.gg, ja는 ap
 | 축 | — | — | 미확인 | 응룡 특수부대의 고인이 된 교관 |
 | 수구 | — | — | 미확인 | 청파채 인물 |
 | 알레이크레오스 | — | — | 미확인 | 파운데이션의 병사. 2장 VII 대균열 핵심부의 적 |
-| 파운데이션 | Foundation | — | 미확인 | 탈로스2의 좌표를 노리는 세력. en 미확인 |
+| 파운데이션 | The Foundation | — | 2차 | 제1차 아겔로스 전쟁의 적대 세력. '추방자'로도 불림. en은 중추 파일 영어 텍스트(endfield.wiki.gg). [파운데이션](guides/foundation.md) 참고 |
 | 베헤모스 | — | — | 미확인 | wiki.gg는 Feranmut. 식양 개발에 대리인이 협력 |
 
+### 사·명하
+
+ko는 나무위키 「사(명일방주: 엔드필드)」「명하(명일방주: 엔드필드)」, en은 endfield.wiki.gg 기준이다. [사](operators/si.md) 참고.
+
+| 한국어 | English | 日本語 | 확인 | 메모 |
+|---|---|---|---|---|
+| 베헤모스 대리인 | — | — | 미확인 | 베헤모스가 잠든 동안 사람 앞에 나타나는 의식. 사를 부르는 말 |
+| 쉐이 | — | — | 미확인 | 염국과 얽힌 베헤모스. 열두 대리인으로 나뉨. 사는 그 마지막 의식에서 태어남 |
+| 사세대 | — | — | 미확인 | 쉐이 대응 조직. 홍산 과학원의 사세대는 베헤모스 응용 기술 기관 |
+| 담 천사 | — | — | 미확인 | 홍산 과학원의 최고참 천사. 사를 맡아 돌봄 |
+| 인연 마을 | — | — | 미확인 | 사가 그림 속에서 운영하는 객잔 |
+| 묵량 | — | — | 미확인 | 사의 나비 모양 먹물 사역마 |
+| 흥에 겨운 붓놀림 | Artistic Urge | — | 2차 | 사 기본 공격 |
+| 강산을 한 폭에 | Brushwork Realm | — | 2차 | 사 배틀 스킬 |
+| 붓을 들리라 | Initial Stroke | — | 2차 | 사 배틀 스킬 뒤 바뀌는 스킬. 묵혼을 끌어냄 |
+| 붓을 거두리라 | Final Stroke | — | 2차 | 붓을 들리라 뒤 바뀌는 스킬 |
+| 필의 | Artful Intent | — | 2차 | 받은 피해를 기록했다가 고정 피해로 폭발하는 상태 |
+| 묵혼 | Inksoul | — | 2차 | 필의가 걸린 적에게서 끌어낸 분신 |
+| 먹빛은 이미 정해졌으니 | Fully Envisioned | — | 2차 | 사 연계 스킬 |
+| 묵룡 | Ink Lung | — | 2차 | 사 연계 스킬·궁극기가 부르는 먹물 용 |
+| 누가 감히 흥을 깨랴 | No One Spoils the Fun | — | 2차 | 사 궁극기 |
+| 총명 | Keen Mind | — | 2차 | 지능 상승 재능 |
+| 대리인의 가호 | Proxy's Patronage | — | 2차 | 사 재능. 1번 슬롯 연계 쿨타임 감소 |
+| 바래지 않는 단청 | Unsoiled Brush | — | 2차 | 사 재능. 묵혼 소멸 시 가속 |
+| 속박 | Immobilization | — | 2차 | 적을 움직이지 못하게 하는 상태 |
+| 가속 | Haste | — | 미확인 | 아군 속도 증가 버프. en은 wiki.gg 요약 |
+| 명하 | Argent Flow | ミンホ | 2차 | zh 明河. 본명 야명하(Ye Minghe). 6성 전기 한손검 가드. 2026-10-21 기준 미출시 (11월 초 출시 예정) |
+| 금위군 | Imperial Guard | — | 미확인 | 명하의 소속. 탈로스 II의 금위군은 홍산 과학원 천사가 따로 편성한 것 |
+| 정천도위 | Captain of Pacified Skies | — | 미확인 | 명하의 직함. en은 공략 사이트 |
+| 노여 | Nuli | — | 미확인 | 명하의 갤럽비스트 |
+
+### 장비
+
+ko는 나무위키 「명일방주: 엔드필드/장비」, en은 endfield.wiki.gg Gear 기준이다. [장비와 장비 세트](guides/gear_sets.md) 참고.
+
+| 한국어 | English | 日本語 | 확인 | 메모 |
+|---|---|---|---|---|
+| 방어구 / 보호 장갑 / 부품 | Armor / Gloves / Kit | — | 2차 | 장비 칸 |
+| 장비 조합 | — | — | 미확인 | 장비 등급별 착용을 여는 재능 (I/II/III) |
+| 정밀 단조 | Artificing | — | 2차 | 5성 장비 옵션 강화 |
+| 관리권 | Stock Bill | — | 공식(ko) | 지역 화폐. 4번 협곡 것은 커뮤니티에서 '협곡 관리권'. ko·en 대응은 유지보수자 확인 (2026-10-21) |
+| 관문 | Deep Rampart | — | 미확인 | 장비 세트. en 대응 추정 |
+| 고검의 잔향 | Grizzled Edge | — | 2차 | 기존 항목 보완 |
+| 식양의 흐름 | Xiranflow | — | 2차 | 장비 세트 |
+| 청파 | Qingbo | — | 2차 | 장비 세트 |
+| 식양의 숨결 | Eternal Xiranite | — | 2차 | 기존 항목 보완 |
+| 조류의 물결 | Tide Surge | — | 2차 | 기존 항목 보완 |
+| 응룡 50식 | Type 50 Yinglung | — | 2차 | 장비 세트 |
+| 응룡의 예리함 | — | — | 미확인 | 응룡 50식 세트 스택 |
+| M. I. 경찰용 | MI Security | — | 2차 | 장비 세트 |
+| 열 작업용 | Hot Work | — | 2차 | 기존 항목 보완 |
+| 개척 | Frontiers | — | 2차 | 장비 세트 |
+| 펄스식 | Pulser Labs | — | 2차 | 장비 세트 |
+| 본 크러셔 (장비) | Bonekrusha | — | 2차 | 장비 세트. 세력명과 같은 이름 |
+| 경량 초자연 | Æthertech | — | 2차 | 기존 항목 보완 |
+| 생체 보조 | LYNX | — | 2차 | 장비 세트 |
+| 검술사 | Swordmancer | — | 2차 | 기존 항목 보완 |
+| 통합 실전 훈련 | AIC Fieldwork | — | 2차 | 레벨 60 장비 세트 |
+| 재앙 방호 | Catastrophe | — | 2차 | 기초 장비 |
+| 아부레이의 메아리 | Aburrey's Legacy | — | 2차 | 기초 장비 |
+| 침식 방호 | Mordvolt Resistant | — | 2차 | 기초 장비 |
+| 침식 차단 | Mordvolt Insulation | — | 2차 | 기초 장비 |
+| 위기 탈출 | Redeemer | — | 미확인 | 세트 없는 장비 계열. en 대응 추정 |
+| 절망 | Rift Trekker | — | 미확인 | 세트 없는 장비 계열. en 대응 추정 |
+
+### 무기
+
+ko는 나무위키 「명일방주: 엔드필드/무기」와 하위 문서, en은 endfield.wiki.gg Weapons 기준이다. *표는 대응이 확실하지 않은 것이다. [무기](guides/weapons.md) 참고. 이미 위에 있는 무기(헤라펜거, 산의 지배자, 등불의 사명, 용사, 키메라의 정의, 모범, 과거의 일품, 고대의 강줄기, O.B.J. 헤비 버든, 간식 시간, 망자의 노래)는 영어 표기만 보완한다.
+
+| 한국어 | English | 日本語 | 확인 | 메모 |
+|---|---|---|---|---|
+| 기질 | Essence | — | 미확인 | 무기 스킬 레벨을 올리는 장착물. en 미확인 |
+| 기질 식각 | — | — | 미확인 | 5성 기질 옵션 강화 |
+| 냉각제 | — | — | 미확인 | 기질 식각 실패 시 얻는 천장 재화 |
+| 에너지 응집점 | — | — | 미확인 | 이성을 써서 기질을 얻는 필드 지점 |
+| 이성 | — | — | 미확인 | 에너지 응집점에서 쓰는 소모 수치 |
+| 지역별 각인권 | — | — | 미확인 | 기질 결과 확률을 올리는 아이템 |
+| 물자 관리 단말기 | — | — | 미확인 | 지역별 각인권을 파는 곳 |
+| 무기고 거래소 | Arsenal Exchange | — | 미확인 | 무기 획득처 |
+| 무기고 신청 | — | — | 미확인 | 기간 한정 무기 획득 메뉴 |
+| 프로토콜 통행증 | — | — | 미확인 | 시즌 보상 체계. 통행증 무기를 줌 |
+| 백야의 별 | White Night Nova | — | 2차 | 6성 한손검 |
+| 위대한 이름 | Eminent Repute | — | 2차 | 6성 한손검 |
+| 테르밋 커터 | Thermite Cutter | — | 2차 | 6성 한손검 |
+| 부요 | Rapid Ascent* | — | 미확인 | 6성 한손검 |
+| 끝없는 방랑 | Never Rest | — | 2차 | 6성 한손검. 포그라니치니크 전용 |
+| 장대한 염원 | Grand Vision | — | 2차 | 6성 한손검. 관리자 전용 |
+| 용조의 불꽃 | Forgeborn Scathe | — | 2차 | 6성 한손검. 레바테인 전용 |
+| 늑대의 혈흔 | Lupine Scarlet | — | 2차 | 6성 한손검. 로시 전용 |
+| 암흑의 횃불 | Umbral Torch | — | 2차 | 6성 한손검 |
+| 찬란했던 기억 | Glorious Memory | — | 2차 | 6성 한손검 |
+| 조망 | Farsight | — | 2차 | 6성 한손검 |
+| 강철의 여운 | Sundering Steel* | — | 미확인 | 5성 한손검 |
+| 숭배의 시선 | Aspirant* | — | 미확인 | 5성 한손검. 진천우 전용 |
+| O.B.J. 엣지 오브 라이트 | OBJ Edge of Lightness | — | 2차 | 5성 한손검. 아케쿠리 전용 |
+| 십이문 | Twelve Questions* | — | 미확인 | 5성 한손검. 아크라이트 전용 |
+| 린수를 찾아서 3.0 | Finchaser 3.0 | — | 2차 | 5성 한손검. 알레쉬 전용 |
+| 불사의 성주 | Fortmaker* | — | 미확인 | 5성 한손검 |
+| 드러난 칼날 / 거대한 격랑 | Prominent Edge / Wave Tide | — | 2차 | 4성 한손검 |
+| 타르 11 | Tarr 11 | — | 2차 | 3성 한손검 |
+| 분쇄의 군주 | Sundered Prince | — | 2차 | 6성 양손검 |
+| 과거의 일품 | Former Finery | — | 2차 | 기존 항목 보완 |
+| 모범 | Exemplar | — | 2차 | 기존 항목 보완 |
+| 헤라펜거 | Khravengger | — | 2차 | 기존 항목 보완 |
+| 천둥의 흔적 | Thunderberge | — | 2차 | 6성 양손검. 엠버 전용 |
+| 적영 | Amaranthine Tassel* | — | 미확인 | 6성 양손검. 미브 전용 |
+| 옥에 깃든 형체 | Jade Vessel* | — | 미확인 | 6성 양손검. 사 전용 |
+| 유구한 전승 | Long Heritage* | — | 미확인 | 6성 양손검. 프로토콜 통행증 |
+| 환상통 | Phantom Pain | — | 2차 | 6성 양손검 |
+| O.B.J. 헤비 버든 | OBJ Heavy Burden | — | 2차 | 기존 항목 보완 |
+| 최후의 메아리 | Finishing Call* | — | 미확인 | 5성 양손검. 스노우샤인 전용 |
+| 고대의 강줄기 | Ancient Canal | — | 2차 | 기존 항목 보완 |
+| 검은 추적자 | Seeker of Dark Lung* | — | 미확인 | 5성 양손검 |
+| 공업 0.1 / 불꽃의 시험 | Industry 0.1 / Quencher* | — | 미확인 | 4성 양손검 |
+| 다호프 7 | Darhoff 7 | — | 2차 | 3성 양손검 |
+| J.E.T. | JET | — | 2차 | 6성 장병기 |
+| 용사 | Valiant | — | 2차 | 기존 항목 보완 |
+| 산의 지배자 | Mountain Bearer | — | 2차 | 기존 항목 보완 |
+| 붉게 물든 가호 | Blessing of Lustrous Carmine | — | 2차 | 6성 장병기 |
+| 찬란한 밤의 데뷔 | Bedazzling Night Debut | — | 2차 | 6성 장병기. 리노 전용 |
+| 등불의 사명 | Beacon of Duty* | — | 미확인 | 기존 항목 보완 |
+| 전성기 | Golden Age | — | 2차 | 6성 장병기 |
+| 중심력 | Cohesive Traction* | — | 미확인 | 5성 장병기. 아비웨나 전용 |
+| O.B.J. 스파이크 | OBJ Razorhorn | — | 2차 | 5성 장병기. 에스텔라 전용 |
+| 키메라의 정의 | Chimeric Justice | — | 2차 | 기존 항목 보완 |
+| 아겔로스 사냥꾼 / 개척자의 이정표 | Aggeloslayer / Pathfinder's Beacon | — | 2차 | 4성 장병기 |
+| 오페로 77 | Opero 77 | — | 2차 | 3성 장병기 |
+| 클래니벌 | Clannibal | — | 2차 | 6성 권총 |
+| 쐐기 | Wedge | — | 2차 | 6성 권총 |
+| 예술의 폭군 | Artzy Tyrannical | — | 2차 | 6성 권총. 이본 전용 |
+| 반항 | Brigand's Calling* | — | 미확인 | 6성 권총. 탕탕 전용 |
+| 항로의 개척자 | Navigator* | — | 미확인 | 6성 권총 |
+| 향수 | Home Longing* | — | 미확인 | 6성 권총 |
+| 이성적인 작별 | Rational Farewell | — | 2차 | 5성 권총. 울프가드 전용 |
+| O.B.J. 벨로시투스 | OBJ Velocitous | — | 2차 | 5성 권총. 플루라이트 전용 |
+| 작품: 중생 | Opus: The Living | — | 2차 | 5성 권총 |
+| 끝없는 여정 / 하울링 가드 | Long Road* / Howling Guard | — | 미확인 | 4성 권총 |
+| 페코 5 | Peco 5 | — | 2차 | 3성 권총 |
+| 기사도 정신 | Chivalric Virtues | — | 2차 | 6성 아츠 유닛 |
+| 망각 | Oblivion | — | 2차 | 6성 아츠 유닛 |
+| 폭발 유닛 | Detonation Unit | — | 2차 | 6성 아츠 유닛 |
+| 바다와 별의 꿈 | Dreams of the Starry Beach | — | 2차 | 6성 아츠 유닛. 아델리아 전용 |
+| 사명의 길 | Delivery Guaranteed* | — | 미확인 | 6성 아츠 유닛. 질베르타 전용 |
+| 고독한 나룻배 | Lone Barge | — | 2차 | 6성 아츠 유닛. 장방이 전용 |
+| 42식 · 척결 | Type 42: Solemn Phalanx | — | 2차 | 6성 아츠 유닛. 결 전용 |
+| 추운 밤의 그림자 | Umbra of Frigid Eventide | — | 2차 | 6성 아츠 유닛. 티프로스 전용 |
+| 작품: 침식 흔적 | Opus: Etch Figure | — | 2차 | 6성 아츠 유닛 |
+| 안개 속 불빛 | Flickers in the Mist | — | 2차 | 6성 아츠 유닛 |
+| 공명점 | Junction Point | — | 2차 | 6성 아츠 유닛 |
+| 고난의 끝 | Suffering's End | — | 2차 | 6성 아츠 유닛 |
+| O.B.J. 아츠 아이덴티티 | OBJ Arts Identifier | — | 2차 | 5성 아츠 유닛. 안탈 전용 |
+| 선교의 자유 | Freedom to Proselytize | — | 2차 | 5성 아츠 유닛. 자이히 전용 |
+| 황무지의 방랑자 (무기) | Wild Wanderer | — | 2차 | 5성 아츠 유닛. 펠리카 전용. 아크라이트 재능 '황무지의 방랑자'(Wildland Trekker)와 다름 |
+| 무가내하 | Monaihe | — | 2차 | 5성 아츠 유닛 |
+| 망자의 노래 | Stanza of Memorials | — | 2차 | 기존 항목 보완 |
+| 섬광 번개 / 오토 하이퍼노바 | Fluorescent Roc* / Hypernova Auto | — | 미확인 | 4성 아츠 유닛 |
+| 지미니 12 | Jiminy 12 | — | 2차 | 3성 아츠 유닛 |
+
+### 통합 공업 시스템·거점
+
+ko는 나무위키 「/공업」「/설비」「/지역」, en은 endfield.wiki.gg AIC·Facilities·Outpost·Regional Development 기준이다. [통합 공업 시스템](guides/aic.md), [거점과 지역 개발](guides/settlements.md) 참고.
+
+| 한국어 | English | 日本語 | 확인 | 메모 |
+|---|---|---|---|---|
+| 공업 모드 | — | — | 미확인 | 공장 건설 화면 |
+| 통합 핵심 구역 | core AIC area | — | 미확인 | 코어 구역. 4번 협곡 거점 지역, 무릉 무릉성 |
+| 공업 발전 계획 | AIC Factory Plan | — | 2차 | 설비 해금 연구 |
+| 프로토콜 데이터 수집기 | — | — | 미확인 | 공업 포인트를 주는 노란 풍선 |
+| 열에너지 뱅크 | Thermal Bank | — | 2차 | 광물·배터리로 전력 생산 |
+| 전력 공급기 | Electric Pylon | — | 2차 | |
+| 중계기 | Relay Tower | — | 2차 | 80미터 |
+| 식양 전력 공급기 / 식양 중계기 | Xiranite Pylon / Xiranite Relay | — | 2차 | 무릉 전용 |
+| 창고 | Depot | — | 2차 | 지역 공유 저장소 |
+| 암관 | Conduit | — | 2차 | 장거리 수송 |
+| 프로토콜 저장함 | Protocol Stash | — | 2차 | |
+| 간편 보관소 | Easy Stash | — | 2차 | |
+| 전언 신호기 | Memo Beacon | — | 2차 | |
+| 전동 채굴기 | Electric Mining Rig | — | 2차 | |
+| 수력 채굴기 | Hydro Mining Rig | — | 2차 | |
+| 양수기 | Fluid Pump | — | 2차 | |
+| 기체 수집기 | Gas Extractor | — | 2차 | |
+| 정련로 | Refining Unit | — | 2차 | |
+| 분쇄기 | Shredding Unit | — | 2차 | |
+| 부품 가공기 | Fitting Unit | — | 2차 | |
+| 성형기 | Moulding Unit | — | 2차 | |
+| 재배기 / 씨앗 추출기 | Planting Unit / Seed-Picking Unit | — | 2차 | |
+| 장비 부품 합성기 | Gearing Unit | — | 2차 | |
+| 충진기 / 포장기 | Filling Unit / Packaging Unit | — | 2차 | |
+| 연마기 | Grinding Unit | — | 2차 | |
+| 반응기 / 확장 반응기 | Reactor Crucible / Expanded Crucible | — | 2차 | |
+| 천화로 | Forge of the Sky | — | 2차 | 식양·중식양 생산 |
+| 정제기 / 분해기 | Purification Unit / Separating Unit | — | 2차 | |
+| 오염수 처리기 | Water Treatment Unit | — | 2차 | |
+| 정수 노드 | — | — | 미확인 | 실험 구역의 오염수 처리 시설 |
+| 논배미 | — | — | 미확인 | 재배 구역 |
+| 공업 보고서 | — | — | 미확인 | F10 생산·소비 통계 |
+| 자수정 / 페리움 / 적동 / 혁동 / 작동 | — | — | 미확인 | 광물·금속 자원 |
+| 양정 / 중식양 / 액화 식양 / 액화 중식양 | — | — | 미확인 | 무릉 식양 계열 생산품 |
+| 거점 | Outpost | — | 2차 | 서브 코어 구역 |
+| 거점 거래 | — | — | 미확인 | 관리권을 얻는 거래 |
+| 거점 방어 | — | — | 미확인 | 오퍼레이터 투입 모드 / 자동 방어 모드 |
+| (미확인) | Prosperity | — | 미확인 | 거점 거래로 오르는 거점 성장 수치. ko 표기를 찾지 못함 — '번영도'로 옮기지 말 것. 커뮤니티는 '거점 레벨'로 부름 |
+| 지역 건설 레벨 | Regional Development | — | 공식(ko) | 유지보수자 확인 (2026-10-21) |
+| 지역 건설치 | Regional Development Metric | — | 2차 | 지역 건설 레벨을 올리는 수치. ko는 커뮤니티 표현, 게임 화면 표기 미확인 |
+| 프로토콜 용량 | — | — | 미확인 | 구역별 설비 배치 한도 |
+| 집라인 후크 / 장거리 집라인 후크 | Zipline Pylon / Zipline Tower* | — | 미확인 | en 짝 추정 |
+| 전투 보조 타워 | — | — | 미확인 | 전술 시설 상한에 묶인 타워 |
+| 프로토콜 전송 지점 | — | — | 미확인 | 순간 이동 지점 |
+| 천왕 평지 건설 지원소 | Sky King Flats Construction Site | — | 2차 | 경옥 골짜기 거점 |
+| 심장 수복실 | Cardiac Remediation Station | — | 2차 | 수돈 거점 |
+| 영천대 건설 기지 | — | — | 미확인 | 응룡 관문 거점 |
+
+## 세력·위협·역사
+
+ko는 나무위키 등장인물·설정·스토리·네파리스·아다시르 문서, en은 endfield.wiki.gg(중추 파일 영어 텍스트 포함), ja는 나무위키·endfield.wiki.gg의 다른 언어 표기 기준이다. [세력](guides/factions.md), [아겔로스와 침식](guides/aggeloi_and_blight.md), [탈로스력 연표](guides/timeline.md), [네파리스와 본 크러셔](guides/nefarith.md), [파운데이션](guides/foundation.md) 참고.
+
+| 한국어 | English | 日本語 | 확인 | 메모 |
+|---|---|---|---|---|
+| 문명 밴드 주민 | Band Residents | — | 미확인 | ko는 영어 텍스트를 옮긴 것. 탈로스2 인구의 90% 이상 |
+| U3 | Unshakable Members of the Band Accord | — | 2차 | 기존 항목 보완. ko 정식 표기 미확인 |
+| 밴드 협약 | Band Accord | — | 2차 | 기존 항목 보완 |
+| 탈로스 II 상업연합회 | Talos II General Chamber of Commerce (TGCC) | 環タロ商会 | 2차 | 기존 항목 보완. zh 環塔商會 |
+| 자유시 | Free Cities | — | 2차 | 상업연합회의 자치 도시 |
+| 탈로스 성 | Talos City | — | 2차 | U3가 함께 짓는 중립 자유시. 행정 수도 |
+| 오보르니스크 | Aubornisk | — | 미확인 | 광업 도시. en은 나무위키 표기 |
+| 라반도르마 | Lavandorma | — | 미확인 | 기존 항목 보완. en은 나무위키 표기 |
+| 합금 무성 | Alloycarrot | — | 2차 | 카치르의 출신 자유시 |
+| 뉴 랭크우드 | New Wrankwood | — | 2차 | 안탈의 출신 자유시 |
+| 옐시 | Kjersch | — | 2차 | 설산 자유시. 아다시르가 출신지로 소개한 곳 |
+| 신 츠쿠시 | Neo Tsukushi | — | 2차 | 아케쿠리가 상학원을 졸업한 자유시 |
+| 라 판토마 | La Fantoma | — | 2차 | 상업연합회의 자유시 |
+| 아스팔드 라운드어바웃 | — | — | 미확인 | 상업연합회의 무법 도시 |
+| 레이시언 인더스트리 / 미에슈코 공업 / 지바 상업 회사 | RAYTHEAN Industries / Mieszko Industries / — | — | 2차 | 상업연합회 참여 기업. 지바 상업 회사 en 미확인 |
+| 철의 서약군 | Order of Steel Oath | 鉄誓軍 | 2차 | 기존 항목 보완 |
+| 고요한 수도회 | Cabal of Tranquility | 静語伝道会 | 2차 | 기존 항목 보완 |
+| 베리타스 | — | — | 미확인 | 고요한 수도회가 숭배하는 기계 신 |
+| 만물의 대지 | Hannabit Circuit | 衆生長地 | 2차 | 기존 항목 보완 |
+| 세쉬카 | Seš'qa | セシュカ | 2차 | 기존 항목 보완 |
+| 플레밍 | — | — | 미확인 | 세쉬카 수석 비즈니스 고문. '교량 건설자' |
+| 붉게 물든 가호 | — | — | 미확인 | 무기. 세쉬카의 기원을 그린 이야기가 실림 |
+| 사미베르그 | Samifjod* | — | 미확인 | 기존 항목 보완. en은 영어 위키 세력 목록의 대응 추정 |
+| 울프팀 | The Pack | — | 2차 | 기존 항목 보완 |
+| 사막 도적 | Sandreavers | — | 2차 | 랜드브레이커 3대 집단 |
+| 그레이 운드 | Grayscars | — | 2차 | 랜드브레이커 집단 |
+| 서약의 노래 | Binding Verses | — | 2차 | 그레이 운드가 몸에 새기는 것 |
+| 그림자 해골 | Shadowskulls | — | 2차 | 랜드브레이커 집단 |
+| 제이컵 마이센 | Jakub Meissen | — | 2차 | 기존 항목 보완. 1.0 버전 표기 '제이콥'. 영어 기록의 이명 Warlord of the Wilds |
+| 본 크러셔 | Bonekrushers | — | 2차 | 기존 항목 보완. 세력명은 wiki.gg 기준 Bonekrushers, 장비명은 Bonekrusha |
+| 로댄 | Rhodagn | — | 2차 | '본 크러셔의 주먹'. 네파리스의 오른팔 |
+| 덴스택 | Denstack | — | 미확인 | 영어 기록의 장치명. 지옥의 용광로와 같은 장치로 보이나 미확인 |
+| 안갯불 | hazefyre | — | 미확인 | 네파리스가 들여온 환각성 안개. ko는 아이템 '안갯불에 물든 꽃'(Hazefyre Blossom)에서 대응 |
+| 랜드브레이커 살인사건 | — | — | 미확인 | 4번 협곡 서브 퀘스트 |
+| 샤를 | Char* | — | 미확인 | 카뮤의 쌍둥이 동생. wiki.gg의 본 크러셔 두목 Char와 같은 인물인지 미확인 |
+| 아다크리스 | Archosauria | — | 2차 | 네파리스의 종족 |
+| 추방자 | Exiles | — | 2차 | 파운데이션의 다른 이름 |
+| 40 영웅 | Forty Heroes | — | 2차 | 탈로스력 15년 관리자와 함께 북극에서 승리한 이들 |
+| 테라 연합 과학 탐사단 | Terran Joint Science Expedition | — | 2차 | 기존 항목 보완. 파운데이션의 공격이 1차 전쟁을 촉발 |
+| 선사 문명 | Precursor Civilization | — | 2차 | 파운데이션이 그 유산을 손에 넣음 |
+| 알레이크레오스 | Alleikhreos | — | 2차 | 기존 항목 보완. 이명 천부장 |
+| 정체불명의 소녀 | Mysterious Girl | — | 미확인 | 파운데이션 소속. ko는 나무위키 서술 표현 |
+| 엘 아이그니스 | — | — | 미확인 | 서막의 거인 |
+| 탈로스 V | Talos V | — | 미확인 | 탈로스의 또 다른 위성 |
+| 파샤 | Pasha | — | 2차 | 아다시르가 밝힌 사르곤에서의 지위 |
+| 탈로스력 / 탈로스 원년 | Talosian Calendar | — | 2차 | 인류가 스타게이트를 건너온 시기를 원년으로 하는 역법 |
+| 치욕의 전쟁 | — | — | 미확인 | 1차 전쟁 뒤의 내전 |
+| 제2차 아겔로스 전쟁 | Second Aggeloi War | — | 2차 | 연도가 출처마다 다름(139년 / 142년) |
+| 광렵제 | Wild Hunt Uprising | — | 미확인 | 1차 전쟁 후반기 사미 추종자들의 봉기. ko는 나무위키 연표 표기 |
+| 오로라 | Aurora of Talos-II | — | 2차 | 1차 전쟁 때 북쪽에 생긴 현상. 스노우샤인의 기억 원형 '오로라'와 다름 |
+| 앵커 | Ankhor | — | 2차 | 기존 항목 보완. 아겔로스를 만드는 것 |
+| 표준 아겔로스 분류 | Standard Aggeloid Classification (SAC) | — | 미확인 | ko는 영어 텍스트를 옮긴 것 |
+| 동적 침식 / 정적 침식 | Active Blight / Static Blight | — | 2차 | |
+| 침식 코어 | Blight Core | — | 2차 | 동적 침식을 없애려면 부숴야 하는 것 |
+| 침식성 뇌 손상 | Blight-induced brain injury (BLIBI) | — | 미확인 | ko는 영어 텍스트를 옮긴 것 |
+| 균열 | Rift | — | 2차 | 현실과 초자연의 경계가 찢어진 곳. 심도 0.5 안팎 |
+| 에테르 | Æther | — | 미확인 | 초자연에서 온 에너지·물질. ko 게임 표기 미확인 |
+| 초자연 실험장 | Æther Test Site | — | 2차 | 4번 협곡 에너지 공급 고지 |
+| 초자연 환경 영향 증후군 | — | — | 미확인 | 기존 '초자연 증후군' 항목의 정식 명칭 |
+
+## 육성 재료·재화
+
+ko는 나무위키 아이템 문서(게임 안 설명문 인용), en은 endfield.wiki.gg 아이템 목록 기준이다. [육성 재료와 획득처](guides/materials.md) 참고.
+
+| 한국어 | English | 日本語 | 확인 | 메모 |
+|---|---|---|---|---|
+| 초급 / 중급 / 고급 작전 기록 | Elementary / Intermediate / Advanced Combat Record | — | 2차 | 오퍼레이터 경험치 |
+| 초급 / 고급 인지 매개체 | Elementary / Advanced Cognitive Carrier | — | 2차 | 레벨 60 이후 경험치 |
+| 프로토콜 디스크 / 프로토콜 디스크 세트 | Protodisk / Protoset | — | 2차 | 정예화 |
+| 프로토콜 프리즘 / 프로토콜 프리즘 세트 | Protoprism / Protohedron | — | 2차 | 스킬 |
+| 존속의 흔적 | Mark of Perseverance | — | 2차 | 스킬 마스터리 |
+| 무기 점검 유닛 / 장치 / 세트 | Arms Inspector / Arms INSP Kit / Arms INSP Set | — | 2차 | 무기 경험치 |
+| 모형 틀 / 중형 모형 틀 | Cast Die / Heavy Cast Die | — | 2차 | 무기 돌파 |
+| 초거리 빛 반사 파이프 | Metadiastima Photoemission Tube | — | 2차 | 고급 육성 재료 |
+| D96강 시제품 4번 | D96 Steel Sample 4 | — | 2차 | 고급 육성 재료 |
+| 타키온 차폐 구조체 | Tachyon Screening Lattice | — | 2차 | 고급 육성 재료 |
+| 정합용 유체 | Quadrant Fitting Fluid | — | 2차 | 고급 육성 재료 |
+| 3상 나노플레이크 칩 | Triphasic Nanoflake | — | 2차 | 고급 육성 재료 |
+| 협곡 각인권 / 무릉 각인권 | Valley / Wuling Engraving Permit | — | 2차 | 기질 속성 각인 |
+| 냉각제 | Coolant Gel | — | 2차 | 기질 식각 |
+| 프로토콜 무기 프로토타입 | Protocolized Weapon Pattern | — | 2차 | 통행증 무기 잠재능력 |
+| 연한 / 보통 / 진한 붉은 기둥 버섯 | Pink / Red / Ruby Bolete | — | 2차 | 정예화 버섯 |
+| 스타게이트 버섯 / 피버섯 / 탈로스 버섯 | Cosmagaric / Bloodcap / Talos Cap | — | 2차 | 레벨 80 정예화 버섯 |
+| 칼코덴드라 / 크리소덴드라 / 비트로덴드라 | Kalkodendra / Chrysodendra / Vitrodendra | — | 2차 | 스킬 결정화 식물 |
+| 바위아겔로스 잎 / 침식된 옥 잎 / 붉은 창 잎 | False Aggela / Blighted Jadeleaf / Crimson Spearleaf | — | 2차 | 스킬 마스터리 |
+| 연한 / 일반 / 진한 흑암석 | Kalkonyx / Auronyx / Umbronyx | — | 미확인 | 무기 돌파. en은 목록 순서로 짝지음 |
+| 화염석 / 무릉석 / 프로토콜 문양석 | Igneosite / Wulingstone / Protocolith | — | 2차 | 무기 돌파 |
+| 조각 / 줄기 / 덩이 (재배 코어) | Mycelia / Tuber / Seed | — | 2차 | 재배실 재배 코어 |
+| 탈로시안 화폐 | — | — | 미확인 | 기본 화폐 |
+| 오로베릴 | — | — | 미확인 | 헤드헌팅 재화 |
+| 파생 오리지늄 | — | — | 미확인 | 별칭 '프로토콜의 눈물' |
+| 무기고 징표 | — | — | 미확인 | 무기 신청 재화 |
+| 보장 징표 | — | — | 미확인 | 중복 오퍼레이터에서 얻는 징표 |
+| 헤드헌팅 허가증 | — | — | 미확인 | 기초·특별 허가·기간 한정 |
+
 ## 히스토리
+
+- 2026-10-21: 세력·위협·역사, 육성 재료·재화 표기 추가. 랜드브레이커의 ja와 파운데이션의 en 보완 (나무위키, endfield.wiki.gg).
+
+- 2026-10-21: 관리권·지역 건설 레벨 확정, Prosperity의 '번영도' 표기 철회, 지역 건설치 추가, 명하 미출시 표시 (유지보수자 확인).
+- 2026-10-20: 사·명하, 장비 세트, 무기, 통합 공업 시스템·거점 표기 추가 (나무위키, endfield.wiki.gg).
 
 - 2026-10-19: 열기·냉기·자연·로시 하이브리드 파티 문서의 강제 이상·속성 폭발·속성 취약·증폭 용어, 로시 편성 통칭, 장비 세트·무기 이름 추가 (나무위키, endfield.wiki.gg).
 - 2026-10-18: 전투 체계·아츠 이상·물리 이상 용어, 4번 협곡·무릉 지명과 1·2장 인물 표기 추가 (나무위키, endfield.wiki.gg, appmedia.jp).

@@ -6,19 +6,6 @@
 
 ## 다음 작업
 
-- 사 오퍼레이터 사양 | operators/si.md | 출시 확인됨 (Austin, 2026-10-19). 냉기 양손검 서포터. 레바테인·결 편성 표에 이미 등장 | 나무위키 사 문서, https://endfield.wiki.gg/wiki/Si
-- 명하 오퍼레이터 사양 | operators/ 아래, 영어 표기 확인 뒤 슬러그 확정 | 출시 확인됨 (Austin, 2026-10-19). 전기 한손검 가드 | 나무위키 명하 문서
-- 관리자 오퍼레이터 사양 | operators/endministrator.md | 개요 명단에서 유일하게 오퍼레이터 문서가 없고, 물리 파티가 관리자의 강타 스킬을 언급함 | https://namu.wiki/w/관리자(명일방주:%20엔드필드)
-- 장비 세트 | guides/gear_sets.md | 오퍼레이터 문서가 식양의 숨결·식양의 흐름·청파·펄스식·개척·생체 보조·고검의 잔향·검술사·경량 초자연 세트를 반복 언급 | 나무위키 장비 문서, endfield.wiki.gg Gear
-- 무기 | guides/weapons.md | 전용 무기·프로토콜 통행증 무기·권한 등급 보상 무기와 기질 식각 | 나무위키 무기 문서, endfield.wiki.gg Weapons
-- 통합 공업 시스템과 공장 | guides/aic.md | 프로토콜 코어·서브 코어·생산 라인, 4번 협곡·무릉 문서가 언급 | 나무위키 「명일방주: 엔드필드/지역」, endfield.wiki.gg AIC
-- 정착지와 지역 개발 | guides/settlements.md | 서브 코어 거점, 프로토콜 용량·집라인·전술 시설 상한, 무릉의 식양 전력·액체 처리 | 나무위키 「/지역」
-- 육성 재료와 획득처 | guides/materials.md | 정예화·스킬 재료, 오로베릴, 재배실 재료 | 나무위키, endfield.wiki.gg Items
-- 세력 | guides/factions.md | 연맹 공단·탈로스 II 상업연합회·홍산 과학원(U3), 밴드 협약, 랜드브레이커(본 크러셔·울프팀), 철의 서약군, 만물의 대지 | 나무위키 「/등장인물 및 세력」
-- 아겔로스·앵커·침식·초자연 균열 | guides/aggeloi_and_blight.md | 두 지역 문서가 공통으로 쓰는 위협 설정 | 나무위키 「/설정」, 「탈로스 II」
-- 탈로스력 연표 | guides/timeline.md | 밴드 협약(17년), 응룡 특수부대(23년), 무릉 연구 기지(132년), 제2차 아겔로스 전쟁(139년), 무릉 대재앙(142년) 등 | 나무위키 「/설정」「/스토리」
-- 네파리스와 본 크러셔 | guides/nefarith.md | 1·2장 공통의 적 | 나무위키 「/등장인물 및 세력」
-- 파운데이션 | guides/foundation.md | 2장 VII에서 드러난 적대 세력 | 나무위키 「/스토리」
 - 사의 그림과 2장 VIII | guides/wuling.md 보강 또는 별도 문서 | 1.6 버전 스토리 | 나무위키 「/스토리」, endfield.wiki.gg Si
 - 전투 컨텐츠 | guides/combat_content.md | 위기 협약, 그림자 이정표 등 오퍼레이터 문서가 언급하는 고강도 컨텐츠 | 나무위키
 - 프로토콜 통행증과 권한 등급 | guides/protocol_pass.md | 무기 획득 경로로 반복 언급 | 나무위키
@@ -28,16 +15,38 @@
 - 레바테인 편성 갱신 | operators/laevatain.md 수정 | 편성이 나무위키 2026-09-22 수정본 기준. 2026-10-16 수정본은 사·결·카뮤를 넣은 편성 표를 실음 | 나무위키 「레바테인(명일방주: 엔드필드)」
 - 아츠 폭발의 부착 스택 증가 | guides/status_anomalies.md 수정 | wiki.gg는 아츠 폭발이 부착 스택을 하나 늘린다고 적음. 문서의 '확인하지 못한 것' 항목 정리 | https://endfield.wiki.gg/wiki/Arts_Burst
 - 위기 협약·재점화 실험 작전·그림자 이정표 | 위 '전투 컨텐츠' 항목에 합쳐 다룸 | 오퍼레이터 히스토리 여러 곳이 언급 | 나무위키 「위기 협약」
+- 사를 넣은 사이클 | parties/cryo.md·parties/heat.md 보강 | 두 파티 문서는 사를 자리 표에만 넣었고, 라스트 라이트·레바테인 뒤의 사 연계와 궁극기 쿨타임 감소를 넣은 순환은 쓰지 않음 | operators/si.md, 나무위키 「사」「레바테인」 편성 표
+- 베헤모스와 쉐이 | guides/behemoth.md | 사 문서의 배경(베헤모스 대리인, 쉐이와 열두 대리인, 사세대)과 무릉 문서의 베헤모스·식양 협력 | 나무위키 「쉐이」「명일방주: 엔드필드/설정」
+- 헤드헌팅과 무기고 | guides/headhunting.md | 무기 문서의 무기고 거래소·무기고 신청·무기 보급 상자, 지역 개발 보상의 헤드헌팅 허가증, 한정·상시 구분 | 나무위키 「명일방주: 엔드필드」, endfield.wiki.gg Headhunting
+- 탐색 컨텐츠 | guides/exploration.md | 거점 문서의 운송 의뢰·거점 방어, 무기 문서의 에너지 응집점·이성, 공업 문서의 프로토콜 데이터 수집기 | 나무위키 「/지역」, endfield.wiki.gg
+- 소모품 | guides/consumables.md | 공업 문서의 치유 캡슐·통조림·청량음료·주사약·공업 폭발물 | 나무위키 「/아이템」, 「/설비」
+- 사의 그림과 인연 마을 객잔 | 위 '사의 그림과 2장 VIII' 항목에 합쳐 다룸 | 1.6 버전 객잔 농장·자동 수확 설비(공업 문서), 사 문서의 객잔 설정 | 나무위키 「/지역」「/스토리」
+- 프로토콜 공간 | guides/protocol_space.md | 육성 재료 문서의 획득처(오퍼레이터 경험·돌파·스킬 업그레이드·무기 경험·무기 돌파, 고위험 재료 단계, 위험한 리허설·위험한 재현·위험한 그림자·위험한 재앙 심층 모드)와 이성 소모 | 나무위키 「/전투」「/아이템/육성 재료」, endfield.wiki.gg
+- 구매 센터와 징표 | 위 '헤드헌팅과 무기고' 항목에 합쳐 다룸 | 육성 재료 문서의 통합 징표·보장 징표·크레딧 거래소·오리지늄 거래소·허가증 거래소 | 나무위키 「/아이템/재화」, 「명일방주: 엔드필드」
+- 리시아 | 인물 문서 또는 guides/factions.md 보강 | 1장 Ⅳ와 세력 문서의 랜드브레이커 리시아(펠리카와 함께 자란 엔드필드 출신, 관리자와의 약속, 초자연 '사냥') | 나무위키 「/등장인물 및 세력」, 펠리카 파일 자료
+- 테라 연합 과학 탐사단 | guides/foundation.md·guides/timeline.md 보강 | 파운데이션의 공격으로 1차 전쟁이 시작된 대상이자 카뮤 부모의 소속, 홍산 과학원 설립에 함께한 연합 과학 탐사단과의 관계 | 나무위키 「카뮤(명일방주: 엔드필드)」「/등장인물 및 세력」, endfield.wiki.gg
 
 ## 확인 필요
+
+- 명하 출시 시점 | 2026-10-21 기준 미출시, 약 2주 뒤(11월 초, gamsgo 배너 일정 2026-11-05와 일치) 출시 예정 (유지보수자 확인). 출시되고 수치가 공개되면 operators/argent_flow.md(영어 코드네임 Argent Flow, 본명 야명하)로 쓴다.
 
 - 1장 장 경계 | 세대의 요람(트리아겔로스)은 Ⅱ인가 Ⅲ인가, 에너지 공급 고지 공략은 Ⅲ인가 Ⅳ인가. 아부레이 채석장 구조는 메인 스토리인가?
 - 1·2장 장 제목 | 「파괴된 대지」「오염된 하늘의 장막」「여정의 길」「잔불과 전쟁의 향기」, 「안개의 나루」~「심연을 떠나며」가 게임 안 한국어 제목과 같은가? 2장 VI의 추가 버전은?
 - 오리지늄 나무의 공식 명칭 | 영문 Great Originium Oak. 한국어 클라이언트 표기는?
 - 장방이 직함 | 나무위키 '대리 책임자', 영문 Viceroy. 한국어 클라이언트 표기는?
+- 랜드브레이커가 세워진 해 | 중추 파일 '랜드브레이커' 영어 텍스트는 탈로스력 90년, 나무위키는 59년으로 적는다. 게임 안 한국어 텍스트는 몇 년인가? (guides/timeline.md, guides/factions.md)
+- 제2차 아겔로스 전쟁의 해 | 1장 Ⅳ 꿈 장면과 나무위키는 139년, endfield.wiki.gg 제1차 아겔로스 전쟁 문서는 142년으로 적는다. 게임 안 중추 파일에 제2차 전쟁의 해가 적힌 기록이 있는가?
+- 지옥의 용광로와 Denstack, 안갯불 | 영어 기록의 Denstack(제이컵이 세쉬카에서 가져온 용광로 모양 장치)이 한국어 '지옥의 용광로'와 같은 것인가? hazefyre의 한국어 게임 표기는 '안갯불'인가? (guides/nefarith.md)
+- 본 크러셔의 새 두목 | endfield.wiki.gg는 네파리스 이후 두목으로 뱀파이어 Char를 적는다. 카뮤의 쌍둥이 동생 샤를과 같은 인물인가, 게임 안에서 그가 본 크러셔 두목으로 나오는가?
+- 서막의 소녀 | 나무위키 스토리 문서는 서막 시뮬레이션에서 관리자를 맞는 소녀를 펠리카로, 등장인물 문서는 파운데이션의 정체불명의 소녀로 적는다. 어느 쪽인가? (guides/foundation.md)
+- 레벨 80 정예화 버섯 | 스타게이트 버섯·피버섯·탈로스 버섯은 오퍼레이터마다 어느 것을 쓰는가? 피버섯은 레벨 70부터 쓰는가(조각 설명문) 레벨 80인가(버섯 설명문)? (guides/materials.md)
 - 레바테인 열화의 궁극기 에너지 | 25/30/35는 연계 스킬 기본 10에 더해지는가, 그것을 대신하는가? 황혼 강화 일반 공격 4단은 강력한 일격으로 판정되어 부착을 흡수하는가?
 
 ## 완료
+
+- 2026-10-21: guides/materials.md, guides/factions.md, guides/aggeloi_and_blight.md, guides/timeline.md, guides/nefarith.md, guides/foundation.md
+
+- 2026-10-20: operators/si.md, guides/gear_sets.md, guides/weapons.md, guides/aic.md, guides/settlements.md. 관리자 문서(operators/endministrator.md)는 2026-10-19에 이미 들어와 있어 목록에서 정리
 
 - 2026-10-19: operators/*.md 31개 사이클 역할 절 추가와 평가 절 정리(특징 절로), parties/heat.md, parties/cryo.md, parties/nature.md, parties/rossi_hybrid.md
 - 2026-10-18: guides/combat_basics.md, guides/status_anomalies.md, guides/valley_iv.md, guides/wuling.md, parties/electric.md, parties/physical.md
