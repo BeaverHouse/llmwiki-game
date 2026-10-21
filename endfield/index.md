@@ -26,14 +26,18 @@
 - [guides/aggeloi_and_blight.md](guides/aggeloi_and_blight.md) — 아겔로스와 침식 (초자연·균열·에테르, 초자연 증후군, 동적·정적 침식과 심도, 게임 안 침식 제거, 아겔로스와 앵커, 별체·트리아겔로스·마블 아겔로미레, 오로라)
 - [guides/nefarith.md](guides/nefarith.md) — 네파리스와 본 크러셔 (네파리스 프로필, 본 크러셔의 기원·지옥의 용광로·안갯불·숙청, 1장 4번 협곡과 2장 무릉의 행적, 1.4 생존)
 - [guides/foundation.md](guides/foundation.md) — 파운데이션 (중추 파일 '파운데이션' 네 항목, 추방과 139년의 귀환, 탈로스 V, 정체불명의 소녀·알레이크레오스·아다시르·네파리스)
+- [guides/si_painting.md](guides/si_painting.md) — 사의 그림 (1.6 버전 무릉의 여덟 번째 지역. 그림 속 세계의 설정·한도·전력·자원, 인연 마을 객잔 평가와 농장·목장·자동 수확 설비, 메인 스토리 2장 VIII 「심연을 떠나며」 장면별 줄거리)
+- [guides/civilization_band.md](guides/civilization_band.md) — 문명 밴드의 도시 (라반도르마(La Fantoma), 탈로스 성, 맛 고로도프, 오보르니스크, 트리글라바의 설정과 관련 오퍼레이터 기록, 출처마다 다른 이름과 베타 테스트 시기 설정)
+- [guides/combat_content.md](guides/combat_content.md) — 전투 컨텐츠 (위기 협약의 제약·규칙·보상·시즌, 그림자 이정표 시리즈와 Agony 모드, 전쟁의 메아리 등급·칭호, 선검 연무의 Dataplate와 Data Overflow, 입장 권한 등급)
+- [guides/protocol_pass.md](guides/protocol_pass.md) — 프로토콜 통행증과 권한 등급 (통행증 세 단계·경험치 획득·보상·통행증 무기 선택 상자, 권한 등급과 작전 경력 획득처, 레벨별 이성 상한과 필요 경력)
 - [guides/materials.md](guides/materials.md) — 육성 재료와 획득처 (경험치·정예화·스킬·무기 재료, 고급 육성 재료 5종, 각인권·냉각제, 희귀 재료 버섯·결정화 식물·광물의 용도와 채집 지역, 재배 코어, 오로베릴·파생 오리지늄 등 재화)
 
 ## parties/
 
-- [parties/electric.md](parties/electric.md) — 전기 파티 (감전의 공급과 소모, 자리별 역할, 장방이 사이클과 아비웨나 사이클, 새 오퍼레이터 배치 기준)
+- [parties/electric.md](parties/electric.md) — 전기 파티 (감전의 공급과 소모, 자리별 역할, 장방이 사이클과 아비웨나 사이클, 알레쉬·결이 들어가는 자리, 새 오퍼레이터 배치 기준)
 - [parties/physical.md](parties/physical.md) — 물리 파티 (방어 불능 쌓기와 갑옷 파괴·강타 소모, 포그라니치니크의 게이지 공급, 기본 사이클, 디펜더·쇄빙·하이브리드 변형, 새 오퍼레이터 배치 기준)
 - [parties/heat.md](parties/heat.md) — 열기 파티 (열기 부착·열기 폭발·연소, 레바테인의 부착 흡수와 녹아내린 불꽃, 레바테인·울프가드·아델리아·카뮤 사이클과 황혼 딜 구간, 게이지·에너지 수지, 새 오퍼레이터 배치 기준)
-- [parties/cryo.md](parties/cryo.md) — 냉기 파티 (냉기 부착·동결·쇄빙, 라스트 라이트 3스택 연계 조건, 라스트 라이트·이본·쇄빙 사이클, 게이지·에너지 수지, 새 오퍼레이터 배치 기준)
+- [parties/cryo.md](parties/cryo.md) — 냉기 파티 (냉기 부착·동결·쇄빙, 라스트 라이트 3스택 연계 조건, 라스트 라이트·이본·쇄빙 사이클, 탕탕 메인 딜 사이클, 게이지·에너지 수지, 새 오퍼레이터 배치 기준)
 - [parties/nature.md](parties/nature.md) — 자연 파티 (자연 부착·자연 폭발·부식, 티프로스 계시·사냥 화살 사이클, 진결·지혜 결 사이클, 게이지 수지, 새 오퍼레이터 배치 기준)
 - [parties/rossi_hybrid.md](parties/rossi_hybrid.md) — 로시 하이브리드 파티 (방어 불능과 아츠 부착을 함께 쓰는 로시 연계 조건, 로질펠 사이클, 강제 이상이 부착을 남기는 원리, 울프가드·결·탕탕·물리·쇄빙 변형, 새 오퍼레이터 배치 기준)
 
