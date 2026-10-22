@@ -1,7 +1,6 @@
 ---
 title: 질베르타 (Gilberta)
 type: guide
-status: ai-draft
 aliases: [질베르타, Gilberta, ギルベルタ, 洁尔佩塔, 전달자 아가씨]
 sources:
   - https://namu.wiki/w/질베르타 (2026-09-25 수정본, CC BY-NC-SA 2.0 KR)

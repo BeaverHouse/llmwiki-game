@@ -1,7 +1,6 @@
 ---
 title: 물리 이상 (Physical Status)
 type: guide
-status: ai-draft
 aliases: [물리 이상, 방어 불능, 띄우기, 넘어뜨리기, 강타, 갑옷 파괴, 물리 취약, 공중에 뜸, Physical Status, Vulnerability, Vulnerable, Lift, Knock Down, Crush, Breach, Physical Susceptibility, 物理異常, クラッシュ, 浮遊, 転倒, 猛撃, 破砕]
 sources:
   - https://namu.wiki/w/명일방주:%20엔드필드/전투 (2026-10-16 수정본, CC BY-NC-SA 2.0 KR)

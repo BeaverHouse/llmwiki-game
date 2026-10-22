@@ -1,7 +1,6 @@
 ---
 title: 알레쉬 (Alesh)
 type: guide
-status: ai-draft
 aliases: [알레쉬, Alesh, アレッシュ, 阿列什]
 sources:
   - https://namu.wiki/w/알레쉬 (2026-09-10 수정본, CC BY-NC-SA 2.0 KR)

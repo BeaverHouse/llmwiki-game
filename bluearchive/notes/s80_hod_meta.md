@@ -1,7 +1,6 @@
 ---
 title: 총력전 S80 호드 — 픽률·리포트
 type: note
-status: ai-draft
 aliases: [S80, 호드]
 raid_ids: [S80-0]
 sources:

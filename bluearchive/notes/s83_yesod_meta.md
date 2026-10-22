@@ -1,7 +1,6 @@
 ---
 title: 총력전 S83 예소드 — 픽률·리포트
 type: note
-status: ai-draft
 aliases: [S83, 예소드]
 raid_ids: [S83-0]
 sources:

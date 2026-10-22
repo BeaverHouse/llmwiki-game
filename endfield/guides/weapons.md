@@ -1,7 +1,6 @@
 ---
 title: 무기
 type: guide
-status: ai-draft
 aliases: [무기, 무기 목록, 전용 무기, 무기 스킬, 기질, 기질 식각, 무기 잠재능력, 재련, 무기고 거래소, Weapons, Essence]
 sources:
   - https://namu.wiki/w/명일방주:%20엔드필드/무기 (2026-09-03 수정본, CC BY-NC-SA 2.0 KR)

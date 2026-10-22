@@ -1,7 +1,6 @@
 ---
 title: 총력전 S93 드럼통 게 시가지 리포트
 type: note
-status: ai-draft
 aliases: [S93, 드럼통 게 재등장 메타]
 raid_ids: [S93-0]
 sources:

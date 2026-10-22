@@ -1,7 +1,6 @@
 ---
 title: 총력전 S87 고즈 — 픽률·리포트
 type: note
-status: ai-draft
 aliases: [S87, 고즈]
 raid_ids: [S87-0]
 sources:

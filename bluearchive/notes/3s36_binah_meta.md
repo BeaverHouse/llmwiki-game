@@ -1,7 +1,6 @@
 ---
 title: 대결전 S36 비나 야외 리포트
 type: note
-status: ai-draft
 aliases: [3S36, S36, 비나 야외 대결전]
 raid_ids: [3S36-1, 3S36-2, 3S36-4]
 sources:

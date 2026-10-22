@@ -1,7 +1,6 @@
 ---
 title: 냉기 파티
 type: guide
-status: ai-draft
 aliases: [냉기 파티, 동결 파티, 라스트 라이트 파티, 라라 파티, 이본 파티, 냉기 조합, 냉기 쇄빙 파티]
 sources:
   - https://namu.wiki/w/명일방주:%20엔드필드/전투 (2026-10-16 수정본, CC BY-NC-SA 2.0 KR)

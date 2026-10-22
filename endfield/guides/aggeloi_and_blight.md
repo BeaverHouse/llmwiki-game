@@ -1,7 +1,6 @@
 ---
 title: 아겔로스와 침식 (Aggeloi, Blight)
 type: guide
-status: ai-draft
 aliases: [아겔로스, Aggeloi, Aggelos, アンゲロス, 앵커, Ankhor, 침식, Blight, 동적 침식, 정적 침식, 초자연, Ætherside, 超域, 초자연 균열, 균열, 심도, Depth, 초자연 증후군, 오로라, 별체, 트리아겔로스, 마블 아겔로미레]
 sources:
   - https://namu.wiki/w/명일방주:%20엔드필드/설정 (초자연·아겔로스·초자연 증후군 문단, 한국어 공식 소개 인용, 2026-10-07 수정본, CC BY-NC-SA 2.0 KR)

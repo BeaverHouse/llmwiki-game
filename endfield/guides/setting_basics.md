@@ -1,7 +1,7 @@
 ---
 title: 기본 설정
 type: guide
-status: human-verified
+locked: true
 aliases: [세계관, 기본 설정, 탈로스2, 엔드필드 공업, 관리자, 펠리카]
 sources:
   - user-feedback: 기본 설정 문서 작성 요청과 용어 확인 (Slack, 2026-10-12)

@@ -1,7 +1,6 @@
 ---
 title: 장방이 (Zhuang Fangyi)
 type: guide
-status: ai-draft
 aliases: [장방이, Zhuang Fangyi, ゾアン・ファンイ, 庄方宜, 장 천사]
 sources:
   - https://namu.wiki/w/장방이 (2026-09-10 수정본, CC BY-NC-SA 2.0 KR)

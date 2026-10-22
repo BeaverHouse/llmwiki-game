@@ -1,7 +1,6 @@
 ---
 title: 아크라이트 (Arclight)
 type: guide
-status: ai-draft
 aliases: [아크라이트, Arclight, アークライト, 弧光, 에쿠트]
 sources:
   - https://namu.wiki/w/아크라이트(명일방주:%20엔드필드) (2026-09-11 수정본, CC BY-NC-SA 2.0 KR)

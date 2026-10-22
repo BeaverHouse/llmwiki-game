@@ -1,7 +1,6 @@
 ---
 title: 제약해제결전 입문과 99층 공략
 type: guide
-status: ai-draft
 aliases: [제약 해제 결전, 제결전, 세트의 분노, 호크마, 티페레트]
 sources:
   - "https://forum.nexon.com/bluearchive/board_view?board=1071&thread=2719477"

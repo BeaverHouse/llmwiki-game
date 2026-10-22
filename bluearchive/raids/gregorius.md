@@ -1,7 +1,6 @@
 ---
 title: 그레고리오 (Gregorius)
 type: raid-guide
-status: seeded
 sources:
   - "seed: 내장 가이드에서 이전 (2026-07-06)"
   - "batorment 사이트 데이터: 레이드 목록의 S90 실내 그레고리오 시작일·최고 난이도 (2026-10-19)"

@@ -1,7 +1,6 @@
 ---
 title: 거점과 지역 개발
 type: guide
-status: ai-draft
 aliases: [정착지, 거점, 서브 코어 구역, 서브 거점, 지역 개발, 지역 건설 레벨, 지역 레벨, 관리권, 협곡 관리권, 지역 건설치, 거점 레벨, 거점 거래, 거점 방어, Outpost, Regional Development, Stock Bill, Prosperity]
 sources:
   - https://namu.wiki/w/명일방주:%20엔드필드/지역 (2026-10-19 수정본, CC BY-NC-SA 2.0 KR)

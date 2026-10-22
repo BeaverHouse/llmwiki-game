@@ -1,7 +1,6 @@
 ---
 title: 총력전·대결전 입문
 type: guide
-status: seeded
 aliases: [입문, 초보 가이드, 뉴비 가이드, 시작 가이드]
 sources:
   - "seed: BA Torment 사이트 입문 가이드에서 이전 (2026-07-22)"

@@ -1,7 +1,6 @@
 ---
 title: 아츠 이상과 물리 이상
 type: guide
-status: ai-draft
 aliases: [아츠 부착, 아츠 폭발, 아츠 이상, 연소, 감전, 동결, 부식, 쇄빙, 강제 감전, 강제 동결, 물리 이상, 방어 불능, 띄우기, 넘어뜨리기, 강타, 갑옷 파괴, 이상 레벨]
 sources:
   - https://namu.wiki/w/명일방주:%20엔드필드/전투 (2026-10-16 수정본, CC BY-NC-SA 2.0 KR)

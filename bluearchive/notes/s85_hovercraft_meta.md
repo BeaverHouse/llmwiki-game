@@ -1,7 +1,6 @@
 ---
 title: 총력전 S85 호버크래프트 — 픽률·리포트
 type: note
-status: ai-draft
 aliases: [S85, 호버크래프트, 와카모]
 raid_ids: [S85-0]
 sources:

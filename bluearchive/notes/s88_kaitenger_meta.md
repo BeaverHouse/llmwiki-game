@@ -1,7 +1,6 @@
 ---
 title: 총력전 S88 카이텐져 — 픽률·리포트
 type: note
-status: ai-draft
 aliases: [S88, 카이텐]
 raid_ids: [S88-0]
 sources:

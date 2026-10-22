@@ -1,7 +1,6 @@
 ---
 title: 세리에스(AS) (Cerius Another Style)
 type: guide
-status: ai-draft
 aliases: [세리에스 AS, 세리에스 어나더 스타일, セリエス(AS), セリエス(アナザースタイル), Cerius (Another Style), タケミナカタ]
 sources:
   - https://anothereden.game-info.wiki/d/%A5%BB%A5%EA%A5%A8%A5%B9%28%A5%A2%A5%CA%A5%B6%A1%BC%A5%B9%A5%BF%A5%A4%A5%EB%29 (Seesaa Wiki 「セリエス(アナザースタイル)」, 2026-01-28 수정본, CC BY-NC-SA 4.0)

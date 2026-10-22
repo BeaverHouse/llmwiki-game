@@ -1,7 +1,6 @@
 ---
 title: 스노우샤인 (Snowshine)
 type: guide
-status: ai-draft
 aliases: [스노우샤인, Snowshine, スノーシャイン, 晝雪, 엘윈]
 sources:
   - https://namu.wiki/w/스노우샤인 (2026-09-29 수정본, CC BY-NC-SA 2.0 KR)

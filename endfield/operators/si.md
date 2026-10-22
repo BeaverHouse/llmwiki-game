@@ -1,7 +1,6 @@
 ---
 title: 사 (Si)
 type: guide
-status: ai-draft
 aliases: [사, Si, スー, 祀, 베헤모스 대리인, 쉐이의 대리인, 밍순이]
 sources:
   - https://namu.wiki/w/사(명일방주:%20엔드필드) (2026-10-19 수정본, CC BY-NC-SA 2.0 KR)

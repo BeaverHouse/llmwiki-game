@@ -1,7 +1,7 @@
 ---
 title: 총력전 S86 비나 — 픽률·리포트
 type: note
-status: human-verified
+locked: true
 aliases: [S86, 비나]
 raid_ids: [S86-0]
 sources:

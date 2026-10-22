@@ -1,7 +1,6 @@
 ---
 title: 미브 (Mi Fu)
 type: guide
-status: ai-draft
 aliases: [미브, Mi Fu, ミ・フ, 弭弗, 무릉성 순찰대 대장]
 sources:
   - https://namu.wiki/w/미브 (2026-10-02 수정본, CC BY-NC-SA 2.0 KR)

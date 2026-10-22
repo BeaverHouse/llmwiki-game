@@ -1,7 +1,6 @@
 ---
 title: アン・キ・ディグマ (An Ki Digma)
 type: raid-guide
-status: ai-draft
 aliases: [アン・キ・ディグマ, 안키디그마, An Ki Digma]
 sources:
   - https://anothereden.game-info.wiki/d/%A5%A2%A5%F3%A1%A6%A5%AD%A1%A6%A5%C7%A5%A3%A5%B0%A5%DE (Seesaa Wiki 「アン・キ・ディグマ」, 2026-04-02 수정본, CC BY-NC-SA 4.0)

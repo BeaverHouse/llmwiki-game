@@ -1,5 +1,6 @@
 # Another Eden — 변경 기록 (append-only, 최신이 위)
 
+- 2026-10-22 | ai | 모든 문서 frontmatter | `status` 필드 삭제, 기존 human-verified 문서에 `locked: true` 부여 (스키마 변경, 본문 변경 없음이라 `updated`는 유지) | 근거: 유지보수자 결정 — 문서 단위 검증 라벨은 실제 검토 범위와 맞지 않음, 확인 내용은 sources의 user-feedback으로 문장 단위 기록 (AGENTS.md 2·7절)
 - 2026-10-20 | ai | characters/sesta_as.md·eni.md·necoco_es.md·cerius_as.md·guides/crystal_party.md 신규, guides/meta_characters.md·characters/velette_as.md·alma_as.md·jillfunny_as.md·thillelille_es.md·glossary.md·index.md·backlog.md 수정 | 성장 작업: backlog 상위 캐릭터 4명과 晶 파티 문서 작성 (ai-draft), 환경 캐릭터 평가에서 링크, 네코코(ES) 스킬명 「猫神巫女神楽」→「猫又巫女神楽」 정정, 새 고유명사 용어집 등록, backlog 갱신. 맨 위 정비 항목(일본어 용어 한국어 교체)은 번역표 조회 도구가 없어 보류 | 근거: Seesaa Wiki 「セスタ(アナザースタイル)」「エニ」「ねここ(エクストラスタイル)」「ねここ(アナザースタイル)」「セリエス(アナザースタイル)」「ジルファニー(アナザースタイル)」「チルリル(エクストラスタイル)」「アルマ(アナザースタイル)」「ミストレア」「赤套の炎使い(アナザースタイル)」「環境キャラ・装備まとめ」, altema 검색 결과 요약(페이지는 봇 차단). 사이트 데이터는 조회 결과 없음
 
 - 2026-10-19 | human | characters/mariel.md·characters/yuna.md·backlog.md 수정 | 마리엘(NS)은 무속성(속성 공격 없음)으로 확정, 유나 顕現 퀘스트 질문은 불필요하여 삭제 | 근거: Austin 확인 (2026-10-19)

@@ -1,7 +1,6 @@
 ---
 title: 알마(AS) (Alma Another Style)
 type: guide
-status: ai-draft
 aliases: [알마 AS, 알마 어나더 스타일, アルマ(AS), アルマ(アナザースタイル), Alma (Another Style), エポックメーカー]
 sources:
   - https://anothereden.game-info.wiki/d/%A5%A2%A5%EB%A5%DE%28%A5%A2%A5%CA%A5%B6%A1%BC%A5%B9%A5%BF%A5%A4%A5%EB%29 (Seesaa Wiki 「アルマ(アナザースタイル)」, 2025-07-09 수정본, CC BY-NC-SA 4.0)

@@ -1,7 +1,6 @@
 ---
 title: 푸치나 (Purrchena)
 type: guide
-status: ai-draft
 aliases: [푸치나, Purrchena, プチエナ, 噗切娜, 로살린]
 sources:
   - https://namu.wiki/w/푸치나 (2026-10-10 수정본, CC BY-NC-SA 2.0 KR)

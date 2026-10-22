@@ -1,7 +1,7 @@
 ---
 title: 총력전 S90 그레고리오 픽률과 종합 분석
 type: note
-status: human-verified
+locked: true
 aliases: [S90, 그레고리오 메타]
 raid_ids: [S90-0]
 sources:

@@ -1,7 +1,6 @@
 ---
 title: 대결전 S37 시가지 시로&쿠로 리포트
 type: note
-status: ai-draft
 aliases: [S37, 3S37, 시로쿠로 대결전, 시가지 시로쿠로 대결전]
 raid_ids: [3S37-1, 3S37-3, 3S37-4]
 sources:

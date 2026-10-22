@@ -1,7 +1,6 @@
 ---
 title: 통합 공업 시스템 (AIC)
 type: guide
-status: ai-draft
 aliases: [통합 공업 시스템, AIC, Automated Industry Complex, 공장, 공업, 공업 모드, 프로토콜 코어, 서브 코어, 생산 라인, 설비]
 sources:
   - https://namu.wiki/w/명일방주:%20엔드필드/공업 (2026-08-03 수정본, CC BY-NC-SA 2.0 KR)

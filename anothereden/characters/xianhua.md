@@ -1,7 +1,6 @@
 ---
 title: 셴화 (Xianhua)
 type: guide
-status: ai-draft
 aliases: [셴화, シェンファ, Xianhua, 仙華, シェンファ(AS), 셴화(AS)]
 sources:
   - https://anothereden.game-info.wiki/d/%A5%B7%A5%A7%A5%F3%A5%D5%A5%A1 (Seesaa Wiki 「シェンファ」, 2026-06-30 수정본, CC BY-NC-SA 4.0)

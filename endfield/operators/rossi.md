@@ -1,7 +1,6 @@
 ---
 title: 로시 (Rossi)
 type: guide
-status: ai-draft
 aliases: [로시, Rossi, ロッシ, 洛茜, 로시나 울프펄 루피노, 울프팀의 진주]
 sources:
   - https://namu.wiki/w/로시(명일방주:%20엔드필드) (2026-10-06 수정본, CC BY-NC-SA 2.0 KR)

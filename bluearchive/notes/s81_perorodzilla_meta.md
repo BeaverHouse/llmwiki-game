@@ -1,7 +1,6 @@
 ---
 title: 총력전 S81 페로로지라 — 픽률·리포트
 type: note
-status: ai-draft
 aliases: [S81, 페로로지라]
 raid_ids: [S81-0]
 sources:

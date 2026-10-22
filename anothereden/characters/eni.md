@@ -1,7 +1,6 @@
 ---
 title: 애니 (Iphi)
 type: guide
-status: ai-draft
 aliases: [애니, エニ, Iphi, カーミラ]
 sources:
   - https://anothereden.game-info.wiki/d/%A5%A8%A5%CB (Seesaa Wiki 「エニ」, 2026-02-02 수정본, CC BY-NC-SA 4.0)

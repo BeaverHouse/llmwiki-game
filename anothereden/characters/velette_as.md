@@ -1,7 +1,6 @@
 ---
 title: 베레토(AS) (Velette Another Style)
 type: guide
-status: ai-draft
 aliases: [베레토 AS, 베레토 어나더 스타일, ヴェレット(AS), ヴェレット(アナザースタイル), Velette (Another Style), アークロジスト]
 sources:
   - https://anothereden.game-info.wiki/d/%A5%F4%A5%A7%A5%EC%A5%C3%A5%C8%28%A5%A2%A5%CA%A5%B6%A1%BC%A5%B9%A5%BF%A5%A4%A5%EB%29 (Seesaa Wiki 「ヴェレット(アナザースタイル)」, 2025-12-07 수정본, CC BY-NC-SA 4.0)

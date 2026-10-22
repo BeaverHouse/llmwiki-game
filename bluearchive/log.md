@@ -1,5 +1,6 @@
 # Blue Archive — 변경 기록 (append-only, 최신이 위)
 
+- 2026-10-22 | ai | 모든 문서 frontmatter | `status` 필드 삭제, 기존 human-verified 문서에 `locked: true` 부여 (스키마 변경, 본문 변경 없음이라 `updated`는 유지) | 근거: 유지보수자 결정 — 문서 단위 검증 라벨은 실제 검토 범위와 맞지 않음, 확인 내용은 sources의 user-feedback으로 문장 단위 기록 (AGENTS.md 2·7절)
 - 2026-10-20 | ai | raids/hieronymus.md 갱신 | 시즌 리포트 목록에 대결전 S28·S31 리포트 링크 추가 (기존에는 총력전 S91만 연결) | 근거: index.md에 등록된 notes/3s28_hieronymus_meta.md·notes/3s31_hieronymus_meta.md
 - 2026-10-19 | ai | raids/gregorius.md 보강 | 기본 정보에 S90 실내 기록이 일본 서버 기준이며 한국·글로벌 서버의 다가오는 그레고리오에 참고 자료로 쓴다는 안내와 S90 리포트 링크 추가 | 근거: 답변 리뷰(S90을 한국 서버 기록·지난 시즌이라 다음 주 대비에 못 쓴다고 답함), 사이트 레이드 목록 S90-0, guides/beginner.md 기록의 서버 항목
 - 2026-10-18 | ai | guides/final_restriction_release.md 보강 | 티페레트 탄력장갑 99층의 사오리(드레스) 포함 편성과 3성으로도 가능하다는 기재 추가 | 근거: 답변 리뷰(사오리(드레스) 4성 티페레트 99층 질문 미답), kamigame·game8 탄력장갑 티페레트 공략, 99층 영상 제목

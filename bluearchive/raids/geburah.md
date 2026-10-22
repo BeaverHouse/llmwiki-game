@@ -1,7 +1,6 @@
 ---
 title: 게부라 (Geburah)
 type: raid-guide
-status: seeded
 sources:
   - "seed: 내장 가이드에서 이전 (2026-07-06)"
 created: 2026-07-06

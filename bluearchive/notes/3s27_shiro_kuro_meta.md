@@ -1,7 +1,6 @@
 ---
 title: 대결전 S27 시로&쿠로 — 픽률·리포트
 type: note
-status: ai-draft
 aliases: [S27, 시로쿠로 대결전, 3S27]
 raid_ids: [3S27-1, 3S27-3, 3S27-4]
 sources:

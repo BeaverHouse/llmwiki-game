@@ -1,7 +1,6 @@
 ---
 title: 대결전 S32 페로로지라 — 픽률·리포트
 type: note
-status: ai-draft
 aliases: [S32, 페로로지라 대결전, 3S32]
 raid_ids: [3S32-2, 3S32-3, 3S32-4]
 sources:

@@ -1,7 +1,6 @@
 ---
 title: 총력전 S82 게부라 — 픽률·리포트
 type: note
-status: ai-draft
 aliases: [S82, 게부라]
 raid_ids: [S82-0]
 sources:

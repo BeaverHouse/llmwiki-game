@@ -1,7 +1,6 @@
 ---
 title: 탈로스력 연표
 type: guide
-status: ai-draft
 aliases: [연표, 탈로스력, 탈로스 원년, Talosian Calendar, 역사, 제1차 아겔로스 전쟁, 제2차 아겔로스 전쟁, 치욕의 전쟁, 밴드 협약 체결]
 sources:
   - https://namu.wiki/w/명일방주:%20엔드필드/스토리 (연표 표와 1장 Ⅱ·Ⅳ 요약, 2026-10-19 수정본, CC BY-NC-SA 2.0 KR)

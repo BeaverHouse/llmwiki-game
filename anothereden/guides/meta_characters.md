@@ -1,7 +1,6 @@
 ---
 title: 환경 캐릭터 평가 (環境キャラ)
 type: guide
-status: ai-draft
 aliases: [환경 캐릭터, 티어, 티어표, 최강 캐릭터, 環境キャラ, 環境キャラ・装備まとめ, meta characters, tier list]
 sources:
   - https://anothereden.game-info.wiki/d/%B4%C4%B6%AD%A5%AD%A5%E3%A5%E9%A1%A6%C1%F5%C8%F7%A4%DE%A4%C8%A4%E1 (Seesaa Wiki 「環境キャラ・装備まとめ」, 2025-07-09 수정본, Ver3.12.0 기준, CC BY-NC-SA 4.0)

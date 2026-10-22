@@ -1,7 +1,6 @@
 ---
 title: 세력 (Factions)
 type: guide
-status: ai-draft
 aliases: [세력, 진영, 문명 밴드, Civilization Band, 文明地帯, 밴드 협약, Band Accord, U3, 연맹 공단, UWST, 탈로스 II 상업연합회, TGCC, 홍산 과학원, HAS, 철의 서약군, Order of Steel Oath, 고요한 수도회, Cabal of Tranquility, 만물의 대지, Hannabit Circuit, 세쉬카, Seš'qa, 사미베르그, 랜드브레이커, Landbreaker, 울프팀, The Pack, 사막 도적, Sandreavers, 자유시, 탈로스 성, 라반도르마]
 sources:
   - https://namu.wiki/w/명일방주:%20엔드필드/등장인물%20및%20세력 (2026-10-18 수정본, CC BY-NC-SA 2.0 KR)
