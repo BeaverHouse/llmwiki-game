@@ -6,21 +6,19 @@
 
 ## 다음 작업
 
-- 레바테인 편성 갱신 | operators/laevatain.md 수정 | 편성이 나무위키 2026-09-22 수정본 기준. 2026-10-16 수정본은 사·결·카뮤를 넣은 편성 표를 실음 | 나무위키 「레바테인(명일방주: 엔드필드)」
-- 아츠 폭발의 부착 스택 증가 | guides/status_anomalies.md 수정 | wiki.gg는 아츠 폭발이 부착 스택을 하나 늘린다고 적음. 문서의 '확인하지 못한 것' 항목 정리 | https://endfield.wiki.gg/wiki/Arts_Burst
-- 사를 넣은 사이클 | parties/cryo.md·parties/heat.md 보강 | 두 파티 문서는 사를 자리 표에만 넣었고, 라스트 라이트·레바테인 뒤의 사 연계와 궁극기 쿨타임 감소를 넣은 순환은 쓰지 않음 | operators/si.md, 나무위키 「사」「레바테인」 편성 표
-- 베헤모스와 쉐이 | guides/behemoth.md | 사 문서의 배경(베헤모스 대리인, 쉐이와 열두 대리인, 사세대)과 무릉 문서의 베헤모스·식양 협력 | 나무위키 「쉐이」「명일방주: 엔드필드/설정」
-- 헤드헌팅과 무기고 | guides/headhunting.md | 무기 문서의 무기고 거래소·무기고 신청·무기 보급 상자, 지역 개발 보상의 헤드헌팅 허가증, 한정·상시 구분 | 나무위키 「명일방주: 엔드필드」, endfield.wiki.gg Headhunting
-- 탐색 컨텐츠 | guides/exploration.md | 거점 문서의 운송 의뢰·거점 방어, 무기 문서의 에너지 응집점·이성, 공업 문서의 프로토콜 데이터 수집기 | 나무위키 「/지역」, endfield.wiki.gg
 - 소모품 | guides/consumables.md | 공업 문서의 치유 캡슐·통조림·청량음료·주사약·공업 폭발물 | 나무위키 「/아이템」, 「/설비」
 - 프로토콜 공간 | guides/protocol_space.md | 육성 재료 문서의 획득처(오퍼레이터 경험·돌파·스킬 업그레이드·무기 경험·무기 돌파, 고위험 재료 단계, 위험한 리허설·위험한 재현·위험한 그림자·위험한 재앙 심층 모드)와 이성 소모. 전투 컨텐츠·통행증 문서의 RE-Crisis(보스 재도전)·Crisis Drills, 이성 1당 작전 경력 6도 여기서 다룸 | 나무위키 「/전투」「/아이템/육성 재료」, endfield.wiki.gg Protocol_Space
-- 구매 센터와 징표 | 위 '헤드헌팅과 무기고' 항목에 합쳐 다룸 | 육성 재료 문서의 통합 징표·보장 징표·크레딧 거래소·오리지늄 거래소·허가증 거래소 | 나무위키 「/아이템/재화」, 「명일방주: 엔드필드」
+- 구매 센터와 징표 | guides/headhunting.md 보강 | 헤드헌팅 문서는 징표의 획득량만 다루고, 구매 센터 각 거래소(크레딧·오리지늄·허가증·징표 교환소)의 품목·가격은 쓰지 않음 | 나무위키 「/아이템/재화」, 「명일방주: 엔드필드」, endfield.wiki.gg Acquisition Center
 - 리시아 | 인물 문서 또는 guides/factions.md 보강 | 1장 Ⅳ와 세력 문서의 랜드브레이커 리시아(펠리카와 함께 자란 엔드필드 출신, 관리자와의 약속, 초자연 '사냥') | 나무위키 「/등장인물 및 세력」, 펠리카 파일 자료
 - 테라 연합 과학 탐사단 | guides/foundation.md·guides/timeline.md 보강 | 파운데이션의 공격으로 1차 전쟁이 시작된 대상이자 카뮤 부모의 소속, 홍산 과학원 설립에 함께한 연합 과학 탐사단과의 관계 | 나무위키 「카뮤(명일방주: 엔드필드)」「/등장인물 및 세력」, endfield.wiki.gg
 - 제로번째 지령과 생명의 재시작 | guides/zeroth_directive.md | 사의 그림 문서의 2장 VIII(과거의 관리자가 사에게 맡긴 시험, 환영들의 경고)과 프롤로그의 미션 제로·생명 재가동이 한데 모이는 수수께끼 | 나무위키 「/스토리」 프롤로그·4.4·5.8, endfield.wiki.gg Zeroth Directive
 - 문명 밴드의 다른 도시 | guides/civilization_band.md 보강 | 도시 문서가 이름만 든 홍산 크레이터(홍산 과학원 본거지), 대수도원(고요한 수도회), Morospolis, The Unicity | endfield.wiki.gg Hongshan_Crater·Monasterium·Morospolis, 나무위키 「/등장인물 및 세력」
-- 침식된 유산을 찾아서와 숨겨진 구역의 여행자 | guides/exploration.md에 합쳐 다룸 | 전투 컨텐츠 문서가 이름만 든 탐색형 모드(수차 구역 1~6, 퍼즐 공간 그룹) | 나무위키 「/업데이트」, endfield.wiki.gg Etchspace_Salvage·Delver_of_the_Cryptic
 - 인연 마을 객잔 세부 | guides/si_painting.md 보강 | 테마·레시피·개장 효과·Spirit Money 획득처는 wiki.gg 문서가 아직 비어 있어 쓰지 못함 | endfield.wiki.gg Yuanyuan_Manor_Inn·Spirit_Money
+- 탐색 레벨 | guides/exploration.md 보강 | 탐색 컨텐츠 문서의 에너지 응집점은 탐색 레벨 4부터 고위로 바뀌고 적 레벨이 탐색 레벨을 따르는데, 탐색 레벨을 올리는 방법과 단계별 효과는 쓰지 않음 | endfield.wiki.gg Exploration Level, 나무위키 「/전투」
+- 탈로사이트와 탈로사이트 거래소 | guides/exploration.md 또는 guides/materials.md 보강 | 탐색 컨텐츠 문서의 지역별 탈로사이트 수만 있고 쓰임은 없음 | endfield.wiki.gg Talosite Exchange
+- 생태 재배와 농사 | guides/eco_farming.md | 탐색 컨텐츠 문서의 오리지늄 연구 구역 생태 재배 구역, 사의 그림 농장·자동 수확 설비, 무릉 스프링클러 | endfield.wiki.gg Eco-Farming, 나무위키 「/지역」
+- 수명과 여소귀 | guides/wuling.md 보강 또는 guides/shuiming.md | 탐색 컨텐츠 문서의 수몰된 홍산 과학원 옛 도시(종으로 시간대를 바꾸는 사이드 임무 공간) | 나무위키 「/지역」「/스토리」, endfield.wiki.gg
+- 침식된 유산을 찾아서 의뢰와 보상 | guides/exploration.md 보강 | 탐색 의뢰·집중 의뢰 목록과 작전 지표 보상 품목은 wiki.gg 표 아이콘이 깨져 쓰지 못함 | endfield.wiki.gg Etchspace_Salvage/Commissions
 
 ## 확인 필요
 
@@ -41,9 +39,15 @@
 - 전투 컨텐츠 표기 | 위기 협약 2시즌은 '잿빛 실험 작전'인가? 제약(Test Criteria), 그림자 이정표 Agony 모드, 기간 한정 이벤트 Monumental Etching('기억의 흔적'?), 전쟁의 메아리 난이도(Normal·Hard·Brutal), RE-Crisis·Crisis Drills의 한국어 표기는? (guides/combat_content.md)
 - 프로토콜 통행증 | Basic Supply 단계와 '오리지늄 배급'의 게임 안 한국어 이름, 통행증 최대 레벨, 권한 등급 레벨 보상이 무엇인지 (guides/protocol_pass.md)
 - 결 연계 스킬과 장방이 감전 레벨 | 결 연계 스킬로 전기 부착을 2스택으로 만든 뒤 장방이 연계 스킬이 소모하면, 에너지 20 외에 감전 레벨도 달라지는가? 결 문서의 "감전 스택을 높여"는 무엇을 가리키는가? (parties/electric.md)
+- 사 배틀 스킬의 부착 스택 | 강산을 한 폭에가 거는 냉기·열기 부착은 1스택인가? 붓을 들리라·붓을 거두리라로 바뀌어 있는 시간은? (operators/si.md, parties/heat.md, parties/cryo.md)
+- 징표와 재화의 대응 | 나무위키의 보장 징표·통합 징표·최후의 징표가 wiki.gg의 Bond Quota·AIC Quota·Endpoint Quota와 같은가? 오퍼레이터를 처음 얻을 때 주는 AIC Quota 30, 무기고 신청에서 6성·5성 무기를 얻을 때 주는 50·10은 게임 안에서 어떤 재화로 표시되는가? (guides/headhunting.md)
+- 침식된 유산을 찾아서 용어 | Derangement, Precipitation Nodule, Isolation Container, Operation Metrics, Aurylene Crystal, Exploration Level의 한국어 게임 표기는? (guides/exploration.md)
+- 베헤모스 용어 | '대사냥', '지촉인', '쉐이수', '쉐이 능묘', '드래곤 버블'이 게임 안 한국어 표기와 같은가? 드래곤 버블을 장방이가 디자인했다는 서술은 어느 기록에 있는가? (guides/behemoth.md)
 - 레바테인 열화의 궁극기 에너지 | 25/30/35는 연계 스킬 기본 10에 더해지는가, 그것을 대신하는가? 황혼 강화 일반 공격 4단은 강력한 일격으로 판정되어 부착을 흡수하는가?
 
 ## 완료
+
+- 2026-10-23: operators/laevatain.md 편성 갱신, guides/status_anomalies.md 아츠 폭발 스택 증가, parties/heat.md·parties/cryo.md 사 편성 사이클, guides/behemoth.md, guides/headhunting.md, guides/exploration.md(침식된 유산을 찾아서·숨겨진 구역의 여행자 포함)
 
 - 2026-10-22: guides/si_painting.md, guides/combat_content.md(위기 협약·그림자 이정표 항목 포함), guides/protocol_pass.md, guides/civilization_band.md, parties/cryo.md 탕탕 메인 딜 사이클, parties/electric.md 알레쉬·결 자리
 

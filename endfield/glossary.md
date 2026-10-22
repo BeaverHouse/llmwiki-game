@@ -91,8 +91,15 @@ sources:
   - https://endfield.wiki.gg/wiki/Nexus_Files:_Aggelos
   - https://endfield.wiki.gg/wiki/First_Aggeloi_War
   - https://endfield.wiki.gg/wiki/Items
+  - https://namu.wiki/w/쉐이
+  - https://namu.wiki/w/명일방주:%20엔드필드/헤드헌팅
+  - https://endfield.wiki.gg/wiki/Feranmut
+  - https://endfield.wiki.gg/wiki/Headhunting
+  - https://endfield.wiki.gg/wiki/Arsenal_Exchange
+  - https://endfield.wiki.gg/wiki/Energy_Alluvium
+  - https://endfield.wiki.gg/wiki/Etchspace_Salvage
 created: 2026-10-12
-updated: 2026-10-22
+updated: 2026-10-23
 ---
 
 # 엔드필드 고유명사 표기 (ko/en/ja)
@@ -1062,8 +1069,48 @@ ko는 나무위키 아이템 문서(게임 안 설명문 인용), en은 endfield
 | 보장 징표 | — | — | 미확인 | 중복 오퍼레이터에서 얻는 징표 |
 | 헤드헌팅 허가증 | — | — | 미확인 | 기초·특별 허가·기간 한정 |
 
+## 베헤모스·헤드헌팅·탐색
+
+ko는 나무위키 「사」「쉐이」「/헤드헌팅」「/무기고 신청」「/지역」, en은 endfield.wiki.gg 기준이다. [베헤모스와 쉐이](guides/behemoth.md), [헤드헌팅과 무기고 신청](guides/headhunting.md), [탐색 컨텐츠](guides/exploration.md) 참고.
+
+| 한국어 | English | 日本語 | 확인 | 메모 |
+|---|---|---|---|---|
+| 베헤모스 | Feranmut | 巨獣 | 2차 | 기존 항목 보완. zh 巨兽 |
+| 베헤모스 대리인 | Feranmut Proxy | — | 2차 | 기존 항목 보완. en은 wiki.gg 사 소개문 |
+| 쉐이 | Sui | — | 2차 | 기존 항목 보완. zh 岁 |
+| 쉐이수 | — | — | 미확인 | 쉐이의 본체. 나무위키 표기 |
+| 쉐이 능묘 | — | — | 미확인 | 쉐이수가 잠든 곳. 나무위키 표기 |
+| 대사냥 | Great Hunt | — | 미확인 | 염국이 베헤모스와 벌인 전쟁. ko는 사 파일 자료 3 |
+| 지촉인 | — | — | 미확인 | 사세대 산하에서 열두 대리인을 감시한 부대. 사 파일 자료 3 |
+| 사사대 | — | — | 미확인 | 담 천사가 제안했다 철회한 사세대의 새 이름 |
+| 권능 | — | — | 미확인 | 베헤모스 대리인의 힘 |
+| 드래곤 버블 | — | — | 미확인 | 무릉의 마스코트 인형·장식. 나무위키 표기 |
+| 특별 허가 헤드헌팅 | Chartered Headhunting | — | 2차 | 한정 픽업 헤드헌팅 |
+| 재구축 헤드헌팅 | RE-Factor Headhunting | — | 2차 | 복각 헤드헌팅 |
+| 여정의 시작 헤드헌팅 | New Horizons Headhunting | — | 2차 | 초심자 헤드헌팅 |
+| 기초 헤드헌팅 | Basic Headhunting | — | 2차 | 상시 헤드헌팅 |
+| 긴급 모집 | Urgent Recruitment | — | 2차 | 30회 뒤 무료 10회 |
+| 헤드헌팅 정보서 | Headhunting Dossier | — | 2차 | 60회 보상, 다음 헤드헌팅 10회 |
+| 선택 호출 | — | — | 미확인 | 기초 헤드헌팅 300회 보상 |
+| 무기고 거래소 | Arsenal Exchange | — | 2차 | 무기 뽑기·구매 메뉴 |
+| 무기고 신청 | Arsenal Issue | — | 2차 | 무기 뽑기. 1회 = 10연 |
+| 재구축 신청 | RE-Factor Issue | — | 2차 | 무기 복각. 첫 시리즈 '점묘 신청' |
+| 결빙 / 성음 / 원정 / 숭산 / 뇌명 신청 | — | — | 미확인 | 상시 무기고 신청 다섯 종 |
+| 무기고의 선물 | — | — | 미확인 | 무기고 신청 누적 10회 보상 |
+| 보장 징표 | Bond Quota* | — | 미확인 | 중복 오퍼레이터 부산물. en은 수량 대응으로 추정 |
+| 통합 징표 | AIC Quota* | — | 미확인 | en은 수량 대응으로 추정 |
+| 최후의 징표 | Endpoint Quota* | — | 미확인 | 20개로 상시 6성 무기 교환. en은 수량 대응으로 추정 |
+| 고위 에너지 응집점 | Severe Energy Alluvium | — | 미확인 | 탐색 레벨 4부터. ko는 육성 재료 문서 표기 |
+| 에너지 응집점 | Energy Alluvium | — | 2차 | 기존 항목 보완 |
+| 탐색 레벨 | Exploration Level | — | 미확인 | ko는 영어에서 옮김 |
+| 혼란 수치 | Derangement | — | 미확인 | 침식된 유산을 찾아서의 강제 철수 수치. ko는 영어에서 옮김 |
+| 오리지늄 회로 영감 / 장비 템플릿 / 연구 포인트 / 탈로사이트 | — / — / — / Talosite | — | 미확인 | 지역 수집 요소. 나무위키 표기 |
+| 수명 | — | — | 미확인 | 홍산 과학원의 수몰된 옛 도시를 재구성한 공간 |
+| 여소귀 | — | — | 미확인 | 무릉성 NPC. 수명으로 가는 포탈 |
+
 ## 히스토리
 
+- 2026-10-23: 베헤모스·헤드헌팅·탐색 표기 추가, 베헤모스·베헤모스 대리인·쉐이·에너지 응집점의 en 보완 (나무위키, endfield.wiki.gg).
 - 2026-10-21: 세력·위협·역사, 육성 재료·재화 표기 추가. 랜드브레이커의 ja와 파운데이션의 en 보완 (나무위키, endfield.wiki.gg).
 
 - 2026-10-22: 전투 컨텐츠(위기 협약·그림자 이정표·전쟁의 메아리·선검 연무), 프로토콜 통행증·권한 등급, 문명 밴드 도시(라반도르마 en을 La Fantoma로 보완, 탈로스 성 ja, 트리글라바), 사의 그림(인연 마을·소하장 등) 표기 추가 (나무위키, endfield.wiki.gg).
