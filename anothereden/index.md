@@ -14,6 +14,12 @@
 - [guides/water_party.md](guides/water_party.md) — 水 파티 (엘실(NS/AS)·월화의 영애 히스메나(AS)·베르단타 중심 水天陣 편성. 엘실 NS 「グラスミゼリコルド」의 4턴 후 영구 弱点看破(水), NS·AS 차이, 출처 편성 예 6종, 약점, カプトニク·闇のアルターフォース·アン・キ・ディグマ·暁の塔のヌシ 적성)
 - [guides/grasta.md](guides/grasta.md) — グラスタ (빌드에 반복 등장하는 グラスタ(搦手ノ撃·撃陣/極・撃陣の力·覚醒の力·共鳴の力·増恵/増蝕·狂星·디버프 내성)와 錬成 광석(狙い撃つ·MP消費攻撃·AFコンボ·ZONE覚醒)의 효과·조건·입수처, 장착 칸·潜在錬成)
 - [guides/seiten_equipment.md](guides/seiten_equipment.md) — 星天 무기 (外伝 「螺旋の記憶と原初の旋律」 クラフト로 만드는 8종 공통 효과 MP消費攻撃·MP·공격 시 MP 회복의 단계별 수치, 강화 소재, 10단계 소재 昏き星の塊 입수처, 추천 캐릭터. 일본 서버)
+- [guides/weapon_reforging.md](guides/weapon_reforging.md) — 武器打ち直し (개방 조건(3부 前編 클리어, +10 강화), 시리즈별 전용 소재·錬鉱石·フェイズシフト 소재, 冥鬼·翠晶·ルーナ·亜空·プリズム 등 주요 무기의 打ち直し 전후 효과, 팬 정리의 사용 캐릭터)
+- [guides/manifest_weapons.md](guides/manifest_weapons.md) — 현현 무기와 結実 무기 (현현·진현현·結実 세 단계의 차이, 시작 조건, 才珠·極彩の虹石, 顕現せし闘気 교환표, 무기 경험치, 대상 캐릭터. altema 2026-10-22 기준)
+- [guides/armor.md](guides/armor.md) — 방어구 (千年樹 시리즈 효과·입수(エントラーナ 金天蓼), 竜纏 시리즈와 千年樹와의 선택 기준, 赫耀·蒐魔装·エルピス 등 상위 시리즈, 夢晶の指輪 등 단품)
+- [guides/zone.md](guides/zone.md) — ZONE과 ANOTHER ZONE (ZONE별 피해 배율·AF 게이지 증가량 표, 전개·파괴, 極·絶ZONE과 ZONE覚醒 1회 제한, 共鳴蓄積, アナザーセンス, ZONE 어빌리티 표, 歌唱·祈祷)
+- [guides/another_force.md](guides/another_force.md) — アナザーフォース (AF 게이지 200과 쌓이는 양, 고유 증가 효과, 속도·리캐스트와 왼쪽 배치, 회복 모션 지연, 콤보 배율 규칙, AF·EX 필살기 계산, SB와의 관계)
+- [guides/stellar_awakening.md](guides/stellar_awakening.md) — 성도각성과 SB (각성 경로 3가지, 星譜 입수, ステラボード 우선순위, 天冥 게이지 쌓이는 양, SB 사양)
 - [guides/superbosses.md](guides/superbosses.md) — 숨은 보스 난이도 (Seesaa 비공식 난이도표의 기준과 ★11.7 이상 보스 목록)
 
 ## raids/
