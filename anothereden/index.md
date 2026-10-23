@@ -20,6 +20,8 @@
 - [guides/zone.md](guides/zone.md) — ZONE과 ANOTHER ZONE (ZONE별 피해 배율·AF 게이지 증가량 표, 전개·파괴, 極·絶ZONE과 ZONE覚醒 1회 제한, 共鳴蓄積, アナザーセンス, ZONE 어빌리티 표, 歌唱·祈祷)
 - [guides/another_force.md](guides/another_force.md) — アナザーフォース (AF 게이지 200과 쌓이는 양, 고유 증가 효과, 속도·리캐스트와 왼쪽 배치, 회복 모션 지연, 콤보 배율 규칙, AF·EX 필살기 계산, SB와의 관계)
 - [guides/stellar_awakening.md](guides/stellar_awakening.md) — 성도각성과 SB (각성 경로 3가지, 星譜 입수, ステラボード 우선순위, 天冥 게이지 쌓이는 양, SB 사양)
+- [guides/stellar_awakening_priority.md](guides/stellar_awakening_priority.md) — 성도각성 추천 캐릭터 (万象の星譜·ツブラ를 누구에게 먼저 쓸지. Seesaa ★1~5 우선도표(Ver3.15.0 시점, 신/구캐릭터 칸)와 ★5·★4의 이유, 표 이후 SA 실장 캐릭터 목록. 일본 서버)
+- [guides/buddies.md](guides/buddies.md) — 버디 (전위·후위 사양, 오토 스킬·차지 스킬·오라, AF 회수·개막 AF용 피이(AS)·건스(AS)·코로보·모케·큐모스·テトラ와 세트 캐릭터, 버디 장비 パンドラの缶詰·雷鳴の首輪·海じゃらし·浮沈の盾·邪気払拭ペンダント의 효과·강화·입수처)
 - [guides/superbosses.md](guides/superbosses.md) — 숨은 보스 난이도 (Seesaa 비공식 난이도표의 기준과 ★11.7 이상 보스 목록)
 
 ## raids/
@@ -48,3 +50,8 @@
 - [characters/necoco_es.md](characters/necoco_es.md) — 네코코(ES) (風·弓 서포터. 「猫又巫女神楽」의 変幻自在로 파티 속성을 ZONE에 맞춰 통일, SA 후 デバフリバーサル. 2025-07 Seesaa 최상위. 네코코(AS)(地·斧) 요약 포함)
 - [characters/cerius_as.md](characters/cerius_as.md) — 세리에스(AS) (地·弓 어태커, Ver3.13.70. 鎧通·射切 모드 전환, SA 후 SB 턴에 적 전체 弱点看破(突)로 속성 무관 어태커. 突 파티 전용)
 - [characters/velette_as.md](characters/velette_as.md) — 베레토(AS) (雷 槌. 雷 파티 서포트 전담: 弱点看破(雷)·バフリバーサル·SA 개막 極・招雷陣, CA 「イレクトリ」. 雷·알마(AS) 迎撃 편성)
+- [characters/mistrare.md](characters/mistrare.md) — 미스트레아 (NS(SA)·AS 통합. NS 「マシアフ・ケシェト」의 風·晶 내성·物理耐性 최대 100%DOWN, SA(Ver3.15.60) 「心　翼に変えて」·「煌めきの翼」 턴 종료 자동 디버프, AS 歌唱 2종, 晶 파티 기용과 NS/AS 차이)
+- [characters/clughorn.md](characters/clughorn.md) — 클러그혼 (陰·槍 모드 전환형 탱커 겸 어태커, Ver3.13.10. 공격 모드 「アグロスパイク」 최대 9720%, 수비 모드 腕知速·陰雷晶 속성 공격 40%DOWN, SA SB 「ルミナガーディアン」 守護. 月光陣·陰·突 파티, ムル・キカ·アン・キ・ディグマ 받기)
+- [characters/zilva_as.md](characters/zilva_as.md) — 질버(AS) (無·斧 어태커, Ver3.8.30. 「残香」으로 공격 속성을 적의 약점에 맞춤. SA 「死出の途」 腕知 70%(増蝕 + 코로보 오라로 100%)로 闇のアルターフォース 장기전의 핵. 無属性 斬 편성)
+- [characters/prai.md](characters/prai.md) — 프라이 (槌 탱커. 선제 守護 「インダルジェンス」로 그 턴 공격을 혼자 받음, 다음 턴 기절을 오를레아(AS)가 푸는 "叩き起こし"로 アン・キ・ディグマ·カプトニク 받는 축. SA 미실장, 소비 MP 감소 장비)
+- [characters/orleya_as.md](characters/orleya_as.md) — 오를레아(AS) (斧 雷 탱커 겸 서포터, Ver3.3.10. 「レズィストンス」 祈祷(피해 50% 감소·庇立て·매 턴 회복·상태 이상 회복)와 「トネールデファンス」 腕知速 디버프·挑発, 턴 종료 AF 게이지 10%, 雷 파티 받기. SA 미실장)

@@ -8,7 +8,7 @@ sources:
   - https://anothereden.game-info.wiki/d/%A5%A2%A5%CA%A5%B6%A1%BC%A5%D5%A5%A9%A1%BC%A5%B9%A4%DE%A4%C8%A4%E1 (Seesaa Wiki 「アナザーフォースまとめ」, 2026-07-20 수정본. 天冥ゲージ 명칭)
   - https://anothereden.game-info.wiki/d/ZONE%A1%A6%B1%FE%B1%E7%B8%FA%B2%CC%A4%DE%A4%C8%A4%E1 (Seesaa Wiki 「ZONE・応援効果まとめ」, 2026-07-20 수정본. SB와 ANOTHER ZONE)
 created: 2026-10-23
-updated: 2026-10-23
+updated: 2026-10-24
 ---
 
 # 성도각성과 ステラバースト (SB)
@@ -78,7 +78,7 @@ updated: 2026-10-23
 ## 관련 문서
 
 - [환경 캐릭터 평가](meta_characters.md) — SA 전후로 평가가 바뀌는 캐릭터
-- 성도각성 추천 캐릭터는 아직 문서가 없다 ([backlog.md](../backlog.md))
+- [성도각성 추천 캐릭터](stellar_awakening_priority.md) — 누구부터 각성할지 (Seesaa 우선도표)
 
 ## 히스토리
 
