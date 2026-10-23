@@ -23,7 +23,7 @@
 | [drumbarka.md](raids/drumbarka.md)       | 드럼통 게 (DRUMBARKA) | 경장갑+특수장갑 (BA 최초 이중) | 2페이즈 2연전, 부위별 장갑, 디버프 정화→버프 전환(에리카 엔진) |
 | [geburah.md](raids/geburah.md)           | 게부라                | 특수장갑 (신비) | 스페셜 딜러 필수, 난방기 힐 기믹, 저체온증                |
 | [goz.md](raids/goz.md)                   | 고즈                  | 특수장갑 (신비) | 분신 판별(파란 카드), 보호막 필요, 회복률 감소            |
-| [gregorius.md](raids/gregorius.md)       | 그레고리오            | 경장갑 (폭발)   | 성가대 데미지 전이, 오르간 조작, 디버프 개수 유지         |
+| [gregorius.md](raids/gregorius.md)       | 그레고리오            | 경장갑 (폭발)   | 성가대 데미지 전이(붕괴 시 그로기 5%), 오르간 조작, 디버프 개수 유지, 서버별 개최 시즌 |
 | [hieronymus.md](raids/hieronymus.md)     | 예로니무스            | 경장갑 (폭발)   | 힐러 필수, 녹색/자색 성유물 기믹                          |
 | [hod.md](raids/hod.md)                   | 호드                  | 중장갑 (관통)   | CC 게이지 기믹, 침식 타워, 치명저항 500                   |
 | [kaitenger.md](raids/kaitenger.md)       | 카이텐져              | 경장갑 (폭발)   | 1페이즈 5인조(레드 스킬 캔슬), 2페이즈 다단히트 실드 해제 |
