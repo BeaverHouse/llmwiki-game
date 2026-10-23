@@ -2,7 +2,7 @@
 title: 파운데이션 (The Foundation)
 type: guide
 status: ai-draft
-aliases: [파운데이션, The Foundation, Foundation, 추방자, Exiles, 알레이크레오스, Alleikhreos, 정체불명의 소녀, Mysterious Girl, 엘 아이그니스, 탈로스 V]
+aliases: [파운데이션, The Foundation, Foundation, 추방자, Exiles, 테라 연합 과학 탐사단, Terran Joint Science Expedition, 연합 과학 탐사단, 알레이크레오스, Alleikhreos, 정체불명의 소녀, Mysterious Girl, 엘 아이그니스, 탈로스 V]
 sources:
   - https://namu.wiki/w/명일방주:%20엔드필드/등장인물%20및%20세력 (중추 파일 '파운데이션' 한국어 텍스트 인용, 파운데이션·알레이크레오스·정체불명의 소녀 문단, 2026-10-18 수정본, CC BY-NC-SA 2.0 KR)
   - https://namu.wiki/w/명일방주:%20엔드필드/스토리 (서막, 1장 Ⅳ, 2장 Ⅶ 요약, 2026-10-19 수정본, CC BY-NC-SA 2.0 KR)
@@ -12,8 +12,10 @@ sources:
   - https://endfield.wiki.gg/wiki/The_Foundation (중추 파일 '파운데이션' 영어 텍스트 인용)
   - https://endfield.wiki.gg/wiki/Ardashir
   - https://endfield.wiki.gg/wiki/Yinglung_Special_Task_Force (알레이크레오스의 검 관련 응룡 전투 기록)
+  - https://namu.wiki/w/카뮤(명일방주:%20엔드필드) (인사 요약서·음성 기록 인용, 2026-10-02 수정본, CC BY-NC-SA 2.0 KR)
+  - https://endfield.wiki.gg/wiki/Camille/File (인사 요약서 영어 텍스트, 2026-06-26 수정본)
 created: 2026-10-21
-updated: 2026-10-21
+updated: 2026-10-24
 ---
 
 # 파운데이션 (The Foundation)
@@ -32,6 +34,16 @@ updated: 2026-10-21
 영어 텍스트(endfield.wiki.gg 인용)도 같은 네 항목이며, 1번의 '특수 개체'를 "unique individual entities"로, 선사 문명을 "Precursor Civilization"으로 적는다.
 
 아겔로스에 관한 한국어 공식 소개문은 아겔로스의 정확한 기원은 알 수 없다고 적는다. 위 기록은 그와 달리 파운데이션을 앵커와 아겔로스의 창조자로 적는다.
+
+## 테라 연합 과학 탐사단
+
+위 2번 항목에서 파운데이션의 공격을 받은 대상이 테라 연합 과학 탐사단이다. 영어 텍스트는 이 항목을 "The Foundation launched a full-scale attack on the Terran Joint Science Expedition and triggered the First Aggeloi War."로 적어, 공격을 전면 공격(full-scale attack)이라 부른다.
+
+이 이름이 나오는 다른 기록은 다음과 같다. 출처들은 이들이 모두 같은 단체라고 직접 말하지 않으며, 탐사단의 규모·구성·활동 시기를 적은 기록은 확인하지 못했다.
+
+- 카뮤 인사 요약서: "오퍼레이터 카뮤의 부모는 테라 연합 과학 탐사단 소속이었고, 본인은 세쉬카에서 태어나 자랐다." 영어 텍스트는 "members of the joint science expedition from Terra"로 적는다. 카뮤의 음성 기록 '부모님에 관하여'는 부모가 "그 유명한 의장님"을 따라 살카즈 형제들과 함께 탈로스2로 왔고, 세쉬카의 초기 구성원으로 라이프 스파인 건설에 참여했으며, 황무지 군벌의 손에 목숨을 잃었다고 말한다([카뮤](../operators/camille.md)).
+- 나무위키 등장인물 문서: 홍산 과학원은 밴드 협약이 체결되기 며칠 전 '연합 과학 탐사단'과 함께 세워졌다([세력](factions.md)).
+- 나무위키 스토리 문서의 연표: 탈로스력 132년 '과학 탐사단'과 엔드필드가 제4차 대규모 확장형 과학 탐사를 시작했고, 몇 년 뒤 어린 장방이가 탐사단에 합류해 관리자를 처음 만났다. 이 항목의 게임 안 근거는 확인하지 못했다([탈로스력 연표](timeline.md)).
 
 ## 추방과 귀환
 
@@ -86,7 +98,9 @@ endfield.wiki.gg는 네파리스를 파운데이션의 전 협력자로 분류�
 - 알레이크레오스, 엘 아이그니스, 천부장, 정체불명의 소녀의 게임 안 한국어 표기. 영어 위키는 Alleikhreos, Mysterious Girl로 적는다.
 - 중추 파일 '파운데이션'의 열람 조건.
 - 파운데이션의 '진정한 창조물'이 무엇인지. endfield.wiki.gg는 영어 명칭 Foundite를 적지만 설명은 없다.
+- 테라 연합 과학 탐사단이 언제 탈로스2에 왔고 어떤 단체였는지, 홍산 과학원 설립에 함께한 '연합 과학 탐사단'과 132년의 '과학 탐사단'이 같은 단체인지.
 
 ## 히스토리
 
+- 2026-10-24: 테라 연합 과학 탐사단 절 추가. 카뮤 인사 요약서·음성 기록(나무위키 「카뮤」 2026-10-02, endfield.wiki.gg Camille/File), endfield.wiki.gg The Foundation(2026-07-29) 기준.
 - 2026-10-21: 최초 작성. 1.6 버전까지의 내용을 나무위키 등장인물·스토리·설정·아다시르·네파리스 문서와 endfield.wiki.gg로 정리.

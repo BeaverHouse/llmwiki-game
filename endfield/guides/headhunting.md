@@ -1,20 +1,22 @@
 ---
-title: 헤드헌팅과 무기고 신청 (Headhunting, Arsenal Issue)
+title: 헤드헌팅, 무기고 신청, 구매 센터 (Headhunting, Arsenal Issue, Acquisition Center)
 type: guide
 status: ai-draft
-aliases: [헤드헌팅, Headhunting, 뽑기, 가챠, 특별 허가 헤드헌팅, Chartered Headhunting, 한정 헤드헌팅, 재구축 헤드헌팅, RE-Factor Headhunting, 여정의 시작 헤드헌팅, New Horizons Headhunting, 기초 헤드헌팅, Basic Headhunting, 긴급 모집, Urgent Recruitment, 헤드헌팅 정보서, Headhunting Dossier, 천장, 픽뚫, 선택 호출, 무기고 신청, 무기 뽑기, Arsenal Issue, 무기고 거래소, Arsenal Exchange, 재구축 신청, 무기고의 선물, 보장 징표, 통합 징표, 최후의 징표]
+aliases: [헤드헌팅, Headhunting, 뽑기, 가챠, 특별 허가 헤드헌팅, Chartered Headhunting, 한정 헤드헌팅, 재구축 헤드헌팅, RE-Factor Headhunting, 여정의 시작 헤드헌팅, New Horizons Headhunting, 기초 헤드헌팅, Basic Headhunting, 긴급 모집, Urgent Recruitment, 헤드헌팅 정보서, Headhunting Dossier, 천장, 픽뚫, 선택 호출, 무기고 신청, 무기 뽑기, Arsenal Issue, 무기고 거래소, Arsenal Exchange, 재구축 신청, 무기고의 선물, 보장 징표, 통합 징표, 최후의 징표, 구매 센터, Acquisition Center, 징표 교환소, Quota Exchange, Bond Quota, AIC Quota, Endpoint Quota, 크레딧 거래소, Credit Store, 월정액, Monthly Pass]
 sources:
   - https://namu.wiki/w/명일방주:%20엔드필드/헤드헌팅 (2026-09-24 수정본, CC BY-NC-SA 2.0 KR)
   - https://namu.wiki/w/명일방주:%20엔드필드/무기고%20신청 (2026-09-24 수정본, CC BY-NC-SA 2.0 KR)
   - https://endfield.wiki.gg/wiki/Headhunting (2026-10-01 수정본)
   - https://endfield.wiki.gg/wiki/Arsenal_Exchange (2026-10-15 수정본)
+  - https://endfield.wiki.gg/wiki/Acquisition_Center (2026-10-16 수정본)
+  - https://namu.wiki/w/명일방주:%20엔드필드/아이템/재화 (게임 안 아이템 설명 인용, 2026-06-19 수정본, CC BY-NC-SA 2.0 KR)
 created: 2026-10-23
-updated: 2026-10-23
+updated: 2026-10-24
 ---
 
 # 헤드헌팅과 무기고 신청
 
-오퍼레이터를 얻는 헤드헌팅과 무기를 얻는 무기고 신청의 규칙을 정리한다. 두 체계는 확률과 보장 규칙이 서로 다르다. 오로베릴·무기고 징표·헤드헌팅 허가증의 획득처는 [육성 재료와 획득처](materials.md), 통행증 무기와 무기 선택 상자는 [프로토콜 통행증과 권한 등급](protocol_pass.md), 무기 각각의 효과는 [무기](weapons.md)에서 다룬다. 고유명사 표기는 [glossary.md](../glossary.md)를 따른다.
+오퍼레이터를 얻는 헤드헌팅과 무기를 얻는 무기고 신청의 규칙, 그 부산물인 징표를 쓰는 구매 센터를 정리한다. 두 뽑기 체계는 확률과 보장 규칙이 서로 다르다. 오로베릴·무기고 징표·헤드헌팅 허가증의 획득처는 [육성 재료와 획득처](materials.md), 통행증 무기와 무기 선택 상자는 [프로토콜 통행증과 권한 등급](protocol_pass.md), 무기 각각의 효과는 [무기](weapons.md)에서 다룬다. 고유명사 표기는 [glossary.md](../glossary.md)를 따른다.
 
 ## 헤드헌팅
 
@@ -90,6 +92,37 @@ wiki.gg는 같은 무기고 징표 수량(20·200·2000)을 적고, 4·5·6성 �
 - 보장 징표로는 주기적으로 바뀌는 5성 오퍼레이터 1명, 존속의 흔적, 특별 허가 헤드헌팅 허가증 등을 바꾼다.
 - 최후의 징표 20개로 원하는 상시 6성 무기 하나를 바꾼다. 통합 징표로는 육성 재료와 기간 한정 헤드헌팅 허가증 5장 등을 바꾼다. 교환 메뉴는 징표 교환소 아래에 따로 있다.
 
+## 구매 센터
+
+구매 센터(Acquisition Center)는 특수 재화로 물자를 사는 게임 안 상점이다. wiki.gg는 다음 구획을 적는다. 나무위키 설명문의 획득처 표기(오리지늄 거래소, 크레딧 거래소, 허가증 거래소, 통합 징표 거래, 보장 징표 거래, 조합 패키지)와 영어 구획 이름은 뜻으로 짝지었다.
+
+| 구획 (wiki.gg) | 내용 |
+|---|---|
+| Dijiang Select | 시즌 통행증, 패키지, 무기 신청을 한눈에 보고 바로 가는 화면 |
+| Originium Exchange | 실제 돈으로 파생 오리지늄(Origeometry)을 산다. 묶음마다 첫 구매 보너스가 있다 |
+| Bundles | 실제 돈으로 사는 패키지. 1회 한정 패키지와 매주·매월 다시 열리는 패키지가 있다 |
+| Arsenal Exchange | 무기고 거래소. 아래 '무기고 신청' 절 |
+| Quota Exchange | 징표 교환소. AIC Quota, Bond Quota, Endpoint Quota 교환소로 나뉜다 |
+| Credit Store | 크레딧으로 사는 상점 |
+
+### 월정액
+
+wiki.gg에 따르면 Monthly Pass는 30일 단위로 사며, 살 때 파생 오리지늄 12개, 이후 매일 오로베릴 200, Emergency Sanity Booster 1개, Sanity Usage Permit 4개를 준다. 180일까지 이어서 살 수 있고, 접속하지 않은 날의 보상은 사라진다. 두 이성 아이템의 한국어 이름은 확인하지 못했다.
+
+### 징표 교환소
+
+징표 교환소는 재화가 다른 세 교환소로 나뉜다. 수량이 정해진 품목은 일정 기간에만 팔고, 수량 제한이 없는 품목은 늘 판다(wiki.gg).
+
+- AIC Quota 교환소: 수량 제한 품목은 할인가로 팔며 버전마다 다시 채워진다. 특별 허가 헤드헌팅 허가증은 특별 허가·Special 헤드헌팅이 바뀔 때마다 품목이 바뀌고 다시 채워진다. 나무위키는 통합 징표로 육성 재료와 기간 한정 헤드헌팅 허가증 5장 등을 바꾼다고 적고, 육성 재료 설명문의 획득처는 '구매 센터 - 통합 징표 거래'다([육성 재료와 획득처](materials.md)). wiki.gg는 정가 기준으로 AIC Quota 1이 이성 약 0.7에 해당하고, 프로토콜 디스크와 모형 틀은 약 0.85에 해당한다고 계산한다(할인 품목과 고급 육성 재료는 계산에서 뺐다).
+- Bond Quota 교환소: 5성 오퍼레이터의 고용 계약, 귀중품, 재료를 판다. Bond Quota는 5성·6성 오퍼레이터를 중복으로 얻을 때 받는다. 특별 허가·Special·재구축 헤드헌팅이 열릴 때마다 5성 오퍼레이터 한 명이 추가된다. wiki.gg 표에서 수량 1인 기간 한정 품목이 200이다.
+- Endpoint Quota 교환소: 남는 6성 오퍼레이터 증표를 바꿔 얻은 Endpoint Quota로 6성 무기를 산다. 무기는 늘 팔며, 2026-10-16 수정본 표에는 20개 품목이 모두 20씩이다.
+
+나무위키가 적는 보장 징표(5·6성 중복 획득 때 받음, 주기적으로 바뀌는 5성 오퍼레이터와 존속의 흔적을 바꿈)와 최후의 징표(6성 증표 교환, 20개로 상시 6성 무기 하나)는 wiki.gg의 Bond Quota·Endpoint Quota 서술과 획득 조건과 가격이 같다.
+
+### 크레딧 상점
+
+wiki.gg에 따르면 크레딧 상점은 매일 바뀐다. 하루 4번까지 직접 새로고침할 수 있으며 비용은 크레딧 80에서 시작해 40씩 올라 최대 200이다. 모든 품목은 25%, 50%, 75%, 95%, 99% 가운데 하나로 할인될 수 있고, 무기고 징표는 늘 50% 이상 할인된다. 한 번 새로고침할 때 오로베릴과 무기고 징표 가운데 하나만 나온다. 나무위키는 크레딧 거래소에서 무기고 징표 20개를 크레딧으로 살 수 있다고 적는다.
+
 ## 무기고 신청
 
 무기고 거래소(Arsenal Exchange)에서 무기고 징표로 무기를 뽑거나 산다. 뽑기를 무기고 신청(Issue)이라 한다.
@@ -131,14 +164,16 @@ wiki.gg는 같은 무기고 징표 수량(20·200·2000)을 적고, 4·5·6성 �
 
 ## 확인하지 못한 것
 
-- 징표의 영어 표기 대응. 위 표의 수량이 맞아떨어져 보장 징표 = Bond Quota, 최후의 징표 = Endpoint Quota, 통합 징표 = AIC Quota로 보았으나 출처가 직접 짝짓지는 않는다.
+- 징표의 영어 표기 대응. 위 표의 수량과 구매 센터 교환소의 획득 조건·가격이 맞아떨어져 보장 징표 = Bond Quota, 최후의 징표 = Endpoint Quota, 통합 징표 = AIC Quota로 보았으나 출처가 직접 짝짓지는 않는다.
 - wiki.gg가 적는 첫 획득 보너스(AIC Quota 30)와 무기 획득 보너스(AIC Quota 50/10)의 한국어 재화 이름과 나무위키의 대응.
 - 픽업 오퍼레이터 수가 특별 허가 헤드헌팅 8명, 재구축 6명이라는 나무위키 서술의 시점(2026-09-24 수정본 기준).
 - 상시 6성 목록이 2026-09-24 이후 바뀌었는지.
 - 무기고 신청 정가 구매의 갱신 시각 차이(나무위키 오전 5시, wiki.gg 4:00).
-- 구매 센터의 각 거래소(크레딧·오리지늄·허가증·징표 교환소)의 품목과 가격.
+- 구매 센터 각 교환소의 품목별 이름과 가격. wiki.gg 표는 아이템 아이콘이 깨져 품목 이름이 보이지 않아 옮기지 못했다.
+- 허가증 거래소(헤드헌팅 허가증 획득처)가 wiki.gg의 어느 구획에 해당하는지.
 
 ## 히스토리
 
+- 2026-10-24: 구매 센터 절 추가(구획, 월정액, 징표 교환소, 크레딧 상점). endfield.wiki.gg Acquisition Center(2026-10-16)와 나무위키 「아이템/재화」(2026-06-19) 기준.
 - 2026-10-23: 최초 작성. 나무위키 「헤드헌팅」「무기고 신청」(2026-09-24 수정본)과 endfield.wiki.gg Headhunting(2026-10-01)·Arsenal Exchange(2026-10-15) 기준.
 - 1.5 버전: 재구축 신청(무기 복각) 추가(wiki.gg).
