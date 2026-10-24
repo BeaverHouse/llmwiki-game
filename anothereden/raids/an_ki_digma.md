@@ -9,7 +9,6 @@ sources:
   - https://altema.jp/anaden/ankidhiguma (altema 「アン・キ・ディグマの攻略と倒し方」. 봇 차단(403)으로 본문을 읽지 못해 검색 결과 요약만 참고)
   - https://www.youtube.com/watch?v=c10P1AEwaPc (ヤカンナイト 「【アナデン】アン・キ・ディグマ攻略　全凶星発動　コメント欄に解説あり」. 영상·설명란은 열람 불가, 제목과 채널명만 확인)
   - https://www.youtube.com/watch?v=Sx87ufY-C8g (ちょこここね 「『アン・キ・ディグマ』この動画1本で全部クリアしたいスペシャル」. 영상·설명란은 열람 불가, 제목과 채널명만 확인)
-  - anothereden.wiki (글로벌 위키) 는 봇 차단(403)으로 확인하지 못함
 created: 2026-10-17
 updated: 2026-10-17
 ---
