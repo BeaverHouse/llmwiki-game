@@ -1,7 +1,6 @@
 ---
 title: 울프가드 (Wulfgard)
 type: guide
-status: ai-draft
 aliases: [울프가드, Wulfgard, ウルフガード, 狼卫, 카텔로 울프가드 루피노]
 sources:
   - https://namu.wiki/w/울프가드 (2026-10-11 수정본, CC BY-NC-SA 2.0 KR)

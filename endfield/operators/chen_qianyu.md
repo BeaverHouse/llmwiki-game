@@ -1,7 +1,6 @@
 ---
 title: 진천우 (Chen Qianyu)
 type: guide
-status: ai-draft
 aliases: [진천우, Chen Qianyu, チェン・センユー, 陈千语, 천우]
 sources:
   - https://namu.wiki/w/진천우 (2026-09-25 수정본, CC BY-NC-SA 2.0 KR)

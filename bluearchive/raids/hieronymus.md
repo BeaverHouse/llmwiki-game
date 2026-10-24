@@ -1,7 +1,6 @@
 ---
 title: 예로니무스 (Hieronymus)
 type: raid-guide
-status: ai-draft
 sources:
   - "seed: 내장 가이드에서 이전 (2026-07-06)"
   - "https://schaledb.com/data/jp/raids.json"

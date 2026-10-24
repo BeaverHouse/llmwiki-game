@@ -1,7 +1,6 @@
 ---
 title: 4번 협곡 (Valley IV)
 type: guide
-status: ai-draft
 aliases: [4번 협곡, Valley IV, 四号谷地, 거점 지역, 협곡길, 아부레이 채석장, 오리지늄 연구 구역, 광맥 구역, 에너지 공급 고지, 메인 스토리 1장, 연맹 공단, 본 크러셔, 네파리스, TA-TA]
 sources:
   - user-feedback: 4번 협곡 공식 한국어 표기 (Slack)

@@ -1,7 +1,6 @@
 ---
 title: 스작(스킬 레벨업) 동향
 type: note
-status: ai-draft
 aliases: [스작, 스킬 빌드, 권장 스작]
 sources:
   - "영상 설명란의 스킬 표기 9,743건 집계 (2026-07-21)"

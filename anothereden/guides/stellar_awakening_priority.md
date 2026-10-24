@@ -1,7 +1,6 @@
 ---
 title: 성도각성 추천 캐릭터 (星導覚醒おすすめキャラ)
 type: guide
-status: ai-draft
 aliases: [성도각성 추천, 성도각성 우선순위, SA 추천, SA 우선순위, 星導覚醒おすすめキャラ, 星導覚醒 優先度, 万象の星譜 使い道, stellar awakening priority]
 sources:
   - https://anothereden.game-info.wiki/d/%C0%B1%C6%B3%B3%D0%C0%C3%A4%AA%A4%B9%A4%B9%A4%E1%A5%AD%A5%E3%A5%E9 (Seesaa Wiki 「星導覚醒おすすめキャラ」, 2026-04-09 수정본, 표 기준 Ver3.15.0. 본문과 페이지에 표시된 댓글(2026-01~2026-05) 전체 열람, CC BY-NC-SA 4.0)

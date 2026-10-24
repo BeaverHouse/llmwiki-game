@@ -1,7 +1,6 @@
 ---
 title: ZONE과 ANOTHER ZONE (ZONE・応援効果)
 type: guide
-status: ai-draft
 aliases: [ZONE, ANOTHER ZONE, 極ZONE, 絶ZONE, 極・〜陣, 絶・〜陣, ZONE覚醒, ZONEアビリティ, アナザーセンス, 共鳴蓄積, 応援効果, 歌唱, 祈祷, 輝晶陣, 水天陣, 招雷陣, 風王陣, 烈火陣, 地裂陣, 刻陰陣, 幻魔陣, 煌斬陣, 瞬突陣, 轟打陣, 月光陣, 双撃陣, 閃撃陣, 星海陣, 堅守陣, 混沌陣]
 sources:
   - https://anothereden.game-info.wiki/d/ZONE%A1%A6%B1%FE%B1%E7%B8%FA%B2%CC%A4%DE%A4%C8%A4%E1 (Seesaa Wiki 「ZONE・応援効果まとめ」, 2026-07-20 수정본, Ver3.16.0 기준 서술. 전체 열람, CC BY-NC-SA 4.0)

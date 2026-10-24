@@ -1,7 +1,6 @@
 ---
 title: 星天 무기 (星天武器)
 type: guide
-status: ai-draft
 aliases: [星天 장비, 星天武器, 星天装備, 星天シリーズ, 星天の剣, 星天の杖, 星天の槍, 星天の槌, 星天の拳, 星天の斧, 星天の弓, 星天の刀, 세이텐 무기]
 sources:
   - https://anothereden.game-info.wiki/d/%A5%AF%A5%E9%A5%D5%A5%C8 (Seesaa Wiki 「クラフト」 武器類 항목, 2026-07-02 수정본. 단계별 효과와 강화 소재의 근거, CC BY-NC-SA 4.0)

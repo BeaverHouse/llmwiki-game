@@ -1,7 +1,6 @@
 ---
 title: 氷原のヌシ (Hyougen no Nushi)
 type: raid-guide
-status: ai-draft
 aliases: [氷原のヌシ, Hyougen no Nushi]
 sources:
   - https://anothereden.game-info.wiki/d/%C9%B9%B8%B6%A4%CE%A5%CC%A5%B7 (Seesaa Wiki 「氷原のヌシ」, 2025-07-09 수정본, 댓글은 2023-09-11~2024-07-17 확인, CC BY-NC-SA 4.0)

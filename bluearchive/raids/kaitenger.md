@@ -1,7 +1,6 @@
 ---
 title: 카이텐져 (Kaitenger / KAITEN FX MK.0)
 type: raid-guide
-status: seeded
 sources:
   - "seed: 내장 가이드에서 이전 (2026-07-06)"
 created: 2026-07-06

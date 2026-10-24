@@ -1,7 +1,6 @@
 ---
 title: 카뮤 (Camille)
 type: guide
-status: ai-draft
 aliases: [카뮤, Camille, カミーユ, 卡缪, 카뮤 아르노]
 sources:
   - https://namu.wiki/w/카뮤(명일방주:%20엔드필드) (2026-10-02 수정본, CC BY-NC-SA 2.0 KR)

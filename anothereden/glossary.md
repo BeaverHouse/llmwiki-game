@@ -1,7 +1,6 @@
 ---
 title: Another Eden 고유명사 표기 (ko/en/ja)
 type: hub
-status: ai-draft
 aliases: [용어집, glossary]
 sources:
   - 사이트 데이터 (ae_translation, AE Check의 ko/en/ja 이름)

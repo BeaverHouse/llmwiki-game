@@ -1,7 +1,6 @@
 ---
 title: 티프로스 (Typhoeus)
 type: guide
-status: ai-draft
 aliases: [티프로스, Typhoeus, ティフォロス, 提弗洛斯, 사미베르그의 아이]
 sources:
   - https://namu.wiki/w/티프로스 (2026-10-10 수정본, CC BY-NC-SA 2.0 KR)

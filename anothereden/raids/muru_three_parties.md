@@ -1,7 +1,6 @@
 ---
 title: ムル・トリオ (ムル・アンクン／ムル・キカ／ムル・ナブズ 3파티전)
 type: raid-guide
-status: ai-draft
 aliases: [ムル・トリオ, ムル・アンクン／ムル・キカ／ムル・ナブズ, ムル3連戦, ムル 3파티전, 무루 3연전, Muru Trio]
 sources:
   - https://anothereden.game-info.wiki/d/%A5%E0%A5%EB%A1%A6%A5%C8%A5%EA%A5%AA (Seesaa Wiki 「ムル・トリオ」, 2026-04-11 수정본, 댓글은 2026-06-07까지 확인, CC BY-NC-SA 4.0. 「ムル・アンクン／ムル・キカ／ムル・ナブズ」라는 이름의 페이지는 없고, Seesaa 검색과 「アン・キ・ディグマ」「非公式隠しボス難易度表」의 링크가 이 페이지를 가리킴)

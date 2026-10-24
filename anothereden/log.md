@@ -1,5 +1,6 @@
 # Another Eden — 변경 기록 (append-only, 최신이 위)
 
+- 2026-10-24 | ai | 모든 문서 frontmatter | `status` 필드 삭제 (스키마 변경, 본문 변경 없음이라 `updated`는 유지) | 근거: 유지보수자 결정 — 문서 단위 검증 라벨은 실제 검토 범위와 맞지 않음, 확인 내용은 sources의 user-feedback으로 문장 단위 기록 (AGENTS.md 2·7절)
 - 2026-10-24 | ai | index.md·backlog.md·문서 sources 정리 | 서버 기준을 일본 서버로 명시(일본·글로벌 진행 동일), 글로벌 실장 여부 확인 필요 항목과 sources의 '글로벌 위키 봇 차단으로 확인 못 함' 줄 삭제 | 근거: user-feedback (Austin, 2026-10-24)
 - 2026-10-24 | ai | guides/stellar_awakening_priority.md·guides/buddies.md·characters/prai.md·characters/orleya_as.md·characters/mistrare.md·characters/clughorn.md·characters/zilva_as.md 신규, guides/stellar_awakening.md·glossary.md·index.md·backlog.md 수정 | 성장 작업: backlog 상위 6주제(성도각성 추천 캐릭터, 버디와 버디 장비(テトラ·浮沈の盾 항목 흡수), 프라이·오를레아(AS), 미스트레아, 클러그혼, 질버(AS)) 7편 작성 (ai-draft), 성도각성 문서에서 링크, 새 고유명사 용어집 등록, backlog 갱신과 출처 불일치 질문 정리. 맨 위 정비 항목(일본어 용어 한국어 교체)은 번역표 조회가 같은 오류로 실패해 이번에도 보류 | 근거: Seesaa Wiki 「星導覚醒おすすめキャラ」「星導覚醒キャラ一覧」「バディ」「バディ一覧」「ぴーたん」「ガンス」「ガンス(アナザースタイル)」「コロボ」「モケ」「キュモス」「テトラ」「プライ」「オルレイア(アナザースタイル)」「ミストレア」「ミストレア(アナザースタイル)」「ジルファニー(アナザースタイル)」「クラグホーン」「ジルバー」「ジルバー(アナザースタイル)」「エニ」「イヅナ」「カプトニク」「アン・キ・ディグマ」「ムル・キカ」「ムル・ナブズ」「ムル・トリオ」「闇のアルターフォース」, altema 「クラグホーン」(본문 열람). altema의 나머지 페이지는 403, anothereden.wiki는 봇 차단
 

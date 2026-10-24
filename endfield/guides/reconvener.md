@@ -1,7 +1,6 @@
 ---
 title: 리컨비너 (Reconvener)
 type: guide
-status: human-verified
 aliases: [리컨비너, Reconvener, Reconveners, 기억 원형, 정보 파편, 오리지늄 숲]
 sources:
   - user-feedback: 엔드필드 공업 인사 기록 '리컨비너' 전문 (열람 권한 8, 파일 분류 302) 한국어 텍스트, 공식 설정으로 제공 (Slack, 2026-10-14)

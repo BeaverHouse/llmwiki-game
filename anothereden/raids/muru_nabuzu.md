@@ -1,7 +1,6 @@
 ---
 title: ムル・ナブズ (Muru Nabuzu)
 type: raid-guide
-status: ai-draft
 aliases: [ムル・ナブズ, 무루 나부즈, Muru Nabuzu, murunabuzu, 緩衝殻]
 sources:
   - https://anothereden.game-info.wiki/d/%A5%E0%A5%EB%A1%A6%A5%CA%A5%D6%A5%BA (Seesaa Wiki 「ムル・ナブズ」, 2026-02-08 수정본, 댓글은 2026-02-03까지 확인, CC BY-NC-SA 4.0)

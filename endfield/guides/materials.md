@@ -1,7 +1,6 @@
 ---
 title: 육성 재료와 획득처
 type: guide
-status: ai-draft
 aliases: [육성 재료, 재료, Progression Materials, 희귀 재료, Rare Materials, 정예화 재료, 스킬 재료, 돌파 재료, 작전 기록, 인지 매개체, 프로토콜 디스크, 프로토콜 프리즘, 존속의 흔적, 무기 점검, 모형 틀, 붉은 기둥 버섯, 덴드라, 흑암석, 재배 코어, 오로베릴, 파생 오리지늄, 무기고 징표, 탈로시안 화폐, 헤드헌팅 허가증]
 sources:
   - https://namu.wiki/w/명일방주:%20엔드필드/아이템 (2026-07-22 수정본, CC BY-NC-SA 2.0 KR)

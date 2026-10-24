@@ -1,7 +1,6 @@
 ---
 title: 방어구 — 千年樹 시리즈와 주요 腕輪·首飾り·指輪 (防具)
 type: guide
-status: ai-draft
 aliases: [방어구, 防具, 防具一覧, 千年樹の腕輪, 千年樹の首飾り, 千年樹の指輪, 竜纏の指輪, 竜纏の腕輪, 竜纏の首飾り, 腕輪, 首飾り, 指輪, 夢晶の指輪, 액세서리]
 sources:
   - https://anothereden.game-info.wiki/d/%CB%C9%B6%F1%B0%EC%CD%F7 (Seesaa Wiki 「防具一覧」, 2026-01-24 수정본. 腕輪·首飾り·指輪 표와 댓글 전체 열람. 특수 능력은 모두 +10 시 수치, CC BY-NC-SA 4.0)

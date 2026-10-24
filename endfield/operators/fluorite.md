@@ -1,7 +1,6 @@
 ---
 title: 플루라이트 (Fluorite)
 type: guide
-status: ai-draft
 aliases: [플루라이트, Fluorite, フローライト, 萤石, 벨라나]
 sources:
   - https://namu.wiki/w/플루라이트(명일방주:%20엔드필드) (2026-09-10 수정본, CC BY-NC-SA 2.0 KR)

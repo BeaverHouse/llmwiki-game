@@ -1,7 +1,6 @@
 ---
 title: 포그라니치니크 (Pogranichnik)
 type: guide
-status: ai-draft
 aliases: [포그라니치니크, Pogranichnik, ポグラニチニク, 骏卫, 포그라, 헤르손]
 sources:
   - https://namu.wiki/w/포그라니치니크 (2026-10-12 수정본, CC BY-NC-SA 2.0 KR)

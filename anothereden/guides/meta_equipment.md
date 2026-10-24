@@ -1,7 +1,6 @@
 ---
 title: 환경 장비와 입수처 (環境装備)
 type: guide
-status: ai-draft
 aliases: [환경 장비, 최강 장비, 장비 파밍, 環境装備, 環境装備一覧, meta equipment]
 sources:
   - https://anothereden.game-info.wiki/d/%B4%C4%B6%AD%A5%AD%A5%E3%A5%E9%A1%A6%C1%F5%C8%F7%A4%DE%A4%C8%A4%E1 (Seesaa Wiki 「環境キャラ・装備まとめ」 環境装備一覧, 2025-07-09 수정본, Ver3.12.0 기준, CC BY-NC-SA 4.0)

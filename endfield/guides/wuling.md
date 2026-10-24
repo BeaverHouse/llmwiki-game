@@ -1,7 +1,6 @@
 ---
 title: 무릉 (Wuling)
 type: guide
-status: ai-draft
 aliases: [무릉, Wuling, 武陵, 무릉 과학 개발 구역, 무릉성, 무릉 대균열, 청파채, 수돈, 응룡 관문, 북쪽 금지 구역, 메인 스토리 2장]
 sources:
   - https://namu.wiki/w/명일방주:%20엔드필드/지역 (2026-10-17 수정본, CC BY-NC-SA 2.0 KR)

@@ -1,7 +1,6 @@
 ---
 title: 대결전 S26 헤세드 — 픽률·리포트
 type: note
-status: human-verified
 aliases: [S26, 헤세드 대결전, 3S26]
 raid_ids: [3S26-1, 3S26-2, 3S26-4]
 sources:

@@ -1,7 +1,6 @@
 ---
 title: 전기 파티
 type: guide
-status: ai-draft
 aliases: [전기 파티, 감전 파티, 장방이 파티, 아비웨나 파티, 전기 조합]
 sources:
   - https://namu.wiki/w/명일방주:%20엔드필드/전투 (2026-10-16 수정본, CC BY-NC-SA 2.0 KR)

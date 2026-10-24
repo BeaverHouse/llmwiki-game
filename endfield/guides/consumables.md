@@ -1,7 +1,6 @@
 ---
 title: 사용할 수 있는 아이템 (소모품, Usable Items)
 type: guide
-status: ai-draft
 aliases: [소모품, 사용할 수 있는 아이템, 사용 가능 아이템, Usables, Usable Items, 전술 아이템, 회복 아이템, 힐템, 버프 아이템, 버프템, 음식, 치유 캡슐, Buck Capsule, 시트론 통조림, Canned Citrome, 금초 청량음료, 야침 주사약, Yazhen Syringe, 공업 폭발물, Industrial Explosive, 아츠를 각인한 병, Arts Vial, 제이컵의 유산, Jakub's Legacy, 푹 삶은 갈비 미삼탕, 미삼탕, Ginseng Meat Stew, 로도스 아일랜드 특별 제작 식량, Rhodes Island Special Ration]
 sources:
   - https://namu.wiki/w/명일방주:%20엔드필드/아이템 (2026-07-22 수정본, CC BY-NC-SA 2.0 KR)

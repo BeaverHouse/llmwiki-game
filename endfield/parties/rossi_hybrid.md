@@ -1,7 +1,6 @@
 ---
 title: 로시 하이브리드 파티
 type: guide
-status: ai-draft
 aliases: [로시 하이브리드 파티, 로시 파티, 로시 조합, 로질펠, 로포질펠, 로울질포, 로탕질펠, 질펠엔진, 아츠 하이브리드 조합, 물리 하이브리드 조합]
 sources:
   - https://namu.wiki/w/로시(명일방주:%20엔드필드) (2026-10-18 수정본, CC BY-NC-SA 2.0 KR)

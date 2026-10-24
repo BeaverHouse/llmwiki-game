@@ -1,7 +1,6 @@
 ---
 title: 블루 아카이브 스탯 가이드
 type: guide
-status: seeded
 sources:
   - "seed: 내장 가이드에서 이전 (2026-07-06)"
   - "https://bluearchive.wiki/wiki/Unique_weapons (성급별 최대 레벨과 효과, 2026-10-13 판, 2026-10-24 열람)"

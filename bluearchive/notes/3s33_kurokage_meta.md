@@ -1,7 +1,6 @@
 ---
 title: 대결전 S33 쿠로카게 — 픽률·리포트
 type: note
-status: ai-draft
 aliases: [S33, 쿠로카게 대결전, 3S33]
 raid_ids: [3S33-1, 3S33-3, 3S33-4]
 sources:

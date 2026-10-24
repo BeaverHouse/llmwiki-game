@@ -1,7 +1,6 @@
 ---
 title: 에스텔라 (Estella)
 type: guide
-status: ai-draft
 aliases: [에스텔라, Estella, エステーラ, 埃特拉, 에스텔라 커]
 sources:
   - https://namu.wiki/w/에스텔라 (2026-09-10 수정본, CC BY-NC-SA 2.0 KR)

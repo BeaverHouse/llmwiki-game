@@ -1,7 +1,6 @@
 ---
 title: 질버(AS) (Zilva Another Style)
 type: guide
-status: ai-draft
 aliases: [질버 AS, 질버 어나더 스타일, ジルバー(AS), ジルバー(アナザースタイル), Zilva (Another Style), ウールヴヘジン]
 sources:
   - https://anothereden.game-info.wiki/d/%A5%B8%A5%EB%A5%D0%A1%BC%28%A5%A2%A5%CA%A5%B6%A1%BC%A5%B9%A5%BF%A5%A4%A5%EB%29 (Seesaa Wiki 「ジルバー(アナザースタイル)」, 最終更新 2025-08-04, 댓글 0건, CC BY-NC-SA 4.0. 2026-10-24 열람)

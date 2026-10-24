@@ -1,7 +1,6 @@
 ---
 title: 자연 파티
 type: guide
-status: ai-draft
 aliases: [자연 파티, 자연 조합, 티프로스 파티, 결 파티, 부식 파티, 자연 폭발 파티, 지혜 결 파티]
 sources:
   - https://namu.wiki/w/명일방주:%20엔드필드/전투 (2026-10-16 수정본, CC BY-NC-SA 2.0 KR)

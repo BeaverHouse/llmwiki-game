@@ -1,7 +1,6 @@
 ---
 title: 총력전 S89 드럼통 게 — 픽률·리포트
 type: note
-status: ai-draft
 aliases: [S89, 드럼통 게 메타]
 raid_ids: [S89-0]
 sources:

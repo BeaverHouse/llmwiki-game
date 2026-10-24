@@ -1,7 +1,6 @@
 ---
 title: アナザーフォース (AF)
 type: guide
-status: ai-draft
 aliases: [AF, アナザーフォース, Another Force, AF 게이지, AFゲージ, AF 콤보 배율, AFコンボ倍率, AF 필살기, EX必殺技, EX 필살기, 개막 AF, リキャスト]
 sources:
   - https://anothereden.game-info.wiki/d/%A5%A2%A5%CA%A5%B6%A1%BC%A5%D5%A5%A9%A1%BC%A5%B9%A4%DE%A4%C8%A4%E1 (Seesaa Wiki 「アナザーフォースまとめ」, 2026-07-20 수정본. 본문과 댓글(2024-11~2026-10) 전체 열람, CC BY-NC-SA 4.0. 일부 수치는 공식 가이드북 アルティマニア와 「アナデンの館」의 조사를 인용한 것)

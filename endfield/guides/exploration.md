@@ -1,7 +1,6 @@
 ---
 title: 탐색 컨텐츠 (Exploration)
 type: guide
-status: ai-draft
 aliases: [탐색, 탐색 컨텐츠, 필드 탐색, 수집 요소, 오리렌, 상자, 연구 포인트, 장비 템플릿, 오리지늄 회로 영감, 탈로사이트, 프로토콜 용량, 집라인 제한, 전술 시설 제한, 에너지 응집점, 고위 에너지 응집점, Energy Alluvium, Severe Energy Alluvium, 탐색 레벨, 침식된 유산을 찾아서, Etchspace Salvage, 숨겨진 구역의 여행자, Delver of the Cryptic, 수명]
 sources:
   - https://namu.wiki/w/명일방주:%20엔드필드/지역 (2026-10-22 수정본, 지역별 제한·수집 요소, CC BY-NC-SA 2.0 KR)

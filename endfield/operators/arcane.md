@@ -1,7 +1,6 @@
 ---
 title: 결 (Arcane)
 type: guide
-status: ai-draft
 aliases: [결, Arcane, オクギ, 诀, 이지연, 진결·지혜, 진결·의지, 지혜 결, 의지 결]
 sources:
   - https://namu.wiki/w/결(명일방주:%20엔드필드) (2026-09-17 수정본, CC BY-NC-SA 2.0 KR)

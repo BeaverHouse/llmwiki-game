@@ -1,7 +1,6 @@
 ---
 title: オズマ (Ozma)
 type: raid-guide
-status: ai-draft
 aliases: [オズマ, 오즈마, Ozma]
 sources:
   - https://anothereden.game-info.wiki/d/%A5%AA%A5%BA%A5%DE (Seesaa Wiki 「オズマ」, 2026-01-02 수정본, 댓글은 2026-06-29까지 확인, CC BY-NC-SA 4.0)

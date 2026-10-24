@@ -1,7 +1,6 @@
 ---
 title: 관리자 (Endministrator)
 type: guide
-status: ai-draft
 aliases: [관리자, Endministrator, Endmin, 엔드민, 管理人, 管理员, 남관, 여관, 관리자A, 관리자B]
 sources:
   - https://namu.wiki/w/관리자(명일방주:%20엔드필드) (2026-10-16 수정본, CC BY-NC-SA 2.0 KR)

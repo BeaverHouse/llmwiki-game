@@ -1,7 +1,6 @@
 ---
 title: 전투 기본 (Combat)
 type: guide
-status: ai-draft
 aliases: [전투, 전투 시스템, 전투 기본, Combat, Combat Mechanic, 戦闘, 스킬 게이지, SP, 궁극기 에너지, 불균형, Stagger, 처형, Finisher, 강력한 일격, Final Strike, 연계 스킬, Combo Skill]
 sources:
   - https://namu.wiki/w/명일방주:%20엔드필드/전투 (2026-10-16 수정본, CC BY-NC-SA 2.0 KR)

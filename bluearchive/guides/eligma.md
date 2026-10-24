@@ -1,7 +1,6 @@
 ---
 title: 엘리그마와 성급·전용무기 비용
 type: guide
-status: ai-draft
 aliases: [엘리그마, 엘레프, Eligma, Eleph]
 sources:
   - "https://bluearchive.wiki/wiki/Shop (Eligma Section, 2026-10-02 판, 일본 서버 상점 기준)"

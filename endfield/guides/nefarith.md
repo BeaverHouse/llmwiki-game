@@ -1,7 +1,6 @@
 ---
 title: 네파리스와 본 크러셔 (Nefarith, Bonekrushers)
 type: guide
-status: ai-draft
 aliases: [네파리스, Nefarith, ネファリス, 聂菲斯, 본 크러셔, Bonekrushers, Bonekrusha, 지옥의 용광로, Denstack, 안갯불, hazefyre, 로댄, Rhodagn, 랜드브레이커 살인사건]
 sources:
   - https://namu.wiki/w/네파리스 (2026-09-08 수정본, CC BY-NC-SA 2.0 KR)

@@ -1,7 +1,6 @@
 ---
 title: 프로토콜 공간 (Protocol Space)
 type: guide
-status: ai-draft
 aliases: [프로토콜 공간, Protocol Space, 이성, Sanity, 오퍼레이터 경험, 오퍼레이터 돌파, 스킬 업그레이드, 무기 경험, 무기 돌파, 고위험 재료, Crisis Drills, RE-Crisis, 보스 재도전, 위험한 리허설, 위험한 재현, 위험한 그림자, 위험한 재앙, 심층 모드, Deep Dive, Crisis Fragment, Zoetic Session]
 sources:
   - https://endfield.wiki.gg/wiki/Protocol_Space (2026-10-17 수정본)

@@ -1,7 +1,6 @@
 ---
 title: 闇のアルターフォース (Dark Alter Force)
 type: raid-guide
-status: ai-draft
 aliases: [闇のアルターフォース, 闇アルターフォース, 어둠의 알터포스, 闇AF]
 sources:
   - https://anothereden.game-info.wiki/d/%B0%C7%A4%CE%A5%A2%A5%EB%A5%BF%A1%BC%A5%D5%A5%A9%A1%BC%A5%B9 (Seesaa Wiki 「闇のアルターフォース」, 2026-03-07 수정본, 댓글은 2025-10-22까지 확인, CC BY-NC-SA 4.0)

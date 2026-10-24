@@ -1,7 +1,6 @@
 ---
 title: 사의 그림 (Si's Painting)
 type: guide
-status: ai-draft
 aliases: [사의 그림, Si's Painting, 그림 세계, 인연 마을, 인연 마을 객잔, 연원객잔, Yuanyuan Manor, Yuanyuan Manor Inn, 객잔, 소하장, Xiaohe Manor, 2장 VIII, 심연을 떠나며, Sanctuary from the Rift, 새 먹으로 그리다, Paint with Fresh Ink, 단청도, Sanctuary of Ink]
 sources:
   - https://namu.wiki/w/명일방주:%20엔드필드/지역 (사의 그림 문단, 2026-10-20 수정본, CC BY-NC-SA 2.0 KR)

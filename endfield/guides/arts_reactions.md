@@ -1,7 +1,6 @@
 ---
 title: 아츠 부착과 아츠 이상 (Arts Infliction & Arts Reaction)
 type: guide
-status: ai-draft
 aliases: [아츠 부착, 아츠 폭발, 아츠 이상, 아츠 반응, 연소, 감전, 동결, 쇄빙, 부식, Arts Infliction, Arts Burst, Arts Reaction, Combustion, Electrification, Solidification, Shatter, Corrosion, アーツ付着, アーツ爆発, アーツ異常, 강제 동결, 강제 감전, 강제 연소, 강제 부식]
 sources:
   - https://namu.wiki/w/명일방주:%20엔드필드/전투 (2026-10-16 수정본, CC BY-NC-SA 2.0 KR)

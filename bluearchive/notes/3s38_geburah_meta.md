@@ -1,7 +1,6 @@
 ---
 title: 대결전 S38 야외 게부라 리포트
 type: note
-status: ai-draft
 aliases: [S38, 3S38, 게부라 대결전, 야외 게부라 대결전]
 raid_ids: [3S38-1, 3S38-2, 3S38-3]
 sources:

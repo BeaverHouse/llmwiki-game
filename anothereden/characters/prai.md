@@ -1,7 +1,6 @@
 ---
 title: 프라이 (Prai)
 type: guide
-status: ai-draft
 aliases: [프라이, プライ, Prai]
 sources:
   - https://anothereden.game-info.wiki/d/%A5%D7%A5%E9%A5%A4 (Seesaa Wiki 「プライ」, 2023-06-15 수정본, 댓글은 2024-12-15까지 확인, CC BY-NC-SA 4.0)
