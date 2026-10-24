@@ -6,7 +6,6 @@ sources:
   - https://anothereden.game-info.wiki/d/%A5%B8%A5%EB%A5%D5%A5%A1%A5%CB%A1%BC%28%A5%A2%A5%CA%A5%B6%A1%BC%A5%B9%A5%BF%A5%A4%A5%EB%29 (Seesaa Wiki 「ジルファニー(アナザースタイル)」, 2026-10-11 수정본, CC BY-NC-SA 4.0)
   - https://anothereden.game-info.wiki/ (Seesaa Wiki 톱 페이지 Ver3.17.0 업데이트 요약, 2026-10-11 수정본)
   - 사이트 데이터 (ae_character c101010181, ae_translation)
-  - anothereden.wiki/w/Jillfunny_(Another_Style) (글로벌 위키) 는 봇 차단(403)으로 확인하지 못함
 created: 2026-10-17
 updated: 2026-10-20
 ---

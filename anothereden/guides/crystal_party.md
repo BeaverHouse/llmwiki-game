@@ -11,7 +11,6 @@ sources:
   - https://anothereden.game-info.wiki/d/%B4%C4%B6%AD%A5%AD%A5%E3%A5%E9%A1%A6%C1%F5%C8%F7%A4%DE%A4%C8%A4%E1 (Seesaa Wiki 「環境キャラ・装備まとめ」, 2025-07-09 수정본, Ver3.12.0 기준)
   - https://anothereden.game-info.wiki/d/%A5%A2%A5%F3%A1%A6%A5%AD%A1%A6%A5%C7%A5%A3%A5%B0%A5%DE (Seesaa Wiki 「アン・キ・ディグマ」, 2026-04-02 수정본. [raids/an_ki_digma.md](../raids/an_ki_digma.md) 경유)
   - altema 「最強パーティ編成考察」는 봇 차단(403)으로 열지 못했고, WebSearch 결과 요약에도 晶 파티 편성 내용이 나오지 않아 근거로 쓰지 않음
-  - anothereden.wiki (글로벌 위키) 는 봇 차단(403)으로 확인하지 못함
 created: 2026-10-20
 updated: 2026-10-20
 ---

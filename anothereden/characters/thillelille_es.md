@@ -6,7 +6,6 @@ sources:
   - https://anothereden.game-info.wiki/d/%A5%C1%A5%EB%A5%EA%A5%EB%28%A5%A8%A5%AF%A5%B9%A5%C8%A5%E9%A5%B9%A5%BF%A5%A4%A5%EB%29 (Seesaa Wiki 「チルリル(エクストラスタイル)」, 2025-12-07 수정본, CC BY-NC-SA 4.0)
   - 사이트 데이터 (ae_character c101010121, ae_translation)
   - altema.jp는 봇 차단으로 열지 못했고, 검색 결과에도 해당 평가 요약이 나오지 않음
-  - anothereden.wiki/w/Thillelille_(Extra_Style) (글로벌 위키) 는 봇 차단(403)으로 확인하지 못함
 created: 2026-10-19
 updated: 2026-10-20
 ---

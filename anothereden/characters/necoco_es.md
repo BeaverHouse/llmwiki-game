@@ -8,7 +8,6 @@ sources:
   - https://anothereden.game-info.wiki/d/%B4%C4%B6%AD%A5%AD%A5%E3%A5%E9%A1%A6%C1%F5%C8%F7%A4%DE%A4%C8%A4%E1 (Seesaa Wiki 「環境キャラ・装備まとめ」 2025-07-09 수정본. [환경 캐릭터 평가](../guides/meta_characters.md) 경유)
   - https://altema.jp/anaden/charazokusei/3 (altema 「風属性のキャラ評価一覧」. 검색 결과에서 목록에 오른 것만 확인했고 평가 점수는 확인하지 못함. altema 페이지는 봇 차단 대상)
   - 사이트 데이터 조회 결과 없음 (2026-10-20)
-  - anothereden.wiki (글로벌 위키) 는 봇 차단(403) 대상이라 열람하지 않음
 created: 2026-10-20
 updated: 2026-10-20
 ---

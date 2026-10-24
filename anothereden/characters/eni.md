@@ -6,7 +6,6 @@ sources:
   - https://anothereden.game-info.wiki/d/%A5%A8%A5%CB (Seesaa Wiki 「エニ」, 2026-02-02 수정본, CC BY-NC-SA 4.0)
   - https://altema.jp/anaden/chara/1000 (altema 「エニ」 평가. 페이지는 봇 차단으로 열지 못했고 검색 결과 요약만 확인)
   - 사이트 데이터 조회 결과 없음 (2026-10-20)
-  - anothereden.wiki/w/Iphi (글로벌 위키) 는 봇 차단(403)으로 확인하지 못함
 created: 2026-10-20
 updated: 2026-10-20
 ---

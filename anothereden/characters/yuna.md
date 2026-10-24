@@ -8,7 +8,6 @@ sources:
   - https://anothereden.game-info.wiki/d/%B4%C4%B6%AD%A5%AD%A5%E3%A5%E9%A1%A6%C1%F5%C8%F7%A4%DE%A4%C8%A4%E1 (Seesaa Wiki 「環境キャラ・装備まとめ」 2025-07-09 수정본, 속성 표기)
   - https://altema.jp/anaden/sinkengenyuna (altema 「真・顕現ユナ」. 봇 차단으로 열지 못했고 검색 결과 요약에 평가 점수는 없음)
   - 사이트 데이터 (ae_character c101000121, ae_translation)
-  - anothereden.wiki/w/Yuna (글로벌 위키) 는 봇 차단(403)으로 확인하지 못함
 created: 2026-10-19
 updated: 2026-10-19
 ---

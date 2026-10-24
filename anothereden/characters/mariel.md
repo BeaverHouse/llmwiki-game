@@ -9,7 +9,6 @@ sources:
   - https://anothereden.game-info.wiki/d/%A5%A2%A5%F3%A1%A6%A5%AD%A1%A6%A5%C7%A5%A3%A5%B0%A5%DE (Seesaa Wiki 「アン・キ・ディグマ」 2026-04-02 수정본, 고난도전에서의 역할)
   - altema.jp는 봇 차단으로 열지 못했고, 검색 결과 요약에 평가 점수는 없음
   - 사이트 데이터 (ae_character c101000031, ae_translation)
-  - anothereden.wiki/w/Mariel (글로벌 위키) 는 봇 차단(403)으로 확인하지 못함
 created: 2026-10-19
 updated: 2026-10-19
 ---
