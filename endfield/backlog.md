@@ -38,8 +38,6 @@
 - 사의 그림 객잔과 2장 VIII 표기 | 객잔의 게임 안 이름은 '인연 마을 객잔'인가 '연원객잔'인가? 객잔 재화 Spirit Money의 한국어 이름은? Paint with Fresh Ink의 한국어 임무명은 「새 먹으로 그리다」인가? (guides/si_painting.md)
 - 전투 컨텐츠 표기 | 위기 협약 2시즌은 '잿빛 실험 작전'인가? 제약(Test Criteria), 그림자 이정표 Agony 모드, 기간 한정 이벤트 Monumental Etching('기억의 흔적'?), 전쟁의 메아리 난이도(Normal·Hard·Brutal), RE-Crisis·Crisis Drills의 한국어 표기는? (guides/combat_content.md)
 - 프로토콜 통행증 | Basic Supply 단계와 '오리지늄 배급'의 게임 안 한국어 이름, 통행증 최대 레벨, 권한 등급 레벨 보상이 무엇인지 (guides/protocol_pass.md)
-- 결 연계 스킬과 장방이 감전 레벨 | 결 연계 스킬로 전기 부착을 2스택으로 만든 뒤 장방이 연계 스킬이 소모하면, 에너지 20 외에 감전 레벨도 달라지는가? 결 문서의 "감전 스택을 높여"는 무엇을 가리키는가? (parties/electric.md)
-- 사 배틀 스킬의 부착 스택 | 강산을 한 폭에가 거는 냉기·열기 부착은 1스택인가? 붓을 들리라·붓을 거두리라로 바뀌어 있는 시간은? (operators/si.md, parties/heat.md, parties/cryo.md)
 - 징표와 재화의 대응 | 나무위키의 보장 징표·통합 징표·최후의 징표가 wiki.gg의 Bond Quota·AIC Quota·Endpoint Quota와 같은가? 오퍼레이터를 처음 얻을 때 주는 AIC Quota 30, 무기고 신청에서 6성·5성 무기를 얻을 때 주는 50·10은 게임 안에서 어떤 재화로 표시되는가? (guides/headhunting.md) — 2026-10-24: wiki.gg 구매 센터 문서의 Bond Quota(5·6성 중복으로 얻음, 5성 오퍼레이터 교환)와 Endpoint Quota(남는 6성 증표로 얻음, 6성 무기 20)가 나무위키의 보장 징표·최후의 징표 서술과 맞아 대응이 거의 굳어짐. 게임 화면 확인만 남음
 - 보스 재도전 단계 이름 | 나무위키 설명문의 '위험한 리허설·위험한 재현·위험한 그림자·위험한 재앙'이 wiki.gg의 Crisis Reflection·Extension·Calamity·Pandemonium 가운데 어느 것인가? RE-Crisis, Crisis Fragment, Zoetic Session의 한국어 이름과, 무릉성의 새 고위험 재료 공간 Hazardous Material Dissolving Pool의 한국어 이름·전용 재료는? (guides/protocol_space.md)
 - 사용 아이템 장착 | 오퍼레이터 한 명이 사용 아이템을 몇 개 장착하는가? 장착 칸의 게임 안 이름은 '전술 아이템'인가? 금초 청량음료·고급 금초 청량음료·금초 냉차·금초 냉차(대)와 기름 폭발 볶음·무릉 볶음의 영어 이름은? (guides/consumables.md)
@@ -48,7 +46,6 @@
 - 미션 제로 표기 | 2장 Ⅷ의 게임 안 한국어 텍스트는 '미션 제로'인가 '제로번째 지령'인가? 미션 제로의 목적인 '생명 재가동'(나무위키 요약은 생명의 고동·생명의 재시작으로도 씀)의 게임 표기는? (guides/zeroth_directive.md)
 - 침식된 유산을 찾아서 용어 | Derangement, Precipitation Nodule, Isolation Container, Operation Metrics, Aurylene Crystal, Exploration Level의 한국어 게임 표기는? (guides/exploration.md)
 - 베헤모스 용어 | '대사냥', '지촉인', '쉐이수', '쉐이 능묘', '드래곤 버블'이 게임 안 한국어 표기와 같은가? 드래곤 버블을 장방이가 디자인했다는 서술은 어느 기록에 있는가? (guides/behemoth.md)
-- 레바테인 열화의 궁극기 에너지 | 25/30/35는 연계 스킬 기본 10에 더해지는가, 그것을 대신하는가? 황혼 강화 일반 공격 4단은 강력한 일격으로 판정되어 부착을 흡수하는가?
 
 ## 완료
 
