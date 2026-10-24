@@ -9,8 +9,11 @@ sources:
   - "https://appmedia.jp/blue_archive/78805118"
   - "https://namu.wiki/w/미래시"
   - "batorment 학생 데이터: 전용 무기 항목의 '전무 3성' 표기, 파티 기록의 성급·전용무기 단계 필드 (2026-10-18)"
+  - "https://bluearchive.wiki/wiki/Shop (Eligma·Eleph 영어 표기, 2026-10-21)"
+  - "https://bluearchive.wiki/wiki/Gregorius (성가대·오르간의 일본어 스킬명 荘厳なる聖歌隊·苦難のオルガン과 영어 표기 Choir·Organ, 2026-10-23)"
+  - "user-feedback: 사용자가 '걍클고는 점수 상관없이 클리어만 하면 된다는 것'이라고 직접 설명 (2026-10-22 답변 리뷰)"
 created: 2026-07-06
-updated: 2026-10-18
+updated: 2026-10-23
 ---
 
 # 용어집 (Glossary)
@@ -45,6 +48,8 @@ updated: 2026-10-18
 | --- | --- | --- | --- |
 | 능력 개방 | 能力解放 | | 교양 WB와 오파츠를 사용하는 추가 육성 |
 | 교양 WB | 応用WB | | 체육·사격·위생 3종, 제약해제결전 보상 |
+| 엘리그마 | | Eligma | 어느 학생의 엘레프로든 바꿀 수 있는 공용 재화. [eligma.md](guides/eligma.md) |
+| 엘레프 | | Eleph | 학생별 성급·전용무기 성급 재료. [eligma.md](guides/eligma.md) |
 
 ## 총력전 보스
 
@@ -74,6 +79,13 @@ updated: 2026-10-18
 | 붉은 성유물 | 赤色の聖遺物 | | 루나틱에서는 누적 피해로 활성화 후 EX 회복 |
 | 저주 | ウルガータ | | 일본어는 저주를 부여하는 스킬명. 대상의 체력을 완전히 회복해 해제 |
 
+## 그레고리오 기믹
+
+| 한국어 | 일본어 | 영어 | 비고 |
+| --- | --- | --- | --- |
+| 성가대 | 聖歌隊 | Choir | 받은 피해를 그레고리오에게 전이. 무너지면 그로기 게이지 5% 증가. [gregorius.md](raids/gregorius.md) |
+| 오르간 | オルガン | Organ | 흰색/검은색 파이프. EX로만 공격 가능 |
+
 ## 커뮤니티 용어
 
 | 용어     | 의미                                                                                    | 출처 문서                                |
@@ -81,4 +93,7 @@ updated: 2026-10-18
 | 빛만튀   | 빛나는 페로로 1-2마리만 공격해 데미지를 주고 퇴각하는 전략                              | [perorodzilla.md](raids/perorodzilla.md) |
 | 민초택틱 | 무적 자리 탱커 + 아이리 EX로 쿠로에게 이속 감소를 계속 부여해 자해 데미지를 입히는 전략 | [shiro_kuro.md](raids/shiro_kuro.md)     |
 | 미래시   | 먼저 서비스한 서버(블루 아카이브는 일본 서버)의 업데이트·시즌 기록으로 다른 서버의 앞날을 미리 보는 것. "미래시의 ○○ 총력전" = 일본 서버에서 이미 열린 시즌 | [beginner.md](guides/beginner.md) |
+| 플레 / 플레컷 / 플레택틱 | 플래티넘(총력전·대결전 순위 20,000위 이내 등급), 그 등급의 커트라인 점수, 플래티넘에 드는 공략 편성. 난이도 이름이 아니므로 "플레택틱"은 목표 순위대의 편성을 묻는 말 | [beginner.md](guides/beginner.md) |
+| 익스 | 난이도 EXTREME. 순서는 EXTREME → INSANE → TORMENT → LUNATIC | [beginner.md](guides/beginner.md) |
+| 걍클 / 걍클고 | "그냥 클리어 (가자)". 점수·순위는 상관없이 해당 난이도 클리어만 하면 된다는 뜻. 학생 이름이 아님 | user-feedback (2026-10-22) |
 | 전N (전무 N성) | 전용무기(고유무기) N성. 예: "노조미 전3" = 노조미 전용무기 3성. 학생 5성 이후 단계이며, "N성"만 쓰면 학생 성급. 파티 수(N파티)와 구분 | [beginner.md](guides/beginner.md) |
