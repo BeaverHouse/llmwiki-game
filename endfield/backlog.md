@@ -40,7 +40,6 @@
 - 프로토콜 통행증 | Basic Supply 단계와 '오리지늄 배급'의 게임 안 한국어 이름, 통행증 최대 레벨, 권한 등급 레벨 보상이 무엇인지 (guides/protocol_pass.md)
 - 징표와 재화의 대응 | 나무위키의 보장 징표·통합 징표·최후의 징표가 wiki.gg의 Bond Quota·AIC Quota·Endpoint Quota와 같은가? 오퍼레이터를 처음 얻을 때 주는 AIC Quota 30, 무기고 신청에서 6성·5성 무기를 얻을 때 주는 50·10은 게임 안에서 어떤 재화로 표시되는가? (guides/headhunting.md) — 2026-10-24: wiki.gg 구매 센터 문서의 Bond Quota(5·6성 중복으로 얻음, 5성 오퍼레이터 교환)와 Endpoint Quota(남는 6성 증표로 얻음, 6성 무기 20)가 나무위키의 보장 징표·최후의 징표 서술과 맞아 대응이 거의 굳어짐. 게임 화면 확인만 남음
 - 보스 재도전 단계 이름 | 나무위키 설명문의 '위험한 리허설·위험한 재현·위험한 그림자·위험한 재앙'이 wiki.gg의 Crisis Reflection·Extension·Calamity·Pandemonium 가운데 어느 것인가? RE-Crisis, Crisis Fragment, Zoetic Session의 한국어 이름과, 무릉성의 새 고위험 재료 공간 Hazardous Material Dissolving Pool의 한국어 이름·전용 재료는? (guides/protocol_space.md)
-- 사용 아이템 장착 | 오퍼레이터 한 명이 사용 아이템을 몇 개 장착하는가? 장착 칸의 게임 안 이름은 '전술 아이템'인가? 금초 청량음료·고급 금초 청량음료·금초 냉차·금초 냉차(대)와 기름 폭발 볶음·무릉 볶음의 영어 이름은? (guides/consumables.md)
 - 월정액 아이템 | Monthly Pass의 Emergency Sanity Booster와 Sanity Usage Permit의 한국어 이름은? 헤드헌팅 허가증을 파는 '허가증 거래소'는 구매 센터의 어느 구획인가? (guides/headhunting.md)
 - 리시아의 근거 | 리시아가 랜드브레이커가 되었다는 것, 관리자와의 약속, 초자연 '사냥'은 게임 안 어느 대사·기록에 나오는가? 1장 Ⅳ에서 리시아가 하는 말의 원문은? (guides/lycia.md)
 - 미션 제로 표기 | 2장 Ⅷ의 게임 안 한국어 텍스트는 '미션 제로'인가 '제로번째 지령'인가? 미션 제로의 목적인 '생명 재가동'(나무위키 요약은 생명의 고동·생명의 재시작으로도 씀)의 게임 표기는? (guides/zeroth_directive.md)
