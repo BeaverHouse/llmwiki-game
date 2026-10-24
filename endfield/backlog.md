@@ -6,6 +6,7 @@
 
 ## 다음 작업
 
+- 정비 | 본문의 출처 서술 정리 | 본문에 "나무위키는 …라고 적는다", "wiki.gg에 따르면" 같은 출처 서술이 500곳 넘게 있다. 읽는 사람에게 필요한 것은 게임의 사실이므로 본문은 사실만 쓰고 출처는 frontmatter `sources`에 둔다. 출처끼리 내용이 다를 때만 본문에 양쪽을 밝힌다. 다른 주제보다 먼저, 하루에 문서 몇 편씩 처리한다 (Austin 지적, 2026-10-24) | 각 문서의 sources
 - 문명 밴드의 다른 도시 | guides/civilization_band.md 보강 | 도시 문서가 이름만 든 홍산 크레이터(홍산 과학원 본거지), 대수도원(고요한 수도회), Morospolis, The Unicity | endfield.wiki.gg Hongshan_Crater·Monasterium·Morospolis, 나무위키 「/등장인물 및 세력」
 - 인연 마을 객잔 세부 | guides/si_painting.md 보강 | 테마·레시피·개장 효과·Spirit Money 획득처는 wiki.gg 문서가 아직 비어 있어 쓰지 못함 | endfield.wiki.gg Yuanyuan_Manor_Inn·Spirit_Money
 - 탐색 레벨 | guides/exploration.md 보강 | 탐색 컨텐츠 문서의 에너지 응집점은 탐색 레벨 4부터 고위로 바뀌고 적 레벨이 탐색 레벨을 따르는데, 탐색 레벨을 올리는 방법과 단계별 효과는 쓰지 않음. 프로토콜 공간 문서에 Zoetic Session I~IV(탐색 레벨 4~7)의 위치와 임무만 적음 | endfield.wiki.gg Exploration Level·Zoetic_Session_I~IV, 나무위키 「/전투」
