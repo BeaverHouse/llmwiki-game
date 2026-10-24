@@ -1,7 +1,6 @@
 ---
 title: 유나 (Yuna)
 type: guide
-status: ai-draft
 aliases: [유나, ユナ, Yuna, SA 유나, 真・顕現ユナ, ユナ(AS), 유나(AS)]
 sources:
   - https://anothereden.game-info.wiki/d/%A5%E6%A5%CA (Seesaa Wiki 「ユナ」, 2025-08-07 수정본, CC BY-NC-SA 4.0)

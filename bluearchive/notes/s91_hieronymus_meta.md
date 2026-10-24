@@ -1,7 +1,6 @@
 ---
 title: 총력전 S91 예로니무스 시가지 리포트
 type: note
-status: ai-draft
 aliases: [S91, 예로니무스 시가지 메타]
 raid_ids: [S91-0]
 sources:

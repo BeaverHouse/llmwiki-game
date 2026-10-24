@@ -1,7 +1,6 @@
 ---
 title: 자이히 (Xaihi)
 type: guide
-status: ai-draft
 aliases: [자이히, Xaihi, ザイヒ, 賽希, 세라핀 자이히]
 sources:
   - https://namu.wiki/w/자이히 (2026-09-29 수정본, CC BY-NC-SA 2.0 KR)

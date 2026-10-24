@@ -1,7 +1,6 @@
 ---
 title: 게부라 (Geburah)
 type: raid-guide
-status: seeded
 sources:
   - "seed: 내장 가이드에서 이전 (2026-07-06)"
   - "batorment 사이트 데이터: 레이드 목록의 대결전 S38 야외 게부라 3S38-1·3S38-2·3S38-3 장갑·최고 난이도·시작일, 총력전 S82 (2026-10-20)"

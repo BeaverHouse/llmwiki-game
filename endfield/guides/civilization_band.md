@@ -1,7 +1,6 @@
 ---
 title: 문명 밴드의 도시 (Cities of the Civilization Band)
 type: guide
-status: ai-draft
 aliases: [문명 밴드의 도시, 도시, 오보르니스크, Aubornisk, 라반도르마, La Fantoma, Lavandorma, ラヴァンドマ, 라 판토마, 탈로스 성, Talos City, タロスシティ, 맛 고로도프, Mat' Gorodov, 공업 모선, Industrial Mothership, Simonch, 트리글라바, Triglava, トリグラフ]
 sources:
   - https://namu.wiki/w/명일방주:%20엔드필드/등장인물%20및%20세력 (2026-10-18 수정본, CC BY-NC-SA 2.0 KR)

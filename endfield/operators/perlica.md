@@ -1,7 +1,6 @@
 ---
 title: 펠리카 (Perlica)
 type: guide
-status: ai-draft
 aliases: [펠리카, Perlica, ペリカ, 佩丽卡, 감독관]
 sources:
   - user-feedback: 무기 종류 정정(아츠 유닛)과 나무위키 「펠리카」 문서 사본 제공 (Slack, 2026-10-13)

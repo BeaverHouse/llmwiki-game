@@ -1,7 +1,6 @@
 ---
 title: 대결전 S31 예로니무스 — 픽률·리포트
 type: note
-status: ai-draft
 aliases: [S31, 예로니무스 대결전, 3S31]
 raid_ids: [3S31-1, 3S31-2, 3S31-3]
 sources:

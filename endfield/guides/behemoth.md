@@ -1,7 +1,6 @@
 ---
 title: 베헤모스와 쉐이 (Feranmut, Sui)
 type: guide
-status: ai-draft
 aliases: [베헤모스, Feranmut, 巨兽, 巨獣, 베헤모스 대리인, 대리인, Feranmut Proxy, 쉐이, Sui, 岁, 쉐이수, 열두 대리인, 쉐이 대리인, 사세대, 지촉인, 대사냥, 베헤모스 사미, 드래곤 버블, 권능]
 sources:
   - https://namu.wiki/w/사(명일방주:%20엔드필드) (2026-10-21 수정본, 공식 소개문·인사 요약서·파일 자료 1~4·대사, CC BY-NC-SA 2.0 KR)

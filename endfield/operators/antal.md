@@ -1,7 +1,6 @@
 ---
 title: 안탈 (Antal)
 type: guide
-status: ai-draft
 aliases: [안탈, Antal, アンタル, 安塔尔]
 sources:
   - https://namu.wiki/w/안탈 (2026-09-10 수정본, CC BY-NC-SA 2.0 KR)

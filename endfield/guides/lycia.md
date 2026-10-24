@@ -1,7 +1,6 @@
 ---
 title: 리시아 (Lycia)
 type: guide
-status: ai-draft
 aliases: [리시아, Lycia, Lesia]
 sources:
   - https://namu.wiki/w/명일방주:%20엔드필드/등장인물%20및%20세력 (랜드브레이커·리시아 문단, 2026-10-18 수정본, CC BY-NC-SA 2.0 KR)

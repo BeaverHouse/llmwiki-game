@@ -1,7 +1,6 @@
 ---
 title: 성도각성과 ステラバースト (星導覚醒·SB)
 type: guide
-status: ai-draft
 aliases: [성도각성, 星導覚醒, SA, SB, ステラバースト, ステラボード, 星譜, 万象の星譜, 天冥ゲージ, ステラゲージ, 星導覚醒ゲージ, ステラポイント]
 sources:
   - https://anothereden.game-info.wiki/d/%C0%B1%C6%B3%B3%D0%C0%C3 (Seesaa Wiki 「星導覚醒」, 2024-09-28 수정본. 본문과 댓글(2024-07~2025-08) 전체 열람, CC BY-NC-SA 4.0)

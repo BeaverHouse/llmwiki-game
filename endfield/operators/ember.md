@@ -1,7 +1,6 @@
 ---
 title: 엠버 (Ember)
 type: guide
-status: ai-draft
 aliases: [엠버, Ember, エンバー, 餘燼, 아즈릴라]
 sources:
   - https://namu.wiki/w/엠버(명일방주:%20엔드필드) (2026-10-09 수정본, CC BY-NC-SA 2.0 KR)

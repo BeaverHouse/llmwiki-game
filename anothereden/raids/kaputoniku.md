@@ -1,7 +1,6 @@
 ---
 title: カプトニク (Kaputoniku)
 type: raid-guide
-status: ai-draft
 aliases: [カプトニク, 카프토닉, 캅토닉, Kaputoniku]
 sources:
   - https://anothereden.game-info.wiki/d/%A5%AB%A5%D7%A5%C8%A5%CB%A5%AF (Seesaa Wiki 「カプトニク」, 2024-07-12 수정본, 댓글은 2026-02-28까지 확인, CC BY-NC-SA 4.0)

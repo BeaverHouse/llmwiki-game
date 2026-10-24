@@ -1,7 +1,6 @@
 ---
 title: 여풍 (Lifeng)
 type: guide
-status: ai-draft
 aliases: [여풍, Lifeng, リーフォン, 黎風, 남풍, 꼬마 사부님]
 sources:
   - https://namu.wiki/w/여풍 (2026-10-07 수정본, CC BY-NC-SA 2.0 KR)

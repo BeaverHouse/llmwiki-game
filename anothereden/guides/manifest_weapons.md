@@ -1,7 +1,6 @@
 ---
 title: 현현 무기와 結実 무기 (顕現武器·結実せし武器)
 type: guide
-status: ai-draft
 aliases: [현현, 진현현, 顕現, 真・顕現, 結実顕現, 結実武器, 結実せし武器との交わり, 武器との巡り逢い, 真・武器との巡り逢い, 才珠, 顕現武器, 전용 무기, manifest weapon]
 sources:
   - https://altema.jp/anaden/kengenbuki (altema 「顕現「結実せし武器との交わり」攻略｜顕現武器キャラ一覧」, 2026-10-22 17:53 갱신본 전체 열람)

@@ -1,7 +1,6 @@
 ---
 title: 틸릴(ES) (Thillelille Extra Style)
 type: guide
-status: ai-draft
 aliases: [틸릴 ES, 틸릴 엑스트라 스타일, チルリル(ES), チルリル(エクストラスタイル), Thillelille (Extra Style)]
 sources:
   - https://anothereden.game-info.wiki/d/%A5%C1%A5%EB%A5%EA%A5%EB%28%A5%A8%A5%AF%A5%B9%A5%C8%A5%E9%A5%B9%A5%BF%A5%A4%A5%EB%29 (Seesaa Wiki 「チルリル(エクストラスタイル)」, 2025-12-07 수정본, CC BY-NC-SA 4.0)

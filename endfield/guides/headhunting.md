@@ -1,7 +1,6 @@
 ---
 title: 헤드헌팅, 무기고 신청, 구매 센터 (Headhunting, Arsenal Issue, Acquisition Center)
 type: guide
-status: ai-draft
 aliases: [헤드헌팅, Headhunting, 뽑기, 가챠, 특별 허가 헤드헌팅, Chartered Headhunting, 한정 헤드헌팅, 재구축 헤드헌팅, RE-Factor Headhunting, 여정의 시작 헤드헌팅, New Horizons Headhunting, 기초 헤드헌팅, Basic Headhunting, 긴급 모집, Urgent Recruitment, 헤드헌팅 정보서, Headhunting Dossier, 천장, 픽뚫, 선택 호출, 무기고 신청, 무기 뽑기, Arsenal Issue, 무기고 거래소, Arsenal Exchange, 재구축 신청, 무기고의 선물, 보장 징표, 통합 징표, 최후의 징표, 구매 센터, Acquisition Center, 징표 교환소, Quota Exchange, Bond Quota, AIC Quota, Endpoint Quota, 크레딧 거래소, Credit Store, 월정액, Monthly Pass]
 sources:
   - https://namu.wiki/w/명일방주:%20엔드필드/헤드헌팅 (2026-09-24 수정본, CC BY-NC-SA 2.0 KR)

@@ -1,7 +1,6 @@
 ---
 title: 용어집 (Glossary)
 type: hub
-status: seeded
 sources:
   - "seed: content_guide.md 내 표기 표와 보스 문서 제목에서 추출 (2026-07-06)"
   - "https://schaledb.com/data/jp/raids.json"

@@ -1,7 +1,6 @@
 ---
 title: 水 파티 (水天陣 편성)
 type: guide
-status: ai-draft
 aliases: [水 파티, 水パ, 純水パ, 水パーティ, 水属性パーティ, 水物理パ, 水斬パ, 水天陣 파티, water party]
 sources:
   - https://anothereden.game-info.wiki/d/%A5%A8%A5%EB%A5%B7%A1%BC%A5%EB (Seesaa Wiki 「エルシール」, 2024-12-24 수정본, 댓글은 2026-07-12까지 확인, CC BY-NC-SA 4.0)

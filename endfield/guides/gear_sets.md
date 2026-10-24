@@ -1,7 +1,6 @@
 ---
 title: 장비와 장비 세트
 type: guide
-status: ai-draft
 aliases: [장비, 장비 세트, 세트 효과, 정밀 단조, 방어구, 보호 장갑, 부품, Gear, Gear Set, Artificing]
 sources:
   - https://namu.wiki/w/명일방주:%20엔드필드/장비 (2026-10-15 수정본, CC BY-NC-SA 2.0 KR)

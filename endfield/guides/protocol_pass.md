@@ -1,7 +1,6 @@
 ---
 title: 프로토콜 통행증과 권한 등급 (Protocol Pass, Authority Level)
 type: guide
-status: ai-draft
 aliases: [프로토콜 통행증, 통행증, 배틀 패스, Protocol Pass, 통행증 경험치, Pass Experience, 오리지늄 배급, Originium Supply, 프로토콜 커스터마이즈, Protocol Customized, 통행증 무기, 무기 보급 · 각성, 권한 등급, Authority Level, 작전 경력, Operational EXP, 行動遍歴]
 sources:
   - https://endfield.wiki.gg/wiki/Protocol_Pass (2026-10-15 수정본)

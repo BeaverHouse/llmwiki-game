@@ -1,7 +1,6 @@
 ---
 title: 자주 쓰는 グラスタ와 입수처
 type: guide
-status: ai-draft
 aliases: [グラスタ, 그라스타, grasta, 錬成, 錬成鉱石, 潜在錬成, 【P】グラスタ, 狙い撃つ錬成, 極・撃陣の力, 撃陣の力, 覚醒の力, 共鳴の力, 搦手ノ撃, 狂星の力, 増恵の力, 増蝕の力]
 sources:
   - https://anothereden.game-info.wiki/d/%A5%B0%A5%E9%A5%B9%A5%BF%B2%F2%C0%E2 (Seesaa Wiki 「グラスタ解説」, 2024-10-15 수정본, CC BY-NC-SA 4.0)

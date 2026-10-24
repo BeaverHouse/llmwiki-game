@@ -1,7 +1,6 @@
 ---
 title: 총력전 S84 쿠로카게 — 픽률·리포트
 type: note
-status: ai-draft
 aliases: [S84, 쿠로카게]
 raid_ids: [S84-0]
 sources:

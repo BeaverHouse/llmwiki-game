@@ -1,7 +1,6 @@
 ---
 title: 리노 (Liino)
 type: guide
-status: ai-draft
 aliases: [리노, Liino, リーノ, 梨諾, 라반도르마의 샛별]
 sources:
   - https://namu.wiki/w/리노(명일방주:%20엔드필드) (2026-09-23 수정본, CC BY-NC-SA 2.0 KR)

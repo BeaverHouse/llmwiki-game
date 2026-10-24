@@ -1,7 +1,6 @@
 ---
 title: 세스타(AS) (Sesta Another Style)
 type: guide
-status: ai-draft
 aliases: [세스타 AS, 세스타 어나더 스타일, セスタ(AS), セスタ(アナザースタイル), Sesta (Another Style), ヴァナルガンド]
 sources:
   - https://anothereden.game-info.wiki/d/%A5%BB%A5%B9%A5%BF%28%A5%A2%A5%CA%A5%B6%A1%BC%A5%B9%A5%BF%A5%A4%A5%EB%29 (Seesaa Wiki 「セスタ(アナザースタイル)」, 2024-12-01 수정본, CC BY-NC-SA 4.0)

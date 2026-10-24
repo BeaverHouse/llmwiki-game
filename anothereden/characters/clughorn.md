@@ -1,7 +1,6 @@
 ---
 title: 클러그혼 (Clughorn)
 type: guide
-status: ai-draft
 aliases: [클러그혼, クラグホーン, Clughorn, アークトゥルス, SA 클러그혼, SAクラグホーン]
 sources:
   - https://anothereden.game-info.wiki/d/%A5%AF%A5%E9%A5%B0%A5%DB%A1%BC%A5%F3 (Seesaa Wiki 「クラグホーン」, 2026-01-03 수정본, 댓글은 2026-07-11까지 확인, CC BY-NC-SA 4.0)

@@ -1,7 +1,6 @@
 ---
 title: 대결전 S29 카이텐져 — 픽률·리포트
 type: note
-status: ai-draft
 aliases: [S29, 카이텐 대결전, 3S29]
 raid_ids: [3S29-1, 3S29-2, 3S29-3]
 sources:

@@ -1,7 +1,6 @@
 ---
 title: ムル・アンクン (Muru Ankun)
 type: raid-guide
-status: ai-draft
 aliases: [ムル・アンクン, 무루 안쿤, Muru Ankun, muruankun]
 sources:
   - https://anothereden.game-info.wiki/d/%A5%E0%A5%EB%A1%A6%A5%A2%A5%F3%A5%AF%A5%F3 (Seesaa Wiki 「ムル・アンクン」, 2026-02-12 수정본, 댓글은 2026-02-14까지 확인, CC BY-NC-SA 4.0)

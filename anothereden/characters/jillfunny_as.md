@@ -1,7 +1,6 @@
 ---
 title: 질퍼니(AS) (Jillfunny Another Style)
 type: guide
-status: ai-draft
 aliases: [질퍼니 AS, ジルファニー(AS), ジルファニー(アナザースタイル), Jillfunny (Another Style), ルブラディウス]
 sources:
   - https://anothereden.game-info.wiki/d/%A5%B8%A5%EB%A5%D5%A5%A1%A5%CB%A1%BC%28%A5%A2%A5%CA%A5%B6%A1%BC%A5%B9%A5%BF%A5%A4%A5%EB%29 (Seesaa Wiki 「ジルファニー(アナザースタイル)」, 2026-10-11 수정본, CC BY-NC-SA 4.0)

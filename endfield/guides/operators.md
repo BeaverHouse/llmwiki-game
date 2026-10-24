@@ -1,7 +1,6 @@
 ---
 title: 오퍼레이터 개요
 type: hub
-status: ai-draft
 aliases: [오퍼레이터, 오퍼레이터 목록, 캐릭터 목록, 직군, 속성, 능력치]
 sources:
   - https://namu.wiki/w/명일방주:%20엔드필드/오퍼레이터 (2026-09-02 수정본, CC BY-NC-SA 2.0 KR)

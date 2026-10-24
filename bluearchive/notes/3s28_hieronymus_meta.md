@@ -1,7 +1,6 @@
 ---
 title: 대결전 S28 예로니무스 — 픽률·리포트
 type: note
-status: ai-draft
 aliases: [S28, 예로니무스 대결전, 3S28]
 raid_ids: [3S28-1, 3S28-3, 3S28-4]
 sources:

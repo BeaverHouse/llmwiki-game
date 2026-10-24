@@ -1,7 +1,6 @@
 ---
 title: 네코코(ES) (Necoco Extra Style)
 type: guide
-status: ai-draft
 aliases: [네코코 ES, 네코코 엑스트라 스타일, ねここ(ES), ねここ(エクストラスタイル), Necoco (Extra Style), 猫又権現, 네코코(AS), ねここ(AS), ねここ(アナザースタイル), 五徳猫]
 sources:
   - https://anothereden.game-info.wiki/d/%A4%CD%A4%B3%A4%B3%28%A5%A8%A5%AF%A5%B9%A5%C8%A5%E9%A5%B9%A5%BF%A5%A4%A5%EB%29 (Seesaa Wiki 「ねここ(エクストラスタイル)」, 최종 수정 표기 2025-01-05, 댓글은 2025-12까지, CC BY-NC-SA 4.0)

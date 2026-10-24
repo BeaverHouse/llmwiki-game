@@ -1,7 +1,6 @@
 ---
 title: 전투 컨텐츠 (위기 협약, 그림자 이정표, 전쟁의 메아리, 선검 연무)
 type: guide
-status: ai-draft
 aliases: [전투 컨텐츠, 고난도 컨텐츠, 엔드 컨텐츠, 위기 협약, Contingency Contract, CC, 危機契約, 재점화 실험 작전, Re-Ignition Experimental Operation, 잿빛 실험 작전, Indigo Experimental Operation, 시크릿 생추어리, Secret Sanctuary, 그림자 이정표, Umbral Monument, 기억의 흔적, 전쟁의 메아리, Echoes of War, 선검 연무, Trial of Swordmancy, 연무 알고리즘]
 sources:
   - https://namu.wiki/w/위기%20협약 (3번 문단 '명일방주: 엔드필드의 위기 협약', 2026-10-10 수정본, CC BY-NC-SA 2.0 KR)

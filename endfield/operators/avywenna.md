@@ -1,7 +1,6 @@
 ---
 title: 아비웨나 (Avywenna)
 type: guide
-status: ai-draft
 aliases: [아비웨나, Avywenna, アイビーエナ, 艾维文娜]
 sources:
   - https://namu.wiki/w/아비웨나 (2026-09-23 수정본, CC BY-NC-SA 2.0 KR)

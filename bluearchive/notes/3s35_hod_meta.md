@@ -1,7 +1,6 @@
 ---
 title: 대결전 S35 호드 실내 리포트
 type: note
-status: ai-draft
 aliases: [3S35, S35, 호드 실내 대결전]
 raid_ids: [3S35-1, 3S35-2, 3S35-4]
 sources:

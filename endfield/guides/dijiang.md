@@ -1,7 +1,6 @@
 ---
 title: 제강호 (Dijiang)
 type: guide
-status: ai-draft
 aliases: [제강호, Dijiang, O.M.V. Dijiang, 帝江号, 본부 함선]
 sources:
   - user-feedback: 시설 한국어 명칭(게임 화면 캡처)과 시설별 기능 설명 (Slack, 2026-10-12)

@@ -1,5 +1,6 @@
 # Arknights: Endfield — 변경 기록 (append-only, 최신이 위)
 
+- 2026-10-24 | ai | 모든 문서 frontmatter | `status` 필드 삭제 (스키마 변경, 본문 변경 없음이라 `updated`는 유지) | 근거: 유지보수자 결정 — 문서 단위 검증 라벨은 실제 검토 범위와 맞지 않음, 확인 내용은 sources의 user-feedback으로 문장 단위 기록 (AGENTS.md 2·7절)
 - 2026-10-24 | ai | guides/consumables.md·backlog.md 수정 | 게임 화면으로 확인: 오퍼레이터마다 전술 아이템 칸 1개(사용 아이템 1종 장착, 휴대 수량 표시), 사용 효과/장착 효과 구분. 매운 볶음 고기 횟수 2회→3회 정정, 협곡 파이·매운 볶음 고기에 메인 컨트롤 지원(횟수 제한 없음)·소진 시 횟수 회복 추가, 메인 컨트롤 지원 '전투당 1회' 서술 삭제, 약초 청량 음료 추가 | 근거: user-feedback (Austin 게임 스크린샷, 2026-10-24)
 - 2026-10-24 | ai | operators/si.md·operators/laevatain.md·parties/cryo.md·parties/heat.md·parties/electric.md·guides/status_anomalies.md·backlog.md 수정 | 확인 필요 3건 해소: 사 배틀 스킬 부착은 1스택(부착 1회 = 1스택을 상태 이상 문서의 기본 규칙으로 명시), 열화의 궁극기 에너지 25/30/35는 연계 스킬 기본 10을 대신함, 결 연계로 2스택이 된 전기 부착을 장방이 연계 스킬이 소모하면 감전 레벨도 오름. 사 슬롯 순서에 관한 출처 표 질문 삭제 | 근거: user-feedback (Austin, 2026-10-24)
 - 2026-10-24 | ai | operators/laevatain.md·backlog.md 수정 | PR #46 검토: 레바테인 편성 절의 출처 표 순서 설명 삭제하고 게임 규칙(사 기준 1번 슬롯)으로 서술, 본문 출처 서술 정리를 backlog 맨 위 정비 항목으로 추가 | 근거: 유지보수자 검토(2026-10-24)

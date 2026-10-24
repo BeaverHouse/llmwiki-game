@@ -1,7 +1,6 @@
 ---
 title: 레바테인 (Laevatain)
 type: guide
-status: ai-draft
 aliases: [레바테인, Laevatain, レーヴァテイン, 萊萬汀]
 sources:
   - https://namu.wiki/w/레바테인(명일방주:%20엔드필드) (2026-09-22 수정본, CC BY-NC-SA 2.0 KR)

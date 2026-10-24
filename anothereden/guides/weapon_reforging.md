@@ -1,7 +1,6 @@
 ---
 title: 武器打ち直し (무기 재강화)
 type: guide
-status: ai-draft
 aliases: [打ち直し, 武器打ち直し, 재단조, 무기 재강화, 冥鬼 打ち直し, 翠晶 打ち直し, reforge]
 sources:
   - https://anothereden.game-info.wiki/d/%C9%F0%B4%EF%C2%C7%A4%C1%C4%BE%A4%B7 (Seesaa Wiki 「武器打ち直し」, 2026-08-16 수정본. 본문 표와 댓글(2025-04~2026-04) 전체 열람, CC BY-NC-SA 4.0)

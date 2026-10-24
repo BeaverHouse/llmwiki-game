@@ -1,7 +1,6 @@
 ---
 title: 카치르 (Catcher)
 type: guide
-status: ai-draft
 aliases: [카치르, Catcher, キャッチャー, 卡契尔, 루이 판 카치르, 만능 집사, 살아있는 내비게이션]
 sources:
   - https://namu.wiki/w/카치르 (2026-09-21 수정본, CC BY-NC-SA 2.0 KR)

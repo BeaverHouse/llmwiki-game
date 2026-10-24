@@ -1,7 +1,6 @@
 ---
 title: 미스트레아 (Mistrare)
 type: guide
-status: ai-draft
 aliases: [미스트레아 NS, 미스트레아(AS), 미스트레아 AS, 미스트레아 어나더 스타일, ミストレア, ミストレア(AS), ミストレア(アナザースタイル), ミスティ, Mistrare, Mistrare (Another Style)]
 sources:
   - https://anothereden.game-info.wiki/d/%A5%DF%A5%B9%A5%C8%A5%EC%A5%A2 (Seesaa Wiki 「ミストレア」, 최종 갱신 2026-07-08, CC BY-NC-SA 4.0)

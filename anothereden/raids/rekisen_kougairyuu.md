@@ -1,7 +1,6 @@
 ---
 title: 歴戦の甲鎧竜 (Rekisen no Kougairyuu)
 type: raid-guide
-status: ai-draft
 aliases: [歴戦の甲鎧竜, 甲鎧竜, 역전의 갑개룡, 갑개룡]
 sources:
   - https://anothereden.game-info.wiki/d/%CE%F2%C0%EF%A4%CE%B9%C3%B3%BB%CE%B5 (Seesaa Wiki 「歴戦の甲鎧竜」, 2026-08-15 수정본, 댓글은 2026-08-13까지 확인, CC BY-NC-SA 4.0)

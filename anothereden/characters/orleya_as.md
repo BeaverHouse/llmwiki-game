@@ -1,7 +1,6 @@
 ---
 title: 오를레아(AS) (Orleya Another Style)
 type: guide
-status: ai-draft
 aliases: [오를레아 AS, 오를레아 어나더 스타일, オルレイア(AS), オルレイア(アナザースタイル), Orleya (Another Style), シグルドリーヴァ]
 sources:
   - https://anothereden.game-info.wiki/d/%A5%AA%A5%EB%A5%EC%A5%A4%A5%A2%28%A5%A2%A5%CA%A5%B6%A1%BC%A5%B9%A5%BF%A5%A4%A5%EB%29 (Seesaa Wiki 「オルレイア(アナザースタイル)」, 2023-10-11 수정본, 댓글은 2024-01-16까지 확인, CC BY-NC-SA 4.0)

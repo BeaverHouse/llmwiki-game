@@ -1,7 +1,6 @@
 ---
 title: 숨은 보스 난이도 (非公式隠しボス難易度表)
 type: guide
-status: ai-draft
 aliases: [숨은 보스, 隠しボス, 슈퍼보스, superboss, 난이도표, 隠しボス難易度表]
 sources:
   - https://anothereden.game-info.wiki/d/%C8%F3%B8%F8%BC%B0%B1%A3%A4%B7%A5%DC%A5%B9%C6%F1%B0%D7%C5%D9%C9%BD (Seesaa Wiki 「非公式隠しボス難易度表」, 2026-08-11 수정본, Ver3.15.10 기준, CC BY-NC-SA 4.0)

@@ -1,7 +1,6 @@
 ---
 title: 아델리아 (Ardelia)
 type: guide
-status: ai-draft
 aliases: [아델리아, Ardelia, アルデリア, 艾尔黛拉, 돌리 씨]
 sources:
   - https://namu.wiki/w/아델리아 (2026-10-03 수정본, CC BY-NC-SA 2.0 KR)

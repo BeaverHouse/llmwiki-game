@@ -1,7 +1,6 @@
 ---
 title: 이본 (Yvonne)
 type: guide
-status: ai-draft
 aliases: [이본, Yvonne, イヴォンヌ, 伊冯]
 sources:
   - https://namu.wiki/w/이본(명일방주:%20엔드필드) (2026-10-06 수정본, CC BY-NC-SA 2.0 KR)

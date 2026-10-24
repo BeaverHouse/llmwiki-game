@@ -1,7 +1,6 @@
 ---
 title: 열기 파티
 type: guide
-status: ai-draft
 aliases: [열기 파티, 레바테인 파티, 연소 파티, 녹아내린 불꽃, 열기 조합, 레바테인 조합]
 sources:
   - https://namu.wiki/w/명일방주:%20엔드필드/전투 (2026-10-16 수정본, CC BY-NC-SA 2.0 KR)

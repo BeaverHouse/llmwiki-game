@@ -1,7 +1,6 @@
 ---
 title: 탕탕 (Tangtang)
 type: guide
-status: ai-draft
 aliases: [탕탕, Tangtang, タンタン, 汤汤, 대당가, 꼬마 아씨]
 sources:
   - https://namu.wiki/w/탕탕(명일방주:%20엔드필드) (2026-10-09 수정본, CC BY-NC-SA 2.0 KR)

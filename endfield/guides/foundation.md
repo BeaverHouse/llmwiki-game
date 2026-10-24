@@ -1,7 +1,6 @@
 ---
 title: 파운데이션 (The Foundation)
 type: guide
-status: ai-draft
 aliases: [파운데이션, The Foundation, Foundation, 추방자, Exiles, 테라 연합 과학 탐사단, Terran Joint Science Expedition, 연합 과학 탐사단, 알레이크레오스, Alleikhreos, 정체불명의 소녀, Mysterious Girl, 엘 아이그니스, 탈로스 V]
 sources:
   - https://namu.wiki/w/명일방주:%20엔드필드/등장인물%20및%20세력 (중추 파일 '파운데이션' 한국어 텍스트 인용, 파운데이션·알레이크레오스·정체불명의 소녀 문단, 2026-10-18 수정본, CC BY-NC-SA 2.0 KR)

@@ -1,7 +1,6 @@
 ---
 title: 미션 제로 (Zeroth Directive)
 type: guide
-status: ai-draft
 aliases: [미션 제로, Zeroth Directive, 初号指令, 零号委托, 제로번째 지령, 생명 재가동, 생명의 재시작, 생명의 고동, 미션 제로의 서명인, Signatory of Zeroth Directive]
 sources:
   - https://namu.wiki/w/명일방주:%20엔드필드/스토리 (프롤로그, 1장 Ⅱ·Ⅳ, 2장 Ⅷ 요약, 2026-10-19 수정본, CC BY-NC-SA 2.0 KR)

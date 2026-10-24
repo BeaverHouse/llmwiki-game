@@ -1,7 +1,6 @@
 ---
 title: 블루 아카이브 컨텐츠 가이드
 type: guide
-status: seeded
 sources:
   - "seed: 내장 가이드에서 이전 (2026-07-06)"
   - "https://forum.nexon.com/bluearchive/board_view?board=1071&thread=2719477"

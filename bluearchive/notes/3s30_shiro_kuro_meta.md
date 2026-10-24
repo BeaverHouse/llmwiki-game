@@ -1,7 +1,6 @@
 ---
 title: 대결전 S30 시로&쿠로 — 픽률·리포트
 type: note
-status: ai-draft
 aliases: [S30, 시로쿠로 대결전, 3S30]
 raid_ids: [3S30-2, 3S30-3, 3S30-4]
 sources:

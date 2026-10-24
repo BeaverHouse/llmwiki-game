@@ -1,7 +1,6 @@
 ---
 title: 물리 파티
 type: guide
-status: ai-draft
 aliases: [물리 파티, 방어 불능 파티, 강타 파티, 갑옷 파괴, 물리 조합, 쇄빙 파티]
 sources:
   - https://namu.wiki/w/명일방주:%20엔드필드/전투 (2026-10-16 수정본, CC BY-NC-SA 2.0 KR)

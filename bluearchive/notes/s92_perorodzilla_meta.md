@@ -1,7 +1,6 @@
 ---
 title: 총력전 S92 페로로지라 실내 리포트
 type: note
-status: ai-draft
 aliases: [S92, 실내 페로로지라, 페로로지라 실내]
 raid_ids: [S92-0]
 sources:

@@ -1,7 +1,6 @@
 ---
 title: 마리엘 (Mariel)
 type: guide
-status: ai-draft
 aliases: [마리엘, マリエル, Mariel, SA 마리엘, 마리엘(ES), 마리엘(AS), マリエル(ES), マリエル(AS), マリエル(エクストラスタイル), マリエル(アナザースタイル)]
 sources:
   - https://anothereden.game-info.wiki/d/%A5%DE%A5%EA%A5%A8%A5%EB (Seesaa Wiki 「マリエル」, 2025-08-01 수정본, CC BY-NC-SA 4.0)

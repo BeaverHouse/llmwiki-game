@@ -1,7 +1,6 @@
 ---
 title: 엔드필드 고유명사 표기 (ko/en/ja)
 type: hub
-status: ai-draft
 aliases: [용어집, glossary]
 sources:
   - https://x.com/AKEndfieldKR/status/1987716843986112698 (KR 공식 X, 펠리카 소개)

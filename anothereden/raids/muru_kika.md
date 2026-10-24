@@ -1,7 +1,6 @@
 ---
 title: ムル・キカ (Muru Kika)
 type: raid-guide
-status: ai-draft
 aliases: [ムル・キカ, 무루 키카, Muru Kika, murukika, ヌズ]
 sources:
   - https://anothereden.game-info.wiki/d/%A5%E0%A5%EB%A1%A6%A5%AD%A5%AB (Seesaa Wiki 「ムル・キカ」, 2025-11-09 수정본, 댓글은 2026-03-28까지 확인, CC BY-NC-SA 4.0)

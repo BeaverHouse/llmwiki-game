@@ -1,7 +1,6 @@
 ---
 title: 라스트 라이트 (Last Rite)
 type: guide
-status: ai-draft
 aliases: [라스트 라이트, Last Rite, ラストライト, 别礼, 라라, 아델하이드, 전투 왕정의 공주]
 sources:
   - https://namu.wiki/w/라스트%20라이트 (2026-09-27 수정본, CC BY-NC-SA 2.0 KR)

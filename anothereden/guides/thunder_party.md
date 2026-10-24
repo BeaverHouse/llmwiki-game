@@ -1,7 +1,6 @@
 ---
 title: 雷 파티 (招雷陣 편성)
 type: guide
-status: ai-draft
 aliases: [雷 파티, 雷パ, 純雷パ, 純雷パーティ, 雷属性パーティ, 招雷陣 파티, thunder party]
 sources:
   - https://anothereden.game-info.wiki/d/%A5%AA%A5%DC%A5%ED (Seesaa Wiki 「オボロ」, 2024-01-31 수정본. 베레토(AS) 실장 전 내용, CC BY-NC-SA 4.0)

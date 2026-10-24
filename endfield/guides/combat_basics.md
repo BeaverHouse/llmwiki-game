@@ -1,7 +1,6 @@
 ---
 title: 전투 기본 체계
 type: guide
-status: ai-draft
 aliases: [전투, 전투 시스템, 스킬 게이지, SP, 연계 스킬, 궁극기 에너지, 불균형, 처형, 극한 회피, 증폭, 취약, 허약, 비호]
 sources:
   - https://namu.wiki/w/명일방주:%20엔드필드/전투 (2026-10-16 수정본, CC BY-NC-SA 2.0 KR)
