@@ -1,6 +1,6 @@
 # Arknights: Endfield — 변경 기록 (append-only, 최신이 위)
 
-- 2026-10-22 | ai | 모든 문서 frontmatter | `status` 필드 삭제, 기존 human-verified 문서에 `locked: true` 부여 (스키마 변경, 본문 변경 없음이라 `updated`는 유지) | 근거: 유지보수자 결정 — 문서 단위 검증 라벨은 실제 검토 범위와 맞지 않음, 확인 내용은 sources의 user-feedback으로 문장 단위 기록 (AGENTS.md 2·7절)
+- 2026-10-22 | ai | 모든 문서 frontmatter | `status` 필드 삭제 (스키마 변경, 본문 변경 없음이라 `updated`는 유지) | 근거: 유지보수자 결정 — 문서 단위 검증 라벨은 실제 검토 범위와 맞지 않음, 확인 내용은 sources의 user-feedback으로 문장 단위 기록 (AGENTS.md 2·7절)
 - 2026-10-21 | ai | operators/si.md·guides/settlements.md·guides/operators.md·glossary.md·backlog.md·index.md 수정 | PR #40 검토 반영: 열기 파티에서 레바테인을 1번 슬롯에 두도록 사 편성 정리, 관리권=Stock Bill·지역 건설 레벨=Regional Development 확정, 근거 없는 '번영도' 표기 철회, '지역 건설치' 추가, 명하 '출시' 기록을 미출시(11월 초 예정)로 정정, 해결된 확인 필요 항목 정리 | 근거: user-feedback(유지보수자 확인, 2026-10-21), oslink 사 육성 가이드, 디시 엔드필드 갤러리 지역 건설치 글
 
 - 2026-10-21 | ai | guides/materials.md·guides/factions.md·guides/aggeloi_and_blight.md·guides/timeline.md·guides/nefarith.md·guides/foundation.md 신규, guides/valley_iv.md·guides/wuling.md·guides/dijiang.md·glossary.md·index.md·backlog.md 수정 | 육성 재료와 획득처, 세력, 아겔로스와 침식, 탈로스력 연표, 네파리스와 본 크러셔, 파운데이션 문서 작성 (ai-draft), 지역·제강호 문서에서 링크, 세력·위협·역사와 육성 재료·재화 표기 등록, index 등록, backlog 갱신(랜드브레이커 창설 연도·2차 아겔로스 전쟁 연도·Denstack·Char 등을 확인 필요로) | 근거: 정기 성장 작업, 나무위키 「/설정」「/등장인물 및 세력」「/스토리」「탈로스 II」「네파리스」「아다시르」「/아이템」과 하위 문서「육성 재료」「희귀 재료」「재화」, endfield.wiki.gg Nexus Files(Aggelos·Blight·Landbreaker)·First Aggeloi War·The Foundation·Civilization Band·Landbreakers·Ætherside·Blight·Nefarith·Ardashir·Yinglung Special Task Force·Items
