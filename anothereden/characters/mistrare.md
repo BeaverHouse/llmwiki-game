@@ -9,7 +9,6 @@ sources:
   - https://anothereden.game-info.wiki/d/%A5%B8%A5%EB%A5%D5%A5%A1%A5%CB%A1%BC%28%A5%A2%A5%CA%A5%B6%A1%BC%A5%B9%A5%BF%A5%A4%A5%EB%29 (Seesaa Wiki 「ジルファニー(アナザースタイル)」, 최종 갱신 2026-10-11. 晶 파티 속 미스트레아 기용)
   - 「チルリル(エクストラスタイル)」(2025-12-07 수정본), 「アルマ(アナザースタイル)」(2025-07-09 수정본), 「環境キャラ・装備まとめ」(2025-07-09 수정본)의 미스트레아(AS) 기용은 이 위키의 [晶 파티](../guides/crystal_party.md)·[틸릴(ES)](thillelille_es.md)·[알마(AS)](alma_as.md) 경유 (이번에 원문을 다시 읽지 않음)
   - altema (chara/911 「ミストレア(アナザースタイル)」, 「星導覚醒おすすめ」) 는 봇 차단(403)으로 열지 못해 근거로 쓰지 않음
-  - anothereden.wiki (글로벌 위키) 는 봇 차단으로 확인하지 못함
 created: 2026-10-24
 updated: 2026-10-24
 ---

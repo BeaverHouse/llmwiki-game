@@ -8,7 +8,6 @@ sources:
   - https://anothereden.game-info.wiki/d/%C8%F3%B8%F8%BC%B0%B1%A3%A4%B7%A5%DC%A5%B9%C6%F1%B0%D7%C5%D9%C9%BD (Seesaa Wiki 「非公式隠しボス難易度表」, 2026-08-11 수정본)
   - https://altema.jp/anaden/murunabuzu (altema 「ムル・ナブズの攻略と倒し方」, 2026-02-01 갱신본, 2026-10-22 전문 열람. 유저 파티 투고란 포함)
   - 클리어 영상: Seesaa Wiki의 「攻略動画」「SuperPlay」 항목은 비어 있고, altema의 「攻略動画」 항목은 장비 구성표만 있어 영상 제목·설명은 확인하지 못함
-  - anothereden.wiki (글로벌 위키) 는 봇 차단으로 확인하지 못함
 created: 2026-10-22
 updated: 2026-10-22
 ---

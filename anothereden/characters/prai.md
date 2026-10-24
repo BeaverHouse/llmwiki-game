@@ -10,7 +10,6 @@ sources:
   - https://anothereden.game-info.wiki/d/%A5%AA%A5%EB%A5%EC%A5%A4%A5%A2%28%A5%A2%A5%CA%A5%B6%A1%BC%A5%B9%A5%BF%A5%A4%A5%EB%29 (Seesaa Wiki 「オルレイア(アナザースタイル)」, 2023-10-11 수정본. 2024-01 댓글의 프라이 연계)
   - https://anothereden.game-info.wiki/d/%C0%B1%C6%B3%B3%D0%C0%C3%A5%AD%A5%E3%A5%E9%B0%EC%CD%F7 (Seesaa Wiki 「星導覚醒キャラ一覧」, 2026-10-23 수정본. 프라이가 목록에 없음을 확인)
   - https://altema.jp/anaden/purai-261 (altema 「プライの評価と習得アビリティ」. 403으로 열지 못해 내용은 쓰지 않음)
-  - anothereden.wiki (글로벌 위키) 는 봇 차단으로 확인하지 못함
 created: 2026-10-24
 updated: 2026-10-24
 ---

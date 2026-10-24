@@ -14,7 +14,6 @@ sources:
   - https://anothereden.game-info.wiki/d/%C9%F0%B4%EF%B0%EC%CD%F7 (Seesaa Wiki 「武器一覧」, 2026-01-24 수정본. 星天 무기는 실려 있지 않음. 다른 무기의 MP消費攻撃 표기 참고)
   - https://anothereden.game-info.wiki/d/%C1%F5%C8%F7%B6%AF%B2%BD%A4%DE%A4%C8%A4%E1 (Seesaa Wiki 「装備強化まとめ」, 2026-04-29 수정본. 星天 항목 없음)
   - https://altema.jp/anaden/seitenbuki (altema 「星天武器の作成方法と性能」. 봇 차단(403)으로 본문을 읽지 못해 근거로 쓰지 않음)
-  - anothereden.wiki (글로벌 위키) 는 봇 차단(403)으로 확인하지 못함
 created: 2026-10-22
 updated: 2026-10-22
 ---

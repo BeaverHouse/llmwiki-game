@@ -8,7 +8,6 @@ sources:
   - https://anothereden.game-info.wiki/d/%C8%F3%B8%F8%BC%B0%B1%A3%A4%B7%A5%DC%A5%B9%C6%F1%B0%D7%C5%D9%C9%BD (Seesaa Wiki 「非公式隠しボス難易度表」, 2026-08-11 수정본)
   - https://altema.jp/anaden/murukika (altema 「ムル・キカ」. 2026-10-22 열람 시 403으로 본문을 읽지 못해 근거로 쓰지 않음)
   - 클리어 영상은 Seesaa Wiki 「攻略動画」「SuperPlay」 항목의 영상 소개문만 근거로 삼음. 영상 본편·설명란·댓글은 보지 못함
-  - anothereden.wiki (글로벌 위키) 는 봇 차단으로 확인하지 못함
 created: 2026-10-22
 updated: 2026-10-22
 ---

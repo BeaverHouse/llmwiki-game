@@ -8,7 +8,6 @@ sources:
   - https://altema.jp/anaden/kaputoniku (altema 「カプトニクの攻略と倒し方｜プラニエ島イベント」, 2024-07-22 갱신본. 2026-10-21 열람)
   - https://anothereden.game-info.wiki/d/%C8%F3%B8%F8%BC%B0%B1%A3%A4%B7%A5%DC%A5%B9%C6%F1%B0%D7%C5%D9%C9%BD (Seesaa Wiki 「非公式隠しボス難易度表」, 2026-08-11 수정본)
   - 클리어 영상은 Seesaa Wiki 「攻略動画」「SuperPlay」 항목의 영상 소개문(플레이어명 포함)만 근거로 삼음. 영상 본편·설명란·댓글은 보지 못함
-  - anothereden.wiki (글로벌 위키) 는 봇 차단으로 확인하지 못함
 created: 2026-10-21
 updated: 2026-10-21
 ---

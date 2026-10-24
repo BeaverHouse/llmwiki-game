@@ -7,7 +7,6 @@ sources:
   - https://anothereden.game-info.wiki/d/%A5%BB%A5%EA%A5%A8%A5%B9%28%A5%A2%A5%CA%A5%B6%A1%BC%A5%B9%A5%BF%A5%A4%A5%EB%29 (Seesaa Wiki 「セリエス(アナザースタイル)」, 2026-01-28 수정본, CC BY-NC-SA 4.0)
   - https://altema.jp/anaden/charalist (altema 「キャラ評価一覧」. altema 페이지는 봇 차단으로 열지 못했고 검색 결과 요약만 확인)
   - 사이트 데이터 조회 결과 없음 (2026-10-20)
-  - anothereden.wiki (글로벌 위키) 는 봇 차단(403)으로 확인하지 못함
 created: 2026-10-20
 updated: 2026-10-20
 ---

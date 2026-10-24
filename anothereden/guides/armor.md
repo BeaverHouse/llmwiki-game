@@ -6,7 +6,6 @@ aliases: [방어구, 防具, 防具一覧, 千年樹の腕輪, 千年樹の首�
 sources:
   - https://anothereden.game-info.wiki/d/%CB%C9%B6%F1%B0%EC%CD%F7 (Seesaa Wiki 「防具一覧」, 2026-01-24 수정본. 腕輪·首飾り·指輪 표와 댓글 전체 열람. 특수 능력은 모두 +10 시 수치, CC BY-NC-SA 4.0)
   - https://anothereden.game-info.wiki/d/%C1%F5%C8%F7%B6%AF%B2%BD%A4%DE%A4%C8%A4%E1 (Seesaa Wiki 「装備強化まとめ」, 2026-04-29 수정본. 방어구 시리즈별 강화 페이지 목록만 있고 본문 수치는 없음)
-  - anothereden.wiki (글로벌 위키)는 봇 차단으로 확인하지 못함
 created: 2026-10-23
 updated: 2026-10-23
 ---

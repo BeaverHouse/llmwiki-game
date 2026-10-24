@@ -9,7 +9,6 @@ sources:
   - https://altema.jp/anaden/ffcollabo (altema 「FF9コラボ攻略｜協奏「Memories of Another Sky」」, 2026-07-07 갱신본. 2026-10-22 열람)
   - https://altema.jp/anaden/ozma (altema 「オズマ」 공략. 2026-10-22 열람 시 403으로 본문을 읽지 못해 근거로 쓰지 않음)
   - 클리어 영상은 Seesaa Wiki 「攻略動画」「SuperPlay」 항목이 비어 있었고, 웹 검색에서도 영상 소개문을 찾지 못해 싣지 않음. 영상 본편·설명란·댓글은 보지 못함
-  - anothereden.wiki (글로벌 위키) 는 봇 차단으로 확인하지 못함
 created: 2026-10-22
 updated: 2026-10-22
 ---

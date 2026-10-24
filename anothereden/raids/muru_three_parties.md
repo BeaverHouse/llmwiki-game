@@ -9,7 +9,6 @@ sources:
   - https://anothereden.game-info.wiki/d/%A5%E0%A5%EB%A1%A6%A5%AD%A5%AB (Seesaa Wiki 「ムル・キカ」 2025-11-09 수정본의 댓글 중 3연전 관련분, 2026-03)
   - altema의 3파티전 전용 페이지는 찾지 못함. 단독전 페이지 muruankun·murukika는 403
   - 클리어 영상: Seesaa Wiki의 「攻略動画」「SuperPlay」 항목이 비어 있어 확인하지 못함
-  - anothereden.wiki (글로벌 위키) 는 봇 차단으로 확인하지 못함
 created: 2026-10-22
 updated: 2026-10-22
 ---

@@ -6,7 +6,6 @@ aliases: [打ち直し, 武器打ち直し, 재단조, 무기 재강화, 冥鬼 
 sources:
   - https://anothereden.game-info.wiki/d/%C9%F0%B4%EF%C2%C7%A4%C1%C4%BE%A4%B7 (Seesaa Wiki 「武器打ち直し」, 2026-08-16 수정본. 본문 표와 댓글(2025-04~2026-04) 전체 열람, CC BY-NC-SA 4.0)
   - https://altema.jp/anaden/bukiutinaosi (altema 「武器の打ち直しの対象一覧」. 봇 차단(403)으로 본문을 읽지 못해 근거로 쓰지 않음)
-  - anothereden.wiki (글로벌 위키)는 봇 차단으로 확인하지 못함
 created: 2026-10-23
 updated: 2026-10-23
 ---

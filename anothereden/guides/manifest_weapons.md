@@ -6,7 +6,6 @@ aliases: [현현, 진현현, 顕現, 真・顕現, 結実顕現, 結実武器, �
 sources:
   - https://altema.jp/anaden/kengenbuki (altema 「顕現「結実せし武器との交わり」攻略｜顕現武器キャラ一覧」, 2026-10-22 17:53 갱신본 전체 열람)
   - Seesaa Wiki 「結実顕現武器」「解放難度・おすすめ等」은 페이지 주소를 찾지 못해 읽지 못함
-  - anothereden.wiki (글로벌 위키)는 봇 차단으로 확인하지 못함
 created: 2026-10-23
 updated: 2026-10-23
 ---

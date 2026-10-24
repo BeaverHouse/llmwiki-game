@@ -8,7 +8,6 @@ sources:
   - https://anothereden.game-info.wiki/d/%A5%B8%A5%EB%A5%D0%A1%BC (Seesaa Wiki 「ジルバー」(NS), 最終更新 2025-07-09. 2026-10-24 열람)
   - https://anothereden.game-info.wiki/d/%B0%C7%A4%CE%A5%A2%A5%EB%A5%BF%A1%BC%A5%D5%A5%A9%A1%BC%A5%B9 (Seesaa Wiki 「闇のアルターフォース」, 最終更新 2026-03-07, 댓글 2025-10-22까지. 2026-10-24 열람)
   - https://altema.jp/anaden/chara/1096 (altema 「ジルバー(アナザースタイル)」. 2026-10-24 열람 시 403으로 본문을 읽지 못함. 근거로 쓰지 않음)
-  - anothereden.wiki (글로벌 위키) 는 봇 차단으로 확인하지 못함
 created: 2026-10-24
 updated: 2026-10-24
 ---

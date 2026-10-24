@@ -10,7 +10,6 @@ sources:
   - https://anothereden.game-info.wiki/d/%CE%EE%C4%B9%A4%CE%CC%BF%CB%A1%A4%CB%B9%B3%A4%A4%A4%B7%BC%D4%A4%CE%BB%EE%CE%FD (Seesaa Wiki 「霊長の命法に抗いし者の試練」, 2026-01-11 수정본)
   - https://anothereden.game-info.wiki/d/%A5%B8%A5%B9%A5%E2%A5%F3%A5%C7%28%A5%A2%A5%CA%A5%B6%A1%BC%A5%C0%A5%F3%A5%B8%A5%E7%A5%F3%29 (Seesaa Wiki 「ジスモンデ(アナザーダンジョン)」, 2024-08-29 수정본)
   - altema.jp/anaden/ (gurasutaitiran, gurasutarenseiitem) — 2026-10-22 접근 시 403으로 읽지 못함
-  - anothereden.wiki — 봇 차단으로 확인하지 않음
 created: 2026-10-22
 updated: 2026-10-22
 ---

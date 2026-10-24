@@ -17,7 +17,6 @@ sources:
   - https://anothereden.game-info.wiki/ (Seesaa Wiki 톱 페이지, 2026-10-22 수정본. Ver3.17.0 업데이트 요약)
   - Seesaa Wiki 「ぴーたん(アナザースタイル)」 개별 페이지는 2026-10-24 시점 없음(404)
   - altema.jp/anaden/buddy — 2026-10-24 접근 시 403으로 읽지 못함
-  - anothereden.wiki — 봇 차단으로 확인하지 않음
 created: 2026-10-24
 updated: 2026-10-24
 ---

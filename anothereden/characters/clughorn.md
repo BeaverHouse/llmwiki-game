@@ -11,7 +11,6 @@ sources:
   - https://anothereden.game-info.wiki/d/%A5%E0%A5%EB%A1%A6%A5%CA%A5%D6%A5%BA (Seesaa Wiki 「ムル・ナブズ」, 2026-02-08 수정본)
   - https://anothereden.game-info.wiki/d/%A5%E0%A5%EB%A1%A6%A5%C8%A5%EA%A5%AA (Seesaa Wiki 「ムル・トリオ」, 2026-04-11 수정본)
   - https://anothereden.game-info.wiki/d/%A5%A2%A5%F3%A1%A6%A5%AD%A1%A6%A5%C7%A5%A3%A5%B0%A5%DE (Seesaa Wiki 「アン・キ・ディグマ」, 2026-04-02 수정본)
-  - anothereden.wiki (글로벌 위키) 는 봇 차단으로 확인하지 못함
 created: 2026-10-24
 updated: 2026-10-24
 ---

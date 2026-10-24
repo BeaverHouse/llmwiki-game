@@ -8,7 +8,6 @@ sources:
   - https://anothereden.game-info.wiki/d/%A5%B7%A5%A7%A5%F3%A5%D5%A5%A1%28%A5%A2%A5%CA%A5%B6%A1%BC%A5%B9%A5%BF%A5%A4%A5%EB%29 (Seesaa Wiki 「シェンファ(アナザースタイル)」, 2026-06-30 수정본)
   - https://altema.jp/anaden/charalist (altema 캐릭터 평가 목록. 봇 차단으로 열지 못했고 검색 결과 요약만 확인)
   - 사이트 데이터 (ae_character c101000381, ae_translation)
-  - anothereden.wiki/w/Xianhua (글로벌 위키) 는 봇 차단(403)으로 확인하지 못함
 created: 2026-10-19
 updated: 2026-10-19
 ---
