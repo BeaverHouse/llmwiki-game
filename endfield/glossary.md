@@ -58,6 +58,15 @@ sources:
   - https://appmedia.jp/?p=79690247
   - https://namu.wiki/w/사(명일방주:%20엔드필드)
   - https://namu.wiki/w/명하(명일방주:%20엔드필드)
+  - https://namu.wiki/w/위기%20협약
+  - https://endfield.wiki.gg/wiki/Contingency_Contract
+  - https://endfield.wiki.gg/wiki/Umbral_Monument
+  - https://endfield.wiki.gg/wiki/Protocol_Pass
+  - https://endfield.wiki.gg/wiki/Operational_EXP
+  - https://endfield.wiki.gg/wiki/La_Fantoma
+  - https://endfield.wiki.gg/wiki/Talos_City
+  - https://endfield.wiki.gg/wiki/Triglava
+  - https://endfield.wiki.gg/wiki/Yuanyuan_Manor_Inn
   - https://endfield.wiki.gg/wiki/Si
   - https://endfield.wiki.gg/wiki/Argent_Flow
   - https://namu.wiki/w/명일방주:%20엔드필드/장비
@@ -82,8 +91,21 @@ sources:
   - https://endfield.wiki.gg/wiki/Nexus_Files:_Aggelos
   - https://endfield.wiki.gg/wiki/First_Aggeloi_War
   - https://endfield.wiki.gg/wiki/Items
+  - https://namu.wiki/w/쉐이
+  - https://namu.wiki/w/명일방주:%20엔드필드/헤드헌팅
+  - https://endfield.wiki.gg/wiki/Feranmut
+  - https://endfield.wiki.gg/wiki/Headhunting
+  - https://endfield.wiki.gg/wiki/Arsenal_Exchange
+  - https://endfield.wiki.gg/wiki/Energy_Alluvium
+  - https://endfield.wiki.gg/wiki/Etchspace_Salvage
+  - https://namu.wiki/w/명일방주:%20엔드필드/아이템/사용할%20수%20있는%20아이템
+  - https://endfield.wiki.gg/wiki/Item
+  - https://endfield.wiki.gg/wiki/Protocol_Space
+  - https://endfield.wiki.gg/wiki/Acquisition_Center
+  - https://endfield.wiki.gg/wiki/Perlica/File
+  - https://endfield.wiki.gg/wiki/Zeroth_Directive
 created: 2026-10-12
-updated: 2026-10-21
+updated: 2026-10-24
 ---
 
 # 엔드필드 고유명사 표기 (ko/en/ja)
@@ -243,7 +265,7 @@ ko와 이름의 en·ja·zh는 나무위키 각 오퍼레이터 문서 기준이�
 |---|---|---|---|---|
 | 리노 | Liino | リーノ | 2차 | zh 梨諾. '라반도르마의 샛별'로 불리는 아이돌 |
 | 탈로스 II 상업연합회 | — | — | 미확인 | 리노·아비웨나의 소속. 게임 안 표기는 '탈로스 II' (glossary의 '탈로스2'와 표기가 다름) |
-| 라반도르마 | — | — | 미확인 | 리노의 별명 '라반도르마의 샛별'에 나오는 지명 |
+| 라반도르마 | — | — | 미확인 | 리노의 별명 '라반도르마의 샛별'에 나오는 지명. en·ja는 '세력·위협·역사' 표의 라반도르마 항목 참고 |
 | 디얄 | — | — | 미확인 | 리노의 살카즈 혈통 |
 | 살카즈 | Sarkaz | サルカズ | 2차 | 종족 |
 | 반짝이는 하트 | — | — | 미확인 | 리노 기본 공격 |
@@ -279,7 +301,7 @@ ko와 이름의 en·ja·zh는 나무위키 각 오퍼레이터 문서 기준이�
 | 레바테인 | Laevatain | レーヴァテイン | 2차 | zh 萊萬汀 |
 | 수르트 | Surtr | スルト | 미확인 | 레바테인의 기억 원형인 테라의 인물 |
 | 카즈델 | Kazdel | カズデル | 미확인 | 살카즈의 고향. en·ja는 출처 미확인 |
-| 프로토콜 공간 | — | — | 미확인 | 레바테인이 기억을 찾아 떠돈 공간 |
+| 프로토콜 공간 | Protocol Space | — | 2차 | 레바테인이 기억을 찾아 떠돈 공간. 육성 재료를 얻는 전투 공간이기도 함. [프로토콜 공간](guides/protocol_space.md) 참고 |
 | 재 | — | — | 미확인 | 레바테인 기본 공격 |
 | 불타오르는 화염 | — | — | 미확인 | 레바테인 배틀 스킬 |
 | 열화 | — | — | 미확인 | 레바테인 연계 스킬 |
@@ -295,7 +317,15 @@ ko와 이름의 en·ja·zh는 나무위키 각 오퍼레이터 문서 기준이�
 | 폭렬 수류탄 · β형 | — | — | 미확인 | 울프가드 연계 스킬 |
 | 늑대의 분노 | — | — | 미확인 | 울프가드 궁극기 |
 | 불타는 송곳니 | — | — | 미확인 | 울프가드 재능 상태 |
-| 위기 협약 | — | — | 미확인 | 전투 컨텐츠. 1.3 버전의 첫 회차는 '재점화 실험 작전' |
+| 위기 협약 | Contingency Contract (CC) | 危機契約 | 2차 | 시즌제 고난도 전투 컨텐츠. 1.3 버전의 첫 회차는 '재점화 실험 작전'. ja는 나무위키(일본 서버 '위기 계약'). [전투 컨텐츠](guides/combat_content.md) 참고 |
+| 재점화 실험 작전 | Re-Ignition Experimental Operation | — | 2차 | 위기 협약 1시즌 (1.3) |
+| 잿빛 실험 작전 | Indigo Experimental Operation | — | 미확인 | 위기 협약 2시즌 (1.6). en 대응은 시작일로만 맞춤 |
+| 시크릿 생추어리 | Secret Sanctuary | — | 2차 | 위기 협약 상점 |
+| 전쟁의 메아리 | Echoes of War | — | 2차 | 1.4 버전 상시 전투 컨텐츠. en 대응은 버전으로 맞춤 |
+| 선검 연무 | Trial of Swordmancy | — | 2차 | 장검 골짜기의 시설형 전투 컨텐츠 (1.3) |
+| 연무 알고리즘 | Trial Algorithmics | — | 2차 | 선검 연무 출시 이벤트 (1.3) |
+| 침식된 유산을 찾아서 | Etchspace Salvage | — | 미확인 | 수차 구역 1~6. en 대응은 구역 번호로만 맞춤 |
+| 숨겨진 구역의 여행자 | Delver of the Cryptic | — | 2차 | 퍼즐 모드 |
 | 아케쿠리 | Akekuri | アケクリ | 2차 | zh 秋栗. 본명 시바 모미지 |
 | 페로 | Perro | ペッロー | 미확인 | 아케쿠리의 종족 |
 | 신 츠쿠시 상학원 | — | — | 미확인 | 아케쿠리의 출신 학교 |
@@ -342,7 +372,8 @@ ko와 이름의 en·ja·zh는 나무위키 각 오퍼레이터 문서 기준이�
 | 화산 분화 | — | — | 미확인 | 아델리아 연계 스킬 |
 | 복슬복슬 파티 | — | — | 미확인 | 아델리아 궁극기 |
 | 돌리 씨의 그림자 | — | — | 미확인 | 아델리아 재능이 만드는 치유 오브젝트 |
-| 그림자 이정표 | — | — | 미확인 | 고강도 전투 컨텐츠 |
+| 그림자 이정표 | Umbral Monument | — | 2차 | 상시 전투 컨텐츠. 버전마다 시리즈 추가. en 대응은 버전별 시리즈 이름으로 맞춤 |
+| 기억의 흔적 | Monumental Etching | — | 미확인 | 그림자 이정표 새 시리즈의 기간 한정 이벤트로 추정 (1.6 '기억의 흔적ㆍ악몽의 숲') |
 
 ### 질베르타·결·티프로스
 
@@ -673,7 +704,7 @@ ko는 나무위키 지역·스토리·등장인물 문서, en은 endfield.wiki.g
 | 마블 아겔로미레 | — | — | 미확인 | 1장 Ⅳ의 보스 |
 | TA-TA | Trans-Æther Tranquilizer-Automata | — | 2차 | 프로토타입 기계. 균열을 봉인하고 자폭 |
 | 진강척 | Qin Jiangchi | — | 2차 | 거점 구역 기지장. en 표기 출처마다 다름 |
-| 리시아 | — | — | 미확인 | 펠리카의 친구. 엔드필드 공업 출신 랜드브레이커 |
+| 리시아 | Lycia | — | 2차 | 펠리카의 친구. 엔드필드 공업 출신 랜드브레이커. en은 펠리카 파일 자료 영어 텍스트. [리시아](guides/lycia.md) 참고 |
 
 ## 무릉·메인 스토리 2장
 
@@ -726,7 +757,12 @@ ko는 나무위키 「사(명일방주: 엔드필드)」「명하(명일방주: 
 | 쉐이 | — | — | 미확인 | 염국과 얽힌 베헤모스. 열두 대리인으로 나뉨. 사는 그 마지막 의식에서 태어남 |
 | 사세대 | — | — | 미확인 | 쉐이 대응 조직. 홍산 과학원의 사세대는 베헤모스 응용 기술 기관 |
 | 담 천사 | — | — | 미확인 | 홍산 과학원의 최고참 천사. 사를 맡아 돌봄 |
-| 인연 마을 | — | — | 미확인 | 사가 그림 속에서 운영하는 객잔 |
+| 인연 마을 | Yuanyuan Manor (Inn) | — | 미확인 | 사가 그림 속에서 운영하는 객잔. 나무위키 스토리 문서는 '연원객잔'으로도 적음. [사의 그림](guides/si_painting.md) 참고 |
+| 소하장 | Xiaohe Manor | — | 미확인 | 사의 그림 속 마을. 나무위키 연표는 '소하 장원' |
+| 이별의 정자 | Chess Pavilion | — | 미확인 | 사의 그림 속 장소 |
+| 위티 | Witty | — | 미확인 | 사의 붓을 가지고 달아난 잉크 정령 |
+| 자동 수확 설비 | Auto-Farmer | — | 미확인 | 사의 그림 농장의 자동화 설비 |
+| 심연을 떠나며 | Sanctuary from the Rift | — | 미확인 | 메인 스토리 2장 VIII. ko는 나무위키 스토리 문서 |
 | 묵량 | — | — | 미확인 | 사의 나비 모양 먹물 사역마 |
 | 흥에 겨운 붓놀림 | Artistic Urge | — | 2차 | 사 기본 공격 |
 | 강산을 한 폭에 | Brushwork Realm | — | 2차 | 사 배틀 스킬 |
@@ -791,12 +827,19 @@ ko는 나무위키 「명일방주: 엔드필드/무기」와 하위 문서, en�
 | 기질 식각 | — | — | 미확인 | 5성 기질 옵션 강화 |
 | 냉각제 | — | — | 미확인 | 기질 식각 실패 시 얻는 천장 재화 |
 | 에너지 응집점 | — | — | 미확인 | 이성을 써서 기질을 얻는 필드 지점 |
-| 이성 | — | — | 미확인 | 에너지 응집점에서 쓰는 소모 수치 |
+| 이성 | Sanity | — | 2차 | 에너지 응집점과 프로토콜 공간 보상에 쓰는 소모 수치. en은 wiki.gg |
 | 지역별 각인권 | — | — | 미확인 | 기질 결과 확률을 올리는 아이템 |
 | 물자 관리 단말기 | — | — | 미확인 | 지역별 각인권을 파는 곳 |
 | 무기고 거래소 | Arsenal Exchange | — | 미확인 | 무기 획득처 |
 | 무기고 신청 | — | — | 미확인 | 기간 한정 무기 획득 메뉴 |
-| 프로토콜 통행증 | — | — | 미확인 | 시즌 보상 체계. 통행증 무기를 줌 |
+| 프로토콜 통행증 | Protocol Pass | — | 2차 | 버전마다 바뀌는 시즌 보상 체계. 통행증 무기를 줌. [프로토콜 통행증과 권한 등급](guides/protocol_pass.md) 참고 |
+| 통행증 경험치 | Pass Experience | 通行証経験 | 2차 | ko·ja는 wiki.gg 아이템명 |
+| 오리지늄 배급 | Originium Supply | — | 미확인 | 통행증 2단계. ko는 나무위키 재화 문서 |
+| 프로토콜 커스터마이즈 | Protocol Customized | — | 2차 | 통행증 3단계(유료) |
+| 무기 보급 · 각성 | Weapon Supply: Awakening | 武器補給・覚醒 | 2차 | 첫 통행증의 무기 선택 상자. ko·ja는 wiki.gg 아이템명 |
+| 특선 무기 보급 | Curated Weapon Supply | 極選武器補給 | 2차 | 권한 등급 45 이후 보상 이벤트의 무기 선택 상자. ko·ja는 wiki.gg 아이템명 |
+| 권한 등급 | Authority Level | — | 2차 | 관리자 계정 진행도. 최대 60 |
+| 작전 경력 | Operational EXP | 行動遍歴 | 2차 | 권한 등급을 올리는 경험치. ko·ja는 wiki.gg 아이템명 |
 | 백야의 별 | White Night Nova | — | 2차 | 6성 한손검 |
 | 위대한 이름 | Eminent Repute | — | 2차 | 6성 한손검 |
 | 테르밋 커터 | Thermite Cutter | — | 2차 | 6성 한손검 |
@@ -939,9 +982,12 @@ ko는 나무위키 등장인물·설정·스토리·네파리스·아다시르 �
 | 밴드 협약 | Band Accord | — | 2차 | 기존 항목 보완 |
 | 탈로스 II 상업연합회 | Talos II General Chamber of Commerce (TGCC) | 環タロ商会 | 2차 | 기존 항목 보완. zh 環塔商會 |
 | 자유시 | Free Cities | — | 2차 | 상업연합회의 자치 도시 |
-| 탈로스 성 | Talos City | — | 2차 | U3가 함께 짓는 중립 자유시. 행정 수도 |
-| 오보르니스크 | Aubornisk | — | 미확인 | 광업 도시. en은 나무위키 표기 |
-| 라반도르마 | Lavandorma | — | 미확인 | 기존 항목 보완. en은 나무위키 표기 |
+| 탈로스 성 | Talos City | タロスシティ | 2차 | U3가 함께 짓는 중립 자유시. 행정 수도. ja는 wiki.gg. [문명 밴드의 도시](guides/civilization_band.md) 참고 |
+| 오보르니스크 | Aubornisk | — | 미확인 | 광업 도시. en은 나무위키·wiki.gg 베타 테스트 문서 |
+| 라반도르마 | La Fantoma | ラヴァンドマ | 2차 | 기존 항목 보완. wiki.gg는 La Fantoma의 ko를 라반도르마, ja를 ラヴァンドマ로 적음. 나무위키 en 표기는 Lavandorma이며 '라 판토마 자유시'를 따로 적음 |
+| 트리글라바 | Triglava | トリグラフ | 2차 | 연맹 공단의 Durin 도시. ko·ja는 wiki.gg |
+| 옵시디언 페스티벌 | Obsidian Festival | — | 미확인 | 라반도르마의 음악 축제 |
+| 시에스타 그룹 | Siesta Group | — | 미확인 | 라반도르마를 운영하는 기업 |
 | 합금 무성 | Alloycarrot | — | 2차 | 카치르의 출신 자유시 |
 | 뉴 랭크우드 | New Wrankwood | — | 2차 | 안탈의 출신 자유시 |
 | 옐시 | Kjersch | — | 2차 | 설산 자유시. 아다시르가 출신지로 소개한 곳 |
@@ -965,7 +1011,7 @@ ko는 나무위키 등장인물·설정·스토리·네파리스·아다시르 �
 | 제이컵 마이센 | Jakub Meissen | — | 2차 | 기존 항목 보완. 1.0 버전 표기 '제이콥'. 영어 기록의 이명 Warlord of the Wilds |
 | 본 크러셔 | Bonekrushers | — | 2차 | 기존 항목 보완. 세력명은 wiki.gg 기준 Bonekrushers, 장비명은 Bonekrusha |
 | 로댄 | Rhodagn | — | 2차 | '본 크러셔의 주먹'. 네파리스의 오른팔 |
-| 덴스택 | Denstack | — | 미확인 | 영어 기록의 장치명. 지옥의 용광로와 같은 장치로 보이나 미확인 |
+| 덴스택 | Denstack | — | 미확인 | 영어 기록의 장치명. 아이템 '식용 지옥의 용광로'의 en이 Edible Denstack이라(2026-10-24, wiki.gg 아이템 목록과 나무위키 설명문의 대응) 지옥의 용광로 = Denstack일 가능성이 높으나 장치 자체의 대응은 미확인 |
 | 안갯불 | hazefyre | — | 미확인 | 네파리스가 들여온 환각성 안개. ko는 아이템 '안갯불에 물든 꽃'(Hazefyre Blossom)에서 대응 |
 | 랜드브레이커 살인사건 | — | — | 미확인 | 4번 협곡 서브 퀘스트 |
 | 샤를 | Char* | — | 미확인 | 카뮤의 쌍둥이 동생. wiki.gg의 본 크러셔 두목 Char와 같은 인물인지 미확인 |
@@ -1029,10 +1075,100 @@ ko는 나무위키 아이템 문서(게임 안 설명문 인용), en은 endfield
 | 보장 징표 | — | — | 미확인 | 중복 오퍼레이터에서 얻는 징표 |
 | 헤드헌팅 허가증 | — | — | 미확인 | 기초·특별 허가·기간 한정 |
 
+## 베헤모스·헤드헌팅·탐색
+
+ko는 나무위키 「사」「쉐이」「/헤드헌팅」「/무기고 신청」「/지역」, en은 endfield.wiki.gg 기준이다. [베헤모스와 쉐이](guides/behemoth.md), [헤드헌팅과 무기고 신청](guides/headhunting.md), [탐색 컨텐츠](guides/exploration.md) 참고.
+
+| 한국어 | English | 日本語 | 확인 | 메모 |
+|---|---|---|---|---|
+| 베헤모스 | Feranmut | 巨獣 | 2차 | 기존 항목 보완. zh 巨兽 |
+| 베헤모스 대리인 | Feranmut Proxy | — | 2차 | 기존 항목 보완. en은 wiki.gg 사 소개문 |
+| 쉐이 | Sui | — | 2차 | 기존 항목 보완. zh 岁 |
+| 쉐이수 | — | — | 미확인 | 쉐이의 본체. 나무위키 표기 |
+| 쉐이 능묘 | — | — | 미확인 | 쉐이수가 잠든 곳. 나무위키 표기 |
+| 대사냥 | Great Hunt | — | 미확인 | 염국이 베헤모스와 벌인 전쟁. ko는 사 파일 자료 3 |
+| 지촉인 | — | — | 미확인 | 사세대 산하에서 열두 대리인을 감시한 부대. 사 파일 자료 3 |
+| 사사대 | — | — | 미확인 | 담 천사가 제안했다 철회한 사세대의 새 이름 |
+| 권능 | — | — | 미확인 | 베헤모스 대리인의 힘 |
+| 드래곤 버블 | Chubby Lung* | — | 미확인 | 무릉의 마스코트 인형·장식. 나무위키 표기. en은 아이템 '드래곤 버블 채소 젤리'(Chubby Lung Jellied Greens)·선물 '드래곤 버블 · 방흥 에디션'(Chubby Lung: Fangxing Memorabilia)의 목록 대응으로 추정 |
+| 특별 허가 헤드헌팅 | Chartered Headhunting | — | 2차 | 한정 픽업 헤드헌팅 |
+| 재구축 헤드헌팅 | RE-Factor Headhunting | — | 2차 | 복각 헤드헌팅 |
+| 여정의 시작 헤드헌팅 | New Horizons Headhunting | — | 2차 | 초심자 헤드헌팅 |
+| 기초 헤드헌팅 | Basic Headhunting | — | 2차 | 상시 헤드헌팅 |
+| 긴급 모집 | Urgent Recruitment | — | 2차 | 30회 뒤 무료 10회 |
+| 헤드헌팅 정보서 | Headhunting Dossier | — | 2차 | 60회 보상, 다음 헤드헌팅 10회 |
+| 선택 호출 | — | — | 미확인 | 기초 헤드헌팅 300회 보상 |
+| 무기고 거래소 | Arsenal Exchange | — | 2차 | 무기 뽑기·구매 메뉴 |
+| 무기고 신청 | Arsenal Issue | — | 2차 | 무기 뽑기. 1회 = 10연 |
+| 재구축 신청 | RE-Factor Issue | — | 2차 | 무기 복각. 첫 시리즈 '점묘 신청' |
+| 결빙 / 성음 / 원정 / 숭산 / 뇌명 신청 | — | — | 미확인 | 상시 무기고 신청 다섯 종 |
+| 무기고의 선물 | — | — | 미확인 | 무기고 신청 누적 10회 보상 |
+| 보장 징표 | Bond Quota* | — | 미확인 | 중복 오퍼레이터 부산물. en은 수량과 구매 센터 교환소의 획득 조건(5·6성 중복)으로 추정 |
+| 통합 징표 | AIC Quota* | — | 미확인 | en은 수량과 교환 품목(육성 재료·허가증)으로 추정 |
+| 최후의 징표 | Endpoint Quota* | — | 미확인 | 20개로 상시 6성 무기 교환. en은 수량과 교환소 가격(6성 무기 20)으로 추정 |
+| 고위 에너지 응집점 | Severe Energy Alluvium | — | 미확인 | 탐색 레벨 4부터. ko는 육성 재료 문서 표기 |
+| 에너지 응집점 | Energy Alluvium | — | 2차 | 기존 항목 보완 |
+| 탐색 레벨 | Exploration Level | — | 미확인 | ko는 영어에서 옮김 |
+| 혼란 수치 | Derangement | — | 미확인 | 침식된 유산을 찾아서의 강제 철수 수치. ko는 영어에서 옮김 |
+| 오리지늄 회로 영감 / 장비 템플릿 / 연구 포인트 / 탈로사이트 | — / — / — / Talosite | — | 미확인 | 지역 수집 요소. 나무위키 표기 |
+| 수명 | — | — | 미확인 | 홍산 과학원의 수몰된 옛 도시를 재구성한 공간 |
+| 여소귀 | — | — | 미확인 | 무릉성 NPC. 수명으로 가는 포탈 |
+
+## 사용 아이템·프로토콜 공간·구매 센터·미션 제로
+
+ko는 나무위키 「아이템/사용할 수 있는 아이템」「아이템/육성 재료」「아이템/재화」(게임 안 설명문 인용)와 펠리카 상세 기록, en은 endfield.wiki.gg 기준이다. 사용 아이템의 en은 wiki.gg 아이템 목록의 같은 분류 안에서 뜻으로 짝지었다. [사용할 수 있는 아이템](guides/consumables.md), [프로토콜 공간](guides/protocol_space.md), [헤드헌팅, 무기고 신청, 구매 센터](guides/headhunting.md), [미션 제로](guides/zeroth_directive.md) 참고.
+
+| 한국어 | English | 日本語 | 확인 | 메모 |
+|---|---|---|---|---|
+| 사용할 수 있는 아이템 | Usable Items (Usables) | — | 2차 | 아이템 분류 |
+| 전술 아이템 | — | — | 공식(ko) | 오퍼레이터 장비 화면의 사용 아이템 칸(1개). 장착하면 조건에 따라 자동 사용. ko는 게임 화면 (Austin, 2026-10-24) |
+| 메인 컨트롤 오퍼레이터 지원 | — | — | 미확인 | 회복 아이템 설명문의 항목 |
+| 공업 폭발물 | Industrial Explosive | — | 2차 | 도구 |
+| 메밀꽃 / 시트론 / 금초 / 야침 가루 | Buckflower / Citrome / Jincao / Yazhen Powder | — | 2차 | 가장 낮은 회복 아이템 |
+| 화염 메밀꽃 / 우거진 금초 / 가시 야침 가루 | Firebuckle / Fluffed Jincao / Thorny Yazhen Powder | — | 2차 | 변종 식물 가루 |
+| 다크 시트론 가루 | Citromix | — | 2차 | wiki.gg 개별 문서의 회복량으로 대응 |
+| 메밀꽃 치유 캡슐 / (중) / (대) | Buck Capsule (C) / (B) / (A) | — | 2차 | 즉시 회복 |
+| 메밀꽃 회복제 (소) / (대) / (특) | Buckpill (S) / (L) / (Rf.) | — | 2차 | 즉시 회복 |
+| 시트론 통조림 / (중) / (대) | Canned Citrome (C) / (B) / (A) | — | 2차 | 지속 회복 |
+| 시트론 혼합제 (소) / (대) / (특) | Citromix (S) / (L) / (Rf.) | — | 2차 | 지속 회복 |
+| 야침 주사약 / 고급 야침 주사약 | Yazhen Syringe (C) / (A) | — | 2차 | 지속 회복 |
+| 야침 스프레이 / (대) | Yazhen Spray (S) / (L) | — | 2차 | 지속 회복 |
+| 금초 청량음료 / 고급 금초 청량음료 / 금초 냉차 / 금초 냉차(대) | Jincao Drink / Tea / Tisane / Infusion | — | 미확인 | en 네 개와 하나씩 짝짓지 못함 |
+| 아츠를 각인한 병 / 금속 병 | Arts Vial / Arts Tube | — | 2차 | 소생 |
+| 아츠가 부여된 병 / 금속 병 | Kunst Vial / Kunst Tube | — | 2차 | 주는 피해 증가 |
+| 식용 지옥의 용광로 | Edible Denstack | — | 2차 | 버프 음식 |
+| 안갯불에 물든 꽃 | Hazefyre Blossom | — | 2차 | 버프 음식 |
+| 제이컵의 유산 | Jakub's Legacy | — | 2차 | 버프 음식 |
+| 세쉬카풍 스테이크 | Seš'qa Style Fillet | — | 2차 | 버프 음식 |
+| 푹 삶은 갈비 미삼탕 | Ginseng Meat Stew | — | 2차 | 버프 음식. 통칭 미삼탕 |
+| 메아리의 비약 / 재앙 정화의 비약 / 축석의 비약 | Echoing Remedy / Ruin-Purger Remedy / Stonehold Remedy | — | 2차 | 버프 약제 |
+| 혼란의 약제 | Perplexing Medication | — | 2차 | 궁극기 충전 효율 |
+| 로도스 아일랜드 특별 제작 식량 | Rhodes Island Special Ration | — | 2차 | 궁극기 에너지 회복 |
+| 거점 지역의 비상식량 | Hub Emergency Ration | — | 2차 | 회복 음식 |
+| 판 사부의 계란찜 | Master Pan's Egg Pudding | — | 2차 | 회복 음식 |
+| 전씨네 특제 고기국수 | Tian's Braised Meat Noodles | — | 2차 | 회복 음식 |
+| 기름 폭발 볶음 / 무릉 볶음 | — | — | 미확인 | en 후보 Pan-Fried Double Crisp, Wuling Flame-Boyance |
+| 오퍼레이터 경험 / 오퍼레이터 돌파 / 스킬 업그레이드 / 무기 경험 / 무기 돌파 | Operator EXP / Promotions / Skill Up / Weapon EXP / Weapon Tune | — | 2차 | 프로토콜 공간 종류. ko는 설명문 획득처 표기 |
+| 고위험 재료 수집소 / 매립장 / 관리실 / 연구소 / 보관 창고 | Hazardous Material Collection Site / Landfill / Management Room / Institute / Containment Vault | — | 미확인 | Crisis Drills. 뜻으로 짝지음. Dissolving Pool의 ko는 미확인 |
+| 위험한 리허설 / 위험한 재현 / 위험한 그림자 / 위험한 재앙 | — | — | 미확인 | 보스 재도전 단계. en Crisis Reflection·Extension·Calamity·Pandemonium과의 대응 미확인 |
+| 심층 모드 | Deep Dive | — | 2차 | 이성을 쓰는 반복 보상 |
+| — | RE-Crisis | — | 미확인 | 보스 재도전 프로토콜 공간. ko 표기 미확인 |
+| — | Crisis Fragment | — | 미확인 | 중간 보스 재도전. ko 표기 미확인 |
+| 구매 센터 | Acquisition Center | — | 2차 | 게임 안 상점 |
+| 오리지늄 거래소 / 크레딧 거래소 / 허가증 거래소 / 조합 패키지 | Originium Exchange / Credit Store / — / Bundles | — | 미확인 | 구매 센터 구획. 뜻으로 짝지음 |
+| 징표 교환소 | Quota Exchange | — | 미확인 | 뜻으로 짝지음 |
+| 미션 제로 | Zeroth Directive | 初号指令 | 2차 | zh 零号委托. 1.0 버전 이름이기도 함. 나무위키 2장 Ⅷ 요약은 '제로번째 지령' |
+| 미션 제로의 서명인 | Signatory of Zeroth Directive | — | 2차 | 펠리카 파일 자료 4 |
+| 생명 재가동 | — | — | 미확인 | 미션 제로의 목적. 나무위키 요약은 '생명의 고동', '생명의 재시작'으로도 씀 |
+| 창립자 | Founder | — | 2차 | 엔드필드 공업 창립자. en은 펠리카 파일 자료 4 |
+
 ## 히스토리
 
+- 2026-10-24: 사용 아이템·프로토콜 공간·구매 센터·미션 제로 표기 추가. 프로토콜 공간·이성·리시아의 en 보완, 드래곤 버블·덴스택·징표 세 종의 대응 근거 보강 (나무위키, endfield.wiki.gg).
+- 2026-10-23: 베헤모스·헤드헌팅·탐색 표기 추가, 베헤모스·베헤모스 대리인·쉐이·에너지 응집점의 en 보완 (나무위키, endfield.wiki.gg).
 - 2026-10-21: 세력·위협·역사, 육성 재료·재화 표기 추가. 랜드브레이커의 ja와 파운데이션의 en 보완 (나무위키, endfield.wiki.gg).
 
+- 2026-10-22: 전투 컨텐츠(위기 협약·그림자 이정표·전쟁의 메아리·선검 연무), 프로토콜 통행증·권한 등급, 문명 밴드 도시(라반도르마 en을 La Fantoma로 보완, 탈로스 성 ja, 트리글라바), 사의 그림(인연 마을·소하장 등) 표기 추가 (나무위키, endfield.wiki.gg).
 - 2026-10-21: 관리권·지역 건설 레벨 확정, Prosperity의 '번영도' 표기 철회, 지역 건설치 추가, 명하 미출시 표시 (유지보수자 확인).
 - 2026-10-20: 사·명하, 장비 세트, 무기, 통합 공업 시스템·거점 표기 추가 (나무위키, endfield.wiki.gg).
 
