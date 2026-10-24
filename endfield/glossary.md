@@ -1161,7 +1161,43 @@ ko는 나무위키 「아이템/사용할 수 있는 아이템」「아이템/�
 | 생명 재가동 | — | — | 미확인 | 미션 제로의 목적. 나무위키 요약은 '생명의 고동', '생명의 재시작'으로도 씀 |
 | 창립자 | Founder | — | 2차 | 엔드필드 공업 창립자. en은 펠리카 파일 자료 4 |
 
+## 문명 밴드의 다른 도시
+
+ko는 나무위키 「진천우」「자이히」「스노우샤인」(게임 안 기록 인용), en·ja는 endfield.wiki.gg 기준이다. [문명 밴드의 도시](guides/civilization_band.md) 참고.
+
+| 한국어 | English | 日本語 | 확인 | 메모 |
+|---|---|---|---|---|
+| 홍산 환형산 | Hongshan Crater | — | 2차 | 홍산 과학원의 수도·본부. 진천우 대사 '홍산에 관하여'의 ko '홍산의 환형산' = en Hongshan Crater |
+| 홍산성 | Hongshan City | — | 미확인 | 기존 항목 보완. en은 진천우 인사 요약서. 환형산 안의 한 도시인지는 미확인 |
+| 대수도원 | Monasterium / Great Monastery | 大修道院 | 2차 | 고요한 수도회의 본거지인 이동 도시 |
+| 대성당 | Sanctilamina Cathedralis Tranquillae | — | 미확인 | 대수도원의 중심 성당. zh 寂语大教堂. en은 뜻으로 짝지음 |
+| 부서진 분 | Shatterus | — | 2차 | 대성당 성상 뒤의 아겔로스. 자이히 대사 '부서진 분에 관하여' |
+| 플론다 | Vronta | — | 2차 | 기존 항목 보완. 대수도원 원장, 이명 '진리의 탐구자'(en The Knower of Veritas) |
+| 회화파 / 해석파 / 재현파 | — | — | 미확인 | 고요한 수도회의 세 교파 |
+| 옐시 | Kjersch | イェルシェ | 2차 | 기존 항목 보완. 정식 명칭 en Free City of Kjersch |
+
+## 생태 재배·객잔·탐색 레벨
+
+ko는 나무위키 「설비」「지역」, en은 endfield.wiki.gg 기준이다. 작물의 en은 wiki.gg 천연자원 목록에서 뜻으로 짝지었다. [생태 재배와 논배미](guides/eco_farming.md), [사의 그림](guides/si_painting.md), [탐색 컨텐츠](guides/exploration.md) 참고.
+
+| 한국어 | English | 日本語 | 확인 | 메모 |
+|---|---|---|---|---|
+| 생태 재배 / 생태 재배 구역 | Eco-Farming / Eco-Farm | — | 미확인 | 논배미를 놓는 구역. 오리지늄 연구 구역 기초 건설 주둔지 입구, 무릉성 실험 재배 구역 |
+| 실험 재배 구역 | Agricultural Test Site | — | 미확인 | 무릉성의 생태 재배 구역 |
+| 자동 수확 설비 | Auto-Farmer | — | 2차 | 1.6. 사의 그림 농장과 무릉성 실험 재배 구역 |
+| 스프링클러 | Sprinkler | — | 2차 | 무릉 전용 급수 설비 |
+| 기체 분산기 | Gas Dispersing Unit | — | 2차 | 습윤 환경으로 논배미 급수 |
+| 회보리 / 쓴맛 나는 고추 / 홍옥 인삼 / 금석벼 | Reed Rye / Tartpepper / Redjade Ginseng / Amber Rice | — | 미확인 | 논배미 작물. en은 뜻으로 짝지음 |
+| 샌드리프 / 아케톤 | Sandleaf / Aketine | — | 미확인 | en은 뜻으로 짝지음 |
+| 다크 시트론 | Umbraline* | — | 미확인 | 시트론 논배미 변종. en은 생태 재배 변종 목록의 순서로 추정 |
+| — | Spirit Money | — | 미확인 | 인연 마을 객잔 재화. ko 미확인 |
+| — | Inn Rating / Inn Stars | — | 미확인 | 객잔 평가·별. ko 미확인 |
+| 탐색 레벨 | Exploration Level (World Level) | — | 미확인 | 기존 항목 보완. 통칭 World Level |
+| 탈로사이트 거래소 | Talosite Exchange | — | 미확인 | 탈로사이트 상점. ko는 영어에서 옮김 |
+
 ## 히스토리
+
+- 2026-10-25: 문명 밴드의 다른 도시(홍산 환형산·대수도원·부서진 분·옐시) 표기 추가, 플론다·옐시·홍산성의 en·ja 보완. 생태 재배·객잔·탐색 레벨 표기 추가 (나무위키, endfield.wiki.gg).
 
 - 2026-10-24: 사용 아이템·프로토콜 공간·구매 센터·미션 제로 표기 추가. 프로토콜 공간·이성·리시아의 en 보완, 드래곤 버블·덴스택·징표 세 종의 대응 근거 보강 (나무위키, endfield.wiki.gg).
 - 2026-10-23: 베헤모스·헤드헌팅·탐색 표기 추가, 베헤모스·베헤모스 대리인·쉐이·에너지 응집점의 en 보완 (나무위키, endfield.wiki.gg).
