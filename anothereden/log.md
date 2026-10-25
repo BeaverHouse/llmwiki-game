@@ -1,5 +1,7 @@
 # Another Eden — 변경 기록 (append-only, 최신이 위)
 
+- 2026-10-26 | ai | characters/pom_as.md·yakumo_as.md·izuna.md·oboro.md·utsuhara.md·ilulu_alter.md·guides/status_effects.md 신규, guides/thunder_party.md·characters/xianhua.md·glossary.md·index.md·backlog.md 수정 | 성장 작업: backlog 맨 위 6주제(폼(AS), 야쿠모(AS), 이즈나·오보로·우츠하라, 심홍의 사자 이루루, バフリバーサル·弱点看破, 守護·迎撃·踏ん張る) 작성. 弱点看破 부여 조건 항목과 오보로·이즈나 단독 문서 항목은 함께 처리, 우선순위 부분은 확인 필요로 이동. 심홍의 사자 이루루는 backlog의 "명 검 파티"가 아니라 斬(검·도·도끼) 파티 캐릭터로 정정. 歌唱은 기존 ZONE 문서로 링크. 번개 파티·셴화 문서에서 새 문서로 링크, 번개 파티 표의 우츠하라 무기(도끼) 보충. glossary 클래스 6종·캐릭터 4명·전투 용어 추가, 버디 표의 두 행이 한 줄로 붙어 있던 것 분리. 새 문서가 언급한 미작성 주제 8건 추가 | 근거: Seesaa Wiki 「ポム(アナザースタイル)」「ヤクモ(アナザースタイル)」「イヅナ」「オボロ」「ウツハラ」「深緋の刈人」「バフ・デバフまとめ」「状態効果まとめ」(본문·댓글 끝까지 열람), 사이트 데이터 ae_translation_all·ae_character(2026-10-26)
+
 - 2026-10-25 | ai | characters/red_clad_flame_user_as.md·characters/kuchinawa.md 신규, characters/·guides/·raids/ 전 문서·glossary.md·index.md·backlog.md 수정 | 성장 작업: backlog 맨 위 정비 항목(일본어 용어를 사이트 번역표 한국어로 교체)을 처리 — 속성·무기 종류·천명·특성·클래스(이절·개전 서적명 포함)·캐릭터·버디·던전 이름과 현현·진현현·성도각성·글래스터를 한국어로 바꾸고, 표에 없는 스킬·장비·보스·ZONE·공격 종류는 일본어로 둠. glossary의 `—` 항목을 번역표와 대조해 한국어·영어를 채우고 클래스 표 추가. 이어 backlog 상위의 빨간 외투의 화염술사(AS)·쿠치나와(NS·AS) 2편 작성(관련 문서에서 링크), backlog 갱신과 질문 정리 | 근거: 사이트 데이터 ae_translation_all·ae_character(2026-10-25), Seesaa Wiki 「赤套の炎使い(アナザースタイル)」「クチナワ」「クチナワ(アナザースタイル)」(본문·댓글 끝까지 열람)
 
 - 2026-10-24 | ai | 모든 문서 frontmatter | `status` 필드 삭제 (스키마 변경, 본문 변경 없음이라 `updated`는 유지) | 근거: 유지보수자 결정 — 문서 단위 검증 라벨은 실제 검토 범위와 맞지 않음, 확인 내용은 sources의 user-feedback으로 문장 단위 기록 (AGENTS.md 2·7절)

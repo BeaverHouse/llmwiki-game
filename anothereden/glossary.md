@@ -5,9 +5,9 @@ aliases: [용어집, glossary]
 sources:
   - 사이트 데이터 (ae_translation, AE Check의 ko/en/ja 이름)
   - https://anothereden.game-info.wiki/ (Seesaa Wiki, 일본어 표기)
-  - 사이트 데이터 ae_translation_all (2026-10-25, 번역표 전체로 `—` 항목 대조)
+  - 사이트 데이터 ae_translation_all (2026-10-25, 번역표 전체로 `—` 항목 대조. 2026-10-26 재조회)
 created: 2026-10-17
-updated: 2026-10-25
+updated: 2026-10-26
 ---
 
 # Another Eden 고유명사 표기 (ko/en/ja)
@@ -53,8 +53,8 @@ updated: 2026-10-25
 | 클러그혼 | Clughorn | クラグホーン | 사이트 | [클러그혼](characters/clughorn.md) |
 | 검은 옷의 칼잡이 | Black Clad Sw. | 黒衣の刀使い | 사이트 | en은 사이트 데이터의 축약형 그대로 |
 | 은빛을 휘감은 번개술사 | Silver Striker | 銀織の雷使い | 사이트 | |
-| 이즈나 | Izuna | イヅナ | 사이트 | |
-| 오보로 | Oboro | オボロ | 사이트 | |
+| 이즈나 | Izuna | イヅナ | 사이트 | [이즈나](characters/izuna.md) |
+| 오보로 | Oboro | オボロ | 사이트 | [오보로](characters/oboro.md) |
 | 캄라네쥬 | Kamlanage | カムラナージュ | 사이트 | |
 | 밀디 | Mildy | ミルディ | 사이트 | |
 | 빨간 외투의 화염술사 | Red Clad Flam. | 赤套の炎使い | 사이트 | en은 사이트 데이터의 축약형 그대로 |
@@ -70,7 +70,7 @@ updated: 2026-10-25
 | 이스카 | Isuka | イスカ | 사이트 | |
 | 의협의 사냥꾼 라클레어 | Laclair (Alter) | 義侠の猟人 | 사이트 | |
 | 이드 | Id | イド | 사이트 | |
-| 야쿠모 | Yakumo | ヤクモ | 사이트 | |
+| 야쿠모 | Yakumo | ヤクモ | 사이트 | [야쿠모(AS)](characters/yakumo_as.md) |
 | 미스트레아 | Mistrare | ミストレア | 사이트 | [미스트레아](characters/mistrare.md) |
 | 니나 | Nina | ニナ | 사이트 | |
 | 루비 | Ruvi | ルヴィ | 사이트 | |
@@ -79,14 +79,14 @@ updated: 2026-10-25
 | 월화의 영애 히스메나 | Hismena (Alter) | 月華の令嬢 ヒスメナ | 사이트 | |
 | 에바 | Eva | エヴァ | 사이트 | |
 | 멜리사 | Melissa | メリッサ | 사이트 | |
-| 심홍의 사자 이루루 | Ilulu (Alter) | 深緋の刈人 イルルゥ | 사이트 | |
+| 심홍의 사자 이루루 | Ilulu (Alter) | 深緋の刈人 イルルゥ | 사이트 | [심홍의 사자 이루루](characters/ilulu_alter.md). 이시층 캐릭터 |
 | 잔영의 가인 섀넌 | Shannon (Alter) | 残影の佳人 シャノン | 사이트 | |
-| 폼 | Pom | ポム | 사이트 | |
+| 폼 | Pom | ポム | 사이트 | [폼(AS)](characters/pom_as.md) |
 | 쿠치나와 | Kuchinawa | クチナワ | 사이트 | |
 | 웨네피카 | Wenefica | ウェネーフィカ | 사이트 | |
 | 투바 | Toova | トゥーヴァ | 사이트 | |
 | 쿨레르보 | Krervo | クレルヴォ | 사이트 | |
-| 우츠하라 | Utpalaka | ウツハラ | 사이트 | |
+| 우츠하라 | Utpalaka | ウツハラ | 사이트 | [우츠하라](characters/utsuhara.md) |
 | 마이티 | Mighty | マイティ | 사이트 | |
 | 사잔카 | Sazanca | サザンカ | 사이트 | |
 | 헬레나 | Helena | ヘレナ | 사이트 | |
@@ -151,6 +151,8 @@ updated: 2026-10-25
 | 이루루 | Ilulu | イルルゥ | 사이트 | NS. 이명 캐릭터 심홍의 사자 이루루(深緋の刈人)와 구별. [질버(AS)](characters/zilva_as.md) 편성의 글래스터 담당 |
 | 레비아 / 오토하 / 노포우족 | Levia / Otoha / Nopaew Clan | リヴァイア / オトハ / ノポウ族 | 사이트 | [쿠치나와](characters/kuchinawa.md) 편성, [현현 무기](guides/manifest_weapons.md) |
 | 마쿠마쿠 | Macky | いいマクマク | 사이트 | 캐릭터. [氷原のヌシ](raids/hyougen_no_nushi.md)·[ムル・ナブズ](raids/muru_nabuzu.md) 편성 |
+| 별이 / 큐카 / 제빌로 / 엠펠 | Starky / Cyuca / Zeviro / Empel | 星の子 / キュカ / ゼヴィーロ / アンペル | 사이트 | [폼(AS)](characters/pom_as.md)·[심홍의 사자 이루루](characters/ilulu_alter.md) 편성, [상태 효과](guides/status_effects.md)의 バフリバーサル 부여자 |
+
 ## 버디
 
 | 한국어 | English | 日本語 | 확인 | 메모 |
@@ -162,7 +164,8 @@ updated: 2026-10-25
 | 모케 | Moke | モケ | 사이트 | |
 | 큐모스(AS) / 테트라(AS) / 건스(AS) / 피이(AS) | Kumos(AS) / Tetra(AS) / Gunce(AS) / Pyggie(AS) | キュモス(AS) / テトラ(AS) / ガンス(AS) / ぴーたん(AS) | 사이트 | AS 버디 |
 | 테트라 | Tetra | テトラ | 사이트 | 미나르카의 세트 버디. 차지 스킬로 아군 전체 전투 불능 회복. [버디](guides/buddies.md) |
-| 일하는 라이카 | Labor Laika | おしごとライカ | 사이트 | Ver3.17.0 추가 버디. [버디](guides/buddies.md) || 튜시아 | Thysía | テュシア | 사이트 | [カプトニク](raids/kaputoniku.md) 꼼수 편성(큐모스 대안), [闇のアルターフォース](raids/yami_alter_force.md) 댓글 편성 |
+| 일하는 라이카 | Labor Laika | おしごとライカ | 사이트 | Ver3.17.0 추가 버디. [버디](guides/buddies.md) |
+| 튜시아 | Thysía | テュシア | 사이트 | [カプトニク](raids/kaputoniku.md) 꼼수 편성(큐모스 대안), [闇のアルターフォース](raids/yami_alter_force.md) 댓글 편성 |
 | 릴레노 / 우쿨렐레 님 / 지르야 | Limil / Lord Ukulele / Jilya | リレーノ / ウクレレ様 / ジルヤ | 사이트 | [氷原のヌシ](raids/hyougen_no_nushi.md)·[ムル・ナブズ](raids/muru_nabuzu.md) 편성의 버디 |
 | — | — | ライリス | 미확인 | 같은 편성의 버디. 사이트 번역표의 「라이리스」(Iridian)는 일본어가 「竜の子」로 되어 있어 같은 버디인지 확인하지 않음 |
 
@@ -267,7 +270,12 @@ updated: 2026-10-25
 | — | — | スキルゲージ / ライフポイント / ストッパー | 미확인 | 보스 HP 구조 용어 |
 | — | — | アルターフィールド・闇 / スピリットオブダークネス / 火の精霊痕 | 미확인 | [闇のアルターフォース](raids/yami_alter_force.md)의 오라·누적 |
 | — | — | 超生命力 / アングリー・ヘイト / 背水(누적) / 傷壊 / ジュラシャウト | 미확인 | [歴戦の甲鎧竜](raids/rekisen_kougairyuu.md)의 누적·기믹 |
-| — | — | 神通力 / 超集中 / スパーク / ライジンモード | 미확인 | 이즈나·오보로의 누적·모드 체인지. [번개 파티](guides/thunder_party.md) |
+| — | — | 神通力 / 超集中 / スパーク / ライジンモード | 미확인 | 이즈나·오보로의 누적·모드 체인지. [이즈나](characters/izuna.md), [오보로](characters/oboro.md), [번개 파티](guides/thunder_party.md) |
+| — | — | 竜の残魂 / 竜の爪痕 / 転竜の護り | 미확인 | [우츠하라](characters/utsuhara.md)의 누적 |
+| — | — | ラブホリック / ループホール / 毒ペ殺 (毒ペ) | 미확인 | [폼(AS)](characters/pom_as.md)·비아카(AS)의 누적과 毒·ペイン 파티 통칭 |
+| — | — | モード：ミゼル / MPガード | 미확인 | [야쿠모(AS)](characters/yakumo_as.md)의 모드 체인지와 피해 절반 MP 대체 |
+| — | — | 魂華 / 憑魂 / ルブルムモルス | 미확인 | [심홍의 사자 이루루](characters/ilulu_alter.md)의 누적·アナザーセンス |
+| — | — | 弱点バフ / Eバフ / 相殺 / 重複減衰 / 虎視眈眈 / 後攻行動 / 先制行動 / シールド / バリア貫通 / エレメンタルブレイク | 미확인 | 전투 용어. [상태 효과](guides/status_effects.md) |
 | — | — | あべこべ / 守勢 / 祈祷 / テスタメント | 미확인 | 전투 용어 |
 | — | — | 造詣 / アンティック / 白騎士 / 白薔薇の加護 / 奔流 / 下克上 / 水滴神穿 / 双撃陣・斬魔 / 絶・水天陣 | 미확인 | 엘실·월화의 영애 히스메나 등의 누적·모드·ZONE 어빌리티. [물 파티](guides/water_party.md) |
 | — | — | ヌシの生態 / 水流のベール / 氷結反射 / ダイヤモンドダスト / 凍結 | 미확인 | [氷原のヌシ](raids/hyougen_no_nushi.md)의 누적·오라·환경·상태 이상 |
@@ -306,6 +314,8 @@ updated: 2026-10-25
 
 2026-10-20 추가 문서(세스타(AS)·애니·네코코(ES)·세리에스(AS)·결정 파티)의 장비·글래스터·클래스 서적(プリズムダガー, MP消費攻撃錬成, ルーナ・サジタリア, ルーナ・ビペンニス, アルジョン・ロゼ, 桜雲, 極・撃陣の力, ZONE覚醒時強化錬成, AFコンボ倍率強化錬成, 覚醒の力, 刻唄の力, 각 클래스의 「〜の書」·「〜の証」)과 스킬명도 일본어 표기만 확인했다.
 
+2026-10-26 추가 문서의 장비·글래스터·클래스 서적·스킬명도 일본어 표기만 확인했다: [폼(AS)](characters/pom_as.md)(ラブポーションP, ラブ♡バズーカ, ラブ♡メディカル, 堕落の薬, 毒エンハンス·ペインエンハンス錬成, 害毒の力<杖>, 抉痛の力<杖>, 夢晶の指輪), [야쿠모(AS)](characters/yakumo_as.md)(ディスペア, アンチェイン, カルマ, デスマーチ, オーバーワーク, オーバークロック, ラベージオブグリード, ヘグニスの証), [이즈나](characters/izuna.md)(神轟雷嵐の舞, 霹靂招来, 疾雷天翔, 鴉天昇華, 雷神滅閃, 秘術・雷鳴, 鴉天狗の書·証), [오보로](characters/oboro.md)(普賢一刀流・朧, ブリッツバスター, ソードボルテック, 音速百雷, イナズマチャージ, 雷神裂波, ライジングビート, アルクーダ, ナルカミの書·証), [우츠하라](characters/utsuhara.md)(廻転竜雷・阿頼耶, 蒼雷纏現・優鉢羅, 顕加の纏, 折伏の鎌, 無相の雷光, 即身成仏, 雷咲・青蓮華, ムジマ・アックス, 竜纏の首飾り, ドラゴンリーパーの書·証), [심홍의 사자 이루루](characters/ilulu_alter.md)(ディミティアス, プルガトリウム, プロスタシフィシー, アニマ・アマリリス, メテーレ, アドミラリーマナス, ゲヘナ・ファルクス, セクショーネ, エルピスネックレス, 冥鬼の鉞), [상태 효과](guides/status_effects.md)(猫又流星群, 神威依代, リワインドフロー, レアンカルナシオン).
+
 ## 클래스
 
 클래스명은 사이트 번역표(book.char 항목)에 있다. 클래스 체인지 서적 「〜の異節」「〜の改典」은 「(클래스)의 이절」「(클래스)의 개전」으로 쓰고, 「〜の書」「〜の証」은 일본어 그대로 쓴다.
@@ -322,4 +332,5 @@ updated: 2026-10-25
 | 헤르메스 / 아이테르 | Hermes / Aether | ヘルメース / アイテール | 사이트 | [쿠치나와](characters/kuchinawa.md) NS / AS |
 | 에포크 메이커 / 루블라디우스 / 새크라멘트 | Epoch Maker / Ruborensis / Sacrament | エポックメーカー / ルブラディウス / サクラメント | 사이트 | 2026-10-25 용어 교체 때 캐릭터 문서에서 한국어로 바꾼 클래스 |
 | 바나르간드 / 카르밀라 / 타케미나카타 / 네코마타 곤겐 / 오덕묘 | Vanagandr / Carmilla / Takeminakata / Nekomata Avatar / Fireside Cat | ヴァナルガンド / カーミラ / タケミナカタ / 猫又権現 / 五徳猫 | 사이트 | 2026-10-20 작성 캐릭터 문서 |
+| 베누스 / 회그니스 / 카라스텐구 / 나루카미 / 드래곤 리퍼 / 타나토스 | Venus / Högni / Raven Tengu / Narukami / Dragon Reaper / Thanatos | ウェヌス / ヘグニス / 鴉天狗 / ナルカミ / ドラゴンリーパー / タナトス | 사이트 | 폼(AS) / 야쿠모(AS) / 이즈나 / 오보로 / 우츠하라 / 심홍의 사자 이루루 (2026-10-26) |
 | — | — | サンクトス / バトラー | 미확인 | 사이트 번역표에 없음 |

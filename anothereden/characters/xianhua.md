@@ -9,7 +9,7 @@ sources:
   - 사이트 데이터 (ae_character c101000381, ae_translation)
   - 사이트 데이터 ae_translation_all (2026-10-25, 용어 한국어 교체)
 created: 2026-10-19
-updated: 2026-10-25
+updated: 2026-10-26
 ---
 
 # 셴화
@@ -64,7 +64,7 @@ updated: 2026-10-25
 
 | 전위 | 후위 |
 |---|---|
-| 폼(AS) — 서포터 (지팡이 4명이면 개막 極・幻魔陣) | 자유 2자리 |
+| [폼(AS)](pom_as.md) — 서포터 (지팡이 4명이면 개막 極・幻魔陣) | 자유 2자리 |
 | 쿠치나와 — 디버퍼 (腕知速 디버프, SB 시 마법 약점) | |
 | 로제타 — 힐러 (명 지팡이 캐릭터면 누구든 대체 가능) | |
 | 셴화 — 어태커 | |
@@ -91,7 +91,8 @@ updated: 2026-10-25
 
 - [환경 캐릭터 평가](../guides/meta_characters.md)
 - [アン・キ・ディグマ](../raids/an_ki_digma.md)
-- [유나](yuna.md), [마리엘](mariel.md), [쿠치나와](kuchinawa.md)
+- [유나](yuna.md), [마리엘](mariel.md), [쿠치나와](kuchinawa.md), [폼(AS)](pom_as.md), [야쿠모(AS)](yakumo_as.md)
+- [상태 효과](../guides/status_effects.md) (弱点看破·バフリバーサル)
 
 ## 히스토리
 

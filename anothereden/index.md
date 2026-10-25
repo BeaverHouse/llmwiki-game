@@ -24,6 +24,7 @@
 - [guides/stellar_awakening.md](guides/stellar_awakening.md) — 성도각성과 SB (각성 경로 3가지, 星譜 입수, ステラボード 우선순위, 천명 게이지 쌓이는 양, SB 사양)
 - [guides/stellar_awakening_priority.md](guides/stellar_awakening_priority.md) — 성도각성 추천 캐릭터 (万象の星譜·ツブラ를 누구에게 먼저 쓸지. Seesaa ★1~5 우선도표(Ver3.15.0 시점, 신/구캐릭터 칸)와 ★5·★4의 이유, 표 이후 SA 실장 캐릭터 목록. 일본 서버)
 - [guides/buddies.md](guides/buddies.md) — 버디 (전위·후위 사양, 오토 스킬·차지 스킬·오라, AF 회수·개막 AF용 피이(AS)·건스(AS)·코로보·모케·큐모스·테트라와 세트 캐릭터, 버디 장비 パンドラの缶詰·雷鳴の首輪·海じゃらし·浮沈の盾·邪気払拭ペンダント의 효과·강화·입수처)
+- [guides/status_effects.md](guides/status_effects.md) — 상태 효과 (버프·디버프 상쇄·상한·重複減衰·덮어쓰기, 弱点看破(무효·흡수에 무효, 지속, 덮어쓰기)와 弱点バフ, あべこべ, バフリバーサル·デバフリバーサル의 대상과 해제 규칙, 守護·迎撃·踏ん張る의 사양과 庇立て와의 차이)
 - [guides/superbosses.md](guides/superbosses.md) — 숨은 보스 난이도 (Seesaa 비공식 난이도표의 기준과 ★11.7 이상 보스 목록)
 
 ## raids/
@@ -59,3 +60,9 @@
 - [characters/orleya_as.md](characters/orleya_as.md) — 오를레아(AS) (도끼 번개 탱커 겸 서포터, Ver3.3.10. 「レズィストンス」 祈祷(피해 50% 감소·庇立て·매 턴 회복·상태 이상 회복)와 「トネールデファンス」 腕知速 디버프·挑発, 턴 종료 AF 게이지 10%, 번개 파티 받기. SA 미실장)
 - [characters/red_clad_flame_user_as.md](characters/red_clad_flame_user_as.md) — 빨간 외투의 화염술사(AS) (권갑 명 캐릭터, Ver3.11.20. 속성 ZONE에 맞춰 속성이 바뀌는 「グラッジスパーク」 지원, 「核熱」 20 누적 「ブラストガン・EV」 최대 48000%, 「アンフェルノヴァ」 「溶解」. 결정·불·출장 편성)
 - [characters/kuchinawa.md](characters/kuchinawa.md) — 쿠치나와 (NS·AS 통합, 땅 지팡이 마법. NS SA 「蛇群之流」 5능력치 50% 디버프·冥 SB ANOTHER ZONE +3턴, AS <脆禍>·「腐食之訪」 弱点看破(地)·양옆 連携. 아르카디아·땅·명 축 편성)
+- [characters/pom_as.md](characters/pom_as.md) — 폼(AS) (지팡이, Ver3.3.20. 전위 지팡이 4명이면 개막 極・幻魔陣, 「ラブ♡メディカル」 知速 100%·精神統一, 「ラブ♡バズーカ」 불 마법과 ラブホリック, 비아카(AS)와의 毒ペ殺 파티. SA 없음)
+- [characters/yakumo_as.md](characters/yakumo_as.md) — 야쿠모(AS) (그림자 지팡이, Ver3.7.10. 錬魔 쌓는 규칙, 「オーバーワーク」 선제 버프, 「デスマーチ」 シールド·魔法耐性, SA 개막 極・幻魔陣 + 錬魔 50과 「オーバークロック」 최대 10000%, 셴화 파티·주회 파티)
+- [characters/izuna.md](characters/izuna.md) — 이즈나 (번개 지팡이, Ver3.9.40. 神通力 AF 게이지 회복, SA 개막 AF 게이지 50〜100%, 超集中 「秘術・雷鳴」, 「霹靂招来」 선제 부여, SA 오보로와의 弱点看破(雷) 연속)
+- [characters/oboro.md](characters/oboro.md) — 오보로 (번개 도, Ver3.4.10. スパーク·ライジンモード Lv3, SA AF 후 적 전체 弱点看破(雷)·ANOTHER ZONE +3턴, 「ソードボルテック」 斬耐性 디버프, 순수 번개·알도 축 편성. 출처 2024-01)
+- [characters/utsuhara.md](characters/utsuhara.md) — 우츠하라 (번개 도끼, Ver3.8.20. 竜の残魂·竜の爪痕 누적, 「ルナティック+」·転竜の護り의 守護와 「顕加の纏」 迎撃 4회, 「雷咲・青蓮華」 최대 11250%, 번개·아르카디아 편성)
+- [characters/ilulu_alter.md](characters/ilulu_alter.md) — 심홍의 사자 이루루 (이시층 물 도끼, Ver3.1.71. 「ディミティアス」 선제 煌斬陣 + ZONE覚醒, ANOTHER ZONE 턴 종료 魂華 추격 최대 8800%의 셈법, 「プルガトリウム」 斬耐性 100%DOWN, 後攻·虎視眈眈, 斬·물 ZONE 편성. 출처 2023-08)
