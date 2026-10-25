@@ -27,6 +27,7 @@
 - [guides/nefarith.md](guides/nefarith.md) — 네파리스와 본 크러셔 (네파리스 프로필, 본 크러셔의 기원·지옥의 용광로·안갯불·숙청, 1장 4번 협곡과 2장 무릉의 행적, 1.4 생존)
 - [guides/foundation.md](guides/foundation.md) — 파운데이션 (중추 파일 '파운데이션' 네 항목, 공격 대상이 된 테라 연합 과학 탐사단, 추방과 139년의 귀환, 탈로스 V, 정체불명의 소녀·알레이크레오스·아다시르·네파리스)
 - [guides/lycia.md](guides/lycia.md) — 리시아 (펠리카와 자매처럼 자란 엔드필드 출신 랜드브레이커. 펠리카 파일 자료 1 권한 기록, 나무위키 서술, 1장 Ⅳ 등장 장면, 139년 구출)
+- [guides/m3.md](guides/m3.md) — M3 (엔드필드 공업의 정예 오퍼레이터이자 미션 제로 집행자. 자기소개, 펠리카 파일 자료 1·4의 역할, 창립자와 원점, 리컨비너 묵인, 메인 스토리의 발언)
 - [guides/zeroth_directive.md](guides/zeroth_directive.md) — 미션 제로 (과거의 관리자가 남긴 의뢰. 언어별 표기, 프롤로그·1장·2장 Ⅷ의 언급, 펠리카 파일 자료 4의 서명인 임명, 생명 재가동, 관련 인물)
 - [guides/si_painting.md](guides/si_painting.md) — 사의 그림 (1.6 버전 무릉의 여덟 번째 지역. 그림 속 세계의 설정·한도·전력·자원, 인연 마을 객잔 평가·개조 비용·상점·오퍼레이터 배치 보너스·마일스톤과 Spirit Money, 농장·목장·자동 수확 설비, 메인 스토리 2장 VIII 「심연을 떠나며」 장면별 줄거리)
 - [guides/civilization_band.md](guides/civilization_band.md) — 문명 밴드의 도시 (라반도르마(La Fantoma), 탈로스 성, 맛 고로도프, 홍산 환형산, 고요한 수도회의 대수도원과 부서진 분, 옐시, 오보르니스크, 트리글라바, Morospolis의 설정과 관련 오퍼레이터 기록, 출처마다 다른 이름)

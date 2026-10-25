@@ -146,7 +146,7 @@ ko는 엔드필드 공업 인사 기록 '리컨비너' 한국어 전문(Austin �
 | 오리지늄 숲 | Originium Woods | — | 공식(ko) | 리컨비너가 나오는 곳 |
 | 심도 | Depth | — | 공식(ko) | 정보 파편의 수치 |
 | 와파린 | Warfarin | ワルファリン | 공식(ko) | 당시 로도스 아일랜드의 지도자. 리컨비너를 데려옴. ja 미확인 |
-| M3 | M3 | M3 | 공식(ko) | 관리자와 함께 와파린의 연구를 묵인한 인물 |
+| M3 | M3 | M3 | 공식(ko) | 엔드필드 공업의 정예 오퍼레이터, 미션 제로 집행자(en executor). 관리자와 함께 와파린의 연구를 묵인한 인물 |
 | 로도스 아일랜드 제약회사 | Rhodes Island Pharmaceuticals | — | 공식(ko) | 로도스 아일랜드의 정식 명칭 |
 | 엔드필드 공업과 로도스 아일랜드 제약회사 간 특수 기술직 협력에 관한 협약 | Framework Agreement on Special Technical Roles and Co-Operation Between Endfield Industries and Rhodes Island Pharmaceuticals | — | 공식(ko) | 리컨비너 오퍼레이터 파견의 근거 |
 
@@ -732,7 +732,7 @@ ko는 나무위키 지역·등장인물 문서, en은 endfield.wiki.gg, ja는 ap
 | 실험 구역 | Test Area | — | 2차 | |
 | 북쪽 금지 구역 | North Wuling Exclusion Zone | 北部封鎖区域 | 2차 | 142년 대재앙으로 생김 |
 | 눈 덮인 소나무 숲 | Snowy Forest | 雪松林 | 2차 | |
-| 수명 | Suiming | — | 2차 | 옛 수몰 도시를 재구성한 공간 |
+| 수명 | Suiming | 遂明 | 2차 | 옛 수몰 도시를 재구성한 공간. ja는 endfield.wiki.gg 다국어 표기 |
 | 사의 그림 | Si's Painting | — | 2차 | |
 | 천왕 평지 | — | — | 미확인 | 경옥 골짜기의 청파채 주민 마을 |
 | 사 | Si | スー | 2차 | zh 祀. 1.6 버전 메인 스토리 인물 |
@@ -1110,8 +1110,10 @@ ko는 나무위키 「사」「쉐이」「/헤드헌팅」「/무기고 신청�
 | 탐색 레벨 | Exploration Level | — | 미확인 | ko는 영어에서 옮김 |
 | 혼란 수치 | Derangement | — | 미확인 | 침식된 유산을 찾아서의 강제 철수 수치. ko는 영어에서 옮김 |
 | 오리지늄 회로 영감 / 장비 템플릿 / 연구 포인트 / 탈로사이트 | — / — / — / Talosite | — | 미확인 | 지역 수집 요소. 나무위키 표기 |
-| 수명 | — | — | 미확인 | 홍산 과학원의 수몰된 옛 도시를 재구성한 공간 |
-| 여소귀 | — | — | 미확인 | 무릉성 NPC. 수명으로 가는 포탈 |
+| 여소귀 | Yu Shigui | — | 미확인 | 무릉성 NPC. 수명으로 가는 포탈. 천사 Shang Jin의 스승. en은 임무 Bell of Recollection 표기 |
+| Shang Jin | Shang Jin | — | 미확인 | 무릉성의 천사. 임무 Bell of Recollection의 의뢰인. ko 미확인 |
+| Waking Bell | Waking Bell | — | 미확인 | 수명성의 종. 공공 경보 장치. ko 미확인 |
+| 천사장 문서 기록관 / 천사장 연구소 | — | — | 미확인 | 수명의 구역. 나무위키 표기 |
 
 ## 사용 아이템·프로토콜 공간·구매 센터·미션 제로
 
