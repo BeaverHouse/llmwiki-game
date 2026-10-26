@@ -8,7 +8,7 @@ sources:
   - 사이트 데이터 조회 결과 없음 (2026-10-20)
   - 사이트 데이터 ae_translation_all (2026-10-25, 용어 한국어 교체)
 created: 2026-10-20
-updated: 2026-10-25
+updated: 2026-10-27
 ---
 
 # 세리에스(AS)
@@ -92,6 +92,7 @@ updated: 2026-10-25
 
 - [환경 캐릭터 평가](../guides/meta_characters.md)
 - [アン・キ・ディグマ](../raids/an_ki_digma.md)
+- [突 파티](../guides/pierce_party.md), [천명](../guides/tenmei.md)
 
 ## 히스토리
 

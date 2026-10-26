@@ -8,7 +8,7 @@ sources:
   - https://anothereden.game-info.wiki/d/ZONE%A1%A6%B1%FE%B1%E7%B8%FA%B2%CC%A4%DE%A4%C8%A4%E1 (Seesaa Wiki 「ZONE・応援効果まとめ」, 2026-07-20 수정본. SB와 ANOTHER ZONE)
   - 사이트 데이터 ae_translation_all (2026-10-25, 용어 한국어 교체)
 created: 2026-10-23
-updated: 2026-10-25
+updated: 2026-10-27
 ---
 
 # 성도각성과 ステラバースト (SB)
@@ -79,6 +79,7 @@ updated: 2026-10-25
 
 - [환경 캐릭터 평가](meta_characters.md) — SA 전후로 평가가 바뀌는 캐릭터
 - [성도각성 추천 캐릭터](stellar_awakening_priority.md) — 누구부터 각성할지 (Seesaa 우선도표)
+- [천명](tenmei.md) — 天冥値 문턱 보너스, SA 어빌리티의 "天の力/冥の力が多い時"
 
 ## 히스토리
 

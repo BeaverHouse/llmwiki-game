@@ -9,7 +9,7 @@ sources:
   - 사이트 데이터 조회 결과 없음 (2026-10-20)
   - 사이트 데이터 ae_translation_all (2026-10-25, 용어 한국어 교체)
 created: 2026-10-20
-updated: 2026-10-25
+updated: 2026-10-27
 ---
 
 # 세스타(AS)
@@ -124,6 +124,7 @@ Seesaa Wiki 표의 칸 배치가 모호해 위 배치는 기재 순서를 따랐
 - [환경 캐릭터 평가](../guides/meta_characters.md)
 - [틸릴(ES)](thillelille_es.md), [알마(AS)](alma_as.md)
 - [환경 장비](../guides/meta_equipment.md)
+- [바람 파티](../guides/wind_party.md), [상태 효과](../guides/status_effects.md) (オーバークリティカル·連携), [천명](../guides/tenmei.md)
 
 ## 히스토리
 

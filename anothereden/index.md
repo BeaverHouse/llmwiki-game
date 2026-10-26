@@ -24,7 +24,11 @@
 - [guides/stellar_awakening.md](guides/stellar_awakening.md) — 성도각성과 SB (각성 경로 3가지, 星譜 입수, ステラボード 우선순위, 천명 게이지 쌓이는 양, SB 사양)
 - [guides/stellar_awakening_priority.md](guides/stellar_awakening_priority.md) — 성도각성 추천 캐릭터 (万象の星譜·ツブラ를 누구에게 먼저 쓸지. Seesaa ★1~5 우선도표(Ver3.15.0 시점, 신/구캐릭터 칸)와 ★5·★4의 이유, 표 이후 SA 실장 캐릭터 목록. 일본 서버)
 - [guides/buddies.md](guides/buddies.md) — 버디 (전위·후위 사양, 오토 스킬·차지 스킬·오라, AF 회수·개막 AF용 피이(AS)·건스(AS)·코로보·모케·큐모스·테트라와 세트 캐릭터, 버디 장비 パンドラの缶詰·雷鳴の首輪·海じゃらし·浮沈の盾·邪気払拭ペンダント의 효과·강화·입수처)
-- [guides/status_effects.md](guides/status_effects.md) — 상태 효과 (버프·디버프 상쇄·상한·重複減衰·덮어쓰기, 弱点看破(무효·흡수에 무효, 지속, 덮어쓰기)와 弱点バフ, あべこべ, バフリバーサル·デバフリバーサル의 대상과 해제 규칙, 守護·迎撃·踏ん張る의 사양과 庇立て와의 차이)
+- [guides/status_effects.md](guides/status_effects.md) — 상태 효과 (버프·디버프 상쇄·상한·重複減衰·덮어쓰기, 弱点看破(무효·흡수에 무효, 지속, 덮어쓰기)와 弱点バフ, あべこべ, バフリバーサル·デバフリバーサル의 대상과 해제 규칙, 守護·迎撃·踏ん張る의 사양, 庇立て(전체 공격만·피해 2배·여럿일 때 내부 ID 순서), 連携, オーバークリティカル(발동률·1100% 확정))
+- [guides/tenmei.md](guides/tenmei.md) — 천명 (천·명 구분, 天冥値 올리는 법·최대 255·アナダン 보상, 문턱 보너스(80 스킬 4칸·120 배지 칸·200 글래스터 칸), SA 어빌리티의 "天の力/冥の力が多い時"와 축적량 증가 조건)
+- [guides/wind_party.md](guides/wind_party.md) — 바람 파티 (세스타(AS)·멜피피아 중심 風王陣 편성. 「二刀神狼・改」의 그 턴 弱点看破(風), 멜피피아의 祈祷·「予知」·腕知 디버프, 連携·オーバークリティカル 담당, 極・風王陣 유지 문제, 출처 편성 예 3종)
+- [guides/pierce_party.md](guides/pierce_party.md) — 突 파티 (세리에스(AS)·의협의 사냥꾼 라클레어·네코코(ES) 중심 瞬突陣 편성. 창·활 통일 이유, 鎧通/射切 AF 사이클, 라클레어가 못 까는 버프, 클러그혼·아나벨(ES) 등 후보, 출처 편성 예 3종)
+- [guides/shade_party.md](guides/shade_party.md) — 그림자 파티 (애니·검은 옷의 칼잡이(AS)·클러그혼 중심 刻陰陣 편성. 刻陰陣 배율표, 「血の誓約」 庇立て 배치, 絶・刻陰陣과 共鳴<挺身>, 「シャンバラ」 받기 콤보, 출처 편성 예 3종, 약점)
 - [guides/superbosses.md](guides/superbosses.md) — 숨은 보스 난이도 (Seesaa 비공식 난이도표의 기준과 ★11.7 이상 보스 목록)
 
 ## raids/
