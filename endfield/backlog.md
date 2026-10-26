@@ -6,21 +6,23 @@
 
 ## 다음 작업
 
-- 정비 | 본문의 출처 서술 정리 | 본문에 "나무위키는 …라고 적는다", "wiki.gg에 따르면" 같은 출처 서술이 500곳 넘게 있다. 읽는 사람에게 필요한 것은 게임의 사실이므로 본문은 사실만 쓰고 출처는 frontmatter `sources`에 둔다. 출처끼리 내용이 다를 때만 본문에 양쪽을 밝힌다. 다른 주제보다 먼저, 하루에 문서 몇 편씩 처리한다 (Austin 지적, 2026-10-24) | 각 문서의 sources
-- 문명 밴드의 다른 도시 | guides/civilization_band.md 보강 | 도시 문서가 이름만 든 홍산 크레이터(홍산 과학원 본거지), 대수도원(고요한 수도회), Morospolis, The Unicity | endfield.wiki.gg Hongshan_Crater·Monasterium·Morospolis, 나무위키 「/등장인물 및 세력」
-- 인연 마을 객잔 세부 | guides/si_painting.md 보강 | 테마·레시피·개장 효과·Spirit Money 획득처는 wiki.gg 문서가 아직 비어 있어 쓰지 못함 | endfield.wiki.gg Yuanyuan_Manor_Inn·Spirit_Money
-- 탐색 레벨 | guides/exploration.md 보강 | 탐색 컨텐츠 문서의 에너지 응집점은 탐색 레벨 4부터 고위로 바뀌고 적 레벨이 탐색 레벨을 따르는데, 탐색 레벨을 올리는 방법과 단계별 효과는 쓰지 않음. 프로토콜 공간 문서에 Zoetic Session I~IV(탐색 레벨 4~7)의 위치와 임무만 적음 | endfield.wiki.gg Exploration Level·Zoetic_Session_I~IV, 나무위키 「/전투」
-- 탈로사이트와 탈로사이트 거래소 | guides/exploration.md 또는 guides/materials.md 보강 | 탐색 컨텐츠 문서의 지역별 탈로사이트 수만 있고 쓰임은 없음 | endfield.wiki.gg Talosite Exchange
-- 생태 재배와 농사 | guides/eco_farming.md | 탐색 컨텐츠 문서의 오리지늄 연구 구역 생태 재배 구역, 사의 그림 농장·자동 수확 설비, 무릉 스프링클러 | endfield.wiki.gg Eco-Farming, 나무위키 「/지역」
-- 수명과 여소귀 | guides/wuling.md 보강 또는 guides/shuiming.md | 탐색 컨텐츠 문서의 수몰된 홍산 과학원 옛 도시(종으로 시간대를 바꾸는 사이드 임무 공간) | 나무위키 「/지역」「/스토리」, endfield.wiki.gg
+- 정비 | 본문의 출처 서술 정리 | 본문에 "나무위키는 …라고 적는다", "wiki.gg에 따르면" 같은 출처 서술이 500곳 넘게 있다. 읽는 사람에게 필요한 것은 게임의 사실이므로 본문은 사실만 쓰고 출처는 frontmatter `sources`에 둔다. 출처끼리 내용이 다를 때만 본문에 양쪽을 밝힌다. 다른 주제보다 먼저, 하루에 문서 몇 편씩 처리한다 (Austin 지적, 2026-10-24). 처리한 문서: guides/timeline.md, guides/foundation.md, guides/operators.md, guides/civilization_band.md, guides/si_painting.md, guides/exploration.md, guides/factions.md의 홍산 과학원·고요한 수도회 절 (2026-10-25), guides/headhunting.md, guides/protocol_space.md, parties/cryo.md, guides/consumables.md (2026-10-26). 다음은 guides/combat_content.md, guides/factions.md 나머지 절, parties/heat.md, guides/status_anomalies.md, guides/materials.md, parties/nature.md처럼 서술이 많이 남은 문서부터 | 각 문서의 sources
 - 침식된 유산을 찾아서 의뢰와 보상 | guides/exploration.md 보강 | 탐색 의뢰·집중 의뢰 목록과 작전 지표 보상 품목은 wiki.gg 표 아이콘이 깨져 쓰지 못함 | endfield.wiki.gg Etchspace_Salvage/Commissions
-- M3 | 인물 문서 guides/m3.md | 미션 제로 문서의 집행자·수행자, 펠리카 파일 자료의 음성 메모, 리컨비너 기록의 '관리자와 M3의 묵인', 위기 대책팀 지휘 | 나무위키 「/등장인물 및 세력」 M3 문단, 펠리카·리컨비너 기록, endfield.wiki.gg
-- 엔드필드 공업 창립자와 '원점' | 인물 문서 또는 guides/setting_basics.md 확장 문서 | 미션 제로 문서의 창립자(펠리카 파일 자료 4), 펠리카 대사의 '원점'(관리자·M3·창립자·정예 오퍼레이터의 의사 결정층) | 나무위키 「/등장인물 및 세력」 창립자 문단, 「펠리카」, endfield.wiki.gg Founder
+- 엔드필드 공업 창립자와 '원점' | 인물 문서 또는 guides/setting_basics.md 확장 문서 | 미션 제로 문서의 창립자(펠리카 파일 자료 4), 펠리카 대사의 '원점'(관리자·M3·창립자·정예 오퍼레이터의 의사 결정층). guides/m3.md에 한 문단만 있음 | 나무위키 「/등장인물 및 세력」 창립자 문단, 「펠리카」, endfield.wiki.gg Founder
 - 적 | guides/enemies.md | 프로토콜 공간 문서의 보스·알파 적(로댄, 트리아겔로스, 마블 아겔로미레, 원일, Craghowler, Blitzcrash Blightshade, Gloomwald's Rage)과 적 분류(일반·고급·정예·알파·보스) | 나무위키 「/적」, endfield.wiki.gg Enemies
 - 채집 재료와 천연자원 | guides/materials.md 보강 또는 guides/gatherables.md | 사용 아이템 문서의 요리 재료(이향석, 풀 씨앗 가루, 연골 분말, 비스트·벌레의 고기, 야광·화염 풍뎅이 등)와 회복 식물(메밀꽃·시트론·금초·야침과 변종)의 획득처 | 나무위키 「/아이템/채집 재료」「/아이템」, endfield.wiki.gg Gatherables·Natural_Resources
 - 세쉬카의 라이프 스파인과 의장 | guides/factions.md 세쉬카 절 보강 | 파운데이션 문서의 카뮤 음성 기록(부모가 '의장'을 따라 탈로스2에 와 라이프 스파인 건설에 참여), 무기 '붉게 물든 가호' 스토리의 베헤모스의 이빨과 '생명의 척추' | 나무위키 「/등장인물 및 세력」 세쉬카 문단, 「카뮤」, 「라스트 라이트」, endfield.wiki.gg Seš'qa
+- 객잔 레시피와 테마 | guides/si_painting.md 보강 | 사의 그림 문서의 평가 표가 테마 15종과 레시피를 이름만 열고, 테마별 별 조건과 레시피 재료·맛은 쓰지 않음 | endfield.wiki.gg Innkeeping/Recipe·Innkeeping/Theme, 나무위키 「/지역」 사의 그림 문단
+- 목장 | guides/eco_farming.md 보강 또는 guides/si_painting.md 보강 | 사의 그림 문서의 목장(축사 부지·사료·Rainbow Fin 연못·고급 사료)과 생태 재배 문서의 자동 수확이 짐승 쪽은 비어 있음 | endfield.wiki.gg Ranching
+- 영광의 길 | guides/path_of_glory.md | 탐색 컨텐츠 문서의 숨겨진 구역의 여행자 메달, 사의 그림 문서의 Happy Gourmand 메달. 메달 분류(Chapter·Construction·Event·Progression·Regional·Social·Technical·Wondrous)와 꾸미기 조건 | endfield.wiki.gg Path of Glory, 나무위키
+- 개인 장치 | guides/consumables.md 보강 또는 guides/personal_device.md | 탐색 컨텐츠 문서의 탈로사이트 거래소 개인 장치 구획(1.5 추가). 기공 수련 두루마리·Aero-Salvager·Speed Booster 등 | endfield.wiki.gg Personal Device, 나무위키 「/아이템」
+- 고요한 수도회와 베리타스 | guides/factions.md 고요한 수도회 절 보강 | 문명 밴드의 도시 문서의 대수도원·세 교파·부서진 분·라테라노에서 이어받은 중추 시스템. 수도회의 기원과 율법·베리타스, 재현파의 유적 발굴 | 나무위키 「/등장인물 및 세력」 고요한 수도회 문단, 「자이히」, endfield.wiki.gg Cabal_of_Tranquility
+- 엔드필드 공업 NPC | guides/endfield_staff.md | M3 문서와 4번 협곡 문서에 나오는 진강척(허브 베이스 담당), 안드레(통합 공업 시스템 수석 공학자), 피오나(제강호 관제), TA-TA 프로토타입, 인사 보조 마틴 마빈 말렌. 오퍼레이터 인사 요약서의 작성자이기도 함 | 나무위키 「/등장인물 및 세력」 엔드필드 공업 문단, endfield.wiki.gg Andre·Fiona·Qin_Jiangchi·TA-TA
 
 ## 확인 필요
+
+- 수명 임무 표기 | 수명을 여는 탐색 임무 Bell of Recollection, 의뢰인 천사 Shang Jin, 종 Waking Bell, 무릉성 Citizen Square, 「Repair Log: Waking Bell」의 게임 안 한국어 이름은? 수명성 이야기(누가 왜 종을 고치려 했는지, 도시가 어떻게 잠겼는지)를 알려 주는 대사가 있는가? (guides/wuling.md)
+- M3의 소속 | 영어 인물 정보는 소속을 '미션 제로(과거)'로 적지만 1장 Ⅳ와 펠리카 파일 자료 4는 M3를 집행자라 부른다. 게임 안에서 M3가 지금도 미션 제로 집행자인가? 1장 Ⅳ에서 펠리카가 M3를 소개하는 대사의 원문은? (guides/m3.md)
 
 - 명하 출시 시점 | 2026-10-21 기준 미출시, 약 2주 뒤(11월 초, gamsgo 배너 일정 2026-11-05와 일치) 출시 예정 (유지보수자 확인). 출시되고 수치가 공개되면 operators/argent_flow.md(영어 코드네임 Argent Flow, 본명 야명하)로 쓴다.
 
@@ -44,9 +46,17 @@
 - 리시아의 근거 | 리시아가 랜드브레이커가 되었다는 것, 관리자와의 약속, 초자연 '사냥'은 게임 안 어느 대사·기록에 나오는가? 1장 Ⅳ에서 리시아가 하는 말의 원문은? (guides/lycia.md)
 - 미션 제로 표기 | 2장 Ⅷ의 게임 안 한국어 텍스트는 '미션 제로'인가 '제로번째 지령'인가? 미션 제로의 목적인 '생명 재가동'(나무위키 요약은 생명의 고동·생명의 재시작으로도 씀)의 게임 표기는? (guides/zeroth_directive.md)
 - 침식된 유산을 찾아서 용어 | Derangement, Precipitation Nodule, Isolation Container, Operation Metrics, Aurylene Crystal, Exploration Level의 한국어 게임 표기는? (guides/exploration.md)
+- 대수도원의 부서진 분 | 자이히 대사 '부서진 분에 관하여'의 한국어는 사로잡은 이를 '원장님'이라고만 하고, 영어는 Abbess Mumu로 적는다. 지금 원장 플론다(영어 Vronta)와 다른 사람인가? 게임 안 한국어 텍스트에 '무무'라는 이름이 나오는가? (guides/civilization_band.md)
+- 홍산성과 환형산 | 진천우 인사 요약서의 '홍산성'은 환형산 안의 한 도시인가, 환형산 전체를 부르는 이름인가? (guides/civilization_band.md)
+- 생태 재배 표기 | 생태 재배 구역(Eco-Farm), 실험 재배 구역(Agricultural Test Site), 비료 Burdo-Muck·Bumper-Rich의 게임 안 한국어 이름은? 시트론 논배미 변종 '다크 시트론'의 영어 이름이 Umbraline인가? (guides/eco_farming.md)
+- 탐색 레벨 표기 | 탐색 레벨을 낮추는 Protosync 메뉴, 희귀 채집 지점(Rare Gathering Sites), 탐색 레벨 2를 여는 임무 The Mission Continues, 승급 공간 Beyond the Worlds' Expanse의 한국어 이름은? 오퍼레이터 레벨 상한(탐색 레벨 1에서 30, 2·3에서 50, 4·5에서 70, 6·7에서 90)이 게임 화면과 같은가? (guides/exploration.md)
 - 베헤모스 용어 | '대사냥', '지촉인', '쉐이수', '쉐이 능묘', '드래곤 버블'이 게임 안 한국어 표기와 같은가? 드래곤 버블을 장방이가 디자인했다는 서술은 어느 기록에 있는가? (guides/behemoth.md)
 
 ## 완료
+
+- 2026-10-26: 정비(출처 서술 정리) 4편(headhunting, protocol_space, parties/cryo, consumables), guides/wuling.md 수명 절, guides/m3.md. 침식된 유산을 찾아서 의뢰와 보상은 이번에도 건드리지 않고 남김
+
+- 2026-10-25: 정비(출처 서술 정리) 7편, guides/civilization_band.md 홍산 환형산·대수도원·옐시·Morospolis, guides/si_painting.md 객잔 개조·상점·평가·마일스톤, guides/exploration.md 탐색 레벨과 탈로사이트 거래소, guides/eco_farming.md. 도시 주제의 The Unicity는 endfield.wiki.gg에 문서가 없어 뺌
 
 - 2026-10-24: guides/consumables.md, guides/protocol_space.md, guides/headhunting.md 구매 센터 보강, guides/lycia.md, guides/foundation.md·guides/timeline.md 테라 연합 과학 탐사단 보강, guides/zeroth_directive.md
 
