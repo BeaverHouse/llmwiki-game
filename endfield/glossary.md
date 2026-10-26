@@ -103,8 +103,16 @@ sources:
   - https://endfield.wiki.gg/wiki/Acquisition_Center
   - https://endfield.wiki.gg/wiki/Perlica/File
   - https://endfield.wiki.gg/wiki/Zeroth_Directive
+  - https://namu.wiki/w/명일방주:%20엔드필드/적
+  - https://namu.wiki/w/명일방주:%20엔드필드/아이템/채집%20재료
+  - https://namu.wiki/w/명일방주:%20엔드필드/아이템/천연자원
+  - https://endfield.wiki.gg/wiki/Enemies (보스·알파 개별 문서 포함, guides/enemies.md sources 참고)
+  - https://endfield.wiki.gg/wiki/Gatherables, https://endfield.wiki.gg/wiki/Natural_Resources (개별 아이템 문서는 guides/gatherables.md sources 참고)
+  - https://endfield.wiki.gg/wiki/Perlica/Dialogue
+  - https://endfield.wiki.gg/wiki/Seš%27qa, https://endfield.wiki.gg/wiki/Camille/File, https://endfield.wiki.gg/wiki/Camille/Dialogue, https://endfield.wiki.gg/wiki/Blessing_of_Lustrous_Carmine
+  - https://endfield.wiki.gg/wiki/Etchspace_Salvage/Commissions
 created: 2026-10-12
-updated: 2026-10-24
+updated: 2026-10-27
 ---
 
 # 엔드필드 고유명사 표기 (ko/en/ja)
@@ -185,7 +193,7 @@ ko는 나무위키 「펠리카」 문서 사본(Austin 제공) 기준, en은 �
 | 한국어 | English | 日本語 | 확인 | 메모 |
 |---|---|---|---|---|
 | 리베리 | Liberi | リーベリ | 2차 | 펠리카의 종족 |
-| 위기 대책팀 | — | — | 미확인 | 관리자가 세운 작전팀. 관리자 수면 중 펠리카가 지휘 |
+| 위기 대책팀 | Crisis Team / Endfield Crisis Team | — | 2차 | 관리자가 세운 작전팀. 관리자 수면 중 펠리카가 지휘 |
 | 아츠 유닛 | Arts Unit | — | 2차 | 무기 종류. ko는 Austin 확인 |
 | 배틀 스킬 | Battle Skill | — | 2차 | 스킬 게이지 소모 |
 | 연계 스킬 | Combo Skill | — | 2차 | 조건 충족 시 발동, 쿨타임 있음 |
@@ -341,7 +349,7 @@ ko와 이름의 en·ja·zh는 나무위키 각 오퍼레이터 문서 기준이�
 |---|---|---|---|---|
 | 카뮤 | Camille | カミーユ | 2차 | zh 卡缪. 본명 카뮤 아르노 |
 | 세쉬카 | — | — | 미확인 | 살카즈의 공중 도시. 카뮤의 소속 |
-| 수호자 | — | — | 미확인 | 세쉬카에서 살카즈 관련 중범죄를 전담하는 부서와 그 구성원 |
+| 수호자 | Agaš'mekanaz (Keeper of Wisdom) | — | 2차 | 세쉬카에서 살카즈 관련 중범죄를 전담하는 부서와 그 구성원 |
 | 제이컵 마이센 | — | — | 미확인 | 세쉬카를 배신하고 랜드브레이커 집단을 이끈 인물 |
 | 테라 연합 과학 탐사단 | — | — | 미확인 | 카뮤의 부모가 소속되었던 단체 |
 | 피의 속죄 | — | — | 미확인 | 카뮤 기본 공격 |
@@ -418,8 +426,8 @@ ko와 이름의 en·ja·zh는 나무위키 각 오퍼레이터 문서 기준이�
 |---|---|---|---|---|
 | 라스트 라이트 | Last Rite | ラストライト | 2차 | zh 别礼. 본명 아델하이드. 통칭 '라라' |
 | 나흐체러르 | — | — | 미확인 | 라스트 라이트의 살카즈 혈통 |
-| 주술 타임 | — | — | 미확인 | 세쉬카의 기업. 라스트 라이트의 작전복 제공 |
-| 플레밍 | — | — | 미확인 | '교량 건설자'. 주술 타임 수석 비즈니스 고문 |
+| 주술 타임 | Witching Hour | — | 2차 | 세쉬카의 기업. 라스트 라이트의 작전복 제공 |
+| 플레밍 | Fleming | — | 2차 | '교량 건설자'. 주술 타임 수석 비즈니스 고문 |
 | 전투 왕정의 공주 | — | — | 미확인 | 상인들이 라스트 라이트를 부르는 말 |
 | 혹한의 춤 | — | — | 미확인 | 라스트 라이트 기본 공격 |
 | 세쉬카의 비전 | — | — | 미확인 | 라스트 라이트 배틀 스킬 |
@@ -699,8 +707,8 @@ ko는 나무위키 지역·스토리·등장인물 문서, en은 endfield.wiki.g
 | 지옥의 용광로 | — | — | 미확인 | 본 크러셔의 상징 시설 |
 | 별체 | — | — | 미확인 | zh 星体. 약 20년 전 4번 협곡에 침입한 거대 아겔로스 |
 | 오리지늄 나무 | Great Originium Oak | — | 미확인 | zh 源石大树. 관리자가 남긴 나무 |
-| 트리아겔로스 | — | — | 미확인 | 1장 Ⅲ의 보스 |
-| 마블 아겔로미레 | — | — | 미확인 | 1장 Ⅳ의 보스 |
+| 트리아겔로스 | Triaggelos | トリアンゲロス | 2차 | 1장 Ⅲ의 보스 |
+| 마블 아겔로미레 | Marble Aggelomoirai (palecore / palesent) | 白亜・アンゲロミラ | 2차 | 1장 Ⅳ의 보스 |
 | TA-TA | Trans-Æther Tranquilizer-Automata | — | 2차 | 프로토타입 기계. 균열을 봉인하고 자폭 |
 | 진강척 | Qin Jiangchi | — | 2차 | 거점 구역 기지장. en 표기 출처마다 다름 |
 | 리시아 | Lycia | — | 2차 | 펠리카의 친구. 엔드필드 공업 출신 랜드브레이커. en은 펠리카 파일 자료 영어 텍스트. [리시아](guides/lycia.md) 참고 |
@@ -999,8 +1007,8 @@ ko는 나무위키 등장인물·설정·스토리·네파리스·아다시르 �
 | 베리타스 | — | — | 미확인 | 고요한 수도회가 숭배하는 기계 신 |
 | 만물의 대지 | Hannabit Circuit | 衆生長地 | 2차 | 기존 항목 보완 |
 | 세쉬카 | Seš'qa | セシュカ | 2차 | 기존 항목 보완 |
-| 플레밍 | — | — | 미확인 | 세쉬카 수석 비즈니스 고문. '교량 건설자' |
-| 붉게 물든 가호 | — | — | 미확인 | 무기. 세쉬카의 기원을 그린 이야기가 실림 |
+| 플레밍 | Fleming | — | 2차 | 세쉬카 수석 비즈니스 고문. '교량 건설자' |
+| 붉게 물든 가호 | Blessing of Lustrous Carmine | カーマインヴェール | 2차 | 무기. 세쉬카의 기원을 그린 이야기가 실림 |
 | 사미베르그 | Samifjod* | — | 미확인 | 기존 항목 보완. en은 영어 위키 세력 목록의 대응 추정 |
 | 울프팀 | The Pack | — | 2차 | 기존 항목 보완 |
 | 사막 도적 | Sandreavers | — | 2차 | 랜드브레이커 3대 집단 |
@@ -1191,14 +1199,67 @@ ko는 나무위키 「설비」「지역」, en은 endfield.wiki.gg 기준이다
 | 기체 분산기 | Gas Dispersing Unit | — | 2차 | 습윤 환경으로 논배미 급수 |
 | 회보리 / 쓴맛 나는 고추 / 홍옥 인삼 / 금석벼 | Reed Rye / Tartpepper / Redjade Ginseng / Amber Rice | — | 미확인 | 논배미 작물. en은 뜻으로 짝지음 |
 | 샌드리프 / 아케톤 | Sandleaf / Aketine | — | 미확인 | en은 뜻으로 짝지음 |
-| 다크 시트론 | Umbraline* | — | 미확인 | 시트론 논배미 변종. en은 생태 재배 변종 목록의 순서로 추정 |
+| 다크 시트론 | Umbraline | — | 2차 | 시트론 논배미 변종. en은 wiki.gg 천연자원 목록의 Citrome 변종 |
 | — | Spirit Money | — | 미확인 | 인연 마을 객잔 재화. ko 미확인 |
 | — | Inn Rating / Inn Stars | — | 미확인 | 객잔 평가·별. ko 미확인 |
 | 탐색 레벨 | Exploration Level (World Level) | — | 미확인 | 기존 항목 보완. 통칭 World Level |
 | 탈로사이트 거래소 | Talosite Exchange | — | 미확인 | 탈로사이트 상점. ko는 영어에서 옮김 |
 
+## 적·채집 재료·창립자·세쉬카
+
+ko는 나무위키 「적」「채집 재료」「천연자원」「펠리카」「카뮤」「라스트 라이트」(게임 안 텍스트 인용), en·ja는 endfield.wiki.gg 각 문서와 그 다른 언어 표기 기준이다. [적](guides/enemies.md), [채집 재료와 천연자원](guides/gatherables.md), [창립자와 원점](guides/founder.md), [세력](guides/factions.md) 세쉬카 절, [탐색 컨텐츠](guides/exploration.md) 참고.
+
+| 한국어 | English | 日本語 | 확인 | 메모 |
+|---|---|---|---|---|
+| 일반 / 강화 / 정예 / 두목 / 우두머리 | Common / Advanced / Elite / Alpha / Boss | — | 미확인 | 적 등급. 두목=Alpha, 우두머리=Boss는 같은 적의 등급으로 짝지음 |
+| 창적 | Cangzei Pirates | — | 2차 | 청파채 강경파 무장 세력, 적 계통 |
+| 야외 생물 | Wildlife | — | 2차 | 적 계통 |
+| 침식의 그림자 | Blightshades | — | 2차 | 적 계통 |
+| 파운다이트 | Foundite | — | 2차 | 파운데이션의 피조물, 적 계통 |
+| 주술 피조물 | Witchcraft Creation | — | 2차 | 적 계통 |
+| 요괴 | Apparition | — | 2차 | 쉐이의 권능으로 생긴 개체, 적 계통 |
+| 형성 모델 | morphic pattern | — | 미확인 | 아겔로스 개체 구분. 비모델 생물류, 활성 모델 생물류(α), 격류종(δ) |
+| 수화자 | — | — | 미확인 | 무릉 주민이 무릉의 아겔로스를 부르는 말 |
+| '본 크러셔' 네파리스 / '정복자' 네파리스 | Nefarith, "Bonekrusher" / Nefarith, "Conqueror" | 「ボーンクラッシャー」ネファリス / 「征服者」ネファリス | 2차 | 보스 두 형태 |
+| 원일 | Ruan Yi | ルアン・イー | 2차 | 기존 항목 ja 보완 |
+| 알레이크레오스, 천부장 | Alleikhreos, Chiliarch | 千人隊長アレイクレウス | 2차 | 기존 항목 ja 보완 |
+| 마블 부속체 | Marble Appendage | — | 미확인 | 마블 아겔로미레 첫 형태의 부속체 |
+| 거대한 록하울러 | Craghowler | 大山吼獣 | 2차 | 알파. 위기 파편 |
+| 그림자에 물든 진뢰 | Blitzcrash Blightshade | 噪雷の蝕影 | 2차 | 알파. 위기 파편 |
+| 깊은 숲의 분노 | Gloomwald's Rage | 樹海の怒 | 2차 | 알파. 위기 파편 |
+| 결정아겔로스 | Walking Chrysopolis | 歩行晶城 | 2차 | 알파 |
+| 파조의 상 | Tidalklast | 破潮の像 | 2차 | 알파 |
+| 천고 | Skydrummer | 天鼓 | 2차 | 알파 |
+| 분노의 씨앗 | Wrothful Roots of Bane | — | 미확인 | 원일이 불러내는 개체 |
+| 파운다이트 무기 | Foundite Weapon | — | 미확인 | 알레이크레오스 전투 기믹 |
+| 비스트의 고기 | Fillet | 獣肉 | 2차 | 채집 재료 |
+| 벌레의 고기 | Slug Meat | 虫肉 | 2차 | 채집 재료 |
+| 야광 풍뎅이 / 화염 풍뎅이 | Glowbug / Scorchbug | ホタルムシ / アブリムシ | 2차 | 채집 재료 |
+| 버든비스트의 배설물 | Burdo-Muck | 駄獣のフン | 2차 | 채집 재료이자 생태 재배 비료 |
+| 특수 기름 | Chromatic Lipids | 変わった色の油 | 2차 | 채집 재료 |
+| 연골 분말 | Cartilage Bit | 軟骨の粉屑 | 2차 | 채집 재료 |
+| 굳은 상태의 이향석 | Hard Aggagrit | 硬質異香石 | 2차 | 채집 재료 |
+| 활성 상태의 이향석 / 구멍이 뚫린 이향석 | Energized Aggagrit / Hollow Aggagrit | — | 미확인 | en은 뜻으로 짝지음 |
+| 천연 결정 덩어리 | Natural Chrysopolis Ingot | 天然晶城塊 | 2차 | 채집 재료 |
+| 오리지늄 광물 / 자수정 광석 / 페리움 광석 / 적동 광석 | Originium Ore / Amethyst Ore / Ferrium Ore / Cuprium Ore | — | 2차 | 천연자원 |
+| 청정수 / 산성 침적물 | Clean Water / Precipitation Acid | — | 2차 | 천연자원(액체) |
+| 비활성 기체 / 식양 기체 | Inergen / Xiragen | — | 2차 | 천연자원(기체), 1.4 |
+| 원점 | Provenance | — | 2차 | 관리자·M3·창립자·정예 오퍼레이터의 의사 결정층. 펠리카 대사 '엔드필드 감독관에 관하여' |
+| 3대 중추 | three major nexuses | — | 2차 | 원점이 관장한 것. 내용 미확인 |
+| 생명의 척추 / 라이프 스파인 | Lifebone | — | 2차 | 같은 en이 「붉게 물든 가호」 이야기와 카뮤 음성 기록에서 다르게 옮겨짐 |
+| 의장 | Speaker | — | 2차 | 카뮤 음성 기록 '부모님에 관하여' |
+| 사미의 제사장 | Snowpriest | — | 2차 | 「붉게 물든 가호」 이야기, 중추 파일 '세쉬카' |
+| 황무지 군벌 | Warlord of the Wilds | — | 2차 | 카뮤 대사 제목. 제이컵 마이센 |
+| 오픈 데이 / 발사 기념일 / 왕정 연합 행진 | Open Day / Lift-Off Day / Parade of the Royal Courts | — | 2차 | 세쉬카의 축제 |
+| 유리 주점 | Glasshouse Bar | — | 2차 | 세쉬카의 술집. 카뮤 파일 자료 1 |
+| 마감초 | Devil's Licorice | — | 2차 | 카뮤 대화 1 |
+| 탐색 의뢰 / 집중 의뢰 | Exploration Commission / Focus Commission | — | 미확인 | 침식된 유산을 찾아서 |
+| 탐색 지원 기술 | Exploration Support Tech | — | 미확인 | 침식된 유산을 찾아서 연구 |
+| 작전 지표 | Operation Metrics | — | 미확인 | 침식된 유산을 찾아서 누적 보상 |
+
 ## 히스토리
 
+- 2026-10-27: 적·채집 재료·창립자·세쉬카·침식된 유산을 찾아서 표기 추가. 위기 대책팀·수호자·주술 타임·플레밍·트리아겔로스·마블 아겔로미레·붉게 물든 가호의 en·ja 보완, 다크 시트론 = Umbraline 확인 (나무위키, endfield.wiki.gg).
 - 2026-10-25: 문명 밴드의 다른 도시(홍산 환형산·대수도원·부서진 분·옐시) 표기 추가, 플론다·옐시·홍산성의 en·ja 보완. 생태 재배·객잔·탐색 레벨 표기 추가 (나무위키, endfield.wiki.gg).
 
 - 2026-10-24: 사용 아이템·프로토콜 공간·구매 센터·미션 제로 표기 추가. 프로토콜 공간·이성·리시아의 en 보완, 드래곤 버블·덴스택·징표 세 종의 대응 근거 보강 (나무위키, endfield.wiki.gg).

@@ -103,6 +103,8 @@ updated: 2026-10-26
 
 로댄은 1장 Ⅰ 「Fort Showdown」에서 쓰러뜨린 뒤, 사는 2장 Ⅷ 「Paint with Fresh Ink」에서 쓰러뜨린 뒤 열린다.
 
+보스와 위기 파편 알파 등급 적의 등급·계통·공격 방식은 [적](enemies.md)에서 다룬다.
+
 단계의 영어 이름은 Crisis Reflection, Crisis Extension, Crisis Calamity이며 로댄만 그 위에 Crisis Pandemonium이 있다. 마지막 단계만 이성을 써서 반복 보상(심층 모드, Deep Dive)을 받고, 그 아래 단계는 첫 클리어 보상만 있다.
 
 | 단계 | 레벨 | 이성 | 보상 |
