@@ -102,6 +102,7 @@ updated: 2026-10-27
 | 적에게 아츠 부착·아츠 이상이 생기거나 소모될 때 | [울프가드](../operators/wulfgard.md)(아츠 부착), [질베르타](../operators/gilberta.md)(아츠 이상), [레바테인](../operators/laevatain.md)(연소·부식), [알레쉬](../operators/alesh.md)(아츠 이상·오리지늄 결정 소모), [라스트 라이트](../operators/last_rite.md)(냉기 부착 3스택 이상) |
 | 적의 방어 불능·물리 이상 상태 | [미브](../operators/mi_fu.md)(방어 불능 3스택 이상), [포그라니치니크](../operators/pogranichnik.md)(강타·갑옷 파괴로 방어 불능 소모), [로시](../operators/rossi.md)(방어 불능과 아츠 부착이 함께 있음) |
 | 전투 흐름 | [아케쿠리](../operators/akekuri.md)(적이 불균형에 도달), [카치르](../operators/catcher.md)(적의 차지, 메인 컨트롤 오퍼레이터의 생명력 저하) |
+| 다른 오퍼레이터의 행동, 자기 고유 자원 | [관리자](../operators/endministrator.md)(다른 오퍼레이터의 연계 스킬이 피해를 줌), [티프로스](../operators/typhoeus.md)(자원 계시 8, 적 상태 조건 없음) |
 
 ## 궁극기와 궁극기 에너지
 
@@ -223,6 +224,7 @@ updated: 2026-10-27
 
 ## 히스토리
 
+- 2026-10-27: 연계 조건 유형에 "다른 오퍼레이터의 행동, 자기 고유 자원"(관리자, 티프로스) 추가.
 - 2026-10-27: 전투 기본 체계(combat_basics) 문서를 합침.
 - 2026-10-18: (combat_basics) 최초 작성. 나무위키 「명일방주: 엔드필드/전투」 2026-10-16 수정본과 endfield.wiki.gg 기준.
 - 2026-10: 최초 작성. 나무위키 2026-10-16 수정본, endfield.wiki.gg 2026-07~10 수정본 기준.
