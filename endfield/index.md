@@ -1,5 +1,7 @@
 # Arknights: Endfield — 문서 목록
 
+**파티·사이클·시너지 질문에 답할 때**: [parties/method.md](parties/method.md)의 절차를 따르고, 규칙은 [systems/interactions.md](systems/interactions.md)·[systems/combat.md](systems/combat.md)에서, 오퍼레이터의 행동은 **해당 오퍼레이터 문서의 `## 상호작용 카드`**에서 읽는다. 카드가 판단의 근거이며, 같은 축의 파티 문서(`parties/<축>_party.md`)가 있으면 풀이 예제로 함께 본다. 파티 문서에 없는 조합도 카드로 사이클을 짜고 판정한다.
+
 ## 공통
 
 - [glossary.md](glossary.md) — 고유명사 ko/en/ja 표기 매핑 (탈로스2, 엔드필드 공업, 관리자, 펠리카, 제강호, 아겔로스, 초자연, 문명 밴드, 4번 협곡 등)
