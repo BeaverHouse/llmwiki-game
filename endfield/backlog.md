@@ -6,13 +6,9 @@
 
 ## 다음 작업
 
-- 정비 | 본문의 출처 서술 정리 | 본문에 "나무위키는 …라고 적는다", "wiki.gg에 따르면" 같은 출처 서술이 500곳 넘게 있다. 읽는 사람에게 필요한 것은 게임의 사실이므로 본문은 사실만 쓰고 출처는 frontmatter `sources`에 둔다. 출처끼리 내용이 다를 때만 본문에 양쪽을 밝힌다. 다른 주제보다 먼저, 하루에 문서 몇 편씩 처리한다 (Austin 지적, 2026-10-24). 처리한 문서: world/timeline.md, world/foundation.md, systems/operators.md, world/civilization_band.md, content/si_painting.md, content/exploration.md, world/factions.md의 홍산 과학원·고요한 수도회 절 (2026-10-25), systems/headhunting.md, content/protocol_space.md, parties/cryo.md, systems/consumables.md (2026-10-26), content/combat_content.md, parties/heat.md, guides/status_anomalies.md, parties/nature.md, world/factions.md 세쉬카 절 (2026-10-27). 다음은 world/factions.md 나머지 절, systems/materials.md처럼 서술이 많이 남은 문서부터. 히스토리 줄의 '○○ 기준' 근거 표기는 그대로 둔다(처리한 문서 공통) | 각 문서의 sources
-- 정비 | 기존 문서 덜어내기 | 문서 평균이 16KB로 블루 아카이브(6.6KB)의 2배가 넘는다. AGENTS.md 3절의 "실제로 쓰이는 것만" 기준으로 목록형 내용을 줄인다. 예: 사용 아이템 문서는 성능 좋은 음식·약품 10개 안팎만 이유와 함께 남기고 나머지는 걷어 낸다. 장비 세트·무기·채집 재료 목록도 실제로 쓰이는 것 위주로. 출처 서술 정리와 함께, 새 주제보다 먼저 하루 몇 편씩 (Austin, 2026-10-27) | 각 문서의 sources
+- 정비 | 본문의 출처 서술 정리 | 본문에 "나무위키는 …라고 적는다", "wiki.gg에 따르면" 같은 출처 서술이 500곳 넘게 있다. 읽는 사람에게 필요한 것은 게임의 사실이므로 본문은 사실만 쓰고 출처는 frontmatter `sources`에 둔다. 출처끼리 내용이 다를 때만 본문에 양쪽을 밝힌다. 다른 주제보다 먼저, 하루에 문서 몇 편씩 처리한다 (Austin 지적, 2026-10-24). 처리한 문서: world/timeline.md, world/foundation.md, systems/operators.md, world/civilization_band.md, content/si_painting.md, content/exploration.md, world/factions.md의 홍산 과학원·고요한 수도회 절 (2026-10-25), systems/headhunting.md, content/protocol_space.md, parties/cryo.md, systems/consumables.md (2026-10-26), content/combat_content.md, parties/heat.md, guides/status_anomalies.md, parties/nature.md, world/factions.md 세쉬카 절 (2026-10-27), systems/materials.md, world/factions.md 나머지 절 (2026-10-28). 다음은 world/wuling.md, world/aggeloi_and_blight.md, world/nefarith.md, systems/protocol_pass.md, systems/interactions.md처럼 서술이 많이 남은 문서부터. 히스토리 줄의 '○○ 기준' 근거 표기는 그대로 둔다(처리한 문서 공통) | 각 문서의 sources
+- 정비 | 기존 문서 덜어내기 | 문서 평균이 16KB로 블루 아카이브(6.6KB)의 2배가 넘는다. AGENTS.md 3절의 "실제로 쓰이는 것만" 기준으로 목록형 내용을 줄인다. 예: 사용 아이템 문서는 성능 좋은 음식·약품 10개 안팎만 이유와 함께 남기고 나머지는 걷어 낸다. 장비 세트·무기·채집 재료 목록도 실제로 쓰이는 것 위주로. 출처 서술 정리와 함께, 새 주제보다 먼저 하루 몇 편씩 (Austin, 2026-10-27). 처리한 문서: systems/materials.md 설명문 설정 소개 (2026-10-28). 다음은 systems/consumables.md(성능 좋은 것 10개 안팎만), systems/gear_sets.md, systems/weapons.md | 각 문서의 sources
 - 명하 | operators/argent_flow.md | 2026-11 초 출시 예정(유지보수자 확인). 출시되고 수치가 공개된 뒤 쓴다. 영어 코드네임 Argent Flow, 본명 야명하 | 각 출처의 명하 문서
-- 객잔 레시피와 테마 | content/si_painting.md 보강 | 사의 그림 문서의 평가 표가 테마 15종과 레시피를 이름만 열고, 테마별 별 조건과 레시피 재료·맛은 쓰지 않음 | endfield.wiki.gg Innkeeping/Recipe·Innkeeping/Theme, 나무위키 「/지역」 사의 그림 문단
-- 목장 | content/eco_farming.md 보강 또는 content/si_painting.md 보강 | 사의 그림 문서의 목장(축사 부지·사료·Rainbow Fin 연못·고급 사료)과 생태 재배 문서의 자동 수확이 짐승 쪽은 비어 있음 | endfield.wiki.gg Ranching
-- 영광의 길 | content/path_of_glory.md | 탐색 컨텐츠 문서의 숨겨진 구역의 여행자 메달, 사의 그림 문서의 Happy Gourmand 메달. 메달 분류(Chapter·Construction·Event·Progression·Regional·Social·Technical·Wondrous)와 꾸미기 조건 | endfield.wiki.gg Path of Glory, 나무위키
-- 개인 장치 | systems/consumables.md 보강 또는 systems/personal_device.md | 탐색 컨텐츠 문서의 탈로사이트 거래소 개인 장치 구획(1.5 추가). 기공 수련 두루마리·Aero-Salvager·Speed Booster 등 | endfield.wiki.gg Personal Device, 나무위키 「/아이템」
 - 고요한 수도회와 베리타스 | world/factions.md 고요한 수도회 절 보강 | 문명 밴드의 도시 문서의 대수도원·세 교파·부서진 분·라테라노에서 이어받은 중추 시스템. 수도회의 기원과 율법·베리타스, 재현파의 유적 발굴 | 나무위키 「/등장인물 및 세력」 고요한 수도회 문단, 「자이히」, endfield.wiki.gg Cabal_of_Tranquility
 - 엔드필드 공업 NPC | world/endfield_staff.md | M3 문서와 4번 협곡 문서에 나오는 진강척(허브 베이스 담당), 안드레(통합 공업 시스템 수석 공학자), 피오나(제강호 관제), TA-TA 프로토타입, 인사 보조 마틴 마빈 말렌. 오퍼레이터 인사 요약서의 작성자이기도 함 | 나무위키 「/등장인물 및 세력」 엔드필드 공업 문단, endfield.wiki.gg Andre·Fiona·Qin_Jiangchi·TA-TA
 - 위기 대책팀 | world/crisis_team.md 또는 world/factions.md 엔드필드 공업 절 | 창립자 문서와 진천우 문서의 위기 대책팀(관리자가 세움, 창립자·M3를 거쳐 펠리카가 지휘). 구성원과 역할 | 나무위키 「펠리카」「진천우」「/등장인물 및 세력」, endfield.wiki.gg Perlica/Dialogue·Chen_Qianyu/File
@@ -21,12 +17,18 @@
 - 포장 운송 | content/exploration.md 또는 content/settlements.md 보강 | 채집 재료 문서의 전리품(포장 운송 표시)과 저장고 노드. 운송 방법과 보상 | endfield.wiki.gg Pack_and_Deliver, 나무위키 「/설비」
 - 창적 | world/factions.md 절 추가 | 적 문서의 창적(청파채 강경파 무장 세력)과 창적 적 9종(막류재·천림전·할운옹 등). 원일·탕탕과의 관계 | 나무위키 「/적」「탕탕」「/등장인물 및 세력」, endfield.wiki.gg Cangzei_Pirates
 - 사의 그림 농장 자원 | systems/gatherables.md 보강 | 천연자원 목록의 Ballpea, Cabbage, Egg, Meat, Milk와 채집 재료 Calamity's Raindew, Edified Jade Orb, Ink Droplet, Slug Sprig, Tender Moss의 한국어 이름·획득처 | endfield.wiki.gg 각 아이템 문서, 나무위키 「/아이템」
+- 북쪽 금지 구역 | world/wuling.md 보강 | 개인 장치 문서의 침식 안개와 중추 식양 장치, Tanjian Hall·Xiranite Research Labs·Waterworks Hub·Ghost Mesa Test Site. 지역의 구획과 침식 안개 규칙 | endfield.wiki.gg North_Wuling_Exclusion_Zone, 나무위키 「/지역」
+- 간편 도구 | systems/easy_tools.md 또는 content/exploration.md 보강 | 개인 장치 문서의 중추 식양 장치 스캔·궁술·간편 제작. 지역별 간편 도구와 여는 조건 | endfield.wiki.gg Easy_Tools, 나무위키 「/설비」
+- 티프로스의 사격장 | content/exploration.md 보강 | 개인 장치 문서의 화살 칩 5종. 사격장 설비 강화와 훈련 스테이지 | endfield.wiki.gg Typhoeus's_Archery_Range
+- 친구 기능 | systems/social.md | 영광의 길 Social 분류의 공유 설비 수리·정보 교류. 친구 추가, 공유 설비, 생산 지원 | endfield.wiki.gg Path_of_Glory/Social과 친구 관련 문서, 나무위키
 
 ## 확인 필요
 
 AGENTS.md 7절 기준(게임을 해 봐야만 알고, 답에 따라 추천이 달라지는 것)에 맞는 질문만 둔다. 표기·설정·출처 불일치·세부 수치는 문서에 "확인하지 못함"이나 양쪽 서술로 두고 여기 올리지 않는다. (2026-10-27 정리: 이전 질문 28건은 모두 표기·설정·세부 수치라 기준에 맞는 것이 없어 비움. 명하 출시는 다음 작업으로 옮김)
 
 ## 완료
+
+- 2026-10-28: 정비(출처 서술 정리) systems/materials.md·world/factions.md 나머지 절, 정비(덜어내기) systems/materials.md 설명문 설정 소개, content/si_painting.md 테마·요리 태그·Full Blaze·목장, content/path_of_glory.md, systems/personal_device.md. 명하는 아직 출시 전이라 남김
 
 - 2026-10-27: 정비(출처 서술 정리) 4편(combat_content, parties/heat, status_anomalies, parties/nature), content/exploration.md 침식된 유산을 찾아서 의뢰와 보상(wikitext로 품목 이름 확인), world/founder.md, content/enemies.md, systems/gatherables.md, world/factions.md 세쉬카 절
 

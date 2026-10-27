@@ -11,7 +11,7 @@ sources:
   - https://endfield.wiki.gg/wiki/Trial_of_Swordmancy (2026-09-12 수정본)
   - https://endfield.wiki.gg/wiki/Operational_EXP (2026-04-13 수정본)
 created: 2026-10-22
-updated: 2026-10-27
+updated: 2026-10-28
 ---
 
 # 전투 컨텐츠
@@ -57,7 +57,7 @@ updated: 2026-10-27
 | 재점화 실험 작전 | Re-Ignition Experimental Operation | 1.3 |
 | 잿빛 실험 작전 | Indigo Experimental Operation | 1.6 (2026-11-05 시작 예정) |
 
-재점화 실험 작전에는 영광의 길 훈장 '재점화'(Re-Ignition)가 있었다. 조건은 제약 총점 20 이상으로 도전을 완수하는 것이다. 두 시즌의 한국어·영어 이름은 시작일이 같다는 것으로 대응시켰고, 잿빛과 Indigo가 같은 시즌인지는 확인하지 못했다.
+재점화 실험 작전에는 [영광의 길](path_of_glory.md) 훈장 '재점화'(Re-Ignition)가 있었다. 조건은 제약 총점 20 이상으로 도전을 완수하는 것이다. 두 시즌의 한국어·영어 이름은 시작일이 같다는 것으로 대응시켰고, 잿빛과 Indigo가 같은 시즌인지는 확인하지 못했다.
 
 ## 그림자 이정표
 

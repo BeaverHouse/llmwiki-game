@@ -12,7 +12,7 @@ sources:
   - https://endfield.wiki.gg/wiki/Talosite_Exchange (2026-10-16 수정본)
   - https://namu.wiki/w/명일방주:%20엔드필드/전투 (2026-10-16 수정본, 탐색 레벨 서술 없음을 확인)
 created: 2026-10-23
-updated: 2026-10-27
+updated: 2026-10-28
 ---
 
 # 탐색 컨텐츠
@@ -115,7 +115,7 @@ Protosync 메뉴에서 탐색 레벨을 직접 낮출 수 있다. 원래 레벨�
 
 | 구획 | 품목 | 가격(탈로사이트) |
 |---|---|---|
-| 개인 장치 (Personal Device) | 6종, 각 1개 | 2, 3, 5 |
+| 개인 장치 (Personal Device) | 소형·중형·대형 가속 유닛, 사척·오척·육척 <양기도> 6종, 각 1개([개인 장치](../systems/personal_device.md)) | 2, 3, 5 |
 | 장비 템플릿 (Gear Template) | 절망(Rift Trekker) 계열의 Steel Armor·Overalls·Wraps·Gauntlets·Silver Blade 제작법을 포함한 10종, 각 1개 | 1 |
 | 장식품 (Ornamental) | 10종, 1~4개 | 1 |
 | 카메라 포즈 (Camera Pose) | 16종, 각 1개 | 1 또는 3 |
@@ -244,26 +244,27 @@ Manifest Containment는 그 구역의 정해진 색 보관함에서 나오는 �
 
 ## 숨겨진 구역의 여행자 (Delver of the Cryptic)
 
-필드의 장치를 응용한 여러 프로토콜 공간으로 이루어진 상시 이벤트다. 퍼즐을 풀어 출구에 닿거나 가능한 한 빨리 출구에 닿는 공간으로 나뉜다. 클리어 보상과 별도로, 공간마다 상자 세 개가 있거나 탐색·조작 실력을 시험하는 추가 목표가 있다. 한 시리즈의 공간을 모두 클리어하면 영광의 길 메달을 받고, 상자와 추가 목표를 모두 채우면 메달이 꾸며진다.
+필드의 장치를 응용한 여러 프로토콜 공간으로 이루어진 상시 이벤트다. 퍼즐을 풀어 출구에 닿거나 가능한 한 빨리 출구에 닿는 공간으로 나뉜다. 클리어 보상과 별도로, 공간마다 상자 세 개가 있거나 탐색·조작 실력을 시험하는 추가 목표가 있다. 한 시리즈의 공간을 모두 클리어하면 [영광의 길](path_of_glory.md) 메달을 받고, 상자와 추가 목표를 모두 채우면 메달이 꾸며진다.
 
-시리즈는 Cryptic First Revealed(출시), Grotto Survey(1.1 버전), Artful Realm of Six Cardinals(Homecoming 업데이트)다. Homecoming이 몇 버전인지는 확인하지 못했다.
+시리즈는 Cryptic First Revealed(출시), Grotto Survey(1.1 버전), Artful Realm of Six Cardinals(1.4 버전 Homecoming)다.
 
 ## 확인하지 못한 것
 
 - 탐색 레벨, 희귀 채집 지점, Protosync, 임무 The Mission Continues, Beyond the Worlds' Expanse, 혼란 수치, 결절, 격리 컨테이너, 작전 지표, Aurylene Crystal, 침전 결정의 게임 안 한국어 표기.
-- 탐색 레벨 단계별 값, 고위 에너지 응집점의 탐색 레벨별 이성 소모와 기질 수, 탈로사이트 거래소 품목은 endfield.wiki.gg에만 있다. 거래소 표의 아이콘이 깨져 개인 장치·장식품·카메라 포즈 품목 이름은 확인하지 못했다.
+- 탐색 레벨 단계별 값, 고위 에너지 응집점의 탐색 레벨별 이성 소모와 기질 수, 탈로사이트 거래소 품목은 endfield.wiki.gg에만 있다. 거래소 표의 아이콘이 깨져 장식품·카메라 포즈 품목 이름은 확인하지 못했다.
 - 탐색 레벨 2를 여는 The Mission Continues가 어느 임무인지.
 - 침식된 유산을 찾아서의 의뢰·연구 이름, 구역 이름(Aberrant of …), Aberrant Core, Control Center, Aquito, 수집 물품(Classified·Gold Statuette·Specimen·Fragment)의 한국어 게임 표기. 보상의 기초 헤드헌팅 허가증(Basic HH Permit)은 뜻으로 맞춘 이름이다.
 - 탐색 의뢰 III·IV·VI의 보상이 두 묶음으로 나뉜 이유(첫 클리어 보상과 추가 보상인지).
 - Nodule Refining 2의 선행 조건. 의뢰 표에는 'Nodule Refining 2와 탐색 의뢰 VI 완료'로 적혀 있어 자기 자신을 가리킨다.
 - 의뢰 목록 페이지는 2026-07-27 수정본이라 1.3 버전 이후의 변경이 반영되었는지.
-- '숨겨진 구역의 여행자' 각 시리즈와 공간의 한국어 이름, Homecoming 업데이트의 버전.
+- '숨겨진 구역의 여행자' 각 시리즈와 공간의 한국어 이름.
 - 지역 표에서 '??'로 남은 프로토콜 용량·집라인 단계값.
 - 4번 협곡 지역들의 탈로사이트 수. 지역 표에 칸이 없다.
 - 영어 업데이트명과 버전의 대응. Zeroth Directive를 1.0(미션 제로), Old Deep Water Dies, by Rising Tide It is Denied를 1.1, At the Wake of Spring을 1.2(봄날의 새벽)로 본 것은 한국어 버전 이름과 뜻으로 맞춘 것이다.
 
 ## 히스토리
 
+- 2026-10-28: 거래소 개인 장치 6종 이름을 채우고 개인 장치·영광의 길 문서로 링크. Homecoming을 1.4 버전으로 확인.
 - 2026-10-27: 침식된 유산을 찾아서에 탐색 의뢰, 탐색 지원 기술 연구, 집중 의뢰 목록과 작전 지표 보상 표 추가. endfield.wiki.gg Etchspace Salvage/Commissions(2026-07-27 수정본)와 Etchspace Salvage의 wikitext 기준.
 
 - 2026-10-25: 탐색 레벨 절(올리는 방법, 단계별로 열리는 것, 단계별 값 표, 낮추기)과 탈로사이트 거래소 절 추가. 본문의 출처 서술을 걷어 냄.

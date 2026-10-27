@@ -112,7 +112,7 @@ sources:
   - https://endfield.wiki.gg/wiki/Seš%27qa, https://endfield.wiki.gg/wiki/Camille/File, https://endfield.wiki.gg/wiki/Camille/Dialogue, https://endfield.wiki.gg/wiki/Blessing_of_Lustrous_Carmine
   - https://endfield.wiki.gg/wiki/Etchspace_Salvage/Commissions
 created: 2026-10-12
-updated: 2026-10-27
+updated: 2026-10-28
 ---
 
 # 엔드필드 고유명사 표기 (ko/en/ja)
@@ -1257,8 +1257,31 @@ ko는 나무위키 「적」「채집 재료」「천연자원」「펠리카」
 | 탐색 지원 기술 | Exploration Support Tech | — | 미확인 | 침식된 유산을 찾아서 연구 |
 | 작전 지표 | Operation Metrics | — | 미확인 | 침식된 유산을 찾아서 누적 보상 |
 
+## 객잔 테마·목장·개인 장치·영광의 길
+
+ko는 표시한 곳 말고는 endfield.wiki.gg 아이템 문서의 한국어 칸 기준이며 나무위키로 확인하지 못했다. [사의 그림](content/si_painting.md), [개인 장치](systems/personal_device.md), [영광의 길](content/path_of_glory.md) 참고.
+
+| 한국어 | English | 日本語 | 확인 | 메모 |
+|---|---|---|---|---|
+| 열일이 | Job Rusher | — | 2차 | 인연 마을 식료품 창고지기. ko는 나무위키 「지역」 사의 그림 문단 각주 |
+| — | Full Blaze / Stove Fire / Streak | — | 미확인 | 객잔 영업 게이지와 연속 응대. ko 미확인 |
+| — | Theme Bonus / What is Hot | — | 미확인 | 객잔 테마의 추가 목표·인기 태그. ko 미확인 |
+| — | Pen / Pond / Satiety / Happiness | — | 미확인 | 목장의 축사·연못·포만도·행복도. 본문의 우리말은 옮긴 것 |
+| — | Meaty Slug / Burdenbeast / Sable-Chested Fowlbeast / Rainbow Fin | — | 미확인 | 목장 짐승. Burdenbeast는 '버든비스트의 배설물'로 보아 버든비스트일 수 있음 |
+| 포만 사료 / 복합 포만 사료 | Yummy Feed / Double-Yummy Feed | — | 미확인 | 목장 사료 |
+| 고깃덩이 / 우유 / 파울비스트의 알 / 린수 고기 | Meat / Milk / Egg / Fin Fillet | — | 미확인 | 목장 생산물. 고급품은 '고급 ○○', en은 (A) |
+| 개인 장치 | Personal Device | — | 미확인 | 배낭의 개인 장치 칸 |
+| 중추 식양 장치 (· 확장 I형 / II형) | Xiranite Nexus (XC-I / XC-II) | — | 미확인 | 침식 안개 방어 |
+| 침식 안개 / 침식 안개 스캔 모듈 | Blight Miasma / Blight Miasma Scanner Plugin | — | 미확인 | 북쪽 금지 구역 |
+| 부유식 회수기 I·II·III | Aero-Salvager I–III | — | 미확인 | |
+| 소형 / 중형 / 대형 가속 유닛 | Speed Booster [S] / [M] / [L] | — | 미확인 | 무릉 전용 기력 회복 |
+| 사척 / 오척 / 육척 <양기도> | 4FT / 5FT / 6FT Qi Cultivation Scroll | — | 미확인 | 무릉 전용 스킬 게이지 회복 |
+| 영광의 길 | Path of Glory | — | 미확인 | 업적 메달. ko는 기존 문서 표기 |
+| — | Reforge / Trim / Verification of Finality | — | 미확인 | 메달 단계·꾸미기·인증. 본문은 Trim을 '꾸미기'로 씀 |
+
 ## 히스토리
 
+- 2026-10-28: 객잔 테마·목장·개인 장치·영광의 길 표기 추가, 상점 주인 '열일이' 확인 (나무위키, endfield.wiki.gg).
 - 2026-10-27: 적·채집 재료·창립자·세쉬카·침식된 유산을 찾아서 표기 추가. 위기 대책팀·수호자·주술 타임·플레밍·트리아겔로스·마블 아겔로미레·붉게 물든 가호의 en·ja 보완, 다크 시트론 = Umbraline 확인 (나무위키, endfield.wiki.gg).
 - 2026-10-25: 문명 밴드의 다른 도시(홍산 환형산·대수도원·부서진 분·옐시) 표기 추가, 플론다·옐시·홍산성의 en·ja 보완. 생태 재배·객잔·탐색 레벨 표기 추가 (나무위키, endfield.wiki.gg).
 

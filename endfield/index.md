@@ -16,6 +16,7 @@
 - [systems/protocol_pass.md](systems/protocol_pass.md) — 프로토콜 통행증과 권한 등급 (통행증 세 단계·경험치 획득·보상·통행증 무기 선택 상자, 권한 등급과 작전 경력 획득처, 레벨별 이성 상한과 필요 경력)
 - [systems/headhunting.md](systems/headhunting.md) — 헤드헌팅, 무기고 신청, 구매 센터 (헤드헌팅 종류·확률·5성/6성/픽업 천장·긴급 모집·헤드헌팅 정보서·재구축·여정의 시작·선택 호출, 중복 부산물과 징표, 구매 센터 구획·월정액·징표 교환소·크레딧 상점, 무기고 신청 종류·상시 신청 목록·확률과 보장·누적 선물, 무기 정가 구매)
 - [systems/consumables.md](systems/consumables.md) — 사용할 수 있는 아이템 (회복 약품의 즉시·지속 회복 수치와 자동 사용 조건, 회복·정화 음식, 공격·방어·궁극기 버프 아이템과 구매처, 소생 아이템, 공업 폭발물)
+- [systems/personal_device.md](systems/personal_device.md) — 개인 장치 (배낭의 개인 장치 칸, 북쪽 금지 구역의 중추 식양 장치와 침식 안개 스캔 모듈, 부유식 회수기, 무릉 전용 <양기도>·가속 유닛, 화살 칩)
 - [systems/materials.md](systems/materials.md) — 육성 재료와 획득처 (경험치·정예화·스킬·무기 재료, 고급 육성 재료 5종, 각인권·냉각제, 희귀 재료 버섯·결정화 식물·광물의 용도와 채집 지역, 재배 코어, 오로베릴·파생 오리지늄 등 재화)
 - [systems/gatherables.md](systems/gatherables.md) — 채집 재료와 천연자원 (드롭 규칙과 에너지 응집점 하루 한도, 쓰임이 큰 재료, 광물·액체·기체 채굴 설비와 속도, 식물·변종·농작물)
 
@@ -24,11 +25,12 @@
 - [content/dijiang.md](content/dijiang.md) — 제강호 (본부 함선의 설정, 핵심 제어 중추·응접실·제조실·재배실 기능)
 - [content/aic.md](content/aic.md) — 통합 공업 시스템 (프로토콜 코어·서브 코어, 전력·식양 전력, 벨트·파이프·창고, 배치 한도, 설비 목록, 배터리·식양·적동 생산 사슬, 생산품 쓰임, 버전별 변화)
 - [content/settlements.md](content/settlements.md) — 거점과 지역 개발 (서브 코어 거점 목록, 관리권과 거점 거래·거점 성장, 거점 방어, 지역 건설 레벨과 구역별 프로토콜 용량·집라인·전술 시설 상한, 탐색 시설, 무릉의 지역 장치)
-- [content/si_painting.md](content/si_painting.md) — 사의 그림 (1.6 버전 무릉의 여덟 번째 지역. 그림 속 세계의 설정·한도·전력·자원, 인연 마을 객잔 평가·개조 비용·상점·오퍼레이터 배치 보너스·마일스톤과 Spirit Money, 농장·목장·자동 수확 설비, 메인 스토리 2장 VIII 「심연을 떠나며」 장면별 줄거리)
+- [content/si_painting.md](content/si_painting.md) — 사의 그림 (1.6 버전 무릉의 여덟 번째 지역. 그림 속 세계의 설정·한도·전력·자원, 인연 마을 객잔 평가·테마별 별 점수와 메뉴 조건·요리 태그·Full Blaze·개조 비용·상점·오퍼레이터 배치 보너스·마일스톤과 Spirit Money, 농장·자동 수확 설비, 목장의 부지·짐승·사료·자동 먹이, 메인 스토리 2장 VIII 「심연을 떠나며」 장면별 줄거리)
 - [content/eco_farming.md](content/eco_farming.md) — 생태 재배와 논배미 (재배기·씨앗 추출기와의 차이, 생태 재배 구역의 위치와 흐름, 논배미 10종의 수확·변종·쓰임, 스프링클러·기체 분산기 급수, 1.6 자동 수확)
 - [content/combat_content.md](content/combat_content.md) — 전투 컨텐츠 (위기 협약의 제약·규칙·보상·시즌, 그림자 이정표 시리즈와 Agony 모드, 전쟁의 메아리 등급·칭호, 선검 연무의 Dataplate와 Data Overflow, 입장 권한 등급)
 - [content/protocol_space.md](content/protocol_space.md) — 프로토콜 공간 (이성과 작전 경력, 오퍼레이터·무기 육성 공간의 종류·위치·단계별 레벨과 이성, 고위험 재료 공간과 전용 재료, 보스 재도전 RE-Crisis와 심층 모드, 위기 파편, 탐색 레벨 공간)
 - [content/exploration.md](content/exploration.md) — 탐색 컨텐츠 (지역별 오리렌·상자·연구 포인트·장비 템플릿·회로 영감·탈로사이트 수와 설치 제한, 지역별 탐색 장치, 탐색 레벨의 승급 방법·단계별 개방·오퍼레이터 레벨 상한·적 레벨·희귀 채집 지점 재생, 에너지 응집점과 고위 에너지 응집점의 이성·기질, 탈로사이트 거래소, 침식된 유산을 찾아서(탐색 의뢰·탐색 지원 기술 연구·집중 의뢰·작전 지표 보상), 숨겨진 구역의 여행자)
+- [content/path_of_glory.md](content/path_of_glory.md) — 영광의 길 (업적 메달의 Reforge 단계·꾸미기·Verification of Finality, 분류 8종, 숨겨진 구역의 여행자·Happy Gourmand 등 눈여겨볼 메달)
 - [content/enemies.md](content/enemies.md) — 적 (등급과 처형 배율, 계통, 보스 6종·알파 6종의 위치·저항·불균형치와 공략 요점, 보스에게 걸린 동결)
 
 ## world/ — 세계관·지역·인물
