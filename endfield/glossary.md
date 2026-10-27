@@ -136,7 +136,7 @@ ko는 엔드필드 공업 인사 기록 '리컨비너' 한국어 전문(Austin �
 
 | 한국어 | English | 日本語 | 확인 | 메모 |
 |---|---|---|---|---|
-| 리컨비너 | Reconvener | — | 공식(ko) | 최초의 오리지늄 속 정보 파편이 현실로 나와 독립된 개인이 된 존재. [리컨비너](guides/reconvener.md) 참고 |
+| 리컨비너 | Reconvener | — | 공식(ko) | 최초의 오리지늄 속 정보 파편이 현실로 나와 독립된 개인이 된 존재. [리컨비너](world/reconvener.md) 참고 |
 | 기억 원형 | — | — | 공식(ko) | 리컨비너가 기억 일부를 지닌 테라의 인물. en 텍스트는 'original counterparts'로 풀어 씀 |
 | 최초의 오리지늄 | First Originium | — | 공식(ko) | 스타게이트로 탈로스2에 건너온 오리지늄 |
 | 스타게이트 | Cosmic Gate | — | 공식(ko) | 최초의 오리지늄과 개척자들이 탈로스2로 건너온 통로 |
@@ -157,7 +157,7 @@ ko는 엔드필드 공업 인사 기록 '리컨비너' 한국어 전문(Austin �
 | 아겔로스 | Aggeloi (단수 Aggelos) | アンゲロス | 공식(ko) | 무기물 적대 생명체 |
 | 침식 | Blight | 侵蝕 | 2차 | 초자연의 영향으로 생기는 재해 |
 | 초자연 | Ætherside | 超域 | 공식 | 현실과 겹쳐 있는 차원. ko 공식 표기는 Austin 확인 (영어권 2차 위키의 Ætherside) |
-| 랜드브레이커 | Landbreaker | ランドブレーカー | 2차 | ja·zh(裂地者)는 나무위키·endfield.wiki.gg 표기. [세력](guides/factions.md) 참고 |
+| 랜드브레이커 | Landbreaker | ランドブレーカー | 2차 | ja·zh(裂地者)는 나무위키·endfield.wiki.gg 표기. [세력](world/factions.md) 참고 |
 
 ## 지역
 
@@ -300,7 +300,7 @@ ko와 이름의 en·ja·zh는 나무위키 각 오퍼레이터 문서 기준이�
 | 레바테인 | Laevatain | レーヴァテイン | 2차 | zh 萊萬汀 |
 | 수르트 | Surtr | スルト | 미확인 | 레바테인의 기억 원형인 테라의 인물 |
 | 카즈델 | Kazdel | カズデル | 미확인 | 살카즈의 고향. en·ja는 출처 미확인 |
-| 프로토콜 공간 | Protocol Space | — | 2차 | 레바테인이 기억을 찾아 떠돈 공간. 육성 재료를 얻는 전투 공간이기도 함. [프로토콜 공간](guides/protocol_space.md) 참고 |
+| 프로토콜 공간 | Protocol Space | — | 2차 | 레바테인이 기억을 찾아 떠돈 공간. 육성 재료를 얻는 전투 공간이기도 함. [프로토콜 공간](content/protocol_space.md) 참고 |
 | 재 | — | — | 미확인 | 레바테인 기본 공격 |
 | 불타오르는 화염 | — | — | 미확인 | 레바테인 배틀 스킬 |
 | 열화 | — | — | 미확인 | 레바테인 연계 스킬 |
@@ -316,7 +316,7 @@ ko와 이름의 en·ja·zh는 나무위키 각 오퍼레이터 문서 기준이�
 | 폭렬 수류탄 · β형 | — | — | 미확인 | 울프가드 연계 스킬 |
 | 늑대의 분노 | — | — | 미확인 | 울프가드 궁극기 |
 | 불타는 송곳니 | — | — | 미확인 | 울프가드 재능 상태 |
-| 위기 협약 | Contingency Contract (CC) | 危機契約 | 2차 | 시즌제 고난도 전투 컨텐츠. 1.3 버전의 첫 회차는 '재점화 실험 작전'. ja는 나무위키(일본 서버 '위기 계약'). [전투 컨텐츠](guides/combat_content.md) 참고 |
+| 위기 협약 | Contingency Contract (CC) | 危機契約 | 2차 | 시즌제 고난도 전투 컨텐츠. 1.3 버전의 첫 회차는 '재점화 실험 작전'. ja는 나무위키(일본 서버 '위기 계약'). [전투 컨텐츠](content/combat_content.md) 참고 |
 | 재점화 실험 작전 | Re-Ignition Experimental Operation | — | 2차 | 위기 협약 1시즌 (1.3) |
 | 잿빛 실험 작전 | Indigo Experimental Operation | — | 미확인 | 위기 협약 2시즌 (1.6). en 대응은 시작일로만 맞춤 |
 | 시크릿 생추어리 | Secret Sanctuary | — | 2차 | 위기 협약 상점 |
@@ -617,7 +617,7 @@ ko와 이름의 en·ja·zh는 나무위키 각 오퍼레이터 문서 기준이�
 
 ### 전투 체계·아츠 이상·물리 이상
 
-ko는 나무위키 「명일방주: 엔드필드/전투」, en은 endfield.wiki.gg, ja는 공략 사이트 appmedia.jp 기준이다(ja는 공식 클라이언트로 확인하지 못함). [전투 기본 체계](guides/combat_basics.md), [아츠 이상과 물리 이상](guides/status_anomalies.md) 참고.
+ko는 나무위키 「명일방주: 엔드필드/전투」, en은 endfield.wiki.gg, ja는 공략 사이트 appmedia.jp 기준이다(ja는 공식 클라이언트로 확인하지 못함). [전투 기본 체계](systems/combat_basics.md), [아츠 이상과 물리 이상](systems/status_anomalies.md) 참고.
 
 | 한국어 | English | 日本語 | 확인 | 메모 |
 |---|---|---|---|---|
@@ -673,7 +673,7 @@ ko는 나무위키 「명일방주: 엔드필드/전투」, en은 endfield.wiki.
 
 ## 4번 협곡·메인 스토리 1장
 
-ko는 나무위키 지역·스토리·등장인물 문서, en은 endfield.wiki.gg, ja·zh는 검색 결과 요약 기준이다. [4번 협곡](guides/valley_iv.md) 참고.
+ko는 나무위키 지역·스토리·등장인물 문서, en은 endfield.wiki.gg, ja·zh는 검색 결과 요약 기준이다. [4번 협곡](world/valley_iv.md) 참고.
 
 | 한국어 | English | 日本語 | 확인 | 메모 |
 |---|---|---|---|---|
@@ -703,11 +703,11 @@ ko는 나무위키 지역·스토리·등장인물 문서, en은 endfield.wiki.g
 | 마블 아겔로미레 | — | — | 미확인 | 1장 Ⅳ의 보스 |
 | TA-TA | Trans-Æther Tranquilizer-Automata | — | 2차 | 프로토타입 기계. 균열을 봉인하고 자폭 |
 | 진강척 | Qin Jiangchi | — | 2차 | 거점 구역 기지장. en 표기 출처마다 다름 |
-| 리시아 | Lycia | — | 2차 | 펠리카의 친구. 엔드필드 공업 출신 랜드브레이커. en은 펠리카 파일 자료 영어 텍스트. [리시아](guides/lycia.md) 참고 |
+| 리시아 | Lycia | — | 2차 | 펠리카의 친구. 엔드필드 공업 출신 랜드브레이커. en은 펠리카 파일 자료 영어 텍스트. [리시아](world/lycia.md) 참고 |
 
 ## 무릉·메인 스토리 2장
 
-ko는 나무위키 지역·등장인물 문서, en은 endfield.wiki.gg, ja는 appmedia.jp 기준이다. 나무위키 스토리 문서는 표기가 섞여 있어(완의채, 표석, 시라나이트 등) 쓰지 않았다. [무릉](guides/wuling.md) 참고.
+ko는 나무위키 지역·등장인물 문서, en은 endfield.wiki.gg, ja는 appmedia.jp 기준이다. 나무위키 스토리 문서는 표기가 섞여 있어(완의채, 표석, 시라나이트 등) 쓰지 않았다. [무릉](world/wuling.md) 참고.
 
 | 한국어 | English | 日本語 | 확인 | 메모 |
 |---|---|---|---|---|
@@ -743,7 +743,7 @@ ko는 나무위키 지역·등장인물 문서, en은 endfield.wiki.gg, ja는 ap
 | 축 | — | — | 미확인 | 응룡 특수부대의 고인이 된 교관 |
 | 수구 | — | — | 미확인 | 청파채 인물 |
 | 알레이크레오스 | — | — | 미확인 | 파운데이션의 병사. 2장 VII 대균열 핵심부의 적 |
-| 파운데이션 | The Foundation | — | 2차 | 제1차 아겔로스 전쟁의 적대 세력. '추방자'로도 불림. en은 중추 파일 영어 텍스트(endfield.wiki.gg). [파운데이션](guides/foundation.md) 참고 |
+| 파운데이션 | The Foundation | — | 2차 | 제1차 아겔로스 전쟁의 적대 세력. '추방자'로도 불림. en은 중추 파일 영어 텍스트(endfield.wiki.gg). [파운데이션](world/foundation.md) 참고 |
 | 베헤모스 | — | — | 미확인 | wiki.gg는 Feranmut. 식양 개발에 대리인이 협력 |
 
 ### 사·명하
@@ -756,7 +756,7 @@ ko는 나무위키 「사(명일방주: 엔드필드)」「명하(명일방주: 
 | 쉐이 | — | — | 미확인 | 염국과 얽힌 베헤모스. 열두 대리인으로 나뉨. 사는 그 마지막 의식에서 태어남 |
 | 사세대 | — | — | 미확인 | 쉐이 대응 조직. 홍산 과학원의 사세대는 베헤모스 응용 기술 기관 |
 | 담 천사 | — | — | 미확인 | 홍산 과학원의 최고참 천사. 사를 맡아 돌봄 |
-| 인연 마을 | Yuanyuan Manor (Inn) | — | 미확인 | 사가 그림 속에서 운영하는 객잔. 나무위키 스토리 문서는 '연원객잔'으로도 적음. [사의 그림](guides/si_painting.md) 참고 |
+| 인연 마을 | Yuanyuan Manor (Inn) | — | 미확인 | 사가 그림 속에서 운영하는 객잔. 나무위키 스토리 문서는 '연원객잔'으로도 적음. [사의 그림](content/si_painting.md) 참고 |
 | 소하장 | Xiaohe Manor | — | 미확인 | 사의 그림 속 마을. 나무위키 연표는 '소하 장원' |
 | 이별의 정자 | Chess Pavilion | — | 미확인 | 사의 그림 속 장소 |
 | 위티 | Witty | — | 미확인 | 사의 붓을 가지고 달아난 잉크 정령 |
@@ -784,7 +784,7 @@ ko는 나무위키 「사(명일방주: 엔드필드)」「명하(명일방주: 
 
 ### 장비
 
-ko는 나무위키 「명일방주: 엔드필드/장비」, en은 endfield.wiki.gg Gear 기준이다. [장비와 장비 세트](guides/gear_sets.md) 참고.
+ko는 나무위키 「명일방주: 엔드필드/장비」, en은 endfield.wiki.gg Gear 기준이다. [장비와 장비 세트](systems/gear_sets.md) 참고.
 
 | 한국어 | English | 日本語 | 확인 | 메모 |
 |---|---|---|---|---|
@@ -818,7 +818,7 @@ ko는 나무위키 「명일방주: 엔드필드/장비」, en은 endfield.wiki.
 
 ### 무기
 
-ko는 나무위키 「명일방주: 엔드필드/무기」와 하위 문서, en은 endfield.wiki.gg Weapons 기준이다. *표는 대응이 확실하지 않은 것이다. [무기](guides/weapons.md) 참고. 이미 위에 있는 무기(헤라펜거, 산의 지배자, 등불의 사명, 용사, 키메라의 정의, 모범, 과거의 일품, 고대의 강줄기, O.B.J. 헤비 버든, 간식 시간, 망자의 노래)는 영어 표기만 보완한다.
+ko는 나무위키 「명일방주: 엔드필드/무기」와 하위 문서, en은 endfield.wiki.gg Weapons 기준이다. *표는 대응이 확실하지 않은 것이다. [무기](systems/weapons.md) 참고. 이미 위에 있는 무기(헤라펜거, 산의 지배자, 등불의 사명, 용사, 키메라의 정의, 모범, 과거의 일품, 고대의 강줄기, O.B.J. 헤비 버든, 간식 시간, 망자의 노래)는 영어 표기만 보완한다.
 
 | 한국어 | English | 日本語 | 확인 | 메모 |
 |---|---|---|---|---|
@@ -831,7 +831,7 @@ ko는 나무위키 「명일방주: 엔드필드/무기」와 하위 문서, en�
 | 물자 관리 단말기 | — | — | 미확인 | 지역별 각인권을 파는 곳 |
 | 무기고 거래소 | Arsenal Exchange | — | 미확인 | 무기 획득처 |
 | 무기고 신청 | — | — | 미확인 | 기간 한정 무기 획득 메뉴 |
-| 프로토콜 통행증 | Protocol Pass | — | 2차 | 버전마다 바뀌는 시즌 보상 체계. 통행증 무기를 줌. [프로토콜 통행증과 권한 등급](guides/protocol_pass.md) 참고 |
+| 프로토콜 통행증 | Protocol Pass | — | 2차 | 버전마다 바뀌는 시즌 보상 체계. 통행증 무기를 줌. [프로토콜 통행증과 권한 등급](systems/protocol_pass.md) 참고 |
 | 통행증 경험치 | Pass Experience | 通行証経験 | 2차 | ko·ja는 wiki.gg 아이템명 |
 | 오리지늄 배급 | Originium Supply | — | 미확인 | 통행증 2단계. ko는 나무위키 재화 문서 |
 | 프로토콜 커스터마이즈 | Protocol Customized | — | 2차 | 통행증 3단계(유료) |
@@ -918,7 +918,7 @@ ko는 나무위키 「명일방주: 엔드필드/무기」와 하위 문서, en�
 
 ### 통합 공업 시스템·거점
 
-ko는 나무위키 「/공업」「/설비」「/지역」, en은 endfield.wiki.gg AIC·Facilities·Outpost·Regional Development 기준이다. [통합 공업 시스템](guides/aic.md), [거점과 지역 개발](guides/settlements.md) 참고.
+ko는 나무위키 「/공업」「/설비」「/지역」, en은 endfield.wiki.gg AIC·Facilities·Outpost·Regional Development 기준이다. [통합 공업 시스템](content/aic.md), [거점과 지역 개발](content/settlements.md) 참고.
 
 | 한국어 | English | 日本語 | 확인 | 메모 |
 |---|---|---|---|---|
@@ -972,7 +972,7 @@ ko는 나무위키 「/공업」「/설비」「/지역」, en은 endfield.wiki.
 
 ## 세력·위협·역사
 
-ko는 나무위키 등장인물·설정·스토리·네파리스·아다시르 문서, en은 endfield.wiki.gg(중추 파일 영어 텍스트 포함), ja는 나무위키·endfield.wiki.gg의 다른 언어 표기 기준이다. [세력](guides/factions.md), [아겔로스와 침식](guides/aggeloi_and_blight.md), [탈로스력 연표](guides/timeline.md), [네파리스와 본 크러셔](guides/nefarith.md), [파운데이션](guides/foundation.md) 참고.
+ko는 나무위키 등장인물·설정·스토리·네파리스·아다시르 문서, en은 endfield.wiki.gg(중추 파일 영어 텍스트 포함), ja는 나무위키·endfield.wiki.gg의 다른 언어 표기 기준이다. [세력](world/factions.md), [아겔로스와 침식](world/aggeloi_and_blight.md), [탈로스력 연표](world/timeline.md), [네파리스와 본 크러셔](world/nefarith.md), [파운데이션](world/foundation.md) 참고.
 
 | 한국어 | English | 日本語 | 확인 | 메모 |
 |---|---|---|---|---|
@@ -981,7 +981,7 @@ ko는 나무위키 등장인물·설정·스토리·네파리스·아다시르 �
 | 밴드 협약 | Band Accord | — | 2차 | 기존 항목 보완 |
 | 탈로스 II 상업연합회 | Talos II General Chamber of Commerce (TGCC) | 環タロ商会 | 2차 | 기존 항목 보완. zh 環塔商會 |
 | 자유시 | Free Cities | — | 2차 | 상업연합회의 자치 도시 |
-| 탈로스 성 | Talos City | タロスシティ | 2차 | U3가 함께 짓는 중립 자유시. 행정 수도. ja는 wiki.gg. [문명 밴드의 도시](guides/civilization_band.md) 참고 |
+| 탈로스 성 | Talos City | タロスシティ | 2차 | U3가 함께 짓는 중립 자유시. 행정 수도. ja는 wiki.gg. [문명 밴드의 도시](world/civilization_band.md) 참고 |
 | 오보르니스크 | Aubornisk | — | 미확인 | 광업 도시. en은 나무위키·wiki.gg 베타 테스트 문서 |
 | 라반도르마 | La Fantoma | ラヴァンドマ | 2차 | 기존 항목 보완. wiki.gg는 La Fantoma의 ko를 라반도르마, ja를 ラヴァンドマ로 적음. 나무위키 en 표기는 Lavandorma이며 '라 판토마 자유시'를 따로 적음 |
 | 트리글라바 | Triglava | トリグラフ | 2차 | 연맹 공단의 Durin 도시. ko·ja는 wiki.gg |
@@ -1041,7 +1041,7 @@ ko는 나무위키 등장인물·설정·스토리·네파리스·아다시르 �
 
 ## 육성 재료·재화
 
-ko는 나무위키 아이템 문서(게임 안 설명문 인용), en은 endfield.wiki.gg 아이템 목록 기준이다. [육성 재료와 획득처](guides/materials.md) 참고.
+ko는 나무위키 아이템 문서(게임 안 설명문 인용), en은 endfield.wiki.gg 아이템 목록 기준이다. [육성 재료와 획득처](systems/materials.md) 참고.
 
 | 한국어 | English | 日本語 | 확인 | 메모 |
 |---|---|---|---|---|
@@ -1076,7 +1076,7 @@ ko는 나무위키 아이템 문서(게임 안 설명문 인용), en은 endfield
 
 ## 베헤모스·헤드헌팅·탐색
 
-ko는 나무위키 「사」「쉐이」「/헤드헌팅」「/무기고 신청」「/지역」, en은 endfield.wiki.gg 기준이다. [베헤모스와 쉐이](guides/behemoth.md), [헤드헌팅과 무기고 신청](guides/headhunting.md), [탐색 컨텐츠](guides/exploration.md) 참고.
+ko는 나무위키 「사」「쉐이」「/헤드헌팅」「/무기고 신청」「/지역」, en은 endfield.wiki.gg 기준이다. [베헤모스와 쉐이](world/behemoth.md), [헤드헌팅과 무기고 신청](systems/headhunting.md), [탐색 컨텐츠](content/exploration.md) 참고.
 
 | 한국어 | English | 日本語 | 확인 | 메모 |
 |---|---|---|---|---|
@@ -1117,7 +1117,7 @@ ko는 나무위키 「사」「쉐이」「/헤드헌팅」「/무기고 신청�
 
 ## 사용 아이템·프로토콜 공간·구매 센터·미션 제로
 
-ko는 나무위키 「아이템/사용할 수 있는 아이템」「아이템/육성 재료」「아이템/재화」(게임 안 설명문 인용)와 펠리카 상세 기록, en은 endfield.wiki.gg 기준이다. 사용 아이템의 en은 wiki.gg 아이템 목록의 같은 분류 안에서 뜻으로 짝지었다. [사용할 수 있는 아이템](guides/consumables.md), [프로토콜 공간](guides/protocol_space.md), [헤드헌팅, 무기고 신청, 구매 센터](guides/headhunting.md), [미션 제로](guides/zeroth_directive.md) 참고.
+ko는 나무위키 「아이템/사용할 수 있는 아이템」「아이템/육성 재료」「아이템/재화」(게임 안 설명문 인용)와 펠리카 상세 기록, en은 endfield.wiki.gg 기준이다. 사용 아이템의 en은 wiki.gg 아이템 목록의 같은 분류 안에서 뜻으로 짝지었다. [사용할 수 있는 아이템](systems/consumables.md), [프로토콜 공간](content/protocol_space.md), [헤드헌팅, 무기고 신청, 구매 센터](systems/headhunting.md), [미션 제로](world/zeroth_directive.md) 참고.
 
 | 한국어 | English | 日本語 | 확인 | 메모 |
 |---|---|---|---|---|
@@ -1165,7 +1165,7 @@ ko는 나무위키 「아이템/사용할 수 있는 아이템」「아이템/�
 
 ## 문명 밴드의 다른 도시
 
-ko는 나무위키 「진천우」「자이히」「스노우샤인」(게임 안 기록 인용), en·ja는 endfield.wiki.gg 기준이다. [문명 밴드의 도시](guides/civilization_band.md) 참고.
+ko는 나무위키 「진천우」「자이히」「스노우샤인」(게임 안 기록 인용), en·ja는 endfield.wiki.gg 기준이다. [문명 밴드의 도시](world/civilization_band.md) 참고.
 
 | 한국어 | English | 日本語 | 확인 | 메모 |
 |---|---|---|---|---|
@@ -1180,7 +1180,7 @@ ko는 나무위키 「진천우」「자이히」「스노우샤인」(게임 �
 
 ## 생태 재배·객잔·탐색 레벨
 
-ko는 나무위키 「설비」「지역」, en은 endfield.wiki.gg 기준이다. 작물의 en은 wiki.gg 천연자원 목록에서 뜻으로 짝지었다. [생태 재배와 논배미](guides/eco_farming.md), [사의 그림](guides/si_painting.md), [탐색 컨텐츠](guides/exploration.md) 참고.
+ko는 나무위키 「설비」「지역」, en은 endfield.wiki.gg 기준이다. 작물의 en은 wiki.gg 천연자원 목록에서 뜻으로 짝지었다. [생태 재배와 논배미](content/eco_farming.md), [사의 그림](content/si_painting.md), [탐색 컨텐츠](content/exploration.md) 참고.
 
 | 한국어 | English | 日本語 | 확인 | 메모 |
 |---|---|---|---|---|

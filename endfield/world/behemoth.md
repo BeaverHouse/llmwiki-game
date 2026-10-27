@@ -8,7 +8,7 @@ sources:
   - https://namu.wiki/w/명일방주:%20엔드필드/설정 (2026-10-07 수정본, 제1차 아겔로스 전쟁 문단, CC BY-NC-SA 2.0 KR)
   - https://endfield.wiki.gg/wiki/Feranmut (2026-09-03 수정본, 용어 정의 인용과 대리인 설명)
   - https://endfield.wiki.gg/wiki/Si (2026-10-22 수정본, 영어 소개문)
-  - "wiki: endfield/operators/si.md, operators/typhoeus.md, guides/factions.md, guides/timeline.md, guides/wuling.md (각 문서의 출처 기준)"
+  - "wiki: endfield/operators/si.md, operators/typhoeus.md, world/factions.md, world/timeline.md, world/wuling.md (각 문서의 출처 기준)"
 created: 2026-10-23
 updated: 2026-10-23
 ---

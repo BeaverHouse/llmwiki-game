@@ -8,7 +8,7 @@ sources:
   - https://endfield.wiki.gg/wiki/Skill_Points (2026-09-30 기준)
   - https://endfield.wiki.gg/wiki/Ultimate_Energy (2026-09-14 기준)
   - https://endfield.wiki.gg/wiki/Damage_calculation (2026-10-12 기준)
-  - https://www.prydwen.gg/arknights-endfield/guides/combat-basics (메커니즘 설명만 참고)
+  - https://www.prydwen.gg/arknights-endfield/systems/combat-basics (메커니즘 설명만 참고)
   - "user-feedback: 배틀 스킬의 궁극기 에너지 6.5는 라스트 라이트를 제외한 모든 오퍼레이터에 적용, 반환이 있으면 비례해 줄어듦(예: 탕탕 20 반환 시 6.5 × 0.8) (Austin, 2026-10-27)"
 created: 2026-10-18
 updated: 2026-10-27
