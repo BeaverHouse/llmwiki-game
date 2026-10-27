@@ -1,5 +1,6 @@
 # Arknights: Endfield — 변경 기록 (append-only, 최신이 위)
 
+- 2026-10-27 | ai | parties/yvonne_party.md·parties/zhuang_fangyi_party.md·operators/gilberta.md 수정 | 2차 검증 시험(위키만 읽은 에이전트가 처음 보는 조합을 판정)의 결과를 유지보수자가 판정: 이탕펠결·장방이 질베르타 편성 둘 다 애매. 각 변형 절과 질베르타 운용 메모(배틀 스킬 사용 시점, 충전 효율 재능의 가치, 타임 어택/장기전) 추가 | 근거: user-feedback (Austin, 2026-10-27)
 - 2026-10-27 | ai | parties/zhuang_fangyi_party.md·parties/yvonne_party.md 신설, parties/rossi_hybrid.md → parties/rossi_party.md 이름 변경, parties/electric.md·parties/cryo.md·systems/interactions.md·systems/gear_sets.md·operators 카드 수정 | 구조 개편 2단계: 축 오퍼레이터 단위 파티 문서(풀이 예제) 작성, 전기·냉기 문서의 장방이·이본 사이클을 옮김, 로시 파티 로탕질펠 절 재작성. 검증 시험에서 드러난 규칙(이상 공존·유지, 장방이 연계 감전 레벨, 와류 반환·본 크러셔는 배틀 스킬만, 자기 강화 궁극기 중 행동) 반영 | 근거: user-feedback (Austin, 2026-10-27), 위키만 읽은 에이전트의 사이클 풀이 시험 3건
 - 2026-10-27 | ai | guides/→systems/·content/·world/ 이동, systems/combat.md·systems/interactions.md·parties/method.md, operators/ 9편 상호작용 카드 | 구조 개편 1단계: 가이드를 성격별 폴더로 분리(파일명 유지), 전투 기본 체계를 전투 기본에 병합, 아츠 부착과 아츠 이상·물리 이상·아츠 이상과 물리 이상을 상호작용 규칙으로 병합(옛 슬러그는 aliases), 사이클 짜는 법과 시너지 판정 신설, 이본·자이히·탕탕·질베르타·로시·펠리카·장방이·리노·결에 상호작용 카드 추가 | 근거: 유지보수자 결정과 사이클 설명(Austin, 2026-10-27)
 - 2026-10-27 | ai | guides/combat.md·guides/combat_basics.md·operators/last_rite.md 수정 | 배틀 스킬의 궁극기 에너지 6.5에서 라스트 라이트 제외, 반환 시 감소 예시(탕탕 20 반환 → 5.2) 추가 | 근거: user-feedback (Austin, 2026-10-27)
