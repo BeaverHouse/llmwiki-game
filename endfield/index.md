@@ -47,12 +47,14 @@
 ## parties/
 
 - [parties/method.md](parties/method.md) — 사이클 짜는 법과 시너지 판정 (사이클을 읽는 법, 11단계 절차, 판정 기준, 새 오퍼레이터와 낯선 조합)
+- [parties/zhuang_fangyi_party.md](parties/zhuang_fangyi_party.md) — 장방이 파티 (리노·장방이·펠리카·결 정석, 22단계 사이클과 단계별 이유, 천리의 경지 딜 구간, 아크라이트·알레쉬 변형. 풀이 예제)
+- [parties/yvonne_party.md](parties/yvonne_party.md) — 이본 파티 (이본·자이히·탕탕·질베르타 정석, 부착 → 동결 → 연계 사이클과 궁극기 순서의 이유, 에너지·충전 효율. 풀이 예제)
 - [parties/electric.md](parties/electric.md) — 전기 파티 (감전의 공급과 소모, 자리별 역할, 장방이 사이클과 아비웨나 사이클, 알레쉬·결이 들어가는 자리, 새 오퍼레이터 배치 기준)
 - [parties/physical.md](parties/physical.md) — 물리 파티 (방어 불능 쌓기와 갑옷 파괴·강타 소모, 포그라니치니크의 게이지 공급, 기본 사이클, 디펜더·쇄빙·하이브리드 변형, 새 오퍼레이터 배치 기준)
 - [parties/heat.md](parties/heat.md) — 열기 파티 (열기 부착·열기 폭발·연소, 레바테인의 부착 흡수와 녹아내린 불꽃, 레바테인·울프가드·아델리아·카뮤 사이클과 황혼 딜 구간, 게이지·에너지 수지, 레바테인·사·결·카뮤 사 편성 사이클, 새 오퍼레이터 배치 기준)
 - [parties/cryo.md](parties/cryo.md) — 냉기 파티 (냉기 부착·동결·쇄빙, 라스트 라이트 3스택 연계 조건, 라스트 라이트·이본·쇄빙 사이클, 탕탕 메인 딜 사이클, 사 편성 사이클(서포터·메인딜), 게이지·에너지 수지, 새 오퍼레이터 배치 기준)
 - [parties/nature.md](parties/nature.md) — 자연 파티 (자연 부착·자연 폭발·부식, 티프로스 계시·사냥 화살 사이클, 진결·지혜 결 사이클, 게이지 수지, 새 오퍼레이터 배치 기준)
-- [parties/rossi_hybrid.md](parties/rossi_hybrid.md) — 로시 하이브리드 파티 (방어 불능과 아츠 부착을 함께 쓰는 로시 연계 조건, 로질펠 사이클, 강제 이상이 부착을 남기는 원리, 울프가드·결·탕탕·물리·쇄빙 변형, 새 오퍼레이터 배치 기준)
+- [parties/rossi_party.md](parties/rossi_party.md) — 로시 파티 (방어 불능과 아츠 부착 하이브리드 원리, 로질펠 기본 사이클, 로탕질펠·로울질포·물리 하이브리드·쇄빙 변형. 로탕질펠은 단계별 이유가 붙은 풀이 예제)
 
 ## operators/
 

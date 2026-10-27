@@ -68,5 +68,5 @@
 
 - 2026-10-20: operators/si.md, systems/gear_sets.md, systems/weapons.md, content/aic.md, content/settlements.md. 관리자 문서(operators/endministrator.md)는 2026-10-19에 이미 들어와 있어 목록에서 정리
 
-- 2026-10-19: operators/*.md 31개 사이클 역할 절 추가와 평가 절 정리(특징 절로), parties/heat.md, parties/cryo.md, parties/nature.md, parties/rossi_hybrid.md
+- 2026-10-19: operators/*.md 31개 사이클 역할 절 추가와 평가 절 정리(특징 절로), parties/heat.md, parties/cryo.md, parties/nature.md, parties/rossi_party.md
 - 2026-10-18: systems/combat.md, systems/interactions.md, world/valley_iv.md, world/wuling.md, parties/electric.md, parties/physical.md
