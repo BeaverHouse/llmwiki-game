@@ -1,5 +1,6 @@
 # Arknights: Endfield — 변경 기록 (append-only, 최신이 위)
 
+- 2026-10-27 | ai | systems/combat.md·systems/interactions.md·parties/method.md·parties/synergy.md·parties/mi_fu_party.md·parties/zhuang_fangyi_party.md·operators/si.md 수정 | 3차 검증 시험(위키만 읽은 에이전트 3명, 정석 재현 2건·처음 보는 조합 6건) 지적 반영: 다른 오퍼레이터 궁극기 중 배틀 스킬 사용 가능 명시, 판정 기준에 SP 항목, 소모 딜러가 둘일 때 축 정하기·순환 길이·서브 궁극기 박자, 방어 불능·보호가 연계 조건을 막는 충돌, 남은 수치 불일치 정리 | 근거: 검증 시험 결과, user-feedback (Austin, 2026-10-27)
 - 2026-10-27 | ai | operators/arclight.md·operators/tangtang.md·parties/tangtang_party.md·parties/synergy.md·systems/interactions.md·backlog.md 수정 | 확인 필요 2건 해소: 아크라이트 궁극기 감전은 강제 감전이 아니라 소모한 전기 부착 스택 수가 레벨(펠리카 배틀 → 결 연계 → 아크라이트 궁극기로 감전 III), 자연 부착 위 냉기로 동결이 나도 탕탕 연계가 켜짐. 강제 감전 목록에서 아크라이트·장방이 연계 제외 | 근거: user-feedback (Austin, 2026-10-27)
 - 2026-10-27 | ai | parties/arcane_party.md·operators/si.md 수정 | 사 연계 구간은 서포터인 의지 결 기준 운용이라 지혜 결(딜러) 파티 문서에서 빼고 사 카드로 옮김. 지혜 결 편성의 사 위치는 계산되지 않았다고 기록 | 근거: user-feedback (Austin, 2026-10-27)
 - 2026-10-27 | ai | parties/arcane_party.md·parties/mi_fu_party.md·parties/synergy.md·operators/estella.md·systems/interactions.md·backlog.md 수정 | 에스텔라 연계·궁극기 강제 띄우기는 각각 방어 불능 1스택 확정, 쇄빙 피해는 동결 레벨을 따른다는 문장 보강, 결 파티에 사 연계 구간(냉기 3~4스택 → 부식 → 사 연계) 추가, 아크라이트 궁극기 감전 레벨·동결 반응과 탕탕 연계를 확인 필요로 | 근거: user-feedback (Austin, 2026-10-27)
