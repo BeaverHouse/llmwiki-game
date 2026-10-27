@@ -1,5 +1,6 @@
 # Another Eden — 변경 기록 (append-only, 최신이 위)
 
+- 2026-10-27 | ai | anothereden/ 전 문서·glossary.md·backlog.md 수정 | 공격 종류 斬·突·打·魔를 베기·찌르기·타격·마법으로 교체(「」 안의 스킬명과 합성어는 그대로, 조사 정리), glossary에 공격 종류 행 추가. プラニエ島 이벤트의 ライカ를 버디 라이카로 보고 라이카로 표기(ライカマジック 스킬명은 그대로), 확인 필요의 공격 종류 항목 삭제 | 근거: user-feedback (Austin, 2026-10-27)
 - 2026-10-27 | ai | backlog.md 수정 | PR #50 검토: 확인 필요에 남아 있던 글로벌 서버 실장 여부 질문 3건 정리(일본 서버 기준, 일본·글로벌 진행 동일), 영문 명칭 질문만 남김 | 근거: user-feedback (Austin, 2026-10-24)
 - 2026-10-27 | ai | guides/tenmei.md·wind_party.md·pierce_party.md·shade_party.md 신규, guides/status_effects.md·stellar_awakening.md·characters/sesta_as.md·cerius_as.md·eni.md·glossary.md·index.md·backlog.md 수정 | 성장 작업: backlog 맨 위 6주제(天冥와 ステラゲージ, オーバークリティカル, 庇立て 우선순위, 바람 파티, 突 파티, 그림자 파티) 작성. ステラゲージ는 성도각성 문서에 이미 있어 천명 문서는 天冥値와 天の力·冥の力만 다룸(축적 방식은 출처가 없어 확인 필요로 이동). オーバークリティカル·庇立て와 連携는 상태 효과 문서에 절로 추가. backlog의 "번쩍번쩍 화가 멜로디 = 바람 파티 축"은 출처의 「メロディ(AS)」(멜로디의 AS)와 혼동이라 정정하고 멜로디(AS) 항목 추가. 새 문서가 언급한 미작성 주제 추가 | 근거: Seesaa Wiki 「状態効果まとめ」「用語集」「メルピピア」「セスタ(アナザースタイル)」「セリエス(アナザースタイル)」「義侠の猟人」「エニ」「黒衣の刀使い(アナザースタイル)」(본문·댓글 끝까지 열람), 사이트 데이터 ae_translation_all·ae_character(2026-10-27)
 
