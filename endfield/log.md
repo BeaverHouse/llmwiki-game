@@ -1,5 +1,6 @@
 # Arknights: Endfield — 변경 기록 (append-only, 최신이 위)
 
+- 2026-10-27 | ai | parties/method.md·parties/last_rite_party.md 수정 | 궁극기 충전 효율은 짠 사이클 하나를 기준으로 필요값(필요 에너지 ÷ 사이클 획득 에너지)만 낸다는 기준 추가. 사 편성의 사 궁극기 필요 효율을 그 사이클 기준으로 적고 회수 관련 미확인 항목 삭제 | 근거: user-feedback (Austin, 2026-10-27)
 - 2026-10-27 | ai | parties/last_rite_party.md·parties/method.md 수정 | 라스트 라이트 사 편성(라밍탕결)을 커뮤니티 사이클과 대조해 정석으로 올리고 다시 씀(사 1번 슬롯, 사 배틀 → 결 연계 → 라스트 라이트 환영으로 3스택, 탕탕 배틀 스킬 미사용, 연계 순서 탕·결·사·라, 3사이클 뒤 사·결·라스트 라이트 궁극기). 사이클 짜는 법에 무기·세트 조건 확인 추가 | 근거: arca.live 라밍탕결 사이클 글과 댓글(유지보수자 제공), user-feedback (Austin, 2026-10-27)
 - 2026-10-27 | ai | systems/interactions.md·parties/last_rite_party.md 수정 | 질베르타 연계 강제 띄우기 방어 불능 1스택 확정, 보스에게 걸린 동결은 효과·조건은 작동하고 움직임 제어만 무시됨(보스 제어는 탕탕·결 같은 특수 효과), 라스트 라이트 파티에 사 편성(라스트 라이트·사·탕탕·결) 구상 추가 | 근거: user-feedback (Austin, 2026-10-27), 3차 검증 시험
 - 2026-10-27 | ai | systems/combat.md·systems/interactions.md·parties/method.md·parties/synergy.md·parties/mi_fu_party.md·parties/zhuang_fangyi_party.md·operators/si.md 수정 | 3차 검증 시험(위키만 읽은 에이전트 3명, 정석 재현 2건·처음 보는 조합 6건) 지적 반영: 다른 오퍼레이터 궁극기 중 배틀 스킬 사용 가능 명시, 판정 기준에 SP 항목, 소모 딜러가 둘일 때 축 정하기·순환 길이·서브 궁극기 박자, 방어 불능·보호가 연계 조건을 막는 충돌, 남은 수치 불일치 정리 | 근거: 검증 시험 결과, user-feedback (Austin, 2026-10-27)
