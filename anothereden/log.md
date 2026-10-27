@@ -1,5 +1,7 @@
 # Another Eden — 변경 기록 (append-only, 최신이 위)
 
+- 2026-10-28 | ai | characters/melpiphia.md·shigure_es.md·shanie_alter.md·melody_as.md 신규, characters/clughorn.md·mistrare.md·sesta_as.md·guides/wind_party.md·meta_characters.md·raids/rekisen_kougairyuu.md·glossary.md·index.md·backlog.md 수정 | 성장 작업: backlog 맨 위 정비 항목(덜어내기)으로 클러그혼(스킬표를 실제 4칸 + 그 이유로, 증표 수치 다툼·스텔라 보드 단계 차이 삭제)과 미스트레아(NS·AS 각각 쓰는 스킬만, 궁합 목록 축약)를 정리하고, 이어 멜피피아(NS·AS 한 문서), 시구레(ES), 가시나무 저주의 여인 셰이네, 멜로디(AS) 4편 작성. backlog의 셰이네 "オーバークリティカル 서포트"는 출처가 비용 대비 의문이라 한 점을 문서에 반영. 바람 파티 표에 무기·역할 보충과 링크, 관련 문서 상호 링크, 새 이름·클래스·용어 glossary 등록, 새 문서가 언급한 미작성 주제 6건 backlog 추가 | 근거: Seesaa Wiki 「メルピピア」「メルピピア(アナザースタイル)」「シグレ(エクストラスタイル)」「茨呪の艶女」「メロディ(アナザースタイル)」(본문·댓글 끝까지 열람), 사이트 데이터 ae_translation_all·ae_character(2026-10-28). altema 「シグレ(エクストラスタイル)」는 403
+
 - 2026-10-27 | ai | backlog.md 수정 | 맨 위 정비 항목으로 "기존 문서 덜어내기"(실제로 쓰이는 스킬·장비만) 추가, 확인 필요 질문을 새 기준(게임을 해 봐야 알고 추천이 달라지는 것)으로 정리해 2건만 남김 | 근거: 유지보수자 결정(2026-10-27), AGENTS.md 3·7절
 - 2026-10-27 | ai | anothereden/ 전 문서·glossary.md·backlog.md 수정 | 공격 종류 斬·突·打·魔를 베기·찌르기·타격·마법으로 교체(「」 안의 스킬명과 합성어는 그대로, 조사 정리), glossary에 공격 종류 행 추가. プラニエ島 이벤트의 ライカ를 버디 라이카로 보고 라이카로 표기(ライカマジック 스킬명은 그대로), 확인 필요의 공격 종류 항목 삭제 | 근거: user-feedback (Austin, 2026-10-27)
 - 2026-10-27 | ai | backlog.md 수정 | PR #50 검토: 확인 필요에 남아 있던 글로벌 서버 실장 여부 질문 3건 정리(일본 서버 기준, 일본·글로벌 진행 동일), 영문 명칭 질문만 남김 | 근거: user-feedback (Austin, 2026-10-24)
