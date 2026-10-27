@@ -7,11 +7,8 @@
 ## systems/ — 전투 규칙·육성·아이템
 
 - [systems/operators.md](systems/operators.md) — 오퍼레이터 개요 (등급, 능력치 효과, 직군 역할, 무기·장비, 전체 34명의 속성·무기·직군 명단)
-- [systems/combat_basics.md](systems/combat_basics.md) — 전투 기본 체계 (파티와 교대, 강력한 일격·처형·극한 회피, 공유 스킬 게이지, 연계 스킬 규칙, 궁극기 에너지 획득, 불균형, 증폭·취약·허약·비호 분류와 피해 계산, 사이클 설명 용어)
-- [systems/status_anomalies.md](systems/status_anomalies.md) — 아츠 이상과 물리 이상 (아츠 부착·아츠 폭발, 연소·감전·동결·부식·쇄빙 수치, 강제 이상, 방어 불능과 띄우기·넘어뜨리기·강타·갑옷 파괴)
+- [systems/interactions.md](systems/interactions.md) — 상호작용 규칙 (사건 어휘, 아츠 부착·폭발·이상, 방어 불능·물리 이상, 상태가 겹칠 때의 결과와 순서, 아군이 받는 이상. 사이클을 짤 때의 규칙 엔진)
 - [systems/combat.md](systems/combat.md) — 전투 기본 (4인 편성과 교대, 강력한 일격·처형·극한 회피, 공유 스킬 게이지와 반환, 연계 스킬 조건 유형과 자리 우선순위, 궁극기 에너지 충전 규칙, 불균형·차지, 증폭·취약·허약·비호 분류와 피해 배율 공식, 순환 구성의 기초)
-- [systems/arts_reactions.md](systems/arts_reactions.md) — 아츠 부착과 아츠 이상 (부착 스택, 아츠 폭발, 연소·감전·동결·부식과 쇄빙의 수치와 이상 레벨, 강제 부여, 아츠·속성 취약 계층, 아츠 파티 순환 구성)
-- [systems/physical_anomalies.md](systems/physical_anomalies.md) — 물리 이상 (방어 불능 스택, 띄우기·넘어뜨리기·강타·갑옷 파괴, 물리 취약, 강제 부여, 물리 파티 순환 구성)
 - [systems/weapons.md](systems/weapons.md) — 무기 (종류·등급, 무기 스킬, 돌파·잠재능력·기질·기질 식각, 획득처, 종류별 6~3성 무기 목록과 전용 대상·효과)
 - [systems/gear_sets.md](systems/gear_sets.md) — 장비와 장비 세트 (칸·등급·착용 조건, 옵션 수치, 제작·분해, 정밀 단조, 레벨 70 세트 15종과 레벨 60·기초 장비, 세트 없는 위기 탈출·절망 장비)
 - [systems/protocol_pass.md](systems/protocol_pass.md) — 프로토콜 통행증과 권한 등급 (통행증 세 단계·경험치 획득·보상·통행증 무기 선택 상자, 권한 등급과 작전 경력 획득처, 레벨별 이성 상한과 필요 경력)
@@ -49,6 +46,7 @@
 
 ## parties/
 
+- [parties/method.md](parties/method.md) — 사이클 짜는 법과 시너지 판정 (사이클을 읽는 법, 9단계 절차, 판정 기준, 새 오퍼레이터와 낯선 조합)
 - [parties/electric.md](parties/electric.md) — 전기 파티 (감전의 공급과 소모, 자리별 역할, 장방이 사이클과 아비웨나 사이클, 알레쉬·결이 들어가는 자리, 새 오퍼레이터 배치 기준)
 - [parties/physical.md](parties/physical.md) — 물리 파티 (방어 불능 쌓기와 갑옷 파괴·강타 소모, 포그라니치니크의 게이지 공급, 기본 사이클, 디펜더·쇄빙·하이브리드 변형, 새 오퍼레이터 배치 기준)
 - [parties/heat.md](parties/heat.md) — 열기 파티 (열기 부착·열기 폭발·연소, 레바테인의 부착 흡수와 녹아내린 불꽃, 레바테인·울프가드·아델리아·카뮤 사이클과 황혼 딜 구간, 게이지·에너지 수지, 레바테인·사·결·카뮤 사 편성 사이클, 새 오퍼레이터 배치 기준)

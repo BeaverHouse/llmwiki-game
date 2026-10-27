@@ -1,5 +1,6 @@
 # Arknights: Endfield — 변경 기록 (append-only, 최신이 위)
 
+- 2026-10-27 | ai | guides/→systems/·content/·world/ 이동, systems/combat.md·systems/interactions.md·parties/method.md, operators/ 9편 상호작용 카드 | 구조 개편 1단계: 가이드를 성격별 폴더로 분리(파일명 유지), 전투 기본 체계를 전투 기본에 병합, 아츠 부착과 아츠 이상·물리 이상·아츠 이상과 물리 이상을 상호작용 규칙으로 병합(옛 슬러그는 aliases), 사이클 짜는 법과 시너지 판정 신설, 이본·자이히·탕탕·질베르타·로시·펠리카·장방이·리노·결에 상호작용 카드 추가 | 근거: 유지보수자 결정과 사이클 설명(Austin, 2026-10-27)
 - 2026-10-27 | ai | guides/combat.md·guides/combat_basics.md·operators/last_rite.md 수정 | 배틀 스킬의 궁극기 에너지 6.5에서 라스트 라이트 제외, 반환 시 감소 예시(탕탕 20 반환 → 5.2) 추가 | 근거: user-feedback (Austin, 2026-10-27)
 - 2026-10-26 | ai | guides/m3.md 신규, guides/headhunting.md·guides/protocol_space.md·parties/cryo.md·guides/consumables.md·guides/wuling.md·guides/zeroth_directive.md·glossary.md·index.md·backlog.md 수정 | M3 인물 문서 작성, 무릉 문서에 수명 절 추가(들어가는 임무·시간대 종·문서 기록관·미궁 힌트), 헤드헌팅·프로토콜 공간·냉기 파티·소모품 문서의 본문 출처 서술 정리(출처끼리 다른 곳만 양쪽 표기, 냉기 파티의 결 링크 대상 확인), 수명 표기 중복 행 정리와 遂明·여소귀(Yu Shigui)·Shang Jin·Waking Bell 등록, index 등록, backlog 갱신 | 근거: 정기 성장 작업, 나무위키 「/지역」(2026-10-25)「/등장인물 및 세력」(2026-10-24), endfield.wiki.gg Suiming·Bell_of_Recollection·M3
 

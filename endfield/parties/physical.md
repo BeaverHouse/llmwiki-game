@@ -19,7 +19,7 @@ updated: 2026-10-19
 
 # 물리 파티
 
-방어 불능을 쌓고 강타와 갑옷 파괴로 소모하는 파티의 원리와 사이클을 정리한다. 용어는 [전투 기본 체계](../systems/combat_basics.md)와 [아츠 이상과 물리 이상](../systems/status_anomalies.md)을 따른다. 고유명사 표기는 [glossary.md](../glossary.md)를 따른다.
+방어 불능을 쌓고 강타와 갑옷 파괴로 소모하는 파티의 원리와 사이클을 정리한다. 용어는 [전투 기본 체계](../systems/combat.md)와 [아츠 이상과 물리 이상](../systems/interactions.md)을 따른다. 고유명사 표기는 [glossary.md](../glossary.md)를 따른다.
 
 ## 바탕이 되는 원리
 

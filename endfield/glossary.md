@@ -617,7 +617,7 @@ ko와 이름의 en·ja·zh는 나무위키 각 오퍼레이터 문서 기준이�
 
 ### 전투 체계·아츠 이상·물리 이상
 
-ko는 나무위키 「명일방주: 엔드필드/전투」, en은 endfield.wiki.gg, ja는 공략 사이트 appmedia.jp 기준이다(ja는 공식 클라이언트로 확인하지 못함). [전투 기본 체계](systems/combat_basics.md), [아츠 이상과 물리 이상](systems/status_anomalies.md) 참고.
+ko는 나무위키 「명일방주: 엔드필드/전투」, en은 endfield.wiki.gg, ja는 공략 사이트 appmedia.jp 기준이다(ja는 공식 클라이언트로 확인하지 못함). [전투 기본 체계](systems/combat.md), [아츠 이상과 물리 이상](systems/interactions.md) 참고.
 
 | 한국어 | English | 日本語 | 확인 | 메모 |
 |---|---|---|---|---|

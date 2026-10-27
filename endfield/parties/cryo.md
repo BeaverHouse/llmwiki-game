@@ -24,7 +24,7 @@ updated: 2026-10-26
 
 # 냉기 파티
 
-냉기 부착과 동결을 중심으로 돌아가는 파티의 원리와 사이클을 정리한다. 메인 딜러에 따라 냉기 부착을 쌓아 한꺼번에 소모하는 [라스트 라이트](../operators/last_rite.md) 사이클과, 부착을 소모해 동결을 거는 [이본](../operators/yvonne.md) 사이클로 나뉘며, 스택을 소모하지 않는 [탕탕](../operators/tangtang.md)을 메인 딜러로 두는 사이클도 있다. 동결을 물리 이상으로 깨뜨리는 쇄빙 사이클은 이 문서와 [물리 파티](physical.md)가 함께 다룬다. 용어는 [전투 기본 체계](../systems/combat_basics.md)와 [아츠 이상과 물리 이상](../systems/status_anomalies.md)을 따른다. 고유명사 표기는 [glossary.md](../glossary.md)를 따른다.
+냉기 부착과 동결을 중심으로 돌아가는 파티의 원리와 사이클을 정리한다. 메인 딜러에 따라 냉기 부착을 쌓아 한꺼번에 소모하는 [라스트 라이트](../operators/last_rite.md) 사이클과, 부착을 소모해 동결을 거는 [이본](../operators/yvonne.md) 사이클로 나뉘며, 스택을 소모하지 않는 [탕탕](../operators/tangtang.md)을 메인 딜러로 두는 사이클도 있다. 동결을 물리 이상으로 깨뜨리는 쇄빙 사이클은 이 문서와 [물리 파티](physical.md)가 함께 다룬다. 용어는 [전투 기본 체계](../systems/combat.md)와 [아츠 이상과 물리 이상](../systems/interactions.md)을 따른다. 고유명사 표기는 [glossary.md](../glossary.md)를 따른다.
 
 ## 바탕이 되는 원리
 

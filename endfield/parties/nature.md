@@ -15,7 +15,7 @@ updated: 2026-10-19
 
 # 자연 파티
 
-자연 부착, 자연 폭발, 부식을 중심으로 돌아가는 파티의 원리와 사이클을 정리한다. 메인 딜러에 따라 두 갈래로 나뉜다. 하나는 자연 부착을 흡수하고 자연 폭발을 일으키는 [티프로스](../operators/typhoeus.md) 사이클로, 적에게 쌓인 자연 부착이 다른 이상으로 바뀌지 않게 지키는 쪽이다. 다른 하나는 진결·지혜 [결](../operators/arcane.md)이 연계 스킬 → 배틀 스킬과 강제 부식으로 피해를 내는 사이클이다. 자연 속성 서포터([아델리아](../operators/ardelia.md), [질베르타](../operators/gilberta.md))와 진결·의지 결은 다른 속성 파티에도 자주 편성되며, 그 쓰임은 [전기 파티](electric.md), [열기 파티](heat.md), [물리 파티](physical.md)에서 다룬다. 용어는 [전투 기본 체계](../systems/combat_basics.md)와 [아츠 이상과 물리 이상](../systems/status_anomalies.md)을 따른다. 고유명사 표기는 [glossary.md](../glossary.md)를 따른다.
+자연 부착, 자연 폭발, 부식을 중심으로 돌아가는 파티의 원리와 사이클을 정리한다. 메인 딜러에 따라 두 갈래로 나뉜다. 하나는 자연 부착을 흡수하고 자연 폭발을 일으키는 [티프로스](../operators/typhoeus.md) 사이클로, 적에게 쌓인 자연 부착이 다른 이상으로 바뀌지 않게 지키는 쪽이다. 다른 하나는 진결·지혜 [결](../operators/arcane.md)이 연계 스킬 → 배틀 스킬과 강제 부식으로 피해를 내는 사이클이다. 자연 속성 서포터([아델리아](../operators/ardelia.md), [질베르타](../operators/gilberta.md))와 진결·의지 결은 다른 속성 파티에도 자주 편성되며, 그 쓰임은 [전기 파티](electric.md), [열기 파티](heat.md), [물리 파티](physical.md)에서 다룬다. 용어는 [전투 기본 체계](../systems/combat.md)와 [아츠 이상과 물리 이상](../systems/interactions.md)을 따른다. 고유명사 표기는 [glossary.md](../glossary.md)를 따른다.
 
 ## 바탕이 되는 원리
 

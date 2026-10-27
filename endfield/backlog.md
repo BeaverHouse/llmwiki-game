@@ -6,7 +6,7 @@
 
 ## 다음 작업
 
-- 정비 | 본문의 출처 서술 정리 | 본문에 "나무위키는 …라고 적는다", "wiki.gg에 따르면" 같은 출처 서술이 500곳 넘게 있다. 읽는 사람에게 필요한 것은 게임의 사실이므로 본문은 사실만 쓰고 출처는 frontmatter `sources`에 둔다. 출처끼리 내용이 다를 때만 본문에 양쪽을 밝힌다. 다른 주제보다 먼저, 하루에 문서 몇 편씩 처리한다 (Austin 지적, 2026-10-24). 처리한 문서: world/timeline.md, world/foundation.md, systems/operators.md, world/civilization_band.md, content/si_painting.md, content/exploration.md, world/factions.md의 홍산 과학원·고요한 수도회 절 (2026-10-25), systems/headhunting.md, content/protocol_space.md, parties/cryo.md, systems/consumables.md (2026-10-26). 다음은 content/combat_content.md, world/factions.md 나머지 절, parties/heat.md, systems/status_anomalies.md, systems/materials.md, parties/nature.md처럼 서술이 많이 남은 문서부터 | 각 문서의 sources
+- 정비 | 본문의 출처 서술 정리 | 본문에 "나무위키는 …라고 적는다", "wiki.gg에 따르면" 같은 출처 서술이 500곳 넘게 있다. 읽는 사람에게 필요한 것은 게임의 사실이므로 본문은 사실만 쓰고 출처는 frontmatter `sources`에 둔다. 출처끼리 내용이 다를 때만 본문에 양쪽을 밝힌다. 다른 주제보다 먼저, 하루에 문서 몇 편씩 처리한다 (Austin 지적, 2026-10-24). 처리한 문서: world/timeline.md, world/foundation.md, systems/operators.md, world/civilization_band.md, content/si_painting.md, content/exploration.md, world/factions.md의 홍산 과학원·고요한 수도회 절 (2026-10-25), systems/headhunting.md, content/protocol_space.md, parties/cryo.md, systems/consumables.md (2026-10-26). 다음은 content/combat_content.md, world/factions.md 나머지 절, parties/heat.md, systems/interactions.md, systems/materials.md, parties/nature.md처럼 서술이 많이 남은 문서부터 | 각 문서의 sources
 - 침식된 유산을 찾아서 의뢰와 보상 | content/exploration.md 보강 | 탐색 의뢰·집중 의뢰 목록과 작전 지표 보상 품목은 wiki.gg 표 아이콘이 깨져 쓰지 못함 | endfield.wiki.gg Etchspace_Salvage/Commissions
 - 엔드필드 공업 창립자와 '원점' | 인물 문서 또는 world/setting_basics.md 확장 문서 | 미션 제로 문서의 창립자(펠리카 파일 자료 4), 펠리카 대사의 '원점'(관리자·M3·창립자·정예 오퍼레이터의 의사 결정층). world/m3.md에 한 문단만 있음 | 나무위키 「/등장인물 및 세력」 창립자 문단, 「펠리카」, endfield.wiki.gg Founder
 - 적 | systems/enemies.md | 프로토콜 공간 문서의 보스·알파 적(로댄, 트리아겔로스, 마블 아겔로미레, 원일, Craghowler, Blitzcrash Blightshade, Gloomwald's Rage)과 적 분류(일반·고급·정예·알파·보스) | 나무위키 「/적」, endfield.wiki.gg Enemies
@@ -60,7 +60,7 @@
 
 - 2026-10-24: systems/consumables.md, content/protocol_space.md, systems/headhunting.md 구매 센터 보강, world/lycia.md, world/foundation.md·world/timeline.md 테라 연합 과학 탐사단 보강, world/zeroth_directive.md
 
-- 2026-10-23: operators/laevatain.md 편성 갱신, systems/status_anomalies.md 아츠 폭발 스택 증가, parties/heat.md·parties/cryo.md 사 편성 사이클, world/behemoth.md, systems/headhunting.md, content/exploration.md(침식된 유산을 찾아서·숨겨진 구역의 여행자 포함)
+- 2026-10-23: operators/laevatain.md 편성 갱신, systems/interactions.md 아츠 폭발 스택 증가, parties/heat.md·parties/cryo.md 사 편성 사이클, world/behemoth.md, systems/headhunting.md, content/exploration.md(침식된 유산을 찾아서·숨겨진 구역의 여행자 포함)
 
 - 2026-10-22: content/si_painting.md, content/combat_content.md(위기 협약·그림자 이정표 항목 포함), systems/protocol_pass.md, world/civilization_band.md, parties/cryo.md 탕탕 메인 딜 사이클, parties/electric.md 알레쉬·결 자리
 
@@ -69,4 +69,4 @@
 - 2026-10-20: operators/si.md, systems/gear_sets.md, systems/weapons.md, content/aic.md, content/settlements.md. 관리자 문서(operators/endministrator.md)는 2026-10-19에 이미 들어와 있어 목록에서 정리
 
 - 2026-10-19: operators/*.md 31개 사이클 역할 절 추가와 평가 절 정리(특징 절로), parties/heat.md, parties/cryo.md, parties/nature.md, parties/rossi_hybrid.md
-- 2026-10-18: systems/combat_basics.md, systems/status_anomalies.md, world/valley_iv.md, world/wuling.md, parties/electric.md, parties/physical.md
+- 2026-10-18: systems/combat.md, systems/interactions.md, world/valley_iv.md, world/wuling.md, parties/electric.md, parties/physical.md

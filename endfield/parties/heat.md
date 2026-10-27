@@ -20,7 +20,7 @@ updated: 2026-10-24
 
 # 열기 파티
 
-[레바테인](../operators/laevatain.md)이 아군의 열기 부착을 흡수해 녹아내린 불꽃을 쌓고, 강화 배틀 스킬로 궁극기 에너지를 모아 황혼으로 딜하는 파티의 원리와 사이클을 정리한다. 열기 부착은 [울프가드](../operators/wulfgard.md), [카뮤](../operators/camille.md), [아케쿠리](../operators/akekuri.md)가 걸고, 연소·부식은 울프가드와 자연 서포터([아델리아](../operators/ardelia.md), [질베르타](../operators/gilberta.md), [결](../operators/arcane.md))가 만든다. 용어는 [전투 기본 체계](../systems/combat_basics.md)와 [아츠 이상과 물리 이상](../systems/status_anomalies.md)을 따른다. 고유명사 표기는 [glossary.md](../glossary.md)를 따른다.
+[레바테인](../operators/laevatain.md)이 아군의 열기 부착을 흡수해 녹아내린 불꽃을 쌓고, 강화 배틀 스킬로 궁극기 에너지를 모아 황혼으로 딜하는 파티의 원리와 사이클을 정리한다. 열기 부착은 [울프가드](../operators/wulfgard.md), [카뮤](../operators/camille.md), [아케쿠리](../operators/akekuri.md)가 걸고, 연소·부식은 울프가드와 자연 서포터([아델리아](../operators/ardelia.md), [질베르타](../operators/gilberta.md), [결](../operators/arcane.md))가 만든다. 용어는 [전투 기본 체계](../systems/combat.md)와 [아츠 이상과 물리 이상](../systems/interactions.md)을 따른다. 고유명사 표기는 [glossary.md](../glossary.md)를 따른다.
 
 ## 바탕이 되는 원리
 
@@ -105,7 +105,7 @@ updated: 2026-10-24
 ### 준비 구간
 
 1. 카뮤 배틀 스킬로 핏빛 날개를 붙인다. 열기 부착 1스택과 45초 허약·열기 취약이 걸린다.
-2. 사 배틀 스킬(100)로 열기 부착을 더하고 20초 필의를 건다. 같은 속성 부착이 다시 걸리므로 열기 폭발이 일어나고 부착 스택이 하나 는다([아츠 이상과 물리 이상](../systems/status_anomalies.md)). 사 배틀 스킬이 거는 부착의 스택 수는 원문에 적혀 있지 않다.
+2. 사 배틀 스킬(100)로 열기 부착을 더하고 20초 필의를 건다. 같은 속성 부착이 다시 걸리므로 열기 폭발이 일어나고 부착 스택이 하나 는다([아츠 이상과 물리 이상](../systems/interactions.md)). 사 배틀 스킬이 거는 부착의 스택 수는 원문에 적혀 있지 않다.
 3. 적에게 아츠 부착이 있으므로 결 연계 스킬이 사용 가능해진다. 이미 있는 열기 부착을 게이지 없이 한 번 더 건다.
 4. 메인 컨트롤 오퍼레이터의 강력한 일격으로 레바테인이 열기 부착을 흡수해 녹아내린 불꽃을 쌓는다.
 5. 흡수 직후 사 연계 스킬과 카뮤 연계 스킬이 사용 가능해진다. 사 연계 스킬은 흡수된 스택 수만큼 피해가 늘고 궁극기 에너지 10을 얻는다. 카뮤 연계 스킬은 게이지 18~20을 회복시키고, 날개가 붙은 적에게 맞으면 15초 연타를 준다.

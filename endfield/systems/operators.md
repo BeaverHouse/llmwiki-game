@@ -12,7 +12,7 @@ updated: 2026-10-25
 
 # 오퍼레이터 개요
 
-오퍼레이터의 등급, 능력치, 직군을 정리하고 전체 명단을 속성·무기·직군으로 나눈다. 개별 오퍼레이터의 스킬과 운용은 operators/ 아래 문서에서, 전투 규칙은 [전투 기본 체계](combat_basics.md)와 [아츠 이상과 물리 이상](status_anomalies.md)에서, 파티 사이클은 [전기 파티](../parties/electric.md)·[물리 파티](../parties/physical.md)에서 다룬다. 고유명사 표기는 [glossary.md](../glossary.md)를 따른다.
+오퍼레이터의 등급, 능력치, 직군을 정리하고 전체 명단을 속성·무기·직군으로 나눈다. 개별 오퍼레이터의 스킬과 운용은 operators/ 아래 문서에서, 전투 규칙은 [전투 기본 체계](combat.md)와 [아츠 이상과 물리 이상](interactions.md)에서, 파티 사이클은 [전기 파티](../parties/electric.md)·[물리 파티](../parties/physical.md)에서 다룬다. 고유명사 표기는 [glossary.md](../glossary.md)를 따른다.
 
 ## 등급
 
