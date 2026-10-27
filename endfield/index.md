@@ -49,6 +49,7 @@
 ## parties/
 
 - [parties/method.md](parties/method.md) — 사이클 짜는 법과 시너지 판정 (사이클을 읽는 법, 11단계 절차, 판정 기준, 새 오퍼레이터와 낯선 조합)
+- [parties/synergy.md](parties/synergy.md) — 사건별 공급과 수요 (상호작용 카드에서 뽑은 색인. 부착·폭발·이상·소모·방어 불능·물리 이상·쇄빙·강력한 일격 조건·불균형·취약·증폭·SP·에너지·연타·오리지늄 결정마다 만드는 오퍼레이터와 필요로 하는 오퍼레이터, 충돌하기 쉬운 짝)
 - [parties/zhuang_fangyi_party.md](parties/zhuang_fangyi_party.md) — 장방이 파티 (리노·장방이·펠리카·결 정석, 22단계 사이클과 단계별 이유, 천리의 경지 딜 구간, 아크라이트·알레쉬 변형. 풀이 예제)
 - [parties/yvonne_party.md](parties/yvonne_party.md) — 이본 파티 (이본·자이히·탕탕·질베르타 정석, 부착 → 동결 → 연계 사이클과 궁극기 순서의 이유, 에너지·충전 효율. 풀이 예제)
 - [parties/laevatain_party.md](parties/laevatain_party.md) — 레바테인 파티 (레바테인·울프가드·아델리아·카뮤 정석, 흡수 → 열화 → 4스택 배틀 스킬 사이클과 황혼 딜 구간, 레바테인·사·결·카뮤 사 편성, 질베르타·결·네 번째 자리 변형)
