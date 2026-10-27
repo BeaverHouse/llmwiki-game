@@ -9,8 +9,9 @@ sources:
   - https://endfield.wiki.gg/wiki/Ultimate_Energy (2026-09-14 기준)
   - https://endfield.wiki.gg/wiki/Damage_calculation (2026-10-12 기준)
   - https://www.prydwen.gg/arknights-endfield/guides/combat-basics (메커니즘 설명만 참고)
+  - "user-feedback: 배틀 스킬의 궁극기 에너지 6.5는 라스트 라이트를 제외한 모든 오퍼레이터에 적용, 반환이 있으면 비례해 줄어듦(예: 탕탕 20 반환 시 6.5 × 0.8) (Austin, 2026-10-27)"
 created: 2026-10-18
-updated: 2026-10-19
+updated: 2026-10-27
 ---
 
 # 전투 기본 체계
@@ -76,7 +77,7 @@ updated: 2026-10-19
 
 | 획득 조건 | 받는 대상 | 기본 획득량 |
 |---|---|---|
-| 배틀 스킬 사용 | 파티 전원 | (반환이 아닌 소모 게이지 ÷ 100) × 6.5. 보통 6.5 |
+| 배틀 스킬 사용 | 파티 전원 | (반환이 아닌 소모 게이지 ÷ 100) × 6.5. 보통 6.5. 라스트 라이트의 배틀 스킬은 제외. 예: 탕탕이 와류 1개로 20을 반환하면 6.5 × 0.8 = 5.2 |
 | 연계 스킬 사용 | 시전자 | 10 |
 
 - 예외: [아크라이트](../operators/arclight.md)의 연계 스킬은 5, [아비웨나](../operators/avywenna.md)의 연계 스킬은 0이며 아비웨나는 썬더랜스 명중으로 에너지를 얻는다. [리노](../operators/liino.md)의 연계 스킬은 20, [장방이](../operators/zhuang_fangyi.md)는 뇌격마다 6과 부착 소모마다 10을 추가로 얻는다. wiki.gg는 라스트 라이트가 자신의 배틀·연계 스킬로만 에너지를 얻는다고 적는다.
