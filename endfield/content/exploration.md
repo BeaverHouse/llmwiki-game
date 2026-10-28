@@ -1,17 +1,18 @@
 ---
 title: 탐색 컨텐츠 (Exploration)
 type: guide
-aliases: [탐색, 탐색 컨텐츠, 필드 탐색, 수집 요소, 오리렌, 상자, 연구 포인트, 장비 템플릿, 오리지늄 회로 영감, 탈로사이트, Talosite, 탈로사이트 거래소, Talosite Exchange, 프로토콜 용량, 집라인 제한, 전술 시설 제한, 에너지 응집점, 고위 에너지 응집점, Energy Alluvium, Severe Energy Alluvium, 탐색 레벨, Exploration Level, 월드 레벨, World Level, 침식된 유산을 찾아서, Etchspace Salvage, 숨겨진 구역의 여행자, Delver of the Cryptic, 수명]
+aliases: [탐색, 탐색 컨텐츠, 필드 탐색, 수집 요소, 오리렌, 상자, 연구 포인트, 장비 템플릿, 오리지늄 회로 영감, 탈로사이트, Talosite, 탈로사이트 거래소, Talosite Exchange, 프로토콜 용량, 집라인 제한, 전술 시설 제한, 에너지 응집점, 고위 에너지 응집점, Energy Alluvium, Severe Energy Alluvium, 탐색 레벨, Exploration Level, 월드 레벨, World Level, 침식된 유산을 찾아서, Etchspace Salvage, 탐색 의뢰, Aberrant Exploration, 탐색 지원 기술, Exploration Support Tech, 집중 의뢰, Focus Commission, 작전 지표, Operation Metrics, 숨겨진 구역의 여행자, Delver of the Cryptic, 수명]
 sources:
   - https://namu.wiki/w/명일방주:%20엔드필드/지역 (2026-10-22 수정본, 지역별 제한·수집 요소, CC BY-NC-SA 2.0 KR)
   - https://endfield.wiki.gg/wiki/Energy_Alluvium (2026-10-17 수정본)
-  - https://endfield.wiki.gg/wiki/Etchspace_Salvage (2026-10-22 수정본)
+  - https://endfield.wiki.gg/wiki/Etchspace_Salvage (2026-10-22 수정본. 2026-10-27에 wikitext로 작전 지표 보상 표, 물품 출처, 변경 기록 확인)
+  - https://endfield.wiki.gg/wiki/Etchspace_Salvage/Commissions (2026-07-27 수정본 oldid=57959, 렌더 페이지와 wikitext. 탐색 의뢰·탐색 지원 기술 연구·집중 의뢰 목록)
   - https://endfield.wiki.gg/wiki/Delver_of_the_Cryptic (2026-09-05 수정본)
   - https://endfield.wiki.gg/wiki/Exploration_Level (2026-07-14 수정본, 단계별 값 표와 02/05 최적화 공지 변경점)
   - https://endfield.wiki.gg/wiki/Talosite_Exchange (2026-10-16 수정본)
   - https://namu.wiki/w/명일방주:%20엔드필드/전투 (2026-10-16 수정본, 탐색 레벨 서술 없음을 확인)
 created: 2026-10-23
-updated: 2026-10-25
+updated: 2026-10-28
 ---
 
 # 탐색 컨텐츠
@@ -114,7 +115,7 @@ Protosync 메뉴에서 탐색 레벨을 직접 낮출 수 있다. 원래 레벨�
 
 | 구획 | 품목 | 가격(탈로사이트) |
 |---|---|---|
-| 개인 장치 (Personal Device) | 6종, 각 1개 | 2, 3, 5 |
+| 개인 장치 (Personal Device) | 소형·중형·대형 가속 유닛, 사척·오척·육척 <양기도> 6종, 각 1개([개인 장치](../systems/personal_device.md)) | 2, 3, 5 |
 | 장비 템플릿 (Gear Template) | 절망(Rift Trekker) 계열의 Steel Armor·Overalls·Wraps·Gauntlets·Silver Blade 제작법을 포함한 10종, 각 1개 | 1 |
 | 장식품 (Ornamental) | 10종, 1~4개 | 1 |
 | 카메라 포즈 (Camera Pose) | 16종, 각 1개 | 1 또는 3 |
@@ -134,23 +135,137 @@ Protosync 메뉴에서 탐색 레벨을 직접 낮출 수 있다. 원래 레벨�
 - 작전 지표: Aurylene Crystal 1개마다 1씩 쌓이며, 일정 수치마다 1회성 보상을 준다.
 - 버전별 확장: 출시 때 1~3구역, 1.1 버전에 4구역(Aberrant of Connection), 1.2 버전에 5구역(Aberrant of Leap)과 6구역(Aberrant of Hazefyre)이 열렸다. 1.2 버전 기준 혼란 한계는 10,000, 컨테이너 용량은 80, 결절 전환 효율은 200%다.
 
+구역 이름은 1구역부터 Aberrant of Origins, Aberrant of Pressure, Aberrant of Conflagration, Aberrant of Connection, Aberrant of Leap, Aberrant of Hazefyre다. 아래 의뢰·물품 이름은 한국어 게임 표기를 확인하지 못해 영어로 적는다.
+
+### 탐색 의뢰 (Aberrant Exploration)
+
+구역을 하나씩 여는 주 의뢰다. 들어가서 봉인된 문의 '열쇠'를 모으고, Aberrant Core가 있는 곳으로 가 그 구역 보스를 쓰러뜨린 뒤 Aberrant Core를 스캔하고 빠져나오면 끝난다. III·IV·VI의 보상은 두 묶음으로 나뉘어 있다.
+
+| 의뢰 | 열리는 조건 | 열쇠 | 보상 | 여는 것 |
+|---|---|---|---|---|
+| I | 모드 개방과 같음(임무 The Mission Continues 완료, 권한 등급 22) | 4개 | 작전 경력 300, 오로베릴 150, 중급 작전 기록 14, 탈로시안 화폐 10,000 | 2구역 |
+| II | I 완료 | 5개 | 작전 경력 300, 오로베릴 150, 중급 작전 기록 14, 탈로시안 화폐 10,400 | 3구역 |
+| III | II 완료 | 5개 | 작전 경력 300, 오로베릴 150, 중급 작전 기록 16, 탈로시안 화폐 11,100 / 오로베릴 300, 탈로시안 화폐 24,000, 초급 인지 매개체 14, 작전 경력 600 | 4구역, 집중 의뢰 |
+| IV | III 완료, 권한 등급 40 | 5개 | 작전 경력 300, 오로베릴 150, 초급 인지 매개체 9, 탈로시안 화폐 16,000 / 오로베릴 300, 탈로시안 화폐 32,000, 고급 인지 매개체 2, 작전 경력 600 | 5구역 |
+| V | IV 완료, 권한 등급 45 | 5개 | 작전 경력 300, 오로베릴 150, 초급 인지 매개체 9, 탈로시안 화폐 16,000 | 6구역 |
+| VI | V 완료 | 없음 | 작전 경력 300, 오로베릴 150, 초급 인지 매개체 9, 탈로시안 화폐 16,000 / 오로베릴 300, 탈로시안 화폐 32,000, 고급 인지 매개체 2, 작전 경력 600 | — |
+
+V는 5구역에서 빠져나온 뒤 Control Center에서 자이히와 이야기하고, 자이히의 보고와 팀의 분석을 Aquito에게 전하는 단계가 이어진다.
+
+### 탐색 지원 기술 연구
+
+Aquito의 연구 의뢰다. 정해진 구역에서 나온 물품과 Aurylene Crystal을 내면 기술이 오른다. 표의 Aurylene Crystal 수는 함께 내야 하는 양이다. '처음부터'는 모드를 열 때 바로 열리는 것이다.
+
+| 연구 | 열리는 조건 | 낼 물품 | Aurylene Crystal | 오로베릴 | 효과 |
+|---|---|---|---|---|---|
+| Stable Protocols 1 | 처음부터 | — | 100 | — | 혼란 한계 +300 |
+| Stable Protocols 2 | Stable Protocols 1 | 1구역: Classified: Aggelos Rotreed 6, Specimen: Bread 2, Classified: Meat-Packing Plant 2 | 200 | 30 | 혼란 한계 +300 |
+| Stable Protocols 3 | Stable Protocols 2 | 1구역: Specimen: Bread 6, Classified: Meat-Packing Plant 4, Gold Statuette: Tata 4 | 400 | 60 | 혼란 한계 +300 |
+| Stable Protocols 4 | Stable Protocols 3 | 2구역: Classified: Aburrey 6, Gold Statuette: Chen Qianyu 3 | 600 | 30 | 혼란 한계 +400 |
+| Stable Protocols 5 | Stable Protocols 4 | 2구역: Classified: Aburrey 8, Gold Statuette: Chen Qianyu 8, Specimen: Originium Branch 4 | 800 | 60 | 혼란 한계 +400 |
+| Stable Protocols 6 | Stable Protocols 5 | 3구역: Classified: The Pack 6, Gold Statuette: Wulfgard 3 | 800 | 30 | 혼란 한계 +600 |
+| Stable Protocols 7 | Derangement Tolerance 1 | 4구역: Classified: Giant Weaponry 8, Gold Statuette: Yvonne 4 | 2,000 | 30 | 혼란 한계 +800 |
+| Stable Protocols 8 | Stable Protocols 7 | 4구역: Classified: Giant Weaponry 16, Gold Statuette: Yvonne 8, Specimen: Tube Professor 6 | 3,000 | 60 | 혼란 한계 +800 |
+| Stable Protocols 9 | Derangement Tolerance 2 | 5구역: Classified: Security Bureau Staff 16, Gold Statuette: Old Bombtail 8, Specimen: Arts Unit 6 | 5,000 | 60 | 혼란 한계 +800 |
+| Stable Protocols 10 | Stable Protocols 9 | 6구역: Classified: Rhodagn 10, Gold Statuette: Perlica 5 | 5,000 | 30 | 혼란 한계 +5,000 |
+| Container Expansion 1 | 처음부터 | — | 100 | — | 격리 컨테이너 +5칸 |
+| Container Expansion 2 | Container Expansion 1 | 1구역: Gold Statuette: Bigfowl 6, Specimen: Bread 2, Gold Statuette: Tata 2 | 200 | 30 | 격리 컨테이너 +5칸 |
+| Container Expansion 3 | Container Expansion 2 | 1구역: Classified: Meat-Packing Plant 6, Gold Statuette: Tata 6, Specimen: Blighted Armorscale 3 | 400 | 60 | 격리 컨테이너 +5칸 |
+| Container Expansion 4 | Container Expansion 3, 탐색 의뢰 I | 2구역: Classified: Aburrey 4, Gold Statuette: Chen Qianyu 4, Specimen: Originium Branch 2 | 600 | 30 | 격리 컨테이너 +5칸 |
+| Container Expansion 5 | Container Expansion 4 | 3구역: Classified: The Pack 5, Gold Statuette: Wulfgard 5, Specimen: DELTA Aggelos 3 | 1,200 | 30 | 격리 컨테이너 +5칸 |
+| Container Expansion 6 | Container Expansion 5 | 4구역: Classified: Giant Weaponry 8, Gold Statuette: Yvonne 6, Specimen: Tube Professor 4 | 2,500 | 30 | 격리 컨테이너 +5칸 |
+| Container Expansion 7 | Container Expansion 6 | 5구역: Classified: Security Bureau Staff 8, Gold Statuette: Old Bombtail 6, Specimen: Arts Unit 4 | 4,000 | 30 | 격리 컨테이너 +5칸 |
+| Container Expansion 8 | Container Expansion 7 | 6구역: Classified: Rhodagn 10, Gold Statuette: Perlica 8, Specimen: Bonekrusher Dolls 5 | 5,000 | 60 | 격리 컨테이너 +25칸 |
+| Fragmented Treatment | Stable Protocols 2 | 1구역: Specimen: Blighted Armorscale 5, Mask Fragment 10, Detonation Unit Fragment 1 | 400 | 60 | 일반/정예 적을 처치하면 팀에서 체력이 가장 낮은 오퍼레이터가 최대 체력의 4%/20%를 회복 |
+| Tactical Tempo | Fragmented Treatment | 2구역: Specimen: Originium Branch 6, Rust Fragment 10, Amberite Fragment 1 | 800 | 60 | 적을 처치하면 스킬 게이지 100 회복 |
+| Portable Explosives 1 | 탐색 의뢰 II | 추가 조건 없음 | — | — | 공업 폭발물 반입 한도 0 → 25 |
+| Portable Explosives 2 | Portable Explosives 1 | 3구역: Gold Statuette: Wulfgard 8, Specimen: DELTA Aggelos 4, Refractorite Fragment 1 | 1,200 | 60 | 공업 폭발물 반입 한도 25 → 50 |
+| Armor Gliding | Tactical Tempo | 3구역: Specimen: DELTA Aggelos 4, Crystal-Embedded Fragment 6, Axe Armor Fragment 1 | 1,500 | 60 | 오퍼레이터 최대 체력 +30% |
+| Derangement Tolerance 1 | 탐색 의뢰 II, Stable Protocols 6 | 3구역: Classified: The Pack 8, Gold Statuette: Wulfgard 6, Specimen: DELTA Aggelos 3 | 1,200 | 60 | 혼란 내성 0% → 20%(혼란 수치가 더 느리게 오름) |
+| Derangement Tolerance 2 | 탐색 의뢰 IV, Stable Protocols 8 | 5구역: Classified: Security Bureau Staff 8, Gold Statuette: Old Bombtail 4 | 3,000 | 60 | 혼란 내성 20% → 50% |
+| Charge Burst | Armor Gliding | 4구역: Specimen: Tube Professor 8, Tubular Fragment 6, Scorching Hot Bolt Fragment 1 | 3,000 | 60 | 전투마다 첫 스킬의 피해 +200% |
+| Nodule Refining 1 | 탐색 의뢰 III | 1구역 Specimen: Blighted Armorscale 10, 2구역 Specimen: Originium Branch 10, 3구역 Specimen: DELTA Aggelos 10 | 3,000 | 100 | 결절 전환 효율 100% → 150% |
+| Nodule Refining 2 | 탐색 의뢰 VI 외 1개(아래 '확인하지 못한 것') | 4구역 Specimen: Tube Professor 10, 5구역 Specimen: Arts Unit 10, 6구역 Specimen: Bonekrusher Dolls 10 | 50,000 | 100 | 결절 전환 효율 150% → 200% |
+| Energy Capture | Charge Burst | 5구역: Specimen: Arts Unit 8, Densolite Fragment 6, Unbreachable Crystal Fragment 1 | 5,000 | 60 | 적을 처치하면 팀원 모두 궁극기 에너지 20% 획득 |
+| Stress Feedback | Energy Capture | 6구역: Specimen: Bonekrusher Dolls 8, Tactical Equipment Fragment 6, Aberrant Hazefyre Fragment 1 | 8,000 | 60 | 스킬 게이지 회복 속도 +50% |
+
+효과는 모두 이 모드 안에서만 적용된다. 낼 물품 가운데 Classified는 소포, Gold Statuette는 계기 금고, Specimen은 자판기에서 나오고, Fragment는 적과 보스가 떨어뜨린다. 보스의 Fragment는 처치하면 반드시 나온다.
+
+### 집중 의뢰 (Focus Commission)
+
+탐색 의뢰 III을 마치면 매주 3개가 주어진다. Aurylene Crystal을 써서 새 의뢰를 받거나 집중 의뢰를 새로 고칠 수 있으며, 매주 첫 새로 고침과 첫 새 의뢰는 무료다. 끝내지 않은 의뢰는 매주 바뀐다. 아래 의뢰는 모두 작전 지표 20,000을 준다.
+
+| 의뢰 | 구역 | 낼 것 |
+|---|---|---|
+| Manifest Containment | 1구역 α (흰색 보관함) | Classified: Aggelos Rotreed, Gold Statuette: Bigfowl, Specimen: Bread |
+| Manifest Containment | 1구역 β (초록색 보관함) | Classified: Meat-Packing Plant, Gold Statuette: Tata, Specimen: Blighted Armorscale |
+| Manifest Containment | 2구역 (노란색 보관함) | Classified: Aburrey, Gold Statuette: Chen Qianyu, Specimen: Originium Branch |
+| Manifest Containment | 3구역 (빨간색 보관함) | Classified: The Pack, Gold Statuette: Wulfgard, Specimen: DELTA Aggelos |
+| Manifest Containment | 4구역 (초록색 보관함) | Classified: Giant Weaponry, Gold Statuette: Yvonne, Specimen: Tube Professor |
+| Manifest Containment | 5구역 (노란색 보관함) | Classified: Security Bureau Staff, Gold Statuette: Old Bombtail, Specimen: Arts Unit |
+| Manifest Containment | 6구역 (빨간색 보관함) | Classified: Rhodagn, Gold Statuette: Perlica, Specimen: Bonekrusher Dolls |
+| Thorough Hunt | 1~6구역 | 그 구역 적이 떨어뜨리는 Fragment(1구역 Mask, 2구역 Rust, 3구역 Crystal-Embedded, 4구역 Tubular, 5구역 Densolite, 6구역 Tactical Equipment)와 Aurylene Crystal 3,000 |
+| Elite Hunt | 1·2·3α·3β·4·5·6구역 | 그 구역 보스가 떨어뜨리는 Fragment(1구역 Detonation Unit, 2구역 Amberite, 3구역 α Axe Armor, 3구역 β Refractorite, 4구역 Scorching Hot Bolt, 5구역 Unbreachable Crystal, 6구역 Aberrant Hazefyre)와 Aurylene Crystal 3,000 |
+| Classified Containment | 1, 2·3, 4·5, 5·6구역 | 해당 구역의 Classified 두 종 |
+| Statuette Containment | 1, 2·3, 4·5, 5·6구역 | 해당 구역의 Gold Statuette 두 종 |
+| Specimen Containment | 1, 2·3, 4·5, 5·6구역 | 해당 구역의 Specimen 두 종 |
+| Aurylene Crystal Recovery | — | Aurylene Crystal 6,000 |
+
+Manifest Containment는 그 구역의 정해진 색 보관함에서 나오는 물품 3종을 낸다. Classified·Statuette·Specimen Containment의 1구역은 1구역 두 종을, 나머지는 앞 구역과 뒤 구역에서 하나씩을 낸다.
+
+### 작전 지표 보상
+
+작전 지표는 결절을 가지고 나와 바뀐 Aurylene Crystal 1개마다 1씩, 그리고 집중 의뢰를 마칠 때 쌓인다. 아래 수치에 이를 때마다 한 번씩 보상을 받는다.
+
+| 작전 지표 | 보상 |
+|---|---|
+| 50 | 오로베릴 400, 고급 작전 기록 10, 탈로시안 화폐 10,000 |
+| 300 | 기초 헤드헌팅 허가증 2, 무기 점검 세트 10, 탈로시안 화폐 10,000 |
+| 1,200 | 오로베릴 400, 프로토콜 프리즘 50, 탈로시안 화폐 10,000 |
+| 2,500 | 기초 헤드헌팅 허가증 2, 프로토콜 디스크 25, 탈로시안 화폐 10,000 |
+| 5,000 | 오로베릴 400, 모형 틀 30, 탈로시안 화폐 10,000 |
+| 10,000 | 기초 헤드헌팅 허가증 2, 고급 인지 매개체 6, 탈로시안 화폐 10,000 |
+| 20,000 | 오로베릴 400, 무기 점검 세트 15, 탈로시안 화폐 10,000 |
+| 30,000 | 기초 헤드헌팅 허가증 2, 프로토콜 프리즘 세트 15, 탈로시안 화폐 10,000 |
+| 40,000 | 오로베릴 400, 프로토콜 디스크 세트 12, 탈로시안 화폐 10,000 |
+| 50,000 | 기초 헤드헌팅 허가증 2, 중형 모형 틀 12, 탈로시안 화폐 10,000 |
+| 60,000 | 오로베릴 400, 고급 인지 매개체 8, 탈로시안 화폐 15,000 |
+| 70,000 | 기초 헤드헌팅 허가증 2, 무기 점검 세트 20, 탈로시안 화폐 15,000 |
+| 80,000 | 오로베릴 400, 프로토콜 프리즘 세트 20, 탈로시안 화폐 15,000 |
+| 90,000 | 기초 헤드헌팅 허가증 2, 프로토콜 디스크 세트 16, 탈로시안 화폐 15,000 |
+| 100,000 | 오로베릴 400, 중형 모형 틀 16, 탈로시안 화폐 15,000 |
+| 120,000 | 기초 헤드헌팅 허가증 2, 고급 인지 매개체 6, 탈로시안 화폐 15,000 |
+| 140,000 | 오로베릴 400, 프로토콜 프리즘 세트 20, 탈로시안 화폐 15,000 |
+| 160,000 | 기초 헤드헌팅 허가증 2, 프로토콜 디스크 세트 16, 탈로시안 화폐 15,000 |
+| 180,000 | 오로베릴 400, 중형 모형 틀 16, 탈로시안 화폐 15,000 |
+| 200,000 | 기초 헤드헌팅 허가증 2, 고급 인지 매개체 6, 탈로시안 화폐 15,000 |
+
+200,000까지 모두 받으면 오로베릴 4,000, 기초 헤드헌팅 허가증 20, 탈로시안 화폐 250,000이 된다. 작전 지표 보상은 1.1 버전과 1.2 버전에 늘어났다. 집중 의뢰 보상은 1.1 버전에 10,000, 1.2 버전에 20,000으로 올랐다. 1.1 버전에는 혼란 한계 4,200과 컨테이너 용량 50, 1.2 버전의 5구역 개방 때는 혼란 한계 5,000, 컨테이너 용량 55, 혼란 내성 50%가 최대였다. 육성 재료의 쓰임은 [육성 재료와 획득처](../systems/materials.md)에 있다.
+
 ## 숨겨진 구역의 여행자 (Delver of the Cryptic)
 
-필드의 장치를 응용한 여러 프로토콜 공간으로 이루어진 상시 이벤트다. 퍼즐을 풀어 출구에 닿거나 가능한 한 빨리 출구에 닿는 공간으로 나뉜다. 클리어 보상과 별도로, 공간마다 상자 세 개가 있거나 탐색·조작 실력을 시험하는 추가 목표가 있다. 한 시리즈의 공간을 모두 클리어하면 영광의 길 메달을 받고, 상자와 추가 목표를 모두 채우면 메달이 꾸며진다.
+필드의 장치를 응용한 여러 프로토콜 공간으로 이루어진 상시 이벤트다. 퍼즐을 풀어 출구에 닿거나 가능한 한 빨리 출구에 닿는 공간으로 나뉜다. 클리어 보상과 별도로, 공간마다 상자 세 개가 있거나 탐색·조작 실력을 시험하는 추가 목표가 있다. 한 시리즈의 공간을 모두 클리어하면 [영광의 길](path_of_glory.md) 메달을 받고, 상자와 추가 목표를 모두 채우면 메달이 꾸며진다.
 
-시리즈는 Cryptic First Revealed(출시), Grotto Survey(1.1 버전), Artful Realm of Six Cardinals(Homecoming 업데이트)다. Homecoming이 몇 버전인지는 확인하지 못했다.
+시리즈는 Cryptic First Revealed(출시), Grotto Survey(1.1 버전), Artful Realm of Six Cardinals(1.4 버전 Homecoming)다.
 
 ## 확인하지 못한 것
 
 - 탐색 레벨, 희귀 채집 지점, Protosync, 임무 The Mission Continues, Beyond the Worlds' Expanse, 혼란 수치, 결절, 격리 컨테이너, 작전 지표, Aurylene Crystal, 침전 결정의 게임 안 한국어 표기.
-- 탐색 레벨 단계별 값, 고위 에너지 응집점의 탐색 레벨별 이성 소모와 기질 수, 탈로사이트 거래소 품목은 endfield.wiki.gg에만 있다. 거래소 표의 아이콘이 깨져 개인 장치·장식품·카메라 포즈 품목 이름은 확인하지 못했다.
+- 탐색 레벨 단계별 값, 고위 에너지 응집점의 탐색 레벨별 이성 소모와 기질 수, 탈로사이트 거래소 품목은 endfield.wiki.gg에만 있다. 거래소 표의 아이콘이 깨져 장식품·카메라 포즈 품목 이름은 확인하지 못했다.
 - 탐색 레벨 2를 여는 The Mission Continues가 어느 임무인지.
-- '숨겨진 구역의 여행자' 각 시리즈와 공간의 한국어 이름, Homecoming 업데이트의 버전.
+- 침식된 유산을 찾아서의 의뢰·연구 이름, 구역 이름(Aberrant of …), Aberrant Core, Control Center, Aquito, 수집 물품(Classified·Gold Statuette·Specimen·Fragment)의 한국어 게임 표기. 보상의 기초 헤드헌팅 허가증(Basic HH Permit)은 뜻으로 맞춘 이름이다.
+- 탐색 의뢰 III·IV·VI의 보상이 두 묶음으로 나뉜 이유(첫 클리어 보상과 추가 보상인지).
+- Nodule Refining 2의 선행 조건. 의뢰 표에는 'Nodule Refining 2와 탐색 의뢰 VI 완료'로 적혀 있어 자기 자신을 가리킨다.
+- 의뢰 목록 페이지는 2026-07-27 수정본이라 1.3 버전 이후의 변경이 반영되었는지.
+- '숨겨진 구역의 여행자' 각 시리즈와 공간의 한국어 이름.
 - 지역 표에서 '??'로 남은 프로토콜 용량·집라인 단계값.
 - 4번 협곡 지역들의 탈로사이트 수. 지역 표에 칸이 없다.
 - 영어 업데이트명과 버전의 대응. Zeroth Directive를 1.0(미션 제로), Old Deep Water Dies, by Rising Tide It is Denied를 1.1, At the Wake of Spring을 1.2(봄날의 새벽)로 본 것은 한국어 버전 이름과 뜻으로 맞춘 것이다.
 
 ## 히스토리
+
+- 2026-10-28: 거래소 개인 장치 6종 이름을 채우고 개인 장치·영광의 길 문서로 링크. Homecoming을 1.4 버전으로 확인.
+- 2026-10-27: 침식된 유산을 찾아서에 탐색 의뢰, 탐색 지원 기술 연구, 집중 의뢰 목록과 작전 지표 보상 표 추가. endfield.wiki.gg Etchspace Salvage/Commissions(2026-07-27 수정본)와 Etchspace Salvage의 wikitext 기준.
 
 - 2026-10-25: 탐색 레벨 절(올리는 방법, 단계별로 열리는 것, 단계별 값 표, 낮추기)과 탈로사이트 거래소 절 추가. 본문의 출처 서술을 걷어 냄.
 - 2026-10-23: 최초 작성. 나무위키 「지역」(2026-10-22 수정본)과 endfield.wiki.gg Energy Alluvium·Etchspace Salvage·Delver of the Cryptic 기준.
