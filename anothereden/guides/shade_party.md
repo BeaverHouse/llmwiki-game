@@ -9,12 +9,12 @@ sources:
   - 애니·클러그혼·네코코(ES)의 세부는 이 위키의 [characters/eni.md](../characters/eni.md), [characters/clughorn.md](../characters/clughorn.md), [characters/necoco_es.md](../characters/necoco_es.md) 경유
   - 사이트 데이터 ae_translation_all·ae_character (2026-10-27)
 created: 2026-10-27
-updated: 2026-10-27
+updated: 2026-10-29
 ---
 
 # 그림자 파티 (刻陰陣 편성)
 
-전위를 그림자 속성으로 맞추고 그림자 ZONE 「刻陰陣」(강화판 極・刻陰陣, 絶・刻陰陣)을 깔아 싸우는 편성이다. 서포터 [애니](../characters/eni.md), 어태커 검은 옷의 칼잡이(AS)와 [클러그혼](../characters/clughorn.md)이 축이다. 애니의 「血の誓約」(전투 시작 시 자신 외 아군에게 ルナティック<捨身> + 庇立て + 전투 불능 1회 무효)로 첫 턴 세팅을 안전하게 하고, 검은 옷의 칼잡이(AS)의 絶・刻陰陣으로 아군 전체에 ルナティック<挺身>을 얹는 것이 이 파티의 큰 그림이다. 애니는 Seesaa 「環境キャラ・装備まとめ」(2025-07)의 최상위 등급이다. 일본 서버 기준이며 고유명사 표기는 [glossary.md](../glossary.md)를 따른다.
+전위를 그림자 속성으로 맞추고 그림자 ZONE 「刻陰陣」(강화판 極・刻陰陣, 絶・刻陰陣)을 깔아 싸우는 편성이다. 서포터 [애니](../characters/eni.md), 어태커 [검은 옷의 칼잡이(AS)](../characters/black_clad_swordsman_as.md)와 [클러그혼](../characters/clughorn.md)이 축이다. 애니의 「血の誓約」(전투 시작 시 자신 외 아군에게 ルナティック<捨身> + 庇立て + 전투 불능 1회 무효)로 첫 턴 세팅을 안전하게 하고, 검은 옷의 칼잡이(AS)의 絶・刻陰陣으로 아군 전체에 ルナティック<挺身>을 얹는 것이 이 파티의 큰 그림이다. 애니는 Seesaa 「環境キャラ・装備まとめ」(2025-07)의 최상위 등급이다. 일본 서버 기준이며 고유명사 표기는 [glossary.md](../glossary.md)를 따른다.
 
 출처 시점 주의: 검은 옷의 칼잡이(AS) 페이지(2025-08)는 애니 성도각성(Ver3.14.0, 2026-01) 전이라 "애니는 아직 SA 미대응"으로 적혀 있다. 애니 페이지(2026-02)는 SA 후 내용이다.
 
