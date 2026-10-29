@@ -10,7 +10,7 @@ sources:
   - 사이트 데이터 (ae_character c101000121, ae_translation)
   - 사이트 데이터 ae_translation_all (2026-10-25, 용어 한국어 교체)
 created: 2026-10-19
-updated: 2026-10-25
+updated: 2026-10-29
 ---
 
 # 유나
@@ -97,7 +97,7 @@ Ver2.1.40(2019-06-13)에 나온 ☆5 스타일로, 처음으로 물 ZONE(水天�
 
 - [환경 캐릭터 평가](../guides/meta_characters.md)
 - [アン・キ・ディグマ](../raids/an_ki_digma.md)
-- [셴화](xianhua.md), [마리엘](mariel.md), [쿠치나와](kuchinawa.md)
+- [셴화](xianhua.md), [쿠치나와](kuchinawa.md)
 
 ## 히스토리
 

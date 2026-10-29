@@ -9,7 +9,7 @@ sources:
   - https://altema.jp/anaden/chara/1096 (altema 「ジルバー(アナザースタイル)」. 2026-10-24 열람 시 403으로 본문을 읽지 못함. 근거로 쓰지 않음)
   - 사이트 데이터 ae_translation_all (2026-10-25, 용어 한국어 교체)
 created: 2026-10-24
-updated: 2026-10-25
+updated: 2026-10-29
 ---
 
 # 질버(AS)
@@ -94,7 +94,6 @@ updated: 2026-10-25
 - 도회의 자객 렌리: 불 약점 적과 싸울 때의 세트. 連携 효과가 강력하다.
 - 쿠치나와: 땅 약점 적과 싸울 때의 유력한 세트. 連携로 エレメンタルブレイク(地)를 붙이고 어빌리티로 땅 AZ를 켜기 쉽다.
 - 베네디트: 도끼 + 무법자 퍼스널리티 일치도가 높아 글래스터 담당으로 유력. 약점 속성형이면 全能 글래스터도 유효하다.
-- [마리엘](mariel.md) 문서에도 질버(AS)를 어태커로 넣은 편성이 있다.
 
 ## 강적 운용
 
@@ -124,7 +123,7 @@ Ver1.4.0(2017-09-14)에 실장된 ☆3~☆4 캐릭터다(클래스 체인지 서
 
 - [闇のアルターフォース](../raids/yami_alter_force.md) (장기전의 핵, 増蝕 + 코로보 오라로 腕知 100%)
 - [アン・キ・ディグマ](../raids/an_ki_digma.md), [ムル・ナブズ](../raids/muru_nabuzu.md) (속성 무관 어태커 후보)
-- [환경 캐릭터 평가](../guides/meta_characters.md), [결정 파티](../guides/crystal_party.md), [마리엘](mariel.md)
+- [환경 캐릭터 평가](../guides/meta_characters.md), [결정 파티](../guides/crystal_party.md)
 - [글래스터](../guides/grasta.md), [환경 장비](../guides/meta_equipment.md), [성도각성](../guides/stellar_awakening.md), [アナザーフォース](../guides/another_force.md), [ZONE](../guides/zone.md)
 - 다른 속성 무관 어태커: [세리에스(AS)](cerius_as.md), [셴화](xianhua.md)
 
