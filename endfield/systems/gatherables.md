@@ -3,23 +3,15 @@ title: 채집 재료와 천연자원 (Gatherables, Natural Resources)
 type: guide
 aliases: [채집 재료, 천연자원, Gatherables, Natural Resources, Naturals, 요리 재료, 전리품, 이향석, Aggagrit, 굳은 상태의 이향석, Hard Aggagrit, 풀 씨앗 가루, 연골 분말, Cartilage Bit, 특수 기름, Chromatic Lipids, 비스트의 고기, Fillet, 벌레의 고기, Slug Meat, 야광 풍뎅이, Glowbug, 화염 풍뎅이, Scorchbug, 버든비스트의 배설물, Burdo-Muck, 파릇파릇한 죽순, 천연 결정 덩어리, Natural Chrysopolis Ingot, 메밀꽃, Buckflower, 시트론, Citrome, 금초, Jincao, 야침, Yazhen, 변종 식물, 화염 메밀꽃, Firebuckle, 다크 시트론, Umbraline, 우거진 금초, Fluffed Jincao, 가시 야침, Thorny Yazhen, 샌드리프, 아케톤, 원목, 광맥, 순도, 오리지늄 광물, 자수정 광석, 페리움 광석, 적동 광석, 청정수, 산성 침적물, 비활성 기체, 식양 기체]
 sources:
-  - https://namu.wiki/w/명일방주:%20엔드필드/아이템/채집%20재료 (게임 안 아이템 설명 인용, 2026-07-27 수정본, 2026-10-27 열람, CC BY-NC-SA 2.0 KR)
-  - https://namu.wiki/w/명일방주:%20엔드필드/아이템/천연자원 (게임 안 아이템 설명 인용, 2026-09-26 수정본, 2026-10-27 열람, CC BY-NC-SA 2.0 KR)
-  - https://namu.wiki/w/명일방주:%20엔드필드/아이템 (2026-07-22 수정본, 2026-10-27 열람, CC BY-NC-SA 2.0 KR)
-  - https://endfield.wiki.gg/wiki/Gatherables (2026-06-15 수정본, 2026-10-27 열람)
-  - https://endfield.wiki.gg/wiki/Natural_Resources (2026-07-17 수정본, 2026-10-27 열람)
-  - https://endfield.wiki.gg/wiki/Fillet (개별 아이템, 한국어 표기 포함, 2026-10-27 열람)
-  - https://endfield.wiki.gg/wiki/Slug_Meat (2026-10-27 열람)
-  - https://endfield.wiki.gg/wiki/Glowbug (2026-10-27 열람)
-  - https://endfield.wiki.gg/wiki/Scorchbug (2026-10-27 열람)
-  - https://endfield.wiki.gg/wiki/Burdo-Muck (2026-10-27 열람)
+  - https://namu.wiki/w/명일방주:%20엔드필드/아이템 (2026-07-22) · /아이템/채집%20재료 (2026-07-27) · /아이템/천연자원 (2026-09-26) (아이템 설명 인용, 2026-10-27 열람, CC BY-NC-SA 2.0 KR)
+  - https://endfield.wiki.gg/wiki/Gatherables · Natural_Resources · Fillet · Slug_Meat · Glowbug · Scorchbug · Burdo-Muck (한국어 표기 포함, 2026-10-27 열람)
 created: 2026-10-27
-updated: 2026-10-27
+updated: 2026-10-29
 ---
 
 # 채집 재료와 천연자원
 
-야외에서 얻는 재료 가운데 쓰임이 있는 것만 정리한다. 채집 재료는 적과 동물을 쓰러뜨리거나 필드에서 채집해 얻는 요리·약품 재료이고, 천연자원은 공장에서 가공하는 광물·액체·기체·식물이다. 이 재료로 만드는 회복·버프 아이템은 [사용할 수 있는 아이템](consumables.md), 버섯·결정화 식물 같은 희귀 재료는 [육성 재료와 획득처](materials.md), 공장 설비는 [통합 공업 시스템](../content/aic.md), 논배미 재배는 [생태 재배와 논배미](../content/eco_farming.md)에서 다룬다. 고유명사 표기는 [glossary.md](../glossary.md)를 따른다.
+쓰임이 있는 것만 싣는다. 채집 재료는 적·동물 처치나 필드 채집으로 얻는 요리·약품 재료이고, 천연자원은 공장에서 가공하는 광물·액체·기체·식물이다. 이것으로 만드는 아이템은 [사용할 수 있는 아이템](consumables.md), 희귀 재료는 [육성 재료와 획득처](materials.md#희귀-재료), 공장 설비는 [통합 공업 시스템](../content/aic.md), 논배미는 [생태 재배와 논배미](../content/eco_farming.md)에 있다. 고유명사 표기는 [glossary.md](../glossary.md)를 따른다.
 
 ## 채집 재료
 
@@ -27,7 +19,6 @@ updated: 2026-10-27
 
 - 대부분 야외의 적을 처치하면 일정 확률로 떨어진다. 아겔로스·본 크러셔·창적의 재료는 지역 상태에 따라 떨어지는 수와 등급이 달라진다.
 - 에너지 응집점은 응집점마다 하루 처음 9회까지만 정상 드롭률이고, 그 뒤에는 거의 떨어지지 않는다. 선검 연무에도 하루 한도가 있다. 일일 초기화 때 되돌아온다([탐색 컨텐츠](../content/exploration.md), [전투 컨텐츠](../content/combat_content.md)).
-- 음식 공식은 재료를 처음 얻거나 일정 수량을 모으면 열리고, 일부는 재료를 더 모으면 전투당 사용 횟수가 늘어난다.
 - 설명문이 "저장고 노드에서 포장 운송에 사용할 수 있습니다"로 끝나는 전리품은 포장 운송 말고 쓰임이 없다.
 
 ### 쓰임이 큰 재료
@@ -43,8 +34,6 @@ updated: 2026-10-27
 이 밖의 요리 재료(이향석 계열, 본 크러셔의 풀 씨앗 가루·연골 분말, 창적의 죽순 등)는 해당 지역 적에게서 낮은 확률로 떨어지며, 음식 한두 종에만 쓰인다.
 
 ## 천연자원
-
-공장에서 가공해 생산품을 만드는 자원이다.
 
 ### 광물
 
@@ -80,9 +69,9 @@ updated: 2026-10-27
 | 금초 | 무릉 | 순간 회복 약품 |
 | 야침 | 무릉 | 지속 회복 약품 |
 
-- 재배기에서 4번 협곡 식물은 씨앗 1개로 1개, 무릉 식물은 청정수와 함께 씨앗 1개로 2개가 나온다. 씨앗은 씨앗 추출기로만 얻는다.
-- 변종 식물(화염 메밀꽃, 다크 시트론, 우거진 금초, 가시 야침)로 만든 가공품은 최대 생명력 비례 회복이 더해진다. 야외에서 직접 채집하거나 일반 식물 채집·논배미 수확 때 확률로 얻고, 재배기로 기를 수 없다.
-- 농작물(회보리, 쓴맛 나는 고추, 홍옥 인삼, 금석벼)은 재배기로 기를 수 없고 논배미에서 손으로 기른다. 홍옥 인삼은 푹 삶은 갈비 미삼탕에 들어간다.
+- 재배기·씨앗 추출기와 논배미 재배는 [생태 재배와 논배미](../content/eco_farming.md).
+- 변종 식물(화염 메밀꽃, 다크 시트론, 우거진 금초, 가시 야침)로 만든 가공품은 최대 생명력 비례 회복이 더해진다. 야외 채집이나 일반 식물 채집·논배미 수확 때 확률로 얻고, 재배기로는 못 기른다.
+- 농작물(회보리, 쓴맛 나는 고추, 홍옥 인삼, 금석벼)은 논배미에서만 기른다. 홍옥 인삼은 푹 삶은 갈비 미삼탕에 들어간다.
 
 ## 확인하지 못한 것
 

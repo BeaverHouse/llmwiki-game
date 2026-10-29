@@ -4,24 +4,18 @@ type: guide
 aliases: [탐색, 탐색 컨텐츠, 필드 탐색, 수집 요소, 오리렌, 상자, 연구 포인트, 장비 템플릿, 오리지늄 회로 영감, 탈로사이트, Talosite, 탈로사이트 거래소, Talosite Exchange, 프로토콜 용량, 집라인 제한, 전술 시설 제한, 에너지 응집점, 고위 에너지 응집점, Energy Alluvium, Severe Energy Alluvium, 탐색 레벨, Exploration Level, 월드 레벨, World Level, 침식된 유산을 찾아서, Etchspace Salvage, 탐색 의뢰, Aberrant Exploration, 탐색 지원 기술, Exploration Support Tech, 집중 의뢰, Focus Commission, 작전 지표, Operation Metrics, 숨겨진 구역의 여행자, Delver of the Cryptic, 수명]
 sources:
   - https://namu.wiki/w/명일방주:%20엔드필드/지역 (2026-10-22 수정본, 지역별 제한·수집 요소, CC BY-NC-SA 2.0 KR)
-  - https://endfield.wiki.gg/wiki/Energy_Alluvium (2026-10-17 수정본)
-  - https://endfield.wiki.gg/wiki/Etchspace_Salvage (2026-10-22 수정본. 2026-10-27에 wikitext로 작전 지표 보상 표, 물품 출처, 변경 기록 확인)
-  - https://endfield.wiki.gg/wiki/Etchspace_Salvage/Commissions (2026-07-27 수정본 oldid=57959, 렌더 페이지와 wikitext. 탐색 의뢰·탐색 지원 기술 연구·집중 의뢰 목록)
-  - https://endfield.wiki.gg/wiki/Delver_of_the_Cryptic (2026-09-05 수정본)
-  - https://endfield.wiki.gg/wiki/Exploration_Level (2026-07-14 수정본, 단계별 값 표와 02/05 최적화 공지 변경점)
-  - https://endfield.wiki.gg/wiki/Talosite_Exchange (2026-10-16 수정본)
-  - https://namu.wiki/w/명일방주:%20엔드필드/전투 (2026-10-16 수정본, 탐색 레벨 서술 없음을 확인)
+  - https://endfield.wiki.gg/wiki/Energy_Alluvium · Etchspace_Salvage(wikitext, 변경 기록) · Etchspace_Salvage/Commissions (2026-07-27 수정본) · Delver_of_the_Cryptic · Exploration_Level (02/05 최적화 공지 변경점) · Talosite_Exchange (2026-07~10 수정본)
 created: 2026-10-23
-updated: 2026-10-28
+updated: 2026-10-29
 ---
 
 # 탐색 컨텐츠
 
-필드를 돌아다니며 얻는 수집 요소, 탐색 레벨, 필드의 전투 지점인 에너지 응집점, 탈로사이트 거래소, 그리고 탐색형 상시 모드인 '침식된 유산을 찾아서'와 '숨겨진 구역의 여행자'를 정리한다. 지역의 이야기와 지명은 [4번 협곡](../world/valley_iv.md)과 [무릉](../world/wuling.md), 서브 코어 구역의 운송 의뢰·거점 방어는 [정착지와 거점](settlements.md), 공업 포인트를 주는 프로토콜 데이터 수집기는 [통합 공업 시스템](aic.md), 그림 속 지역은 [사의 그림](si_painting.md), 전투 위주의 모드는 [전투 컨텐츠](combat_content.md)에서 다룬다. 고유명사 표기는 [glossary.md](../glossary.md)를 따른다.
+지역의 이야기와 지명은 [4번 협곡](../world/valley_iv.md)과 [무릉](../world/wuling.md), 운송 의뢰·거점 방어는 [거점과 지역 개발](settlements.md), 프로토콜 데이터 수집기는 [통합 공업 시스템](aic.md), 그림 속 지역은 [사의 그림](si_painting.md), 전투 모드는 [전투 컨텐츠](combat_content.md)에 있다. 한국어 표기가 확인되지 않은 용어는 영어로 적는다. 고유명사 표기는 [glossary.md](../glossary.md)를 따른다.
 
 ## 지역별 수집 요소와 설치 제한
 
-2026-10-22 기준 값이다. 프로토콜 용량은 지역 레벨에 따라 늘어나는 단계별 값을, 확인되지 않은 칸은 '—'로 적는다. 탈로사이트는 응룡 관문부터 세며, 그 앞 지역에는 탈로사이트 칸이 없다.
+2026-10-22 기준. 프로토콜 용량은 지역 레벨별 단계값이고, '—'는 모르는 칸이다. 탈로사이트는 응룡 관문부터 센다.
 
 | 지역 | 프로토콜 용량 | 집라인 | 전술 시설 | 오리렌 | 상자 | 연구 포인트 | 장비 템플릿 | 오리지늄 회로 영감 | 탈로사이트 |
 |---|---|---|---|---|---|---|---|---|---|
@@ -45,8 +39,6 @@ updated: 2026-10-28
 
 - 오리렌은 프로토콜 전송 지점에 내면 파생 오리지늄을 받는다([육성 재료와 획득처](../systems/materials.md)).
 - 연구 포인트와 프로토콜 데이터 수집기는 공업 발전 계획 연구에 쓰는 공업 포인트를 준다([통합 공업 시스템](aic.md)).
-- 탈로사이트는 아래 '탈로사이트 거래소'에서 쓴다.
-- 무릉성은 구역 설비 수 512개 제한이 따로 있다.
 
 ## 지역별 탐색 장치
 
@@ -64,18 +56,18 @@ updated: 2026-10-28
 
 ## 탐색 레벨
 
-탐색 레벨(영어 Exploration Level, 통칭 World Level)은 오퍼레이터 레벨 상한, 필드에서 만나는 적의 최저 레벨, 희귀 채집 지점의 재생 속도와 최대 수량, 프로토콜 공간의 단계 개방 등을 정한다. 아래 용어는 영어 표기에서 옮긴 것이며, 한국어 게임 표기는 확인하지 못했다.
+탐색 레벨(Exploration Level, 통칭 World Level)은 오퍼레이터 레벨 상한, 필드 적의 최저 레벨, 희귀 채집 지점의 재생 속도와 최대 수량, 프로토콜 공간의 단계 개방을 정한다.
 
 ### 올리는 방법
 
-레벨 1에서 시작해 메인 스토리를 진행하면 오른다. 레벨 3 이후에는 레벨마다 특별한 프로토콜 공간을 클리어해야 한다. Beyond the Worlds' Expanse I·II·III·IV를 클리어하면 각각 탐색 레벨 4·5·6·7이 된다(공간과 위치는 [프로토콜 공간](protocol_space.md)의 '탐색 레벨 공간').
+메인 스토리 진행으로 오르고, 레벨 3 이후에는 Beyond the Worlds' Expanse I·II·III·IV를 클리어하면 각각 4·5·6·7이 된다(공간과 위치는 [프로토콜 공간](protocol_space.md)의 '탐색 레벨 공간').
 
 ### 단계별로 열리는 것
 
 - 레벨 2: 임무 The Mission Continues의 2단계를 마치면 열린다. 다른 사람이 공유한 설비가 자기 세계에 나타나기 시작한다.
 - 레벨 3: [권한 등급](../systems/protocol_pass.md) 25에 이르면 열린다. 프로토콜 공간 3단계가 열린다.
-- 레벨 4: 에너지 응집점이 고위 에너지 응집점으로 바뀌어, 이성을 써서 최고 등급 기질을 얻을 수 있다. 레벨이 오를수록 고위 에너지 응집점의 적 레벨, 이성 소모, 보상이 함께 오른다(아래 '에너지 응집점').
-- 레벨 5: 고위험 재료 프로토콜 공간(Crisis Drills)이 열려, 4차 정예화 같은 육성에 필요한 희귀 육성 재료를 얻을 수 있다. 보스 재도전 공간의 심층 모드와 프로토콜 공간 4단계도 열린다.
+- 레벨 4: 에너지 응집점이 고위 에너지 응집점으로 바뀐다(아래 [에너지 응집점](#에너지-응집점)).
+- 레벨 5: 고위험 재료 프로토콜 공간(Crisis Drills, 4차 정예화 등에 드는 고급 육성 재료), 보스 재도전 공간의 심층 모드, 프로토콜 공간 4단계가 열린다.
 - 레벨 6: 프로토콜 공간 5단계가 열린다.
 
 | 탐색 레벨 | 오퍼레이터 레벨 상한 | 적 최저 레벨 | 희귀 채집 지점 하루 재생 수 | 희귀 채집 지점 재생 상한 |
@@ -92,13 +84,13 @@ updated: 2026-10-28
 
 ### 낮추기
 
-Protosync 메뉴에서 탐색 레벨을 직접 낮출 수 있다. 원래 레벨로는 언제든 되돌릴 수 있지만, 다시 낮추려면 24시간을 기다려야 한다. 레벨을 낮추면 오퍼레이터 레벨 상한도 내려간다. 상한을 넘은 오퍼레이터는 레벨이 그대로 유지되지만 레벨을 더 올릴 수는 없다.
+Protosync 메뉴에서 낮출 수 있다. 원래 레벨로는 언제든 돌아가지만, 다시 낮추려면 24시간을 기다린다. 낮추면 오퍼레이터 레벨 상한도 내려가고, 상한을 넘은 오퍼레이터는 레벨이 유지되지만 더 올릴 수 없다.
 
 ## 에너지 응집점
 
-필드의 정해진 곳에 있는 전투 지점이다. 다가가 활성화하면 도전을 시작할지 고른다. 여러 웨이브로 적이 나오고, 모두 처치하면 첫 클리어 보상을 받는다. 적은 각자의 아이템과 무기 기질을 확률로 떨어뜨린다. 적의 레벨은 탐색 레벨에 따른다.
+필드의 정해진 전투 지점이다. 활성화하면 여러 웨이브로 적이 나오고, 모두 처치하면 첫 클리어 보상을 받는다. 적은 아이템과 무기 기질을 확률로 떨어뜨리며, 레벨은 탐색 레벨을 따른다. 하루 드롭 한도는 [채집 재료와 천연자원](../systems/gatherables.md#얻는-방법).
 
-탐색 레벨 4가 되면 모든 에너지 응집점이 고위 에너지 응집점(Severe Energy Alluvium)으로 바뀐다. 고위 에너지 응집점은 적의 드롭과 별도로 이성을 써서 추가 보상(주로 최고 등급 기질)을 받을 수 있고, 협곡 각인권이나 무릉 각인권으로 기질의 속성 일부를 고정할 수 있다(각인권은 [육성 재료와 획득처](../systems/materials.md), 기질은 [무기](../systems/weapons.md)).
+탐색 레벨 4부터는 고위 에너지 응집점(Severe Energy Alluvium)이 된다. 적 드롭과 별도로 이성을 써서 추가 보상(주로 최고 등급 기질)을 받고, 협곡·무릉 각인권으로 기질 속성 일부를 고정할 수 있다([육성 재료와 획득처](../systems/materials.md#기질-관련-재료), [무기](../systems/weapons.md#육성)). 레벨이 오를수록 적 레벨, 이성 소모, 보상이 함께 오른다.
 
 | 탐색 레벨 | 이성 소모 | 최고 등급 기질 |
 |---|---|---|
@@ -107,11 +99,11 @@ Protosync 메뉴에서 탐색 레벨을 직접 낮출 수 있다. 원래 레벨�
 | 6 | 70 | 2~3개 |
 | 7 | 80 | 3개 |
 
-위치는 4번 협곡의 거점 지역·오리지늄 연구 구역·광맥 구역·에너지 공급 고지, 무릉의 무릉성·청파채·수돈·실험 구역·장검 골짜기·응룡 관문·북쪽 금지 구역·눈 덮인 소나무 숲·사의 그림이다. 고위 에너지 응집점이 되기 전의 에너지 응집점은 파생 오리지늄의 획득처이기도 하다([육성 재료와 획득처](../systems/materials.md)).
+위치는 4번 협곡의 거점 지역·오리지늄 연구 구역·광맥 구역·에너지 공급 고지, 무릉의 무릉성·청파채·수돈·실험 구역·장검 골짜기·응룡 관문·북쪽 금지 구역·눈 덮인 소나무 숲·사의 그림이다. 고위 에너지 응집점이 되기 전에는 파생 오리지늄도 준다.
 
 ## 탈로사이트 거래소 (Talosite Exchange)
 
-필드에서 모은 탈로사이트로 장식품, 오퍼레이터 카메라 포즈 같은 보상을 사는 특별 상점이다. 응룡 관문에 들어갈 수 있게 된 뒤 첫 탈로사이트를 얻으면 열리며, 2026-10 기준 무릉 지역 전용이다. 아래 구획 이름은 영어 표기에서 옮긴 것이다.
+필드에서 모은 탈로사이트로 보상을 사는 상점이다. 응룡 관문에 들어갈 수 있게 된 뒤 첫 탈로사이트를 얻으면 열리고, 2026-10 기준 무릉 전용이다.
 
 | 구획 | 품목 | 가격(탈로사이트) |
 |---|---|---|
@@ -121,21 +113,20 @@ Protosync 메뉴에서 탐색 레벨을 직접 낮출 수 있다. 원래 레벨�
 | 카메라 포즈 (Camera Pose) | 16종, 각 1개 | 1 또는 3 |
 | 음반 (Vinyl) | 9종, 각 1개 | 1 |
 
-음반은 제강호 응접실의 축음기 Phonograph MKV-I로 튼다. 음반 9종의 영어 이름은 The Day After Tomorrow, My Former Hero, To Walk, To Cross, Blossoms Bring an Old Friend, Echoes on a Jade Plate, Drowned in Depth, Skipping Through Light, Flow of Eons, Snowy Forest다. 개인 장치 구획은 1.5 버전(Dreamscape of Wind and Snow)에 추가되었다. 장비 세트 절망은 [장비와 장비 세트](../systems/gear_sets.md)에 있다.
+음반은 제강호 응접실의 축음기 Phonograph MKV-I로 튼다. 음반 영어 이름: The Day After Tomorrow, My Former Hero, To Walk, To Cross, Blossoms Bring an Old Friend, Echoes on a Jade Plate, Drowned in Depth, Skipping Through Light, Flow of Eons, Snowy Forest. 절망 세트는 [장비와 장비 세트](../systems/gear_sets.md#세트-효과가-없는-장비).
 
 ## 침식된 유산을 찾아서 (Etchspace Salvage)
 
-4번 협곡의 여러 지역을 본뜬 공간(영어 Valley's Aberrants)에서 물건을 모아 빠져나오는 상시 모드다. 한국어 용어 대부분은 영어 표기에서 옮긴 것이다. 제강호의 입구는 [제강호](dijiang.md) 문서에 있다.
+4번 협곡의 여러 지역을 본뜬 공간(Valley's Aberrants)에서 물건을 모아 빠져나오는 상시 모드다. 입구는 [제강호](dijiang.md)에 있다.
 
 - 개방: 오리지늄 연구 구역의 산길에 이르고 권한 등급 22를 달성하면 열린다. 4구역은 권한 등급 40, 5·6구역은 45가 필요하다.
 - 혼란 수치(Derangement): 안전 구역 밖에서는 기본으로 초당 1씩 오르고, 구역이 깊을수록 배율이 크다(1구역 1배, 2구역 3배, 3구역 5배, 4구역 7배, 5구역 10배, 6구역 20배). 전투 중에는 두 배로 오르고, 상자나 결정을 열 때 5 또는 10씩 오른다. 한계에 이르면 10초 뒤 강제로 빠져나온다.
 - 소모품은 가져갈 수 없고, 맵의 치유 결절에 닿으면 팀 전체가 회복하고 쓰러진 팀원이 일어난다.
 - 수집물: 침전 결정을 부숴 얻는 결절(Nodule)과 상자(소포·계기 금고·자판기)에서 얻는 물품(Manifest)을 격리 컨테이너에 담는다. 컨테이너 용량은 정해져 있다. 결절은 일정 비율로 Aurylene Crystal로 바뀌고, 물품은 귀중품 창고에 들어간다. 자판기는 두 번 열 수 있다. 결정·상자·적은 빠져나오면 다시 생긴다. 맵의 일반 상자는 오로베릴을 한 번 준다.
-- 의뢰: 탐색 의뢰를 마치면 탐색 지원 기술 12종(혼란 한계 증가, 컨테이너 확장, 처치 시 스킬 게이지 회복, 공업 폭발물 반입 등)이 열린다. 탐색 의뢰 III을 마치면 매주 집중 의뢰 3개가 열리고, 하나에 작전 지표 20,000을 준다. 의뢰는 한 번에 4개까지 들고 있을 수 있다.
-- 작전 지표: Aurylene Crystal 1개마다 1씩 쌓이며, 일정 수치마다 1회성 보상을 준다.
+- 의뢰는 한 번에 4개까지 들 수 있다.
 - 버전별 확장: 출시 때 1~3구역, 1.1 버전에 4구역(Aberrant of Connection), 1.2 버전에 5구역(Aberrant of Leap)과 6구역(Aberrant of Hazefyre)이 열렸다. 1.2 버전 기준 혼란 한계는 10,000, 컨테이너 용량은 80, 결절 전환 효율은 200%다.
 
-구역 이름은 1구역부터 Aberrant of Origins, Aberrant of Pressure, Aberrant of Conflagration, Aberrant of Connection, Aberrant of Leap, Aberrant of Hazefyre다. 아래 의뢰·물품 이름은 한국어 게임 표기를 확인하지 못해 영어로 적는다.
+구역 이름은 1구역부터 Aberrant of Origins, Aberrant of Pressure, Aberrant of Conflagration, Aberrant of Connection, Aberrant of Leap, Aberrant of Hazefyre다.
 
 ### 탐색 의뢰 (Aberrant Exploration)
 
@@ -154,7 +145,7 @@ V는 5구역에서 빠져나온 뒤 Control Center에서 자이히와 이야기�
 
 ### 탐색 지원 기술 연구
 
-Aquito의 연구 의뢰다. 정해진 구역에서 나온 물품과 Aurylene Crystal을 내면 기술이 오른다. 표의 Aurylene Crystal 수는 함께 내야 하는 양이다. '처음부터'는 모드를 열 때 바로 열리는 것이다.
+Aquito의 연구 의뢰다. 정해진 구역의 물품과 Aurylene Crystal을 내면 기술이 오른다. 처음부터는 모드 개방과 함께 열리는 것이다.
 
 | 연구 | 열리는 조건 | 낼 물품 | Aurylene Crystal | 오로베릴 | 효과 |
 |---|---|---|---|---|---|
@@ -189,11 +180,11 @@ Aquito의 연구 의뢰다. 정해진 구역에서 나온 물품과 Aurylene Cry
 | Energy Capture | Charge Burst | 5구역: Specimen: Arts Unit 8, Densolite Fragment 6, Unbreachable Crystal Fragment 1 | 5,000 | 60 | 적을 처치하면 팀원 모두 궁극기 에너지 20% 획득 |
 | Stress Feedback | Energy Capture | 6구역: Specimen: Bonekrusher Dolls 8, Tactical Equipment Fragment 6, Aberrant Hazefyre Fragment 1 | 8,000 | 60 | 스킬 게이지 회복 속도 +50% |
 
-효과는 모두 이 모드 안에서만 적용된다. 낼 물품 가운데 Classified는 소포, Gold Statuette는 계기 금고, Specimen은 자판기에서 나오고, Fragment는 적과 보스가 떨어뜨린다. 보스의 Fragment는 처치하면 반드시 나온다.
+효과는 이 모드 안에서만 적용된다. Classified는 소포, Gold Statuette는 계기 금고, Specimen은 자판기에서 나오고, Fragment는 적과 보스가 떨어뜨린다(보스는 확정).
 
 ### 집중 의뢰 (Focus Commission)
 
-탐색 의뢰 III을 마치면 매주 3개가 주어진다. Aurylene Crystal을 써서 새 의뢰를 받거나 집중 의뢰를 새로 고칠 수 있으며, 매주 첫 새로 고침과 첫 새 의뢰는 무료다. 끝내지 않은 의뢰는 매주 바뀐다. 아래 의뢰는 모두 작전 지표 20,000을 준다.
+탐색 의뢰 III을 마치면 매주 3개가 주어지고, 끝내지 않은 것은 매주 바뀐다. Aurylene Crystal로 새 의뢰를 받거나 새로 고치며, 매주 첫 번째씩은 무료다. 모두 작전 지표 20,000을 준다.
 
 | 의뢰 | 구역 | 낼 것 |
 |---|---|---|
@@ -215,7 +206,7 @@ Manifest Containment는 그 구역의 정해진 색 보관함에서 나오는 �
 
 ### 작전 지표 보상
 
-작전 지표는 결절을 가지고 나와 바뀐 Aurylene Crystal 1개마다 1씩, 그리고 집중 의뢰를 마칠 때 쌓인다. 아래 수치에 이를 때마다 한 번씩 보상을 받는다.
+작전 지표는 결절에서 바뀐 Aurylene Crystal 1개마다 1씩, 그리고 집중 의뢰로 쌓인다. 아래 수치마다 1회 보상을 받는다.
 
 | 작전 지표 | 보상 |
 |---|---|
@@ -240,32 +231,32 @@ Manifest Containment는 그 구역의 정해진 색 보관함에서 나오는 �
 | 180,000 | 오로베릴 400, 중형 모형 틀 16, 탈로시안 화폐 15,000 |
 | 200,000 | 기초 헤드헌팅 허가증 2, 고급 인지 매개체 6, 탈로시안 화폐 15,000 |
 
-200,000까지 모두 받으면 오로베릴 4,000, 기초 헤드헌팅 허가증 20, 탈로시안 화폐 250,000이 된다. 작전 지표 보상은 1.1 버전과 1.2 버전에 늘어났다. 집중 의뢰 보상은 1.1 버전에 10,000, 1.2 버전에 20,000으로 올랐다. 1.1 버전에는 혼란 한계 4,200과 컨테이너 용량 50, 1.2 버전의 5구역 개방 때는 혼란 한계 5,000, 컨테이너 용량 55, 혼란 내성 50%가 최대였다. 육성 재료의 쓰임은 [육성 재료와 획득처](../systems/materials.md)에 있다.
+200,000까지 모두 받으면 오로베릴 4,000, 기초 헤드헌팅 허가증 20, 탈로시안 화폐 250,000이 된다.
 
 ## 숨겨진 구역의 여행자 (Delver of the Cryptic)
 
-필드의 장치를 응용한 여러 프로토콜 공간으로 이루어진 상시 이벤트다. 퍼즐을 풀어 출구에 닿거나 가능한 한 빨리 출구에 닿는 공간으로 나뉜다. 클리어 보상과 별도로, 공간마다 상자 세 개가 있거나 탐색·조작 실력을 시험하는 추가 목표가 있다. 한 시리즈의 공간을 모두 클리어하면 [영광의 길](path_of_glory.md) 메달을 받고, 상자와 추가 목표를 모두 채우면 메달이 꾸며진다.
+필드 장치를 응용한 프로토콜 공간들로 이루어진 상시 이벤트다. 퍼즐을 풀어 출구에 닿는 공간과 빨리 닿는 공간이 있다. 공간마다 상자 셋이나 추가 목표가 있다. 한 시리즈의 공간을 모두 클리어하면 [영광의 길](path_of_glory.md) 메달을 받고, 상자와 추가 목표를 모두 채우면 메달이 꾸며진다.
 
 시리즈는 Cryptic First Revealed(출시), Grotto Survey(1.1 버전), Artful Realm of Six Cardinals(1.4 버전 Homecoming)다.
 
 ## 확인하지 못한 것
 
 - 탐색 레벨, 희귀 채집 지점, Protosync, 임무 The Mission Continues, Beyond the Worlds' Expanse, 혼란 수치, 결절, 격리 컨테이너, 작전 지표, Aurylene Crystal, 침전 결정의 게임 안 한국어 표기.
-- 탐색 레벨 단계별 값, 고위 에너지 응집점의 탐색 레벨별 이성 소모와 기질 수, 탈로사이트 거래소 품목은 endfield.wiki.gg에만 있다. 거래소 표의 아이콘이 깨져 장식품·카메라 포즈 품목 이름은 확인하지 못했다.
+- 탐색 레벨 단계별 값, 고위 에너지 응집점의 이성 소모와 기질 수, 거래소 품목은 영어 자료 하나에만 있다. 장식품·카메라 포즈 품목 이름은 아이콘이 깨져 모른다.
 - 탐색 레벨 2를 여는 The Mission Continues가 어느 임무인지.
 - 침식된 유산을 찾아서의 의뢰·연구 이름, 구역 이름(Aberrant of …), Aberrant Core, Control Center, Aquito, 수집 물품(Classified·Gold Statuette·Specimen·Fragment)의 한국어 게임 표기. 보상의 기초 헤드헌팅 허가증(Basic HH Permit)은 뜻으로 맞춘 이름이다.
 - 탐색 의뢰 III·IV·VI의 보상이 두 묶음으로 나뉜 이유(첫 클리어 보상과 추가 보상인지).
 - Nodule Refining 2의 선행 조건. 의뢰 표에는 'Nodule Refining 2와 탐색 의뢰 VI 완료'로 적혀 있어 자기 자신을 가리킨다.
 - 의뢰 목록 페이지는 2026-07-27 수정본이라 1.3 버전 이후의 변경이 반영되었는지.
 - '숨겨진 구역의 여행자' 각 시리즈와 공간의 한국어 이름.
-- 지역 표에서 '??'로 남은 프로토콜 용량·집라인 단계값.
-- 4번 협곡 지역들의 탈로사이트 수. 지역 표에 칸이 없다.
+- 지역 표의 빈 프로토콜 용량·집라인 단계값, 4번 협곡 지역의 탈로사이트 수.
 - 영어 업데이트명과 버전의 대응. Zeroth Directive를 1.0(미션 제로), Old Deep Water Dies, by Rising Tide It is Denied를 1.1, At the Wake of Spring을 1.2(봄날의 새벽)로 본 것은 한국어 버전 이름과 뜻으로 맞춘 것이다.
 
 ## 히스토리
 
-- 2026-10-28: 거래소 개인 장치 6종 이름을 채우고 개인 장치·영광의 길 문서로 링크. Homecoming을 1.4 버전으로 확인.
-- 2026-10-27: 침식된 유산을 찾아서에 탐색 의뢰, 탐색 지원 기술 연구, 집중 의뢰 목록과 작전 지표 보상 표 추가. endfield.wiki.gg Etchspace Salvage/Commissions(2026-07-27 수정본)와 Etchspace Salvage의 wikitext 기준.
-
-- 2026-10-25: 탐색 레벨 절(올리는 방법, 단계별로 열리는 것, 단계별 값 표, 낮추기)과 탈로사이트 거래소 절 추가. 본문의 출처 서술을 걷어 냄.
-- 2026-10-23: 최초 작성. 나무위키 「지역」(2026-10-22 수정본)과 endfield.wiki.gg Energy Alluvium·Etchspace Salvage·Delver of the Cryptic 기준.
+- 2026-10-27: 침식된 유산을 찾아서의 의뢰·연구 목록과 작전 지표 보상 표 추가.
+- 2026-10-25: 탐색 레벨과 탈로사이트 거래소 절 추가.
+- 2026-10-23: 최초 작성.
+- 1.5 버전(Dreamscape of Wind and Snow): 탈로사이트 거래소 개인 장치 구획 추가.
+- 1.2 버전: 침식된 유산을 찾아서 5·6구역 개방(5구역 개방 때 최대치는 혼란 한계 5,000, 컨테이너 55, 혼란 내성 50%). 집중 의뢰 보상 20,000으로 상승, 작전 지표 보상 확대.
+- 1.1 버전: 침식된 유산을 찾아서 4구역 개방(혼란 한계 4,200, 컨테이너 50). 집중 의뢰 보상 10,000으로 상승, 작전 지표 보상 확대.
