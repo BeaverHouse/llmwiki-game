@@ -13,7 +13,7 @@ sources:
   - altema 「最強パーティ編成考察」는 봇 차단(403)으로 열지 못했고, WebSearch 결과 요약에도 晶 파티 편성 내용이 나오지 않아 근거로 쓰지 않음
   - 사이트 데이터 ae_translation_all (2026-10-25, 용어 한국어 교체)
 created: 2026-10-20
-updated: 2026-10-25
+updated: 2026-10-29
 ---
 
 # 결정 파티 (輝晶陣 편성)
@@ -155,7 +155,7 @@ SA 질퍼니(AS)의 SB 「クルオルエンシス」는 4연타 후 「イン�
 
 ## 관련 문서
 
-- [질퍼니(AS)](../characters/jillfunny_as.md), [틸릴(ES)](../characters/thillelille_es.md), [알마(AS)](../characters/alma_as.md), [마리엘](../characters/mariel.md), [빨간 외투의 화염술사(AS)](../characters/red_clad_flame_user_as.md)
+- [질퍼니(AS)](../characters/jillfunny_as.md), [틸릴(ES)](../characters/thillelille_es.md), [알마(AS)](../characters/alma_as.md), [빨간 외투의 화염술사(AS)](../characters/red_clad_flame_user_as.md)
 - [환경 캐릭터 평가](meta_characters.md), [환경 장비](meta_equipment.md), [숨은 보스 난이도](superbosses.md)
 - [アン・キ・ディグマ](../raids/an_ki_digma.md)
 

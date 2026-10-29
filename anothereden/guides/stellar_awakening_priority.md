@@ -8,7 +8,7 @@ sources:
   - https://altema.jp/anaden/seidouosusume (altema 「星導覚醒おすすめキャラと優先度」) 는 봇 차단(403)으로 읽지 못해 내용을 싣지 않음
   - 사이트 데이터 ae_translation_all (2026-10-25, 용어 한국어 교체)
 created: 2026-10-24
-updated: 2026-10-25
+updated: 2026-10-29
 ---
 
 # 성도각성 추천 캐릭터
@@ -54,7 +54,7 @@ updated: 2026-10-25
 |---|---|---|
 | ★★★★★ | [틸릴(ES)](../characters/thillelille_es.md), 도회의 자객 렌리, 시구레(ES), 클러그혼 | [유나](../characters/yuna.md), 이스카, 빅트 |
 | ★★★★ | 뮬루스(ES), 은빛을 휘감은 번개술사(AS), [네코코(ES)](../characters/necoco_es.md), 메릿, [셴화](../characters/xianhua.md), 검은 옷의 칼잡이(AS), 보라 의상의 창술사(AS), 베르단타, 시온(ES), 까마귀 밤의 밀정 츠바메, 아나벨(ES), 리나리아, 니나, [세스타(AS)](../characters/sesta_as.md), [베레토(AS)](../characters/velette_as.md) | [애니](../characters/eni.md), 세티, 메리나, 로제타, 유인 |
-| ★★★ | [세리에스(AS)](../characters/cerius_as.md), 히스메나(ES), 엘실(AS), 백자의 마인 밍화(AS), 미나르카(AS), 코마치(AS), 야쿠모(AS), 어둠 잠식의 몽마, 니르야, 이즈나, 푸른 빛의 낫잡이(AS), 의협의 사냥꾼 라클레어, 빨간 외투의 화염술사(AS), 푸른색의 충신, 적막의 연기자 로키드, 오보로, [알마(AS)](../characters/alma_as.md), 고답의 요묘 네코코 | 에바, 렌리, [마리엘](../characters/mariel.md), 수제트, 로키드, 틸릴 |
+| ★★★ | [세리에스(AS)](../characters/cerius_as.md), 히스메나(ES), 엘실(AS), 백자의 마인 밍화(AS), 미나르카(AS), 코마치(AS), 야쿠모(AS), 어둠 잠식의 몽마, 니르야, 이즈나, 푸른 빛의 낫잡이(AS), 의협의 사냥꾼 라클레어, 빨간 외투의 화염술사(AS), 푸른색의 충신, 적막의 연기자 로키드, 오보로, [알마(AS)](../characters/alma_as.md), 고답의 요묘 네코코 | 에바, 렌리, 마리엘, 수제트, 로키드, 틸릴 |
 | ★★ | 우츠하라, 쿠치나와, 웨네피카, 먹빛의 책사(AS), 라비나(AS), 밀디, 빙무의 가희 유키노, 국화의 검객 아카네, 이드, 카구라메, 레이븐(AS), 세리에스, 꿈의 음유 시인 듀나리스(AS), 질버(AS) | 셰이네, 히스메나, 츠키하, 멜리사, 마이티, 호오즈키, 시온, 클로드 |
 | ★ | 질퍼니, 쿨레르보(AS), 가시나무 저주의 여인 셰이네, 전영의 샛별 시엘, 마츠리카, 루프스(AS), 링리(AS), 이벨라(AS), 멜피피아, 사잔카, 히나기쿠(AS), 붉은 소매의 행상인 시구레 | 뮬루스, 투바, 베르트랑, 티라미수, 아나벨 |
 
@@ -116,7 +116,7 @@ updated: 2026-10-25
 - [환경 캐릭터 평가](meta_characters.md)
 - [ZONE](zone.md), [アナザーフォース](another_force.md), [현현 무기](manifest_weapons.md)
 - [번개 파티](thunder_party.md)
-- 캐릭터: [틸릴(ES)](../characters/thillelille_es.md), [유나](../characters/yuna.md), [네코코(ES)](../characters/necoco_es.md), [셴화](../characters/xianhua.md), [세스타(AS)](../characters/sesta_as.md), [베레토(AS)](../characters/velette_as.md), [애니](../characters/eni.md), [세리에스(AS)](../characters/cerius_as.md), [알마(AS)](../characters/alma_as.md), [마리엘](../characters/mariel.md), [질퍼니(AS)](../characters/jillfunny_as.md)
+- 캐릭터: [틸릴(ES)](../characters/thillelille_es.md), [유나](../characters/yuna.md), [네코코(ES)](../characters/necoco_es.md), [셴화](../characters/xianhua.md), [세스타(AS)](../characters/sesta_as.md), [베레토(AS)](../characters/velette_as.md), [애니](../characters/eni.md), [세리에스(AS)](../characters/cerius_as.md), [알마(AS)](../characters/alma_as.md), [질퍼니(AS)](../characters/jillfunny_as.md)
 
 ## 히스토리
 

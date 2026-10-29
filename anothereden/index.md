@@ -11,7 +11,7 @@
 
 ## guides/
 
-- [guides/meta_characters.md](guides/meta_characters.md) — 환경 캐릭터 평가 (2025-07 Seesaa 최상위·상위 등급과 이유, 이후 추가된 질퍼니(AS), アン・キ・ディグマ 공략에서 반복 쓰인 캐릭터)
+- [guides/meta_characters.md](guides/meta_characters.md) — 고난이도 캐릭터 명단 (Seesaa 「星の夢のかけらガイド」(Ver3.16.50)·anothertier tier list v16 교집합 메타 41명의 스타일·속성·역할·랭크, 스토리 동료 10명과 성능 좋은 배포 6명, 교집합 밖 캐릭터 이름. 이 위키가 캐릭터 문서를 두는 범위)
 - [guides/meta_equipment.md](guides/meta_equipment.md) — 환경 장비와 입수처 (모든 무기 공통 시리즈, 무기 종류별 주요 무기, 방어구 시리즈, 최고 난도 보스 보상)
 - [guides/crystal_party.md](guides/crystal_party.md) — 결정 파티 (질퍼니(AS)·틸릴(ES)·알마(AS)·미스트레아 중심 輝晶陣 편성. 멤버 역할, ZONE 전개·연장, 출처 편성 예 4종, 단기/장기·명 검 변형, 개막 AF, 약점, 강적 적성)
 - [guides/thunder_party.md](guides/thunder_party.md) — 번개 파티 (베레토(AS)·오보로·이즈나 중심 招雷陣 편성. 招雷陣의 AF 게이지 성질, 멤버 역할, 오보로+이즈나 弱点看破(雷) 연속 콤보, 출처 편성 예, 버디·장비, 약점, 최상위 보스 적성)
@@ -53,7 +53,6 @@
 - [characters/alma_as.md](characters/alma_as.md) — 알마(AS) (결정 활. 개막 2턴 守護·迎撃 탱커 겸 단기전 어태커, SA 「カレイドスコープ」. 결정·그림자 편성, 장기전 약점)
 - [characters/xianhua.md](characters/xianhua.md) — 셴화 (무속성 지팡이 마법 어태커. 지팡이 파티 화력 핵, SB 弱点看破<마법>·バフリバーサル. 마법·그림자 파티, 셴화(AS) 요약)
 - [characters/yuna.md](characters/yuna.md) — 유나 (무속성 지팡이 힐러·디버퍼. 腕知 60%·내성 100% 디버프와 闇祓, SA バフリバーサル·상태 이상 메타. 유나(AS) 요약)
-- [characters/mariel.md](characters/mariel.md) — 마리엘 (지팡이 힐러. SA 歌唱 「清廉讃歌」로 장기전 버티는 축·버프 일괄, デバフリバーサル. ES·AS 요약)
 - [characters/sesta_as.md](characters/sesta_as.md) — 세스타(AS) (바람·도 어태커, Ver3.9.10. 「二刀神狼・改」로 개막 전체 공격 + 적 전체 弱点看破(風). 바람·베기·결정 파티 편성. 2025-07 Seesaa 최상위)
 - [characters/eni.md](characters/eni.md) — 애니 (그림자/불·지팡이 서포터. 첫 그림자 ZONE(刻陰陣)과 개막 血の誓約(ルナティック<捨身>·庇立て·부활)으로 마법·迎撃 파티를 받침. 2025-07 Seesaa 최상위, SA는 Ver3.14.0)
 - [characters/necoco_es.md](characters/necoco_es.md) — 네코코(ES) (바람·활 서포터. 「猫又巫女神楽」의 変幻自在로 파티 속성을 ZONE에 맞춰 통일, SA 후 デバフリバーサル. 2025-07 Seesaa 최상위. 네코코(AS)(땅·도끼) 요약 포함)
@@ -62,13 +61,10 @@
 - [characters/mistrare.md](characters/mistrare.md) — 미스트레아 (NS(SA)·AS 통합. NS 「マシアフ・ケシェト」의 바람·결정 내성·物理耐性 최대 100%DOWN, SA(Ver3.15.60) 「心　翼に変えて」·「煌めきの翼」 턴 종료 자동 디버프, AS 歌唱 2종, 결정 파티 기용과 NS/AS 차이)
 - [characters/clughorn.md](characters/clughorn.md) — 클러그혼 (그림자·창 모드 전환형 탱커 겸 어태커, Ver3.13.10. 공격 모드 「アグロスパイク」 최대 9720%, 수비 모드 腕知速·그림자·번개·결정 속성 공격 40%DOWN, SA SB 「ルミナガーディアン」 守護. 月光陣·그림자·찌르기 파티, ムル・キカ·アン・キ・ディグマ 받기)
 - [characters/zilva_as.md](characters/zilva_as.md) — 질버(AS) (무속성·도끼 어태커, Ver3.8.30. 「残香」으로 공격 속성을 적의 약점에 맞춤. SA 「死出の途」 腕知 70%(増蝕 + 코로보 오라로 100%)로 闇のアルターフォース 장기전의 핵. 무속성 베기 편성)
-- [characters/prai.md](characters/prai.md) — 프라이 (망치 탱커. 선제 守護 「インダルジェンス」로 그 턴 공격을 혼자 받음, 다음 턴 기절을 오를레아(AS)가 푸는 "叩き起こし"로 アン・キ・ディグマ·カプトニク 받는 축. SA 미실장, 소비 MP 감소 장비)
 - [characters/orleya_as.md](characters/orleya_as.md) — 오를레아(AS) (도끼 번개 탱커 겸 서포터, Ver3.3.10. 「レズィストンス」 祈祷(피해 50% 감소·庇立て·매 턴 회복·상태 이상 회복)와 「トネールデファンス」 腕知速 디버프·挑発, 턴 종료 AF 게이지 10%, 번개 파티 받기. SA 미실장)
 - [characters/red_clad_flame_user_as.md](characters/red_clad_flame_user_as.md) — 빨간 외투의 화염술사(AS) (권갑 명 캐릭터, Ver3.11.20. 속성 ZONE에 맞춰 속성이 바뀌는 「グラッジスパーク」 지원, 「核熱」 20 누적 「ブラストガン・EV」 최대 48000%, 「アンフェルノヴァ」 「溶解」. 결정·불·출장 편성)
 - [characters/kuchinawa.md](characters/kuchinawa.md) — 쿠치나와 (NS·AS 통합, 땅 지팡이 마법. NS SA 「蛇群之流」 5능력치 50% 디버프·冥 SB ANOTHER ZONE +3턴, AS <脆禍>·「腐食之訪」 弱点看破(地)·양옆 連携. 아르카디아·땅·명 축 편성)
-- [characters/pom_as.md](characters/pom_as.md) — 폼(AS) (지팡이, Ver3.3.20. 전위 지팡이 4명이면 개막 極・幻魔陣, 「ラブ♡メディカル」 知速 100%·精神統一, 「ラブ♡バズーカ」 불 마법과 ラブホリック, 비아카(AS)와의 毒ペ殺 파티. SA 없음)
 - [characters/yakumo_as.md](characters/yakumo_as.md) — 야쿠모(AS) (그림자 지팡이, Ver3.7.10. 錬魔 쌓는 규칙, 「オーバーワーク」 선제 버프, 「デスマーチ」 シールド·魔法耐性, SA 개막 極・幻魔陣 + 錬魔 50과 「オーバークロック」 최대 10000%, 셴화 파티·주회 파티)
 - [characters/izuna.md](characters/izuna.md) — 이즈나 (번개 지팡이, Ver3.9.40. 神通力 AF 게이지 회복, SA 개막 AF 게이지 50〜100%, 超集中 「秘術・雷鳴」, 「霹靂招来」 선제 부여, SA 오보로와의 弱点看破(雷) 연속)
 - [characters/oboro.md](characters/oboro.md) — 오보로 (번개 도, Ver3.4.10. スパーク·ライジンモード Lv3, SA AF 후 적 전체 弱点看破(雷)·ANOTHER ZONE +3턴, 「ソードボルテック」 斬耐性 디버프, 순수 번개·알도 축 편성. 출처 2024-01)
 - [characters/utsuhara.md](characters/utsuhara.md) — 우츠하라 (번개 도끼, Ver3.8.20. 竜の残魂·竜の爪痕 누적, 「ルナティック+」·転竜の護り의 守護와 「顕加の纏」 迎撃 4회, 「雷咲・青蓮華」 최대 11250%, 번개·아르카디아 편성)
-- [characters/ilulu_alter.md](characters/ilulu_alter.md) — 심홍의 사자 이루루 (이시층 물 도끼, Ver3.1.71. 「ディミティアス」 선제 煌斬陣 + ZONE覚醒, ANOTHER ZONE 턴 종료 魂華 추격 최대 8800%의 셈법, 「プルガトリウム」 斬耐性 100%DOWN, 後攻·虎視眈眈, 베기·물 ZONE 편성. 출처 2023-08)

@@ -8,7 +8,7 @@ sources:
   - 사이트 데이터 조회 결과 없음 (2026-10-20)
   - 사이트 데이터 ae_translation_all (2026-10-25, 용어 한국어 교체)
 created: 2026-10-20
-updated: 2026-10-27
+updated: 2026-10-29
 ---
 
 # 애니
@@ -132,7 +132,7 @@ updated: 2026-10-27
 
 - [환경 캐릭터 평가](../guides/meta_characters.md)
 - [アン・キ・ディグマ](../raids/an_ki_digma.md)
-- [알마(AS)](alma_as.md), [셴화](xianhua.md), [틸릴(ES)](thillelille_es.md), [마리엘](mariel.md)
+- [알마(AS)](alma_as.md), [셴화](xianhua.md), [틸릴(ES)](thillelille_es.md)
 - [그림자 파티](../guides/shade_party.md), [상태 효과](../guides/status_effects.md) (庇立て 순서)
 
 ## 히스토리
