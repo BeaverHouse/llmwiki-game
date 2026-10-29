@@ -1,13 +1,14 @@
 ---
 title: 플루라이트 (Fluorite)
 type: guide
-aliases: [플루라이트, Fluorite, フローライト, 萤石, 벨라나]
+aliases: [플루라이트, Fluorite, フローライト, 萤石, 벨라나, 형석이]
 sources:
+  - https://namu.wiki/w/플루라이트(명일방주:%20엔드필드) (2026-09-10 수정본, 별명 형석이)
   - https://namu.wiki/w/플루라이트(명일방주:%20엔드필드) (2026-09-10 수정본, CC BY-NC-SA 2.0 KR)
   - https://endfield.wiki.gg/wiki/Fluorite (스킬 영어 표기)
   - "user-feedback: 배틀 스킬은 파티 전원 궁극기 에너지 (반환되지 않은 소모 SP ÷ 100) × 6.5, 부착 1회 = 1스택, 서로 다른 아츠 이상은 공존하고 소모 효과가 아니면 유지됨 (Austin, 2026-10-27)"
 created: 2026-10-15
-updated: 2026-10-27
+updated: 2026-10-29
 ---
 
 # 플루라이트 (Fluorite)
