@@ -6,7 +6,7 @@ sources:
   - https://anothereden.game-info.wiki/d/%A5%BB%A5%B9%A5%BF%28%A5%A2%A5%CA%A5%B6%A1%BC%A5%B9%A5%BF%A5%A4%A5%EB%29 (Seesaa Wiki 「セスタ(アナザースタイル)」, 2024-12-01 수정본, CC BY-NC-SA 4.0)
   - https://anothereden.game-info.wiki/d/%A5%E1%A5%EB%A5%D4%A5%D4%A5%A2 (Seesaa Wiki 「メルピピア」, 2026-05-29 수정본, CC BY-NC-SA 4.0)
   - Seesaa Wiki 「茨呪の艶女」「メロディ(アナザースタイル)」「シグレ(エクストラスタイル)」 (2026-10-28 열람. 셰이네·멜로디(AS)·시구레(ES)의 역할)
-  - 사이트 데이터 ae_translation_all·ae_character (「メロディ(AS)」가 멜로디의 AS이고 번쩍번쩍 화가 멜로디와 다른 캐릭터임)
+  - 사이트 데이터 ae_translation_all·ae_character (「メロディ(AS)」가 멜로디의 AS이고 번쩍번쩍 화가 멜로디와 다른 동료임)
 created: 2026-10-27
 updated: 2026-10-29
 ---
@@ -25,7 +25,7 @@ updated: 2026-10-29
 
 ## 멤버
 
-| 캐릭터 | 무기 | 맡는 일 |
+| 동료 | 무기 | 맡는 일 |
 |---|---|---|
 | [세스타(AS)](../characters/sesta_as.md) | 도 | 메인 어태커 겸 弱点看破(風), 風属性耐性 100%DOWN |
 | [멜피피아](../characters/melpiphia.md) | 검 | 범용 서포터. 祈祷 버프, ANOTHER ZONE 중 腕知 60%DOWN |
@@ -77,6 +77,6 @@ updated: 2026-10-29
 
 ## 히스토리
 
-- 2026-10: 문서 작성. 2026-07 이후 실장 캐릭터(번쩍번쩍 화가 멜로디 등)는 반영되지 않음.
+- 2026-10: 문서 작성. 2026-07 이후 실장 동료(번쩍번쩍 화가 멜로디 등)는 반영되지 않음.
 - 2025-07 (Ver3.12.0): Seesaa 환경 최상위에 세스타(AS).
 - 2024-10 (Ver3.9.10): 세스타(AS) 실장. 「二刀神狼」 조건이 極・風王陣에서 「狼志」로 바뀌어 바람 파티 밖 출장도 가능해짐.

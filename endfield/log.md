@@ -1,6 +1,6 @@
 # Arknights: Endfield — 변경 기록 (append-only, 최신이 위)
 
-- 2026-10-29 | ai | operators/ 3편·index.md | 이본을 중복 없는 절 구성 샘플로 개편하고 궁극기 서술을 바로잡음, 작성 기준에 꼬리표 기준 추가, 금지 관용어를 위키 전체에서 걷어냄 | user-feedback (Austin)
+- 2026-10-29 | ai | 도메인 전체 | 오퍼레이터 33편을 이본 구성으로, 나머지 문서·glossary·log를 중복과 군더더기 없이 덜어내고 AGENTS.md 7절의 금지 표현을 걷어냄 | user-feedback (Austin)
 - 2026-10-29 | ai | notes/memes.md·operators/typhoeus.md·index.md | 밈 유래 보완과 대상 정정, 새 밈 4개와 티프로스 aliases 추가 | user-feedback (Austin)
 - 2026-10-29 | ai | notes/memes.md 신규, operators/ 6편·index.md | 커뮤니티 별명·밈 문서 작성, 별명을 오퍼레이터 aliases에 추가 | 나무위키, 디시인사이드
 - 2026-10-29 | ai | world/ 7편(endfield_staff.md 신규)·systems/consumables.md·glossary.md·index.md·backlog.md | 엔드필드 공업 인물 문서 작성, 고요한 수도회·세쉬카 절 보강, 사용 아이템 문서를 덜어내고 본문 출처 서술 정리 | 정기 성장 작업, 나무위키, endfield.wiki.gg
