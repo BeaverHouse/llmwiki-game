@@ -1,5 +1,6 @@
 # Arknights: Endfield — 변경 기록 (append-only, 최신이 위)
 
+- 2026-10-29 | ai | operators/yvonne.md·gilberta.md·antal.md·index.md 수정 | 이본을 중복 없는 절 구성 샘플로 개편(사이클 역할·특징·운용 절을 카드로 흡수, 스킬은 M3만)하고 궁극기 중 슈퍼 아머·충전 효율·연계 세팅 내력·쿨타임을 바로잡음. 질베르타 단기전 이유, 안탈 꼬리표 삭제, 작성 기준에 꼬리표 기준 추가 | 근거: user-feedback (Austin, 2026-10-29)
 - 2026-10-29 | ai | notes/memes.md·operators/typhoeus.md·index.md 수정 | 테엥이·개장빙 유래 보완, 5090 대상을 타타에서 이본으로 정정, '넌 무의미한 사명에 묶여있어'(질베르타)·'나, me, 와타시'(관리자)·존만이·농폰(티프로스) 추가, 티프로스 aliases에 존만이·농폰 | 근거: user-feedback (Austin, 2026-10-29), 위키 무기 문서의 질베르타 전용 무기 사명의 길
 - 2026-10-29 | ai | notes/memes.md 신규, operators/fluorite.md·laevatain.md·zhuang_fangyi.md·si.md·tangtang.md·typhoeus.md aliases, index.md 수정 | 커뮤니티 별명과 밈 문서 작성(유지보수자가 준 명단 14개 중 11개의 대상·유래 확인), 별명을 오퍼레이터 aliases에 추가 | 근거: 나무위키 오퍼레이터·「Can You Send Me 30K?」 문서, 디시인사이드 엔드필드 갤러리 사용례
 
