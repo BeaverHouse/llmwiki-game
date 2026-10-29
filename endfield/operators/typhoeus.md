@@ -1,13 +1,14 @@
 ---
 title: 티프로스 (Typhoeus)
 type: guide
-aliases: [티프로스, Typhoeus, ティフォロス, 提弗洛斯, 사미베르그의 아이]
+aliases: [티프로스, Typhoeus, ティフォロス, 提弗洛斯, 사미베르그의 아이, 티폰, 티프]
 sources:
+  - https://namu.wiki/w/티프로스 (2026-10-17 수정본, 별명 티폰)
   - https://namu.wiki/w/티프로스 (2026-10-10 수정본, CC BY-NC-SA 2.0 KR)
   - https://endfield.wiki.gg/wiki/Typhoeus (스킬 영어 표기)
   - "user-feedback: 배틀 스킬마다 파티 전원 궁극기 에너지 (반환되지 않은 소모 SP ÷ 100) × 6.5(라스트 라이트 제외), 부착 1회 = 1스택, 서로 다른 아츠 이상은 공존하고 명시적으로 소모하지 않으면 유지됨 (Austin, 2026-10-27)"
 created: 2026-10-14
-updated: 2026-10-27
+updated: 2026-10-29
 ---
 
 # 티프로스 (Typhoeus)

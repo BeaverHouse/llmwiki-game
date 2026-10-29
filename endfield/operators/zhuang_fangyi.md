@@ -1,8 +1,9 @@
 ---
 title: 장방이 (Zhuang Fangyi)
 type: guide
-aliases: [장방이, Zhuang Fangyi, ゾアン・ファンイ, 庄方宜, 장 천사]
+aliases: [장방이, Zhuang Fangyi, ゾアン・ファンイ, 庄方宜, 장 천사, 개장빙, 대파선인]
 sources:
+  - https://namu.wiki/w/장방이 (2026-09-10 수정본, '개장빙' 넘겨주기와 별명 대파선인)
   - https://namu.wiki/w/장방이 (2026-09-10 수정본, CC BY-NC-SA 2.0 KR)
   - https://genshin-builds.com/en/arknights-endfield/characters/zhuang_fangyi (영어 스킬명)
   - https://www.icy-veins.com/arknights-endfield/zhuang-fangyi-profile-skills (영어 스킬명, 검색 결과 요약)
@@ -17,7 +18,7 @@ sources:
   - "user-feedback: 아츠 이상끼리 공존하고, 소모 효과가 아니면 유지됨. 장방이 연계 감전은 소모한 부착 스택 수의 레벨을 따름(강제 감전 레벨 I이 아님), 강제 감전은 펠리카(기본 5초). 와류 SP 반환과 본 크러셔 세트는 배틀 스킬에만 적용(궁극기 낙하 공격 제외). 이본 궁극기 중 다른 궁극기 사용 가능, 이본 배틀·낙하 공격은 딜 시간 손해 (Austin, 2026-10-27)"
   - "user-feedback: 이본 강제 동결 8초(7초라는 말도 있음), 다른 오퍼레이터 궁극기 도중에도 연계 스킬 사용 가능, SP 자연 회복 초당 8·배틀 스킬 사용 시 0.5초 회복 멈춤, 강력한 일격 SP는 오퍼레이터마다 다름(레바테인 일반 20·궁극기 중 22), 장방이 배틀 스킬은 청뢰검 n자루면 뇌격 n번 + 마지막 강한 뇌격 1번 (Austin, 2026-10-27)"
 created: 2026-10-14
-updated: 2026-10-27
+updated: 2026-10-29
 ---
 
 # 장방이 (Zhuang Fangyi)
