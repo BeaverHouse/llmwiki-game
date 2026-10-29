@@ -1,8 +1,9 @@
 ---
 title: 레바테인 (Laevatain)
 type: guide
-aliases: [레바테인, Laevatain, レーヴァテイン, 萊萬汀]
+aliases: [레바테인, Laevatain, レーヴァテイン, 萊萬汀, 테엥이]
 sources:
+  - https://gall.dcinside.com/mgallery/board/view/?id=endfield&no=855579 (별명 테엥이 사용례, 2026-10-24 글)
   - https://namu.wiki/w/레바테인(명일방주:%20엔드필드) (2026-09-22 수정본, CC BY-NC-SA 2.0 KR)
   - https://namu.wiki/w/레바테인(명일방주:%20엔드필드) (2026-10-16 수정본, 추천 편성 표)
   - https://namu.wiki/w/사(명일방주:%20엔드필드) (2026-10-21 수정본, 사 열기 파티 표와 스킬 설명)
@@ -13,7 +14,7 @@ sources:
   - "user-feedback: 이본 강제 동결 8초(7초라는 말도 있음), 다른 오퍼레이터 궁극기 도중에도 연계 스킬 사용 가능, SP 자연 회복 초당 8·배틀 스킬 사용 시 0.5초 회복 멈춤, 강력한 일격 SP는 오퍼레이터마다 다름(레바테인 일반 20·궁극기 중 22) (Austin, 2026-10-27)"
   - "user-feedback: 배틀 스킬은 파티 전원 에너지 (반환되지 않은 소모 SP ÷ 100) × 6.5(잠재 1의 SP 반환 20이면 5.2), 부착 1회 = 1스택, 아츠 이상끼리 공존, 다른 오퍼레이터 궁극기 도중에도 연계 스킬·궁극기 사용 가능, 자기 강화 궁극기 중 같은 오퍼레이터의 다른 행동은 딜 시간 손해 (Austin, 2026-10-27)"
 created: 2026-10-14
-updated: 2026-10-27
+updated: 2026-10-29
 ---
 
 # 레바테인 (Laevatain)

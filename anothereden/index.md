@@ -77,3 +77,7 @@
 - [characters/izuna.md](characters/izuna.md) — 이즈나 (번개 지팡이, Ver3.9.40. 神通力 AF 게이지 회복, SA 개막 AF 게이지 50〜100%, 超集中 「秘術・雷鳴」, 「霹靂招来」 선제 부여, SA 오보로와의 弱点看破(雷) 연속)
 - [characters/oboro.md](characters/oboro.md) — 오보로 (번개 도, Ver3.4.10. スパーク·ライジンモード Lv3, SA AF 후 적 전체 弱点看破(雷)·ANOTHER ZONE +3턴, 「ソードボルテック」 斬耐性 디버프, 순수 번개·알도 축 편성. 출처 2024-01)
 - [characters/utsuhara.md](characters/utsuhara.md) — 우츠하라 (번개 도끼, Ver3.8.20. 竜の残魂·竜の爪痕 누적, 「ルナティック+」·転竜の護り의 守護와 「顕加の纏」 迎撃 4회, 「雷咲・青蓮華」 최대 11250%, 번개·아르카디아 편성)
+- [characters/melpiphia.md](characters/melpiphia.md) — 멜피피아 (NS·AS 통합, 바람 검 서포터. NS 祈祷 「未来予知・チャンス」·「ピンチ」와 「予知」 쌓기, ANOTHER ZONE 중 腕知 60%DOWN, SA 「未来予知・安寧」. AS(Ver3.15.20) 「未来予知・順風満帆」 바람 피해 100%UP, SA 「わるーいイタズラ」 5종 디버프·天 SB ANOTHER ZONE +3턴. 아르카디아 링크로 전원 바람화)
+- [characters/shigure_es.md](characters/shigure_es.md) — 시구레(ES) (바람 도 탱커 겸 어태커, Ver3.9.0. 金剛·夜叉 자세 전환, 「普賢一刀流・焉」 腕知 60%DOWN과 迎撃·庇立て·속도 차 회피 순환, SA 「爽籟剣舞」로 도 아군 전원 連携. 보현·바람 도 파티, オズマ·歴戦の甲鎧竜 받기)
+- [characters/shanie_alter.md](characters/shanie_alter.md) — 가시나무 저주의 여인 셰이네 (이시층 바람/그림자 망치 탱커 겸 서포터, Ver3.8.50. 오른쪽 칸 아군과 나누는 「荊棘の楔」와 幸運 맞추기, 庇立て·挑発 받기, 「マイ・ソレイス」 상태 이상·날려 보내기 무효, 「マリディクション」 連携. 바람·그림자·타격 파티, 歴戦の甲鎧竜)
+- [characters/melody_as.md](characters/melody_as.md) — 멜로디(AS) (바람 지팡이, Ver3.2.20. 전위 바람 4명으로 2턴째 ディメント와 極・風王陣 자동 전개·재전개 순환, 「ディプラヴィティ」 腕知速 50%DOWN, 「ダーク・スクリュー」 風属性耐性 100%DOWN. 세스타 축 바람 파티. SA 없음)
