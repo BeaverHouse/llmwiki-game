@@ -1,25 +1,37 @@
 ---
 title: 무릉 (Wuling)
 type: guide
-aliases: [무릉, Wuling, 武陵, 무릉 과학 개발 구역, 무릉성, 무릉 대균열, 청파채, 수돈, 응룡 관문, 북쪽 금지 구역, 메인 스토리 2장, 수명, Suiming, 遂明, 여소귀, Yu Shigui, Bell of Recollection, Waking Bell]
+aliases: [무릉, Wuling, 武陵, 무릉 과학 개발 구역, 무릉성, 무릉 대균열, 청파채, 수돈, 응룡 관문, 북쪽 금지 구역, North Wuling Exclusion Zone, 담검당, Tanjian Hall, 축 교관, Instructor Zhu, 진뢰, Blitzcrash, 창적, Cangzei Pirates, 이당가, 침식 안개, Blight Miasma, 메인 스토리 2장, 수명, Suiming, 遂明, 여소귀, Yu Shigui, Bell of Recollection, Waking Bell]
 sources:
   - https://namu.wiki/w/명일방주:%20엔드필드/지역 (수명 문단 포함, 2026-10-25 수정본, CC BY-NC-SA 2.0 KR)
   - https://namu.wiki/w/명일방주:%20엔드필드/등장인물%20및%20세력 (2026-10-16 수정본, CC BY-NC-SA 2.0 KR)
   - https://namu.wiki/w/명일방주:%20엔드필드/스토리 (연표, 1장 Ⅱ, 2장 요약, 2026-10-19 수정본, CC BY-NC-SA 2.0 KR)
   - https://namu.wiki/w/명일방주:%20엔드필드/업데이트 (2026-10-15 수정본, CC BY-NC-SA 2.0 KR)
+  - https://namu.wiki/w/명일방주:%20엔드필드/설비 (기체 분산기 문단, 2026-10-25 수정본, CC BY-NC-SA 2.0 KR)
   - https://endfield.wiki.gg/wiki/Wuling
   - https://endfield.wiki.gg/wiki/Wuling_City
   - https://endfield.wiki.gg/wiki/Wuling_Very_Large_Rift
   - https://endfield.wiki.gg/wiki/Qingbo_Stockade
+  - https://endfield.wiki.gg/wiki/Enemy (창적 정의)
+  - https://namu.wiki/w/탕탕(명일방주:%20엔드필드) (기타 문단의 대당가·이당가, 2026-10-09 수정본, CC BY-NC-SA 2.0 KR)
   - https://endfield.wiki.gg/wiki/Xiranite
   - https://endfield.wiki.gg/wiki/Marker_Stone
   - https://endfield.wiki.gg/wiki/Yinglung_Special_Task_Force
   - https://endfield.wiki.gg/wiki/Suiming (2026-09-27 수정본)
   - https://endfield.wiki.gg/wiki/Bell_of_Recollection (2026-10-14 수정본)
+  - https://endfield.wiki.gg/wiki/North_Wuling_Exclusion_Zone (2026-10-19 수정본)
+  - https://endfield.wiki.gg/wiki/Nexus_Files:_North_Wuling_Exclusion_Zone
+  - https://endfield.wiki.gg/wiki/Blight (구획별 침식 심도)
+  - https://endfield.wiki.gg/wiki/A_Past_Shared_by_the_Swordmancers
+  - https://endfield.wiki.gg/wiki/Instructor_Zhu
+  - https://endfield.wiki.gg/wiki/Mourning:_From_a_Tianshi
+  - https://endfield.wiki.gg/wiki/Blitzcrash_Blightshade
+  - https://namu.wiki/w/명일방주:%20엔드필드/적 (그림자에 물든 진뢰·창적 설명문 한국어 텍스트, 2026-10-28 수정본, CC BY-NC-SA 2.0 KR)
+  - https://namu.wiki/w/결(명일방주:%20엔드필드) (대사, 기타 문단, 2026-10-23 수정본, CC BY-NC-SA 2.0 KR)
   - https://gamewith.net/akendfield/73207 (영문 챕터명)
   - https://appmedia.jp/?p=79690247 (일본어 지명)
 created: 2026-10-18
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 # 무릉 (Wuling)
@@ -46,7 +58,22 @@ updated: 2026-10-29
 
 ### 청파채
 
-무릉성 바깥 강변의 자치 마을로, 무릉의 원주민 진영에 해당한다. 치욕의 전쟁 시기에 천사부가 손을 놓은 데 실망한 천사 완과 그 추종자들이 세웠고, 수원인 선조의 샘을 중심으로 산다. 지도자는 대당가라 부르며 지금의 대당가는 [탕탕](../operators/tangtang.md)이다. 미브도 청파채 출신으로 무릉성에 옮겨 갔다.
+무릉성 바깥 강변의 자치 마을로, 무릉의 원주민 진영에 해당한다. 치욕의 전쟁 시기에 천사부가 손을 놓은 데 실망한 천사 완과 그 추종자들이 세웠고, 수원인 선조의 샘을 중심으로 산다. 지도자는 대당가라 부르며 지금의 대당가는 [탕탕](../operators/tangtang.md)이다. 그 아래 이당가(영어 first mate)는 탕탕의 양오빠 원일이었다. 미브도 청파채 출신으로 무릉성에 옮겨 갔다.
+
+#### 창적
+
+창적(Cangzei Pirates)은 무릉에서 밀수와 약탈을 하는 청파채 출신 무법자를 부르는 말이다. 적 정보는 홍산 관할 지역에서 활동하는 불법 무장 세력이며 청파채의 대(對) 무릉 강경파로 이루어졌다고 적는다. 모두 빨간 가면과 옷을 입는다. 사설 검문소를 세워 불법 물품을 밀수하고, 홍산 치안 부대의 주요 단속 대상이다.
+
+경옥 골짜기와 무릉성의 창적은 근접 무기와 석궁만 든다. 본거지인 청파채와 장검 골짜기에서는 구성이 다양해진다.
+
+| 적 | 무장 |
+|---|---|
+| 막류재, 막석명 | 설명문에 무장이 없다. 검문소를 세우고 밀수한다 |
+| 천림전, 과당풍 | 활 |
+| 최산장, 개천장 | 4연장 발사기를 든 중화기병. 개천장은 '하늘을 여는 자'라는 칭호 |
+| 겁운객, 할운옹 | 등롱처럼 생긴 무기. 할운옹은 단도로도 싸운다 |
+| 단운수 | 갈고리 |
+| 원일 | 2장 Ⅲ의 보스([적](../content/enemies.md#원일)) |
 
 ## 역사
 
@@ -77,6 +104,55 @@ updated: 2026-10-29
 | 눈 덮인 소나무 숲 | 1.5 | |
 | 수명 | 1.5 | 홍산 과학원의 옛 수몰 도시를 재구성한 공간 |
 | [사의 그림](../content/si_painting.md) | 1.6 | 사가 그린 그림 세계. 인연 마을 객잔과 농장·목장 |
+
+## 북쪽 금지 구역
+
+북쪽 금지 구역(North Wuling Exclusion Zone)은 옛 무릉 연구 기지 자리다. 연구 기지 주변에는 학교, 병원, 담검당이 있는 작은 마을이 있었다. 142년 대재앙 뒤 홍산 과학원이 수색·구조에 인력과 자원을 쏟았지만 살아남은 사람은 몇 명뿐이었다. 과학원은 응급 대응 전력을 모두 동원해 재앙을 응룡 관문 안쪽에 가두고 연구 기지 전역을 봉쇄했으며, 응룡 특수부대를 응룡 관문에 장기 주둔시켰다. 무릉성이 완성된 뒤에는 천사장 배열 같은 식양 기술 시설로 이곳의 침식 이상 현상을 억누르는 체계를 새로 세웠다. 봉쇄 초기 문명 밴드에서는 홍산 과학원이 무릉을 통째로 포기하지 않을까 하는 의문이 나왔고, 과학원 안에도 그쪽으로 기운 목소리가 있었다.
+
+1.4 버전(Homecoming)에 열린 무릉의 일곱 번째 지역이다. 2장 Ⅶ에서 대균열이 봉쇄된 뒤 장방이가 결에게 금지 구역 재건 계획서를 보냈다(결의 대사 「대화 4」). 1.6 버전에 사의 그림으로 가는 길이 생겼다.
+
+### 탐색
+
+- 지도 상당 부분이 침식 안개(Blight Miasma)로 덮여 있다. 장비 없이 들어가면 몇 초 만에 쓰러진다. 중추 식양 장치와 그 확장형은 [개인 장치](../systems/personal_device.md)에 있다. 맵 곳곳의 응룡장 주변은 안개가 닿지 않는다.
+- 2장 Ⅶ을 진행하면 안개 대부분이 걷힌다. 나머지는 탐색 임무로 연다. Quelltide Levee 남쪽의 Cliffside Courtyard는 「Blightshade Watch」, 담검당 서쪽의 Waterworks Hub와 Celestial Column 북쪽의 Ghost Mesa Test Site는 「Fissure Filling and Land Grouting」을 해야 들어간다. 이 두 곳은 안개가 더 짙고 식양 기체 간헐천이 있다.
+- 식양 기체를 기체 분산기에 넣으면 응룡장처럼 침식 수치를 되돌린다. 간헐천의 식양 기체는 나중에 거점으로 끌어와 고체·기체 전환기에 쓴다. 간헐천 5개를 모두 끌어오면 분당 100이다.
+- 무릉 지역 건설 레벨 1에서 이 구역의 프로토콜 용량 130, 집라인 18, 전술 시설 9이다. 레벨 5에서 150·20·11, 레벨 8에서 180·24·13, 레벨 14에서 250·30·15가 되고, 레벨 21에서 광석 순도가 오른다. 수집 요소 수와 전송 지점은 [탐색 컨텐츠](../content/exploration.md)에 있다.
+- 자원: 적동 광맥, 식양 기체·비활성 기체 간헐천. 희귀 채집물은 크리소덴드라, 붉은 창 잎, 일반 흑암석(Auronyx), 프로토콜 문양석이다. 붉은 창 잎과 프로토콜 문양석은 1.4 기준 이곳에만 있었다([육성 재료](../systems/materials.md)).
+- 전투: 에너지 응집점, 알레이크레오스 재도전(RE-Crisis), 그림자에 물든 진뢰 위기 파편([프로토콜 공간](../content/protocol_space.md)).
+- 부가 임무 「Long Night Breaking into Day」 「Sorrow Sings in Silence」, 탐색 임무 「Blightshade Watch」 「Fissure Filling and Land Grouting」 「Nameless Blades」 Ⅰ~Ⅲ 「Treasures of the Past」가 있다.
+
+### 구획
+
+구획에 들어가면 이름과 침식 심도가 뜬다([심도 표시](aggeloi_and_blight.md#심도-표시)). 한국어 구획 이름은 담검당 말고는 확인하지 못했다.
+
+| 구획 | 침식 심도 |
+|---|---|
+| Miasma's End | 0.3038 ± 0.0121 |
+| Sentry Base | 0.3134 ± 0.0109 |
+| Designated Urban Area | 0.3914 ± 0.0258 |
+| 담검당 (Tanjian Hall) | 0.3212 ± 0.0198 |
+| Waterworks Hub | 0.4894 ± 0.1202 |
+| Quelltide Levee | 0.4127 ± 0.0119 |
+| Cliffside Courtyard | 0.4127 ± 0.0119 / 0.3004 ± 0.1171 (두 값이 적혀 있다) |
+| Xiranite Research Labs | 0.3647 ± 0.0041 |
+| Tianshi Pillar R&D Center | 0.3979 ± 0.0221 |
+| Ghost Mesa Test Site | 0.5134 ± 0.0171 |
+| Celestial Column | 0.4126 ± 0.0011 |
+| Wuling VLR Upper Area | 0.5011 ± 0.0129 |
+
+### 담검당
+
+담검당(Tanjian Hall)은 축 교관이 연구 기지에서 일하면서 세운 무술 도장이다. 응룡 특수부대 대원을 많이 길러 냈고, 연구 기지에서 일하는 부모와 함께 사는 학령기 아이들에게 기초 교육도 했다. 축은 응룡 대원들과 함께 금지 구역의 침식을 막다 목숨을 잃었다. 한 천사가 축에게 쓴 추모 편지(Mourning: From a Tianshi)에는, 축의 검법을 무릉 바깥까지 가르치며 그 내력을 전했다는 말이 있다.
+
+[진천우](../operators/chen_qianyu.md)는 어머니와 함께 담검당에서 검술을 익혔다. [결](../operators/arcane.md)은 혼자 쉴 때 떠오르는 것으로 고향 사람들, 담검당의 목인장, 설탕 묻힌 떡을 꼽는다(신뢰 대화 3).
+
+2장 Ⅶ 「A Past Shared by the Swordmancers」에서 일행은 침식 안개에 잠긴 Designated Urban Area를 지나 다음 Sentry Base로 향한다. 결은 앞에 있는 곳이 많은 응룡 대원이 살며 훈련하던 담검당이라고 알려 주고, 일행은 천사 수송대가 지날 길을 트려고 들어간다. 안에서 Pale Blightshade를 쫓고, 진뢰를 찾아 그림자에 물든 진뢰를 쓰러뜨린 뒤 진천우와 결과 이야기를 나눈다. 담검당을 되찾으면 중추 식양 장치 확장 I형 제작 공식이 열린다.
+
+### 진뢰
+
+진뢰(Blitzcrash)는 담검당에 맡겨져 지내던 짐승으로, 한때 이지연(결)의 가장 소중한 친구였다. 적으로 나오는 그림자에 물든 진뢰는 초자연 에너지 잔류물이 진뢰의 모습으로 실체화한 것이고, 그때의 기억 없이 공격 본능만 남아 있다. 전투 정보는 [적](../content/enemies.md)에 있다.
+
+결은 신뢰 대화 1에서 예전에 작은 하울러비스트 진뢰를 길렀고, 매일 혹독한 훈련 속에서 친구처럼 함께했으며 함께한 시간이 길지는 않았다고 말한다. 신뢰도 100%에 오는 BAKER 통신에서 결은 맡아 기르던 파울비스트에게 군사 훈련을 시켰다가 소동을 일으키고, 진뢰도 처음에 그렇게 가르쳤다고 말한다.
 
 ## 수명
 
@@ -125,10 +201,15 @@ updated: 2026-10-29
 - 140년 식양 개발에 힘을 보탠 베헤모스 대리인이 누구인지([베헤모스와 쉐이](behemoth.md)).
 - 장방이 직함의 공식 한국어 표기 (나무위키 '대리 책임자', 영문 Viceroy).
 - 아다시르가 봉인된 뒤의 경과.
+- 북쪽 금지 구역의 구획 이름(담검당 제외), 탐색·부가 임무 이름, Pale Blightshade의 한국어 표기. Pale Blightshade가 축 교관의 그림자라는 말은 영어 위키 갤러리 설명에만 있다.
+- 진뢰가 담검당에 맡겨진 까닭과 시기. 적 설명문은 담검당에 맡겨져 지냈다고만 하고, 결의 신뢰 대화 1은 자기가 길렀다고 한다.
+- 창적 적 9종의 영어 이름 짝(영어 목록은 Highway Reaver, Road Plunderer, Grove Archer, Sweeping Wind, Hill Smasher, Cloud Obliterator, Cloud Stalker, Nimbus Razor, Breaking Gust). 창적이 청파채 무법자 전체를 가리키는지 강경파만 가리키는지도 출처마다 다르다.
+- 홍산 환형산에서 자란 진천우가 언제 무릉 연구 기지 옆 담검당에 다녔는지.
 - 수명 임무 「Bell of Recollection」, 의뢰인 Shang Jin, 종 Waking Bell, Citizen Square의 한국어 표기. 수명성 이야기(누가 왜 종을 고치려 했는지, 도시가 어떻게 잠겼는지)의 게임 안 대사.
 
 ## 히스토리
 
+- 2026-10-30: 북쪽 금지 구역 절(배경, 탐색, 구획, 담검당, 진뢰)과 청파채의 창적 절 추가.
 - 2026-10-29: 연표·세력·파운데이션·네파리스 문서와 겹치는 설명을 줄이고 그 문서로 링크.
 - 2026-10-26: 수명 절 추가(들어가는 임무, 구역 특징).
 - 2026-10-18: 최초 작성. 1.6 버전(2026-10-15)까지의 내용을 나무위키 지역·등장인물·스토리 문서와 endfield.wiki.gg로 정리.

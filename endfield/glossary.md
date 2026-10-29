@@ -338,7 +338,8 @@ updated: 2026-10-29
 | 아스팔드 라운드어바웃 / 아스팔트 라운드어바웃 | Asphalt Roundabout | — | 미확인 | 상업연합회의 무법 도시. ko 표기가 하나로 정해지지 않음 |
 | 홍산 환형산 | Hongshan Crater | — | 2차 | 홍산 과학원의 수도·본부. 진천우 대사의 '홍산의 환형산' |
 | 홍산성 | Hongshan City | — | 미확인 | 진천우의 출신지. 환형산 안의 도시인지 미확인 |
-| 담검당 | — | — | 미확인 | 진천우가 검술을 배운 곳 |
+| 담검당 | Tanjian Hall | — | 2차 | 북쪽 금지 구역의 무술 도장. 축 교관이 세움. 진천우·결이 수련한 곳 |
+| 진뢰 | Blitzcrash | — | 2차 | 담검당에서 길러진 결의 하울러비스트 |
 | 대수도원 | Monasterium / Great Monastery | 大修道院 | 2차 | 고요한 수도회의 본거지인 이동 도시 |
 | 대성당 | Sanctilamina Cathedralis Tranquillae | — | 미확인 | 대수도원의 중심 성당. zh 寂语大教堂. en은 뜻으로 짝지음 |
 | 오로라 밴드 | — | — | 미확인 | 철의 서약군 방어선이 있는 북쪽 지역 |
@@ -374,7 +375,7 @@ updated: 2026-10-29
 | 완 | Ruan | — | 2차 | 청파채를 세운 천사 |
 | 수구 | — | — | 미확인 | 청파채 인물 |
 | 봉 | — | — | 미확인 | 응룡 특수부대 부대장. 본명 심교아 |
-| 메인 딜러 | — | — | 미확인 | 응룡 특수부대의 고인이 된 교관 |
+| 축 / 축 교관 | Zhu / Instructor Zhu | — | 2차 | 담검당을 세운 응룡 특수부대 교관. 결·진천우의 스승. 고인 |
 | 담 천사 | — | — | 미확인 | 홍산 과학원의 최고참 천사. 사를 돌봄 |
 | 라시교 | — | — | 미확인 | 판의 홍산 과학원 스승 |
 | 여소귀 | Yu Shigui | — | 미확인 | 무릉성 NPC. 수명으로 가는 포탈. Shang Jin의 스승 |
@@ -997,6 +998,8 @@ updated: 2026-10-29
 | 중계기 | Relay Tower | — | 2차 | |
 | 식양 전력 공급기 / 식양 중계기 | Xiranite Pylon / Xiranite Relay | — | 2차 | 무릉 전용 |
 | 창고 | Depot | — | 2차 | 지역 공유 저장소 |
+| 저장고 노드 | Depot Node | — | 미확인 | 창고 상한을 늘리는 지역 시설. ko는 전리품 설명문 표기 |
+| 포장 운송 | Pack and Deliver | — | 미확인 | 저장고 노드의 운송 의뢰. ko는 전리품 설명문 표기 |
 | 암관 | Conduit | — | 2차 | 장거리 수송 |
 | 프로토콜 저장함 | Protocol Stash | — | 2차 | |
 | 간편 보관소 | Easy Stash | — | 2차 | |
@@ -1124,6 +1127,8 @@ updated: 2026-10-29
 | — | Meaty Slug / Burdenbeast / Sable-Chested Fowlbeast / Rainbow Fin | — | 미확인 | 목장 짐승. Burdenbeast는 '버든비스트'일 수 있음 |
 | 포만 사료 / 복합 포만 사료 | Yummy Feed / Double-Yummy Feed | — | 미확인 | 목장 사료 |
 | 고깃덩이 / 우유 / 파울비스트의 알 / 린수 고기 | Meat / Milk / Egg / Fin Fillet | — | 미확인 | 목장 생산물. 고급품은 '고급 ○○', en은 (A) |
+| 둥근 콩 / 청경채 | Ballpea / Cabbage | 丸豆 / 青野菜 | 미확인 | 객잔 작물. ko는 영어 아이템 문서의 한국어 칸 |
+| 벌레 나뭇가지 / 꼬마 먹물 덩어리 / 재앙을 내리는 단비 | Slug Sprig / Ink Droplet / Calamity's Raindew | 触角の若枝 / 墨ころ / 劫の雨 | 미확인 | 요리 재료 전리품. ko는 영어 아이템 문서의 한국어 칸 |
 
 ## 개인 장치
 

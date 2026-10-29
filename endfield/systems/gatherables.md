@@ -4,9 +4,9 @@ type: guide
 aliases: [채집 재료, 천연자원, Gatherables, Natural Resources, Naturals, 요리 재료, 전리품, 이향석, Aggagrit, 굳은 상태의 이향석, Hard Aggagrit, 풀 씨앗 가루, 연골 분말, Cartilage Bit, 특수 기름, Chromatic Lipids, 비스트의 고기, Fillet, 벌레의 고기, Slug Meat, 야광 풍뎅이, Glowbug, 화염 풍뎅이, Scorchbug, 버든비스트의 배설물, Burdo-Muck, 파릇파릇한 죽순, 천연 결정 덩어리, Natural Chrysopolis Ingot, 메밀꽃, Buckflower, 시트론, Citrome, 금초, Jincao, 야침, Yazhen, 변종 식물, 화염 메밀꽃, Firebuckle, 다크 시트론, Umbraline, 우거진 금초, Fluffed Jincao, 가시 야침, Thorny Yazhen, 샌드리프, 아케톤, 원목, 광맥, 순도, 오리지늄 광물, 자수정 광석, 페리움 광석, 적동 광석, 청정수, 산성 침적물, 비활성 기체, 식양 기체]
 sources:
   - https://namu.wiki/w/명일방주:%20엔드필드/아이템 (2026-07-22) · /아이템/채집%20재료 (2026-07-27) · /아이템/천연자원 (2026-09-26) (아이템 설명 인용, 2026-10-27 열람, CC BY-NC-SA 2.0 KR)
-  - https://endfield.wiki.gg/wiki/Gatherables · Natural_Resources · Fillet · Slug_Meat · Glowbug · Scorchbug · Burdo-Muck (한국어 표기 포함, 2026-10-27 열람)
+  - https://endfield.wiki.gg/wiki/Gatherables · Natural_Resources · Fillet · Slug_Meat · Glowbug · Scorchbug · Burdo-Muck (한국어 표기 포함, 2026-10-27 열람) · Slug_Sprig · Ink_Droplet · Calamity%27s_Raindew (한국어 표기 포함, 2026-10-30 열람)
 created: 2026-10-27
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 # 채집 재료와 천연자원
@@ -31,7 +31,7 @@ updated: 2026-10-29
 | 화염 풍뎅이 | 필드 채집(오리지늄 연구 구역, 붉은빛 풍뎅이) | 주는 모든 피해를 올리는 아츠가 부여된 병 계열 |
 | 버든비스트의 배설물 | 무릉의 버든비스트를 쓰다듬음(마리마다 하루 1회, 하루 최대 34개) | 논배미 생장 기간 단축 비료. 천화로에서 비료 팽지박의 재료 |
 
-이 밖의 요리 재료(이향석 계열, 본 크러셔의 풀 씨앗 가루·연골 분말, 창적의 죽순 등)는 해당 지역 적에게서 낮은 확률로 떨어지며, 음식 한두 종에만 쓰인다.
+이 밖의 요리 재료(이향석 계열, 본 크러셔의 풀 씨앗 가루·연골 분말, 창적의 죽순, 눈 덮인 소나무 숲 벌레 나무 골렘의 벌레 나뭇가지, 사의 그림 요괴의 꼬마 먹물 덩어리·재앙을 내리는 단비 등)는 해당 지역 적에게서 낮은 확률로 떨어지며, 음식 한두 종에만 쓰인다.
 
 ## 천연자원
 
