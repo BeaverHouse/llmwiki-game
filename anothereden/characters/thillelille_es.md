@@ -94,7 +94,7 @@ updated: 2026-10-25
 
 - [환경 캐릭터 평가](../guides/meta_characters.md)
 - [결정 파티](../guides/crystal_party.md)
-- [알마(AS)](alma_as.md), [질퍼니(AS)](jillfunny_as.md), [빨간 외투의 화염술사(AS)](red_clad_flame_user_as.md), [쿠치나와](kuchinawa.md) (명 축 땅 파티)
+- [알마(AS)](alma_as.md), [질퍼니(AS)](jillfunny_as.md), [빨간 외투의 화염술사(AS)](red_clad_flame_user_as.md), [쿠치나와](kuchinawa.md) (명 중심 땅 파티)
 
 ## 히스토리
 

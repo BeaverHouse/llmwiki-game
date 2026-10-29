@@ -23,7 +23,7 @@ updated: 2026-10-27
 
 | 자리 | 오퍼레이터 | 하는 일 | 바꿀 수 있는 오퍼레이터 |
 |---|---|---|---|
-| 축 | [아비웨나](../operators/avywenna.md) | 메인 조작(1번 슬롯). 강력한 일격으로 연계를 열어 창을 쌓고, 궁극기로 강력한 썬더랜스와 전기 취약, 배틀 스킬로 회수 | — |
+| 메인 딜러 | [아비웨나](../operators/avywenna.md) | 메인 조작(1번 슬롯). 강력한 일격으로 연계를 열어 창을 쌓고, 궁극기로 강력한 썬더랜스와 전기 취약, 배틀 스킬로 회수 | — |
 | 부착·감전 | [펠리카](../operators/perlica.md)(2번 슬롯) | 배틀 스킬로 전기 부착, 메인 강력한 일격으로 켜지는 연계로 강제 감전 5초 | [안탈](../operators/antal.md), [아크라이트](../operators/arclight.md) |
 | 취약·몹몰이 | [질베르타](../operators/gilberta.md) | 강제 감전으로 켜지는 연계로 끌어당김·방어 불능, 궁극기 아츠 취약 5초 | [리노](../operators/liino.md), [안탈](../operators/antal.md) |
 | 부착 추가·몹몰이 | [결](../operators/arcane.md)(진결·의지) | 펠리카의 전기 부착 위에 연계로 한 스택 더함(전기 폭발), 끌어당김·구속 | [아케쿠리](../operators/akekuri.md), [아크라이트](../operators/arclight.md), [아델리아](../operators/ardelia.md) |

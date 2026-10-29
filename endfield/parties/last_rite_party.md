@@ -24,7 +24,7 @@ updated: 2026-10-27
 
 | 자리 | 오퍼레이터 | 하는 일 | 바꿀 수 있는 오퍼레이터 |
 |---|---|---|---|
-| 축 | [라스트 라이트](../operators/last_rite.md) | 배틀 스킬 저온 주입으로 메인 강력한 일격에 환영(냉기 부착)을 붙이고, 연계 스킬로 냉기 부착 3~4스택을 소모해 냉기 취약을 건 뒤 궁극기 | — |
+| 메인 딜러 | [라스트 라이트](../operators/last_rite.md) | 배틀 스킬 저온 주입으로 메인 강력한 일격에 환영(냉기 부착)을 붙이고, 연계 스킬로 냉기 부착 3~4스택을 소모해 냉기 취약을 건 뒤 궁극기 | — |
 | 부착·와류 | [탕탕](../operators/tangtang.md) | 냉기 부착이 걸릴 때마다 연계로 와류, 배틀 스킬로 와류를 소모해 냉기 부착·아츠 취약·SP 반환 | [에스텔라](../operators/estella.md), [플루라이트](../operators/fluorite.md), [펠리카](../operators/perlica.md), [아델리아](../operators/ardelia.md) |
 | 부착 추가 | [결](../operators/arcane.md)(진결·의지) | SP 없이 연계 스킬·궁극기로 이미 있는 냉기 부착을 한 스택 더함, 냉기·자연 취약 | [펠리카](../operators/perlica.md), [질베르타](../operators/gilberta.md), [스노우샤인](../operators/snowshine.md) |
 | 부착·증폭 | [자이히](../operators/xaihi.md) | 메인 강력한 일격 2회 뒤 연계로 냉기 부착, 궁극기로 냉기·자연 증폭 12초 | [질베르타](../operators/gilberta.md), [플루라이트](../operators/fluorite.md), [펠리카](../operators/perlica.md) |

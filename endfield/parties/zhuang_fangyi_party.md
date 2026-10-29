@@ -26,7 +26,7 @@ updated: 2026-10-27
 
 | 자리 | 오퍼레이터 | 하는 일 | 바꿀 수 있는 오퍼레이터 |
 |---|---|---|---|
-| 축 | [장방이](../operators/zhuang_fangyi.md) | 메인 조작. 강력한 일격으로 연계를 열고, 배틀 스킬로 감전을 소모해 청뢰검을 쌓는다 | — |
+| 메인 딜러 | [장방이](../operators/zhuang_fangyi.md) | 메인 조작. 강력한 일격으로 연계를 열고, 배틀 스킬로 감전을 소모해 청뢰검을 쌓는다 | — |
 | 감전 공급 | [펠리카](../operators/perlica.md) | 배틀 스킬로 전기 부착, 연계 스킬로 강제 감전 | — |
 | 게이지·연계 순환 | [리노](../operators/liino.md) | 감전이 걸리거나 소모될 때마다 연계, 다음 배틀 스킬 SP 반환 10 | [아크라이트](../operators/arclight.md) |
 | 부착 추가 | [결](../operators/arcane.md)(진결·의지) | 연계 스킬로 전기 부착을 한 스택 더해 2스택, 몹몰이 | [알레쉬](../operators/alesh.md), [아비웨나](../operators/avywenna.md), [안탈](../operators/antal.md), [질베르타](../operators/gilberta.md) |

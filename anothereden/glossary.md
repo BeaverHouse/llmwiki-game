@@ -94,7 +94,7 @@ updated: 2026-10-29
 | 이프 | Yipha | イーファ | 사이트 | |
 | 가시나무 저주의 여인 셰이네 | Shanie (Alter) | 茨呪の艶女 シェイネ | 사이트 | [가시나무 저주의 여인 셰이네](characters/shanie_alter.md). 바람/그림자 망치 탱커 겸 서포터. 출처에 따라 「茨呪の艶女」로만 적힘. 글로벌 이명 Thornbound Witch(Seesaa 기재) |
 | 셰이네 | Shanie | シェイネ | 사이트 | 위 이명 캐릭터와 다른 캐릭터 |
-| 번쩍번쩍 화가 멜로디 | Melody (Alter) | 煌々の画人 メロディ | 사이트 | 번쩍번쩍 화가 멜로디. 이시층 캐릭터. 속성 ZONE에 맞춰 変幻自在로 붙는 서포터 겸 힐러(불·물·번개 축). Seesaa 페이지명은 「煌々の画人」만, 읽기는 キラキラの画人 |
+| 번쩍번쩍 화가 멜로디 | Melody (Alter) | 煌々の画人 メロディ | 사이트 | 번쩍번쩍 화가 멜로디. 이시층 캐릭터. 속성 ZONE에 맞춰 変幻自在로 붙는 서포터 겸 힐러(불·물·번개 파티). Seesaa 페이지명은 「煌々の画人」만, 읽기는 キラキラの画人 |
 | 사이러스 | Cyrus | サイラス | 사이트 | 번쩍번쩍 화가 멜로디 번개 파티의 글래스터 담당. 옥토패스 협주의 사이러스(サイラス・オルブライト)와 다른 캐릭터 |
 | 멜로디 | Melody | メロディ | 사이트 | 위 이명 캐릭터와 다른 캐릭터. [멜로디(AS)](characters/melody_as.md) |
 | 신시아 / 키쿄 / 스컬 | Cynthia / Kikyo / Skull | シンシア / キキョウ / スカル | 사이트 | [멜피피아](characters/melpiphia.md)·[멜로디(AS)](characters/melody_as.md)·[가시나무 저주의 여인 셰이네](characters/shanie_alter.md)의 궁합·편성 캐릭터 |
@@ -123,7 +123,7 @@ updated: 2026-10-29
 | 이벨라 | Ewella | イウェラ | 사이트 | |
 | 빅트 | Victor | ヴィクト | 사이트 | |
 | 베네디트 | Benedict | ベネディト | 사이트 | |
-| 알도 | Aldo | アルド | 사이트 | 주인공. SB 「星竜斬」, 「オリジンフォース」. [번개 파티](guides/thunder_party.md)의 알도 + 오보로 축 |
+| 알도 | Aldo | アルド | 사이트 | 주인공. SB 「星竜斬」, 「オリジンフォース」. [번개 파티](guides/thunder_party.md)의 알도 + 오보로 |
 | 러블리 | Lovely | ラブリ | 사이트 | AS의 守護·迎撃. [カプトニク](raids/kaputoniku.md) 편성 |
 | 펠미나 | Felmina | フェルミナ | 사이트 | ES. [カプトニク](raids/kaputoniku.md) 꼼수 편성 |
 | 프레메아 | Premaya | プレメア | 사이트 | AS. [カプトニク](raids/kaputoniku.md) 땅 파티 |
