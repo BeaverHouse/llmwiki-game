@@ -1,69 +1,60 @@
 # Blue Archive — 변경 기록 (append-only, 최신이 위)
 
-- 2026-10-29 | ai | index.md·log.md·raids/gregorius.md·notes/3s30_shiro_kuro_meta.md·3s37_shiro_kuro_meta.md·s92_perorodzilla_meta.md 수정 | '딜 축' 등 '축' 표현을 '주 딜러'·'중심'으로 바꿈(AGENTS.md 8절) | 근거: user-feedback (Austin, 2026-10-29)
-- 2026-10-25 | ai | raids/gregorius.md·glossary.md·guides/beginner.md 보강, index.md 갱신 | 그레고리오: 오르간 성가 4단계 순서(검은 파이프 받피증→흰 파이프 정화→흰 파이프 받피증→검은 파이프 정화, 루나틱 정화 시 EX 대미지 70%), 마법진 색(파랑 받피증·흰색 정화)과 시작 직후·정화 뒤 회전 요령, 최근 디버프부터 제거, 성자의 속삭임(확정 치명 500%·공깎 40%/루나틱 70% 해제 불가·약 70초 주기)과 장갑별 위험, 디버프 아이콘과 보라색 CC 제외. 용어집에 설거지·침수 등록. 입문 가이드에 서버별 플래티넘 순위(일본 2만·한국 1만 2천 등)와 사이트 컷으로 다른 서버 플래티넘을 판정하지 않는다는 점 | 근거: 답변 리뷰(오르간 효과 구분법을 지어냄, 인세인 중반 부대 붕괴 원인 미답, 루나틱 설거지 조건을 기록 전체에 적용, "침수" 미인식), https://bluearchive.wiki/wiki/Gregorius, https://namu.wiki/w/그레고리오(블루%20아카이브), https://namu.wiki/w/블루%20아카이브/총력전, 사이트 S90-0 T 요약
-
-- 2026-10-24 | ai | 모든 문서 frontmatter | `status` 필드 삭제 (스키마 변경, 본문 변경 없음이라 `updated`는 유지) | 근거: 유지보수자 결정 — 문서 단위 검증 라벨은 실제 검토 범위와 맞지 않음, 확인 내용은 sources의 user-feedback으로 문장 단위 기록 (AGENTS.md 2·7절)
-- 2026-10-24 | ai | raids/gregorius.md·raids/geburah.md 정리, notes/s90_gregorius_meta.md·notes/s93_drumbarka_meta.md·index.md 수정 | PR #42 검토: 보스 가이드에 쌓인 시즌 조회 결과(S90 순위별 컷, 특정 학생 제외 시 최고 기록, 조합 0건 등 9항목과 대결전 S38 순위별 컷)를 걷어 냄 — 사이트 도구로 조회되는 데이터라 위키에 두지 않음(AGENTS.md 3절 1). 시즌 결론 중 리포트에 없던 순위 경계(루나틱 1~8,111위, 인세인은 플래티넘 불가)만 S90 리포트로 옮김. 글로벌 S87 종료일(일정 정보) 삭제. S93 아코 하락 원인 추정 문장 삭제 | 근거: 유지보수자 검토(2026-10-24)
-- 2026-10-24 | ai | guides/stat_guide.md·raids/geburah.md·raids/gregorius.md 보강, index.md 갱신 | 스탯 가이드: 전용무기 1~4성의 최대 레벨과 효과, 4성의 스페셜 효과(최대 코스트 0.5 증가), 전3·전4 대미지 차이. 게부라: 대결전 S38 세 장갑 합산 플래티넘 컷과 장갑별 점수 범위. 그레고리오: S90 토먼트 구간 10,000~20,000위 컷과 점수 범위, 한국·글로벌 서버 점수와는 참고용으로만 비교한다는 점 | 근거: 답변 리뷰(전3·전4 차이 미답, 일본 서버 게부라 플레컷을 보스 정보로 읽음, 한국 서버 토먼트 40,045,681점 플래티넘 여부 미답), 사이트 3S38-1·3S38-2·3S38-3·S90-0 요약, https://bluearchive.wiki/wiki/Unique_weapons
-- 2026-10-23 | ai | raids/gregorius.md·notes/s91_hieronymus_meta.md·glossary.md·index.md 보강 | 그레고리오: 성가대 붕괴 시 그로기 게이지 5%·난이도별 그로기 게이지·난이도별 디버프 적정 구간(팬 위키 기준)과 "EX마다 1/8"은 고즈 기믹이라는 구분, 서버별 개최 시즌(일본 S55·71·77·90, 글로벌 S52·68·74·87)과 사이트 기록이 S80부터라는 점, S90 루나틱 나기사 제외 최고 6,935위 3파티·다섯 명 제외 0건·레나 제외 영상 기록 6,816위, 토먼트 마리(아이돌)·호시노(수영복)·아루(드레스)·하루카(드레스) 0건. S91: 하루카(드레스) 고점 조합 토먼트 135건과 조회 기록의 성급. 용어집에 걍클·성가대·오르간 등록 | 근거: 답변 리뷰(그레고리오 그로기에 고즈 기믹을 붙임·성가대 미인식, 나기사 없는 루나틱 기록을 없다고 답함, S91 토먼트 최고점 조합을 기록 없다고 답함, 걍클을 학생 이름으로 읽음, S77 플레컷 질문), 사이트 S90-0·S91-0 summary·party 조회, https://bluearchive.wiki/wiki/Gregorius
-- 2026-10-23 | ai | notes/3s38_geburah_meta.md 신설, index.md 등록, raids/geburah.md 시즌 리포트 링크 추가 | S38 야외 게부라 3장갑 리포트: 장갑별 야외 S 스페셜 주포(사츠키·무츠키(드레스)·카린), 공통 스페셜 버프 스트라이커, 경장갑 사츠키·특수장갑 무츠키 이중 출전 2파티, 경장갑 최상위 미네(아이돌) 미사용, 중장갑 인세인 카스미(수영복) 한 파티, S37 대비 낮아진 합산 컷 정리 | 근거: 사이트 3S38-1·3S38-2·3S38-3 summary·party 조회, 학생 스킬·누적 분석 (최상위 저체온증 대응은 영상 없어 미확인)
-- 2026-10-22 | ai | notes/s93_drumbarka_meta.md·raids/gregorius.md 보강 | S93: 아코가 토먼트 2파티 대표 조합에서 빠지고 3파티 기록의 세 번째 파티에만 남음, 누적 사용 S89 1만 414회 → S93 상위 10개 밖. 그레고리오: 나구사(수영복)와 호시노(수영복)의 폭발 특효 대상 차이(스페셜 학생 vs 범위 안 아군)와 실내 적성, 미나 EX 이름(용호상박) 명시 | 근거: 답변 리뷰(아코 S93 토먼트 사용 여부 미답·아코(드레스)와 혼동, 호시노(수영복)를 딜러라며 나구사 대체 가능하다고 답함, 미나 기본 스킬을 EX로 표기), 사이트 S93-0·S89-0 토먼트 party 조회, 아코 누적 분석, 학생 스킬
-- 2026-10-21 | ai | raids/gregorius.md 보강, guides/eligma.md 신설, glossary.md·index.md 갱신 | 그레고리오: S90 플래티넘이 루나틱·토먼트로만 채워져 인세인 컷이 없음, 난이도 코드 L/T/I, 나구사(수영복)·레나 전무2 + 미사키(수영복) 조력 루나틱 24위, 레나 없이 미사키(수영복) 조력 1,364위·1,414위 2파티, 미사키(수영복)·레나·사쿠라코(아이돌) 모두 없을 때 8,057위 4파티 한 건, 미나 스킬로 본 채용 이유. 엘레프 가격 구간과 3성부터 단계별 엘리그마 총량. 용어집에 엘리그마·엘레프·플레·익스 등록 | 근거: 답변 리뷰(루나틱 24위 기록을 없다고 답함, 미나 역할을 지어냄, 엘리그마·플레택틱 질문 미답), 사이트 S90-0 L 파티 조회·미나 학생 스킬, https://bluearchive.wiki/wiki/Shop
-- 2026-10-20 | ai | raids/gregorius.md·raids/geburah.md 보강 | 그레고리오: S90 순위·점수로 루나틱(1~8,111위)·토먼트(8,112위~) 구분, 8,000~10,000위 점수 단절이 난이도 경계임, 토먼트 대표 편성 기록 수(8,402·2,448)와 3성 미나 기록 추가. 게부라: 대결전 S38 장갑별(중·특수·경) 약점과 최고 난이도, 공격 속성 항목이 아군 피해 기준임을 명시 | 근거: 답변 리뷰(토먼트 컷을 8,000위 루나틱 점수로 답함, 토먼트 대표 편성 보유자에게 인세인 어렵다고 답함, 대결전 중장갑 게부라에 신비 특수장갑 학생을 권함), 사이트 S90-0 T·L summary·party 조회, 레이드 목록 3S38-1·2·3
-
-- 2026-10-20 | ai | raids/hieronymus.md 갱신 | 시즌 리포트 목록에 대결전 S28·S31 리포트 링크 추가 (기존에는 총력전 S91만 연결) | 근거: index.md에 등록된 notes/3s28_hieronymus_meta.md·notes/3s31_hieronymus_meta.md
-- 2026-10-19 | ai | raids/gregorius.md 보강 | 기본 정보에 S90 실내 기록이 일본 서버 기준이며 한국·글로벌 서버의 다가오는 그레고리오에 참고 자료로 쓴다는 안내와 S90 리포트 링크 추가 | 근거: 답변 리뷰(S90을 한국 서버 기록·지난 시즌이라 다음 주 대비에 못 쓴다고 답함), 사이트 레이드 목록 S90-0, guides/beginner.md 기록의 서버 항목
-- 2026-10-18 | ai | guides/final_restriction_release.md 보강 | 티페레트 탄력장갑 99층의 사오리(드레스) 포함 편성과 3성으로도 가능하다는 기재 추가 | 근거: 답변 리뷰(사오리(드레스) 4성 티페레트 99층 질문 미답), kamigame·game8 탄력장갑 티페레트 공략, 99층 영상 제목
-- 2026-10-18 | ai | glossary.md·guides/beginner.md 보강 | 커뮤니티 용어 미래시·전N 등록, 대결전 플래티넘 컷이 세 장갑 합산임과 기록이 일본 서버 기준임을 입문 가이드에 명시 | 근거: 답변 리뷰(미래시 미인식, 노조미 전3을 3파티로 읽고 한 장갑 점수를 합산 컷과 비교), namu.wiki 미래시, 사이트 3S35-4 summary, SchaleDB JP raids.json
-- 2026-10-17 | ai | notes/s92_perorodzilla_meta.md 신설, index.md 등록 | S92 실내 페로로지라 리포트: 실내 전환으로 주 딜러가 호시노(무장)→마코토(수영복)로 바뀐 점, 토먼트 1파티 대표 편성(1만 2,600명), 루나틱 1위 3파티·상위 4파티와 이중 마코토, S81 대비 루나틱 클리어 557→3,030 정리 | 근거: 사이트 S92-0·S81-0 summary·party 조회, 학생 스킬·누적 분석, 고점 영상 2건 (루나틱 3파티 백열안광 대응은 미확인)
-- 2026-10-17 | ai | guides/beginner.md 보강 | 사이트의 시즌 번호·시작일이 일본 서버 기준이고 한국 서버는 같은 보스가 나중에 열린다는 안내 추가 | 근거: 사이트 raid list(S90 그레고리오 2026-06-30), game8 일본 서버 그레고리오 총력전 2026-07-01 개최 기사 https://game8.jp/blue-archive/685890, 2026-10-16 답변 검토(한섭 그레고리오·한섭 날짜 기준 총력전 목록 질문)
-- 2026-10-16 | human | notes/3s37_shiro_kuro_meta.md 보강 | 같은 시즌의 세 번째 리포트(별도 PR)를 합침: S30 비교, 아리스(무장) 코스트 사이클·케이 저장 폭발, 한 파티 네 번째 스트라이커의 순위대별 변화, 미치루(드레스) 시작 버프, 탄력장갑 지형 비교 | 근거: 사이트 3S37 summary·party 조회(2026-10-16), 3S30-3 summary, 학생 스킬
-- 2026-10-15 | human | notes/3s37_shiro_kuro_meta.md 보강 | 같은 시즌의 두 번째 리포트(별도 PR)를 합침: 코코로 장갑별 사용 횟수, 장갑별 사용률, 경장갑 변형 편성, 특수장갑 6,800위대 배치와 중복 없는 2파티 첫 순위, 탄력장갑 미카 없는 최고 순위·2만 4천 위대 변형 | 근거: 사이트 3S37 summary·party 재조회(2026-10-15)
-- 2026-10-15 | ai | notes/3s37_shiro_kuro_meta.md 보강 | 특수장갑 2파티 담당(1파티 시로·2파티 쿠로)과 쿠로 담당 파티의 코스트 회복·버프 구성 추가 | 근거: user-feedback(시로쿠로 2파티 분담 관행), 체리노·히마리·아코 학생 스킬, raids/shiro_kuro.md 체력
-
-- 2026-10-14 | ai | notes/3s37_shiro_kuro_meta.md 신설, index.md·raids/shiro_kuro.md 링크 추가 | S37 시가지 시로쿠로 3장갑 리포트: 경장갑 이로하(수영복)·아루 동료 가방과 최상위 무회피 처치, 특수장갑 아리스(무장) 이중 출전 2파티, 탄력장갑 인세인 미카(수영복) 연사 편성, 세 장갑 공통 코코로 정리 | 근거: 사이트 3S37-1·3S37-3·3S37-4 summary·party 조회, 학생 스킬·누적 분석, 고점 영상 4건, user-feedback(경장갑 최상위 영상 확인)
-
-- 2026-10-13 | ai | notes/s90_gregorius_meta.md 보강 | "미네·미나가 없을 때" 섹션 추가: 둘 다 없으면 루나틱 기록 0건, 미나 없으면 미네 2파티, 미네 없으면 미나 1파티 | 근거: user-feedback + S90 미네·미나 제외 파티 조회
-- 2026-10-13 | ai | notes/s93_drumbarka_meta.md 신설, raids/drumbarka.md 히스토리 추가 | S93 드럼통 게 재등장 리포트: 토먼트 2파티 압축·전반 지원 교체(이부키(수영복)·유즈(무장))·에리카/하루카(드레스) 조력자 의존, 루나틱 3파티 최고점·이중 이부키·마무리 파티 정리 | 근거: 사이트 S93-0 summary·party 조회, 학생 스킬·누적 분석, 고점 영상 2건 (루나틱 두 번째 파티 담당 페이즈는 미확인)
-
-- 2026-09-07 | ai | guides/final_restriction_release.md 신설 | 보상별 목표 층·세 보스 기믹·최근 시즌 99층 영상 12건을 정리하고 index·컨텐츠 가이드 연결, 용어집 육성 용어 등록·티페레트 일본어 표기 정정 | 근거: 공식 가이드, 시즌 20 이후 WB 보상 교차 확인, 보스 공략, 영상 공개일·제목·설명
-- 2026-09-07 | ai | guides/beginner.md 영상 갱신 | 사람 검증 영상 3건을 추가해 24건으로 갱신, 신규 영상의 장갑·시즌과 예로니무스 편성 조건을 표시하고 쿠로카게 표기·영상 순서를 정리 | 근거: 뉴비 후보 26건 중 기존 21건·신규 검증 3건·검증 대기 2건, 사람 검증 분석 #2943·#2910·#2721, glossary.md
-- 2026-09-07 | ai | notes/s91_hieronymus_meta.md 신설 | 토먼트 이로하 대중 편성·하루카 고점 편성과 루나틱 저주 회복·이중 이로하·후속 파티를 정리 | 근거: CDN v3 전체 파티·요약, 학생·보스 원본, 고점 영상 2건
-- 2026-09-07 | ai | notes/3s35_hod_meta.md 신설 | 경장갑 타워 처리 후 교대, 중장갑 미카·탄력장갑 노조미의 CC와 코스트 지원을 정리 | 근거: CDN v3 3장갑 전체 파티·요약, 학생·보스 원본, 고점 영상 3건
-- 2026-09-07 | ai | notes/3s36_binah_meta.md 신설 | 장갑별 고점·대중 편성, 이중 히나와 슈에링의 초반 EX·히카리 발동 조건을 정리 | 근거: CDN v3 3장갑 전체 파티·요약, 학생·보스 원본, 검증 영상·공개 타임라인
-- 2026-09-07 | ai | raids/hieronymus.md 보강 | 루나틱 체력·방어력, 저주 해제와 성유물 기믹을 추가 | 근거: SchaleDB 일본 서버 raids.json·enemies.json
-- 2026-09-07 | ai | index.md·raids/hieronymus.md·raids/hod.md·raids/binah.md 갱신 | S91·3S35·3S36 리포트 색인과 관련 보스 상호 링크 추가 | 근거: 신규 시즌 리포트
-- 2026-09-07 | ai | glossary.md 보강 | 예로니무스 성유물 색상과 저주 표기 등록 | 근거: 기존 보스 문서·SchaleDB raids.json
-- 2026-08-02 | ai | guides/beginner.md 영상 갱신 | 키워드 조건을 만족한 사람 검증 영상 21건을 보스별 YouTube 임베드로 정리 | 근거: ba-analyzer human-verified 분석
-- 2026-07-27 | ai | 대결전 리포트 3S28~3S33 아로나 코멘트 규격 교정 | 장갑명을 카드 라벨로 쓴 항목을 `Top 5 파티(장갑)` 범위 표기로 바꿔 요약 카드와 연결 | 근거: user-feedback + 기존 아로나 코멘트 라벨 계약
-- 2026-07-27 | ai | notes/3s28_hieronymus_meta.md·notes/3s31_hieronymus_meta.md·notes/skill_build_trends.md 교정 | 성유물 5중첩과 시가지 적성 해석을 바로잡고, WeaponPassive 전수 대조로 유지력 별표 누락 6명 추가 | 근거: user-feedback + raids.json + SchaleDB 공개 학생 원본
-- 2026-07-26 | ai | 남은 시즌 리포트 14건 초안 재작성 | 총력전 S80~S85·S87과 대결전 3S28~3S34를 전체 파티·순위대·1위 편성, 보스 기믹, 학생 스킬에 다시 맞춰 전투 진행과 채용 이유가 이어지도록 재작성 | 근거: CDN v3 전체 summary/party + 공개 학생 데이터 + 보스 문서
-- 2026-07-26 | ai | notes/s88_kaitenger_meta.md 재작성 | 전체 파티·순위대와 실제 EX 타격 수를 재대조해 토먼트의 리오(무장) 1파티/고득점 2파티 분기, 루나틱의 야쿠모·아루 전반 1파티와 로봇 다파티 구조를 교정 | 근거: CDN v3 전체 summary/party + SchaleDB 공개 학생 데이터 + 보스 기믹 교차 검증
-- 2026-07-26 | ai | notes/s89_drumbarka_meta.md 재작성 | 검증된 학생별 테이블과 파티 분포는 유지하고, 전후반의 공격 방식·부위 담당·난이도별 후속 파티 확장이 한 흐름으로 읽히도록 본문과 아로나 코멘트를 교정 | 근거: 기존 전체 집계·학생 스킬·검증 영상 + user-feedback
-- 2026-07-25 | ai | notes/3s27_shiro_kuro_meta.md 교정 | 한 파티 비율을 기믹 단순화가 아닌 화력 압축+최소 이동 재현으로 해석하고, 호시노(무장)의 파티 재배치·특수장갑 1딜/2딜·시로코(수영복) 역할을 바로잡음 | 근거: user-feedback + 전체 파티 데이터 + 보스 문서 + 정밀 이동 공략 사례
-- 2026-07-25 | ai | notes/s89_drumbarka_meta.md·notes/3s27_shiro_kuro_meta.md 재작성 | 표본·요약 카드 반복과 일반 스킬 소개를 걷어내고, 실제 전투 진행과 보스 조건에 발현된 채용 이유를 중심으로 총력전·대결전 각 1건을 재구성 | 근거: CDN v3 전체 summary/party + 학생 스킬 데이터 + 보스 문서 + S89 검증 영상 분석
-- 2026-07-24 | ai | notes/s80~s89 9건(S86 제외)·notes/3s26~3s34 9건 Deep Research 재작성 | 각 시즌의 전체 파티 원본, 파티 수·순위대 경향, 대표·1위 조합, 보스 스탯·기믹, 핵심 학생 실제 스킬을 다시 대조해 최고점과 대중 조합을 구분하고 본문·아로나 코멘트를 하나의 해석으로 정렬 | 근거: CDN v3 시즌별 summary/party 전체 데이터 + ba-analyzer 학생 DB + 보스 문서
-- 2026-07-24 | ai | notes/s80_hod_meta.md Deep Research 재작성 | 전체 루나틱 1,776명 파티·순위대별 파티 수·토먼트 대표 조합·최고점 23명 스킬을 교차 분석해 토먼트 고정 1파티와 루나틱 3코어+마무리 파티 구조로 재해석 | 근거: CDN v3 S80-0 전체 데이터 + ba-analyzer 학생 DB + SchaleDB/보스 문서
-- 2026-07-24 | ai | notes/s86_binah_meta.md 맥락 보강 | 토먼트 첫 등장 당시의 악명으로 어려울 것이라 예상했으나 첫 루나틱 클리어 표본이 20,000명을 채운 반전을 개요·아로나 코멘트에 반영 | 근거: user-feedback + S86 집계 데이터
-- 2026-07-24 | ai | notes/s80~s89 및 notes/3s26~3s34 리포트 독자 중심 재교정 | Austin이 다듬은 S90·3S25를 복잡·단순 시즌의 양 끝 기준으로 삼아 고정 섹션과 반복 결론을 걷어내고, 필요한 설명량·실전 판단·친근한 아로나 코멘트를 시즌별로 조정 | 근거: human-verified S90·3S25 + 각 문서 기존 검증 데이터
-- 2026-07-24 | ai | notes/s80~s89 및 notes/3s25~3s34 시즌 리포트 20건 전면 재구성 | S90을 기준으로 개요·플레이어 질문·기믹 인과·난이도/장갑 비교가 먼저 읽히도록 데이터 나열형 구조를 서사형으로 개편 | 근거: Austin의 S90 human-verified 재작성 + 각 문서 기존 집계·게임 데이터·보스 문서
-- 2026-07-24 | ai | guides/beginner.md 영상 갱신 | 검증 완료 영상 중 초보자·저육성·5주년 선생님용 EXTREME/INSANE 8건을 단계별 설명과 함께 추가 | 근거: ba-analyzer 사람 검증 완료 분석
-- 2026-07-23 | ai | 시즌 리포트 21건에 `## 아로나 코멘트` 섹션 추가 | 사이트 요약 탭 카드(핵심 캐릭터/Top 5 파티/파티 비율 등)별 아로나 말투 코멘트 + `시즌 한 줄`. 난이도 스코프 (토먼트)/(루나틱) 지원 — 카드 숫자 재진술 금지, '왜'만 서술 | 근거: 요약 탭 카드별 코멘트 요구
-- 2026-07-22 | ai | notes/s80~s87_*_meta.md (총력전 8), notes/3s25~3s33_*_meta.md (대결전 9) 신설, index 등록 | 과거 시즌 리포트 전량 작성(정중체). 총력전은 보스 기믹×약점 딜러 인과, 대결전은 장갑별 약점 딜러 교체 + 공통 코어 구조 | 근거: CDN v3 시즌 집계 + SchaleDB 속성/역할 + 보스 문서
-- 2026-07-22 | ai | s89/s90/3s34 문체 전환 | 기존 리포트 서술체(~이다)를 정중체(~입니다)로 통일, 중복 H1 제거 | 근거: 문체 통일 요청
-
-- 2026-07-22 | ai | notes/s88_kaitenger_meta.md 신설, index 등록 | S88 카이텐져 리포트(정중체). 경장갑 폭발 딜러+1페 CC 탱커(츠바키 도발) 정형, 토먼트 단일파티/루나틱 총동원 분리 | 근거: 집계 18,560/1,440 + SchaleDB 속성역할 + 보스 문서
-- 2026-07-22 | ai | guides/beginner.md 신설, index 등록 | 사이트 하드코딩 입문 가이드를 위키로 이관. 친근한 문체 | 근거: 사이트 입문 가이드 seed
-- 2026-07-22 | ai | s89/s90/skill_build 슬랭 순화 | 공무원·벤치·박제·셔틀·접대·딜컷·휴리스틱 등 일반 플레이어가 안 쓰는 용어를 평이하게 | 근거: 문체 통일 요청
-
-- 2026-07-22 | ai | AGENTS.md 네이밍 표준 추가, notes/s34→3s34_hovercraft_meta rename, index 갱신 | 슬러그가 사이트·도구의 영구 계약이 되기 전에 표준 확정 — 시즌 리포트 접두사를 raid_id(총력전 S/대결전 3S) 스킴에 정렬 | 근거: 사이트 노출 계획(improvement-plan)
-
-- 2026-07-21 | ai | raids/drumbarka.md, notes/s89_drumbarka_meta.md | S89 드럼통 게 신보스 가이드 + 픽률 리포트. 이중장갑(특수+경장갑)·페이즈별 딜러 요구·난이도별 HP/부위 스탯, 각 픽 킷×기믹 인과 | 근거: 게임 데이터 + 검증영상 + 커뮤니티
-- 2026-07-21 | ai | notes/s90_gregorius_meta.md, raids/gregorius.md | S90 그레고리오 리포트. 스트라이커 공격력 감소 40→70%로 주 딜러가 스트라이커→스페셜 전환, 디버프 개수 기믹(미네·미나) | 근거: 집계 + 게임 데이터 + 커뮤니티 공략
-- 2026-07-21 | ai | notes/s34_hovercraft_meta.md | 대결전 S34 3장갑 단일 리포트. 약점 딜러 교체 + 속성 무관 공통 코어 + 1페 CC 기믹 | 근거: 집계 + 게임 스킬 + 보스 문서
-- 2026-07-21 | ai | notes/skill_build_trends.md | 스작 동향. 영상 표기(4자 M, EX 만렙5)를 슬롯별 저투자 이유로 정리. 표기 파싱 규칙 확정(장비 T10/10/10 오변환 제거) | 근거: 영상 9,743건 + 게임 스킬 데이터
-
-- 2026-07-06 | ai | glossary.md 수정 | 종합전술시험 4종 연습(사격/돌파/방어/호위) 한/일 표기 등록 | 근거: content_guide.md 표기 표
-- 2026-07-06 | ai | glossary.md 생성, index.md 등록 | i18n 정책 변경(미러 폐지 → 용어집)에 따라 기존 문서에서 검증된 표기 추출 | 근거: AGENTS.md 언어 정책
-- 2026-07-06 | ai | guides/*, raids/* (15개 문서) | 내장 가이드(stat/content/보스 13종)를 위키로 이전, frontmatter 부여 | 근거: seed 마이그레이션 (Phase 0)
+- 2026-10-29 | ai | index.md·log.md·raids/gregorius.md·notes/ 3편 | 금지 관용어를 주 딜러·중심으로 바꿈 | user-feedback (Austin)
+- 2026-10-25 | ai | raids/gregorius.md·glossary.md·guides/beginner.md·index.md | 그레고리오 오르간·마법진·성자의 속삭임 기믹 보강, 설거지·침수 등록, 입문 가이드에 서버별 플래티넘 순위 추가 | 답변 리뷰, bluearchive.wiki, 나무위키
+- 2026-10-24 | ai | 모든 문서 frontmatter | `status` 필드 삭제 | 유지보수자 결정
+- 2026-10-24 | ai | raids/ 2편·notes/ 2편·index.md | PR #42 검토: 보스 가이드에 쌓인 시즌 조회 결과를 걷어 내고 순위 경계만 S90 리포트로 옮김 | 유지보수자 검토
+- 2026-10-24 | ai | guides/stat_guide.md·raids/ 2편·index.md | 전용무기 성급별 효과, 게부라 S38 플래티넘 컷, 그레고리오 S90 토먼트 컷 추가 | 답변 리뷰, 사이트 요약, bluearchive.wiki
+- 2026-10-23 | ai | raids/gregorius.md·notes/s91_hieronymus_meta.md·glossary.md·index.md | 그레고리오 그로기·서버별 개최 시즌·학생 제외 기록 보강, S91 조합 추가, 걍클·성가대·오르간 등록 | 답변 리뷰, 사이트 조회, bluearchive.wiki
+- 2026-10-23 | ai | notes/3s38_geburah_meta.md 신설, index.md·raids/geburah.md | S38 야외 게부라 3장갑 리포트 작성 | 사이트 조회, 학생 스킬
+- 2026-10-22 | ai | notes/s93_drumbarka_meta.md·raids/gregorius.md | S93 아코 사용 변화, 그레고리오의 나구사·호시노(수영복) 특효 차이와 미나 EX 이름 보강 | 답변 리뷰, 사이트 조회
+- 2026-10-21 | ai | raids/gregorius.md·guides/eligma.md 신설·glossary.md·index.md | 그레고리오 S90 난이도 구성과 조력 편성 기록 보강, 엘리그마 문서 신설, 용어 등록 | 답변 리뷰, 사이트 조회, bluearchive.wiki
+- 2026-10-20 | ai | raids/gregorius.md·raids/geburah.md | 그레고리오 S90 난이도 경계와 토먼트 편성 기록, 게부라 S38 장갑별 약점 추가 | 답변 리뷰, 사이트 조회
+- 2026-10-20 | ai | raids/hieronymus.md | 시즌 리포트 목록에 대결전 S28·S31 링크 추가 | index.md
+- 2026-10-19 | ai | raids/gregorius.md | S90 기록이 일본 서버 기준이라는 안내와 리포트 링크 추가 | 답변 리뷰
+- 2026-10-18 | ai | guides/final_restriction_release.md | 티페레트 탄력장갑 99층 사오리(드레스) 편성 추가 | 답변 리뷰, kamigame, game8
+- 2026-10-18 | ai | glossary.md·guides/beginner.md | 미래시·전N 등록, 대결전 플래티넘 컷이 세 장갑 합산이고 기록이 일본 서버 기준임을 명시 | 답변 리뷰, namu.wiki, 사이트 요약
+- 2026-10-17 | ai | notes/s92_perorodzilla_meta.md 신설, index.md | S92 실내 페로로지라 리포트 작성 | 사이트 조회, 학생 스킬, 고점 영상
+- 2026-10-17 | ai | guides/beginner.md | 시즌 번호·시작일이 일본 서버 기준이라는 안내 추가 | 사이트 raid list, game8
+- 2026-10-16 | human | notes/3s37_shiro_kuro_meta.md | 같은 시즌 세 번째 리포트를 합침 | 사이트 조회, 학생 스킬
+- 2026-10-15 | human | notes/3s37_shiro_kuro_meta.md | 같은 시즌 두 번째 리포트를 합침 | 사이트 재조회
+- 2026-10-15 | ai | notes/3s37_shiro_kuro_meta.md | 특수장갑 2파티 분담과 쿠로 담당 파티 구성 추가 | user-feedback, 학생 스킬
+- 2026-10-14 | ai | notes/3s37_shiro_kuro_meta.md 신설, index.md·raids/shiro_kuro.md | S37 시가지 시로쿠로 3장갑 리포트 작성 | 사이트 조회, 학생 스킬, 고점 영상, user-feedback
+- 2026-10-13 | ai | notes/s90_gregorius_meta.md | 미네·미나가 없을 때 절 추가 | user-feedback, 사이트 조회
+- 2026-10-13 | ai | notes/s93_drumbarka_meta.md 신설, raids/drumbarka.md | S93 드럼통 게 재등장 리포트 작성 | 사이트 조회, 학생 스킬, 고점 영상
+- 2026-09-07 | ai | guides/final_restriction_release.md 신설 | 보상별 목표 층과 보스 기믹, 99층 영상 정리, 티페레트 표기 정정 | 공식 가이드, 보스 공략, 영상
+- 2026-09-07 | ai | guides/beginner.md | 사람 검증 영상 3건을 더해 24건으로 갱신 | 사람 검증 분석
+- 2026-09-07 | ai | notes/s91_hieronymus_meta.md 신설 | 토먼트·루나틱 편성 정리 | CDN v3, 고점 영상
+- 2026-09-07 | ai | notes/3s35_hod_meta.md 신설 | 장갑별 처리 순서와 CC·코스트 지원 정리 | CDN v3, 고점 영상
+- 2026-09-07 | ai | notes/3s36_binah_meta.md 신설 | 장갑별 편성과 이중 히나·슈에링 운용 정리 | CDN v3, 검증 영상
+- 2026-09-07 | ai | raids/hieronymus.md | 루나틱 체력·방어력과 저주·성유물 기믹 추가 | SchaleDB
+- 2026-09-07 | ai | index.md·raids/ 3편 | S91·3S35·3S36 리포트 색인과 보스 링크 추가 | 신규 시즌 리포트
+- 2026-09-07 | ai | glossary.md | 예로니무스 성유물 색상과 저주 표기 등록 | SchaleDB
+- 2026-08-02 | ai | guides/beginner.md | 사람 검증 영상 21건을 보스별 임베드로 정리 | ba-analyzer
+- 2026-07-27 | ai | notes/ 대결전 리포트 6편 | 아로나 코멘트 라벨을 `Top 5 파티(장갑)` 표기로 교정 | user-feedback
+- 2026-07-27 | ai | notes/ 3편 | 성유물 5중첩·시가지 적성 해석 정정, 유지력 별표 누락 6명 추가 | user-feedback, SchaleDB
+- 2026-07-26 | ai | notes/ 14편 | 남은 시즌 리포트를 전투 진행과 채용 이유가 이어지게 재작성 | CDN v3, 학생 데이터, 보스 문서
+- 2026-07-26 | ai | notes/s88_kaitenger_meta.md | 토먼트·루나틱 편성 구조 교정 | CDN v3, SchaleDB
+- 2026-07-26 | ai | notes/s89_drumbarka_meta.md | 전후반 진행과 후속 파티가 한 흐름으로 읽히게 교정 | 검증 영상, user-feedback
+- 2026-07-25 | ai | notes/3s27_shiro_kuro_meta.md | 한 파티 비율 해석과 호시노(무장)·시로코(수영복) 역할 교정 | user-feedback, 파티 데이터
+- 2026-07-25 | ai | notes/ 2편 | 반복과 일반 스킬 소개를 걷어내고 채용 이유 위주로 재구성 | CDN v3, 학생 스킬, 검증 영상
+- 2026-07-24 | ai | notes/ 18편 | 최고점과 대중 조합을 구분해 재작성 | CDN v3, ba-analyzer
+- 2026-07-24 | ai | notes/s80_hod_meta.md | 토먼트 고정 1파티와 루나틱 다파티 구조로 재해석 | CDN v3, ba-analyzer
+- 2026-07-24 | ai | notes/s86_binah_meta.md | 첫 루나틱 클리어가 예상보다 많았던 점을 개요·코멘트에 반영 | user-feedback, S86 집계
+- 2026-07-24 | ai | notes/s80~s89·3s26~3s34 | S90·3S25를 기준으로 고정 섹션과 반복 결론을 걷어내고 시즌별로 조정 | human-verified S90·3S25
+- 2026-07-24 | ai | notes/ 20편 | S90 기준으로 데이터 나열형 구조를 서사형으로 개편 | Austin의 S90 재작성
+- 2026-07-24 | ai | guides/beginner.md | 초보자용 EXTREME·INSANE 영상 8건 추가 | ba-analyzer
+- 2026-07-23 | ai | notes/ 21편 | 아로나 코멘트 절 추가 | 요약 탭 카드별 코멘트 요구
+- 2026-07-22 | ai | notes/ 17편 신설, index.md | 과거 시즌 리포트 전량 작성 | CDN v3, SchaleDB, 보스 문서
+- 2026-07-22 | ai | notes/ 3편 | 리포트 문체를 정중체로 통일, 중복 H1 제거 | 문체 통일 요청
+- 2026-07-22 | ai | notes/s88_kaitenger_meta.md 신설, index.md | S88 카이텐져 리포트 작성 | 집계, SchaleDB, 보스 문서
+- 2026-07-22 | ai | guides/beginner.md 신설, index.md | 사이트 입문 가이드를 위키로 옮김 | 사이트 입문 가이드
+- 2026-07-22 | ai | notes/ 3편 | 슬랭을 평이한 말로 순화 | 문체 통일 요청
+- 2026-07-22 | ai | AGENTS.md·notes/3s34_hovercraft_meta.md 이름 변경·index.md | 시즌 리포트 슬러그를 raid_id 기준으로 정함 | 사이트 노출 계획
+- 2026-07-21 | ai | raids/drumbarka.md·notes/s89_drumbarka_meta.md | S89 드럼통 게 보스 가이드와 픽률 리포트 작성 | 게임 데이터, 검증 영상
+- 2026-07-21 | ai | notes/s90_gregorius_meta.md·raids/gregorius.md | S90 그레고리오 리포트 작성 | 집계, 게임 데이터, 커뮤니티 공략
+- 2026-07-21 | ai | notes/s34_hovercraft_meta.md | 대결전 S34 3장갑 리포트 작성 | 집계, 게임 스킬
+- 2026-07-21 | ai | notes/skill_build_trends.md | 스작 동향 정리와 영상 표기 파싱 규칙 확정 | 영상 9,743건, 게임 스킬
+- 2026-07-06 | ai | glossary.md | 종합전술시험 연습 4종 표기 등록 | content_guide.md
+- 2026-07-06 | ai | glossary.md 생성, index.md | 기존 문서에서 검증된 표기를 뽑아 용어집 작성 | AGENTS.md 언어 정책
+- 2026-07-06 | ai | guides/·raids/ 15편 | 내장 가이드를 위키로 옮기고 frontmatter 부여 | seed 마이그레이션
