@@ -6,7 +6,7 @@ sources:
   - https://anothereden.game-info.wiki/d/%A5%E1%A5%ED%A5%C7%A5%A3%28%A5%A2%A5%CA%A5%B6%A1%BC%A5%B9%A5%BF%A5%A4%A5%EB%29 (Seesaa Wiki 「メロディ(アナザースタイル)」, 2025-07-09 수정본, 댓글은 2026-01-16까지, 2026-10-28 본문·댓글 끝까지 열람, CC BY-NC-SA 4.0)
   - 사이트 데이터 ae_character·ae_translation_all (2026-10-28. 천, 성도각성 없음)
 created: 2026-10-28
-updated: 2026-10-28
+updated: 2026-10-29
 ---
 
 # 멜로디(AS)

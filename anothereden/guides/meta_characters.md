@@ -22,6 +22,7 @@ sources:
   - altema.jp 평가 페이지는 봇 차단(403)으로 읽지 못함
   - "user-feedback: 메타 명단은 Seesaa·anothertier 교집합만 쓴다(일본·글로벌 유저층이 달라 두 사이트 기준이 다름), 두 사이트가 스타일을 다르게 고른 캐릭터는 두 스타일 모두 적는다, 배포는 스토리 동료 전원 + 성능 좋은 배포, 교집합 밖은 필요할 때 문서를 만든다 (Austin, 2026-10-29)"
   - 사이트 데이터 ae_translation_all (2026-10-25, 용어 한국어 교체)
+  - https://anothereden.game-info.wiki/d/%A5%EA%A5%CA%A5%EA%A5%A2 (Seesaa Wiki 「リナリア」, 2025-07-09 수정본과 댓글(2025-11-29 連携 실측), 2026-10-29 열람)
 created: 2026-10-17
 updated: 2026-10-29
 ---
