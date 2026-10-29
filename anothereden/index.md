@@ -67,7 +67,7 @@
 
 - [characters/jillfunny_as.md](characters/jillfunny_as.md) — 질퍼니(AS) (Ver3.17.0 물/결정 검. 輝晶陣 어태커·水天陣 탱커 겸용, 핵심 스킬, 결정·물 파티 편성, 추천 장비)
 - [characters/thillelille_es.md](characters/thillelille_es.md) — 틸릴(ES) (결정 검. 명 아군 버퍼·輝晶陣 담당, SA 후 「剣持つ救世主」 어태커. 순수 결정·명 검 파티, 추천 장비)
-- [characters/alma_as.md](characters/alma_as.md) — 알마(AS) (결정 활. 개막 2턴 守護·迎撃 탱커 겸 단기전 어태커, SA 「カレイドスコープ」. 결정·그림자 편성, 장기전 약점)
+- [characters/alma_as.md](characters/alma_as.md) — 알마(AS) (결정 활, SA. 알케미 하이 동안 수호·요격으로 받으며 휘정진 아래 전체 마법 화력, 개막 2턴 보장과 3턴째 이후 모드 체인지 재진입, 칼레이도스코프의 연계·배리어 관통·전체 소생)
 - [characters/xianhua.md](characters/xianhua.md) — 셴화 (무속성 지팡이 마법 어태커. 지팡이 파티 화력 핵, SB 弱点看破<마법>·バフリバーサル. 마법·그림자 파티, 셴화(AS) 요약)
 - [characters/yuna.md](characters/yuna.md) — 유나 (무속성 지팡이 힐러·디버퍼. 腕知 60%·내성 100% 디버프와 闇祓, SA バフリバーサル·상태 이상 메타. 유나(AS) 요약)
 - [characters/sesta_as.md](characters/sesta_as.md) — 세스타(AS) (바람·도 어태커, Ver3.9.10. 「二刀神狼・改」로 개막 전체 공격 + 적 전체 弱点看破(風). 바람·베기·결정 파티 편성. 2025-07 Seesaa 최상위)
