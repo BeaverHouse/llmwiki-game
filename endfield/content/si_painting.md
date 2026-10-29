@@ -4,9 +4,9 @@ type: guide
 aliases: [사의 그림, Si's Painting, 그림 세계, 인연 마을, 인연 마을 객잔, 연원객잔, Yuanyuan Manor, Yuanyuan Manor Inn, 객잔, 객잔 운영, Innkeeping, Spirit Money, 소하장, Xiaohe Manor, 2장 VIII, 심연을 떠나며, Sanctuary from the Rift, 새 먹으로 그리다, Paint with Fresh Ink, 단청도, Sanctuary of Ink]
 sources:
   - https://namu.wiki/w/명일방주:%20엔드필드/지역 (사의 그림 문단과 각주, 2026-10-25) · /스토리 (연표와 5.8 프로세스 VIII, 2026-10-19) · /업데이트 (1.6 「단청도」, 2026-10-15) (CC BY-NC-SA 2.0 KR)
-  - https://endfield.wiki.gg/wiki/Si's_Painting (2026-10-19) · Yuanyuan_Manor_Inn (2026-10-24) · Spirit_Money (2026-10-20) · Innkeeping (2026-10-23) · Innkeeping/Theme (2026-10-24) · Innkeeping/Recipe (2026-10-27) · Ranching (2026-10-22) · Yummy_Feed, Double-Yummy_Feed, Meat, Milk, Egg, Fin_Fillet와 각 (A) 문서
+  - https://endfield.wiki.gg/wiki/Si's_Painting (2026-10-19) · Yuanyuan_Manor_Inn (2026-10-24) · Spirit_Money (2026-10-20) · Innkeeping (2026-10-23) · Innkeeping/Theme (2026-10-24) · Innkeeping/Recipe (2026-10-27) · Ranching (2026-10-22) · Yummy_Feed, Double-Yummy_Feed, Meat, Milk, Egg, Fin_Fillet와 각 (A) 문서 · Ballpea · Cabbage (2026-10-15, 한국어 표기 포함)
 created: 2026-10-22
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 # 사의 그림 (Si's Painting)
@@ -111,6 +111,8 @@ updated: 2026-10-29
 
 입구에 엔드필드 공업의 자동 수확 설비(Auto-Farmer)가 있고, 활성화하면 무릉성 실험 재배 구역에서도 같은 설비를 쓸 수 있다. 업그레이드하면 자동 육묘와 자동 수확을 하고, 수확물은 설비 저장고에 상한까지 쌓이며 무릉 창고로 원격 이동할 수 있다. 사의 그림의 설비는 Spirit Money로 업그레이드한다. 논배미와 물 주기는 [생태 재배와 논배미](eco_farming.md)에 있다.
 
+둥근 콩(Ballpea)과 청경채(Cabbage)는 객잔 요리에만 쓰는 작물이다. 영어 설명문은 fine cultivation(논배미 설명문의 한국어로는 정밀 재배)으로만 기를 수 있다고 적고, 영어 자료의 획득처는 물자 상자(Ingredients Crate)와 열일이의 상점이다.
+
 ### 목장
 
 인연 마을 뒷마당에서 짐승을 길러 식자재를 얻는다. 사이드 임무 A Painting Open for Business 뒤에 쓸 수 있다.
@@ -144,6 +146,7 @@ updated: 2026-10-29
 ## 확인하지 못한 것
 
 - 한국어 게임 표기: 객잔 이름(인연 마을, 연원객잔, 여원원), Spirit Money, Pink Bolete, 객잔 평가·테마·개조·보조 역할·취미·레시피·요리 태그·Full Blaze, 목장의 짐승·부지·포만도·행복도. 사료와 생산물 이름은 영어 아이템 문서의 한국어 칸을 따랐다.
+- 둥근 콩·청경채를 기르는 논배미가 따로 있는지, 둥근 콩·청경채 말고 객잔 작물(Matoberry, Sourberry, Whitemelon, Relishroom, Pingtuber, Crunchcane, Oilseeds)의 한국어 이름.
 - 사의 그림 식양 기체(분당 40 × 2)와 1.6 버전 증가분 40이 어떻게 맞는지.
 - 평가 4 테마의 별 점수, 레시피별 재료, 별 보상 가운데 아이콘이 깨진 품목.
 - 고깃덩이·우유·린수 고기를 낳는 짐승, 축사 1~5칸과 첫 연못의 가격.

@@ -6,7 +6,7 @@ sources:
   - https://endfield.wiki.gg/wiki/Item/Personal_Device · Backpack_and_Depot · Easy_Tools · Talosite_Exchange · Homecoming(1.4) · Dreamscape_of_Wind_and_Snow(1.5) · Sanctuary_of_Ink(1.6) · North_Wuling_Exclusion_Zone · Typhoeus's_Archery_Range
   - "endfield.wiki.gg 아이템 문서의 한국어 칸: Xiranite_Nexus(XC-I·XC-II), Blight_Miasma_Scanner_Plugin, Aero-Salvager_I/II/III, Speed_Booster_(S)/(M)/(L), 4FT/5FT/6FT_Qi_Cultivation_Scroll"
 created: 2026-10-28
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 # 개인 장치 (Personal Device)
@@ -15,7 +15,7 @@ updated: 2026-10-29
 
 ## 쓰이는 장치
 
-- 중추 식양 장치 · 확장 II형(Xiranite Nexus XC-II): 북쪽 금지 구역에서 침식 안개 내성을 600으로 올린다. 장비 없이 침식 안개에 들어가면 몇 초 만에 쓰러진다. 기본형은 메인 임무 2장 Ⅶ의 Bravely Breach the Hostile Winds를 마치면 받는다. 확장 I형(내성 450) 공식은 2장 Ⅶ에서 Tanjian Hall을, 확장 II형 공식은 Xiranite Research Labs를 되찾으면 열린다. 안개가 특히 짙은 곳은 Waterworks Hub와 Ghost Mesa Test Site다.
+- 중추 식양 장치 · 확장 II형(Xiranite Nexus XC-II): 북쪽 금지 구역에서 침식 안개 내성을 600으로 올린다. 장비 없이 침식 안개에 들어가면 몇 초 만에 쓰러진다. 기본형은 메인 임무 2장 Ⅶ의 Bravely Breach the Hostile Winds를 마치면 받는다. 확장 I형(내성 450) 공식은 2장 Ⅶ에서 담검당을, 확장 II형 공식은 Xiranite Research Labs를 되찾으면 열린다. 안개가 특히 짙은 곳은 Waterworks Hub와 Ghost Mesa Test Site다.
 - 침식 안개 스캔 모듈(Blight Miasma Scanner Plugin): 중추 식양 장치 스캔의 범위를 넓히고 빠르게 한다. 중추 식양 장치 스캔은 북쪽 금지 구역 전용 간편 도구로, 에테르 에너지 맥을 따라가 핵심에 조준선을 일정 시간 맞추면 에너지 응집점을 꺼낸다. 중추 식양 장치를 장착해야 작동한다.
 - 부유식 회수기 III(Aero-Salvager III): 작은 물건부터 큰 물건까지 띄워 회수한다. I은 작은 물건만, II는 중간 크기까지. 간편 제작.
 - 육척 <양기도>(6FT Qi Cultivation Scroll): 무릉에서 전투에 들어간 뒤 5초 동안 초당 스킬 게이지 10 회복. 오척은 7, 사척은 5. [탈로사이트 거래소](../content/exploration.md)에서 얻는다.
@@ -30,7 +30,7 @@ updated: 2026-10-29
 - 개인 장치 칸의 수.
 - 중추 식양 장치와 부유식 회수기의 제작 재료, 회수기 I·II 공식의 개방 조건.
 - 거래소 가격 2·3·5 탈로사이트가 단계별로 어느 품목에 붙는지.
-- Tanjian Hall, Xiranite Research Labs, Waterworks Hub, Ghost Mesa Test Site, 화살 칩의 한국어 표기. Tanjian Hall은 2장 Ⅶ의 담검당 폐허와 같은 곳으로 보인다.
+- Xiranite Research Labs, Waterworks Hub, Ghost Mesa Test Site, 화살 칩의 한국어 표기. Tanjian Hall은 [담검당](../world/wuling.md#담검당)이다.
 
 ## 히스토리
 

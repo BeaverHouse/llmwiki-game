@@ -1,12 +1,13 @@
 ---
 title: 탐색 컨텐츠 (Exploration)
 type: guide
-aliases: [탐색, 탐색 컨텐츠, 필드 탐색, 수집 요소, 오리렌, 상자, 연구 포인트, 장비 템플릿, 오리지늄 회로 영감, 탈로사이트, Talosite, 탈로사이트 거래소, Talosite Exchange, 프로토콜 용량, 집라인 제한, 전술 시설 제한, 에너지 응집점, 고위 에너지 응집점, Energy Alluvium, Severe Energy Alluvium, 탐색 레벨, Exploration Level, 월드 레벨, World Level, 침식된 유산을 찾아서, Etchspace Salvage, 탐색 의뢰, Aberrant Exploration, 탐색 지원 기술, Exploration Support Tech, 집중 의뢰, Focus Commission, 작전 지표, Operation Metrics, 숨겨진 구역의 여행자, Delver of the Cryptic, 수명]
+aliases: [탐색, 탐색 컨텐츠, 필드 탐색, 수집 요소, 오리렌, 상자, 연구 포인트, 장비 템플릿, 오리지늄 회로 영감, 탈로사이트, Talosite, 탈로사이트 거래소, Talosite Exchange, 프로토콜 용량, 집라인 제한, 전술 시설 제한, 에너지 응집점, 고위 에너지 응집점, Energy Alluvium, Severe Energy Alluvium, 탐색 레벨, Exploration Level, 월드 레벨, World Level, 침식된 유산을 찾아서, Etchspace Salvage, 탐색 의뢰, Aberrant Exploration, 탐색 지원 기술, Exploration Support Tech, 집중 의뢰, Focus Commission, 작전 지표, Operation Metrics, 숨겨진 구역의 여행자, Delver of the Cryptic, 수명, 간편 도구, Easy Tools, 스캔, 담기, 분사, 분사 드론, Jet Drone, 궁술, 수리]
 sources:
   - https://namu.wiki/w/명일방주:%20엔드필드/지역 (2026-10-22 수정본, 지역별 제한·수집 요소, CC BY-NC-SA 2.0 KR)
-  - https://endfield.wiki.gg/wiki/Energy_Alluvium · Etchspace_Salvage(wikitext, 변경 기록) · Etchspace_Salvage/Commissions (2026-07-27 수정본) · Delver_of_the_Cryptic · Exploration_Level (02/05 최적화 공지 변경점) · Talosite_Exchange (2026-07~10 수정본)
+  - https://namu.wiki/w/명일방주:%20엔드필드/설비 (성형기·충진기 문단의 담기·드론 분사, 2026-10-25 수정본, CC BY-NC-SA 2.0 KR)
+  - https://endfield.wiki.gg/wiki/Energy_Alluvium · Etchspace_Salvage(wikitext, 변경 기록) · Etchspace_Salvage/Commissions (2026-07-27 수정본) · Delver_of_the_Cryptic · Exploration_Level (02/05 최적화 공지 변경점) · Talosite_Exchange (2026-07~10 수정본) · Easy_Tools (2026-09-11 수정본)
 created: 2026-10-23
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 # 탐색 컨텐츠
@@ -53,6 +54,19 @@ updated: 2026-10-29
 - 눈 덮인 소나무 숲: 사미 출신 제사장이 베헤모스 사미를 찾는 실험을 하며 주술로 지역을 봉쇄한 곳이다. 길을 잃게 하는 안개와 접근하는 자를 공격하는 주술은 티프로스와 합류한 뒤 쓸 수 있는 티프로스의 활로 룬을 없애면 사라진다. 움직이는 바위와 눈보라가 있다. 경로를 제한하는 사망 판정 구역은 그대로 남는다.
 - 수명: 천사장 연구를 위해 세웠다가 침식으로 수몰된 홍산 과학원의 옛 도시를, 관리자가 여소귀의 이야기를 듣고 재구성한 공간이다. 무릉성의 여소귀를 통해 들어간다. 오리렌과 채집 자원이 없고 공업 모드가 꺼진다. 거대한 종으로 시간대를 4단계로 바꾸며 단계마다 갈 수 있는 구역이 달라진다. 시간은 저절로 흘러 0이 되면 맵 전체가 처음 단계로 돌아가며, 임무를 마친 뒤에도 같다. 종을 최대 세 번 쳐서 출발 시간대를 정할 수 있다.
 - 사의 그림: 곳곳의 그림으로 끊어진 길을 그려 잇는다. 메인 스토리가 끝날 무렵 사가 전력 코어를 그려 두어 금지 구역에서 전기를 끌어올 필요가 없다([사의 그림](si_painting.md)).
+
+## 간편 도구 (Easy Tools)
+
+간편 도구 버튼에 동작 하나를 걸어 두고 버튼만 눌러 쓴다. 휠 오른쪽 첫 칸은 특정 지역이나 물체에서만 쓰는 특수 도구이고 초록색으로 표시된다.
+
+- 스캔: 일반 상호작용 대상은 파랑, 임무 대상은 노랑으로 표시한다. 채집물과 광맥에 쓰면 매장량이 나온다. Protosync가 특수 목표를 감지하면 스캔으로 대략적인 위치를 찾고, 가까워질수록 반응이 세진다. 동적 침식에 다가가 스캔하면 침식 맥과 침식 코어가 드러난다([아겔로스와 침식](../world/aggeloi_and_blight.md#게임-안의-침식)). 물에 쓰면 그 자리의 양이 나오고, 양이 적힌 곳은 퍼낼 수 있으며 '무한'인 곳은 퍼낼 수 없다.
+- 카메라: 사진을 찍는다. 일부 이벤트, 의뢰, 부가 임무가 촬영을 요구한다. 1.4 버전에 오퍼레이터 포즈가 생겼다.
+- 폭발물: 공업 폭발물을 얻은 뒤 버튼 한 번으로 쓴다.
+- 담기: 무릉에서만 쓴다. 호수나 물이 찬 저수지 근처에서 빈 병에 액체를 담거나 병의 액체를 붓는다. 1.4 버전부터 기체도 담지만 내압 캔에만 담긴다.
+- 분사: 분사 드론(Jet Drone)을 띄워 배낭의 페리움 병에 든 청정수, 액화 식양, 액화 중식양을 뿌린다. 청정수로 작동하는 장치가 있고, 무릉의 동적 침식은 액화 식양으로만 걷힌다. 일부 구역의 Flow Control Node에 연결하면 범위 안에서 청정수가, Xiranite Flow Control Node를 활성화하면 액화 식양이 계속 다시 채워진다.
+- 수리(특수): 친구가 공유한 필드 설비를 내구도 최대로 고친다. 설비마다 하루 1회이고 서버 시각 4시에 초기화된다. 1.4 버전부터 공유 집라인을 타면 자동으로 쓴다.
+- 중추 식양 장치 스캔(특수): 북쪽 금지 구역 전용. [개인 장치](../systems/personal_device.md)에 있다.
+- 궁술(특수): 눈 덮인 소나무 숲 전용. 티프로스의 화살을 쏴 룬을 없애거나 투사체를 부순다. 1.5 버전에 생겼고, 화살 칩은 [개인 장치](../systems/personal_device.md)에 있다.
 
 ## 탐색 레벨
 
@@ -250,10 +264,12 @@ Manifest Containment는 그 구역의 정해진 색 보관함에서 나오는 �
 - 의뢰 목록 페이지는 2026-07-27 수정본이라 1.3 버전 이후의 변경이 반영되었는지.
 - '숨겨진 구역의 여행자' 각 시리즈와 공간의 한국어 이름.
 - 지역 표의 빈 프로토콜 용량·집라인 단계값, 4번 협곡 지역의 탈로사이트 수.
+- 간편 도구 동작 이름(스캔, 카메라, 폭발물, 담기, 분사, 수리, 궁술), 분사 드론, Flow Control Node·Xiranite Flow Control Node의 게임 안 한국어 표기. 담기·분사는 나무위키 설비 서술을 따랐다.
 - 영어 업데이트명과 버전의 대응. Zeroth Directive를 1.0(미션 제로), Old Deep Water Dies, by Rising Tide It is Denied를 1.1, At the Wake of Spring을 1.2(봄날의 새벽)로 본 것은 한국어 버전 이름과 뜻으로 맞춘 것이다.
 
 ## 히스토리
 
+- 2026-10-30: 간편 도구 절 추가.
 - 2026-10-27: 침식된 유산을 찾아서의 의뢰·연구 목록과 작전 지표 보상 표 추가.
 - 2026-10-25: 탐색 레벨과 탈로사이트 거래소 절 추가.
 - 2026-10-23: 최초 작성.

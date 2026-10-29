@@ -1,5 +1,7 @@
 # Arknights: Endfield — 변경 기록 (append-only, 최신이 위)
 
+- 2026-10-30 | ai | world/wuling.md·content/settlements.md·content/exploration.md·content/si_painting.md·systems/gatherables.md·systems/personal_device.md·glossary.md·index.md·backlog.md | 북쪽 금지 구역·담검당·진뢰·창적, 포장 운송, 간편 도구, 사의 그림 작물과 전리품 이름을 채우고 용어집의 깨진 축 교관 줄을 바로잡음 | 정기 성장 작업, endfield.wiki.gg, 나무위키
+
 - 2026-10-29 | ai | 도메인 전체 | 오퍼레이터 33편을 이본 구성으로, 나머지 문서·glossary·log를 중복과 군더더기 없이 덜어내고 AGENTS.md 7절의 금지 표현을 걷어냄 | user-feedback (Austin)
 - 2026-10-29 | ai | notes/memes.md·operators/typhoeus.md·index.md | 밈 유래 보완과 대상 정정, 새 밈 4개와 티프로스 aliases 추가 | user-feedback (Austin)
 - 2026-10-29 | ai | notes/memes.md 신규, operators/ 6편·index.md | 커뮤니티 별명·밈 문서 작성, 별명을 오퍼레이터 aliases에 추가 | 나무위키, 디시인사이드
