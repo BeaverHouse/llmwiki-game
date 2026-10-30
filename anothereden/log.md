@@ -1,5 +1,6 @@
 # Another Eden — 변경 기록 (append-only, 최신이 위)
 
+- 2026-10-30 | ai | characters/ 6편 신규, characters/shigure_es.md·guides/meta_characters.md·glossary.md·index.md·backlog.md | 뮬루스(ES)·시온(ES)·하보크·고답의 요묘 네코코·히스메나(ES)·플람라피스(ES) 카드를 쓰고 시구레(ES)의 틀린 SA 조건 비교를 지움 | Seesaa, 사이트 데이터
 - 2026-10-29 | ai | 도메인 전체 | 동료 문서를 알마(AS) 카드 형식으로, 가이드·강적·glossary·log를 중복과 군더더기 없이 덜어내고 "캐릭터"를 "동료"로, AGENTS.md 7절의 금지 표현을 걷어냄 | user-feedback (Austin), anothereden.wiki
 - 2026-10-29 | ai | characters/melody_alter.md 삭제, characters/ 2편·backlog.md·index.md·glossary.md | PR #56 검토: 명단 밖 번쩍번쩍 화가 멜로디 문서를 빼고 backlog를 명단 기준으로 거름 | 유지보수자 기준 (Austin)
 - 2026-10-29 | ai | characters/ 5편 신규, characters/ 3편·guides/ 3편·glossary.md·index.md·backlog.md | 쿠치나와·빨간 외투의 화염술사(AS)를 덜어내고 동료 5편 작성, 멜로디·リナリア 서술 정정 | Seesaa, 사이트 데이터
