@@ -5,7 +5,7 @@ aliases: [영광의 길, Path of Glory, 메달, 훈장, Medal, 업적, Reforge, 
 sources:
   - https://endfield.wiki.gg/wiki/Path_of_Glory (2026-03-28) · /Chapter · /Technical · /Regional · /Construction · /Event · /Wondrous (2026-10-20) · /Progression (2026-02-19) · /Social (2026-04-30)
 created: 2026-10-28
-updated: 2026-10-29
+updated: 2026-10-31
 ---
 
 # 영광의 길 (Path of Glory)
@@ -27,7 +27,7 @@ updated: 2026-10-29
 | Regional | 지역 개발과 탐색 | 지역별 TP 포인트 해금, 오리렌 수집, 상자 개봉, 퍼즐 |
 | Progression | 육성 | 오퍼레이터·무기 수집, 탐색 레벨 2·4·7, 권한 등급 20·40·60 |
 | Construction | [통합 공업 시스템](aic.md)·제강호 | 공업 기술 연구, 관리권 획득, 거점, 핵심 제어 중추 레벨 5 |
-| Social | 친구와의 상호작용 | 공유 설비 수리를 50·200·500회 받기, 정보 교류 50회 참여 |
+| Social | [친구와 교류](../systems/social.md) | 공용 설비 수리를 50·200·500회 받기, 생산 지원 50회 하기·100회 받기, 정보 교류 50회 참여 |
 | Event | 이벤트 | 상시 이벤트와 기간 한정 이벤트 |
 | Wondrous | 숨겨진 조건 | 조건이 공개되지 않은 메달 |
 
@@ -37,6 +37,7 @@ updated: 2026-10-29
 - Happy Gourmand(Construction): [사의 그림](si_painting.md#인연-마을-객잔) 인연 마을 객잔에서 서로 다른 테마 5개로 영업 별 5개를 얻으면(시험 영업 제외) 받고, 레시피 40개면 꾸며진다.
 - 재점화(Re-Ignition): [위기 협약](combat_content.md#시즌) 재점화 실험 작전에서 제약 총점 20 이상으로 완수하면 받았다. 2026년 7월 16일부터 얻을 수 없다.
 - Alluvium Dredger(Technical): 탐색 레벨 7에 이르고 서로 다른 고위 에너지 응집점 5곳을 완료하면 받는다.
+- Archer's Epiphany: [Typhoeus's Archery Range](exploration.md#보상)의 훈련 메달이다.
 - Zenith of the Trials: [선검 연무](combat_content.md#선검-연무)에서 Battle Points 합계 10으로 시련 1회를 완료하면 받고, Data Overflow 1회 뒤 같은 조건을 채우면 꾸며진다.
 
 ## 확인하지 못한 것

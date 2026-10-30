@@ -111,8 +111,12 @@ sources:
   - https://endfield.wiki.gg/wiki/Perlica/Dialogue
   - https://endfield.wiki.gg/wiki/Seš%27qa, https://endfield.wiki.gg/wiki/Camille/File, https://endfield.wiki.gg/wiki/Camille/Dialogue, https://endfield.wiki.gg/wiki/Blessing_of_Lustrous_Carmine
   - https://endfield.wiki.gg/wiki/Etchspace_Salvage/Commissions
+  - https://endfield.gryphline.com/ko-kr/news/4499 (공식 한국어 개발자 통신, 친구 기능 표기)
+  - https://endfield.wiki.gg/wiki/Sticker:_Engineering_Division · Nachzehrer · Crowe · Persistent_Echo · Beastly_Rage · Rime_Tip · Flaming_Resin · Dawnbreaker
+  - https://game8.jp/arknights-endfield/814895 (ティフォロスの射場·弓の試練)
+  - https://namu.wiki/w/라스트%20라이트(명일방주:%20엔드필드) · https://namu.wiki/w/이본(명일방주:%20엔드필드) (2026-10-31 열람, CC BY-NC-SA 2.0 KR)
 created: 2026-10-12
-updated: 2026-10-29
+updated: 2026-10-31
 ---
 
 # 엔드필드 고유명사 표기 (ko/en/ja)
@@ -136,10 +140,14 @@ updated: 2026-10-29
 | 제강호 | Dijiang | 帝江号 | 공식 | 엔드필드 공업 본부 함선. 정식 명칭 O.M.V. Dijiang |
 | 위기 대책팀 | Crisis Team / Endfield Crisis Team | — | 2차 | 관리자가 세운 작전팀 |
 | Z7 작전팀 | — | — | 미확인 | 아케쿠리가 이끄는 작전팀 |
-| 특수 기술부 | — | — | 미확인 | 엔드필드 공업 부서 |
+| 특수 기술부 / 특수 기술 부서 | Specialist Tech Division | — | 2차 | 엔드필드 공업 부서. 요약서는 '특수 기술부', 소개문은 '특수 기술 부서' |
 | 사업지원실 | — | — | 미확인 | 엔드필드 공업 부서 |
-| 인력 자원 사무부 | HR Division | — | 2차 | 엔드필드 공업 부서 |
-| — | Engineering Division (EF-ED) | — | 미확인 | 안드레의 소속 부서 |
+| 인력 자원 사무부 / 인사 부서 | HR Division | — | 2차 | 엔드필드 공업 부서. 기록마다 이름이 다름 |
+| 공학 센터 | Engineering Division (EF-ED) | エンジニア部 | 2차 | zh 工程中心. 안드레의 소속 부서 |
+| 연구 개발 센터 | R&D Center | — | 2차 | 펠리카가 있던 부서 |
+| 지원 부서 | — | — | 미확인 | 엔드필드 공업 부서 |
+| 의료 부서 | — | — | 미확인 | 엔드필드 공업 부서 |
+| 인턴조 | Intern Division | — | 2차 | 여풍 파일 자료 4 |
 | 창립자 | Founder | — | 2차 | 엔드필드 공업 창립자 |
 | 원점 | Provenance | — | 2차 | 관리자·M3·창립자·정예 오퍼레이터의 의사 결정층 |
 | 3대 중추 | three major nexuses | — | 2차 | 원점이 관장한 것 |
@@ -196,8 +204,7 @@ updated: 2026-10-29
 | 제2차 아겔로스 전쟁 | Second Aggeloi War | — | 2차 | 연도가 출처마다 다름(139년 / 142년) |
 | 파운데이션 | The Foundation | — | 2차 | 제1차 아겔로스 전쟁의 적대 세력. [파운데이션](world/foundation.md) |
 | 추방자 | Exiles | — | 2차 | 파운데이션의 다른 이름 |
-| 선사 문명 | Precursor Civilization | — | 2차 | 파운데이션이 그 유산을 손에 넣음 |
-| 테라 연합 과학 탐사단 | Terran Joint Science Expedition | — | 2차 | 파운데이션의 공격이 1차 전쟁을 일으킴. 카뮤의 부모가 소속 |
+| 선사 문명 | Precursor Civilization / Precursor | — | 2차 | [선사 문명](world/precursors.md). 나무위키 서술은 '선인류' || 테라 연합 과학 탐사단 | Terran Joint Science Expedition | — | 2차 | 파운데이션의 공격이 1차 전쟁을 일으킴. 카뮤의 부모가 소속 |
 | 정체불명의 소녀 | Mysterious Girl | — | 미확인 | 파운데이션 소속. ko는 나무위키 서술 표현 |
 | 엘 아이그니스 | — | — | 미확인 | 서막의 거인 |
 
@@ -365,7 +372,9 @@ updated: 2026-10-29
 | 샤를 | Char* | — | 미확인 | 카뮤의 쌍둥이 동생. 본 크러셔 두목 Char와 같은 인물인지 미확인 |
 | 제이컵 마이센 | Jakub Meissen | — | 2차 | 세쉬카를 배신하고 랜드브레이커 집단을 이끈 인물. 1.0 버전 표기 '제이콥' |
 | 황무지 군벌 | Warlord of the Wilds | — | 2차 | 제이컵 마이센의 이명. 카뮤 대사 제목 |
-| 플레밍 | Fleming | — | 2차 | '교량 건설자'. 주술 타임 수석 비즈니스 고문 |
+| 플레밍 | Fleming | — | 2차 | '교량 건설자'(en Bridge Builder). 세쉬카 수석 비즈니스 고문, 주술 타임 브랜드 책임자 |
+| 네츠살렘 | Nezzsalem | — | 미확인 | 라스트 라이트 파일 자료 4에서 M3가 이름을 드는 인물 |
+| 매츠 크로 | Matz Crowe | マッツ・クロウ* | 2차 | zh 성 克劳. 연맹 공단의 4번 협곡 오리지늄 발전소 책임자. 이본을 안드레에게 추천. ja는 팬 위키 |
 | 제라드 자소 | — | — | 미확인 | 철의 서약군 성주 |
 | 플론다 | Vronta | — | 2차 | 고요한 수도회 대수도원 원장. 이명 '진리의 탐구자'(en The Knower of Veritas) |
 | 아다시르 | Ardashir | アルダシル | 2차 | zh 阿达希尔 |
@@ -497,8 +506,10 @@ updated: 2026-10-29
 | 가시덤불 쇄도 | — | — | 미확인 | 티프로스 연계 스킬 |
 | 설산의 포효 | — | — | 미확인 | 티프로스 궁극기 |
 | 라스트 라이트 | Last Rite | ラストライト | 2차 | zh 别礼. 본명 아델하이드. 통칭 '라라' |
-| 나흐체러르 | — | — | 미확인 | 라스트 라이트의 살카즈 혈통 |
-| 전투 왕정의 공주 | — | — | 미확인 | 상인들이 라스트 라이트를 부르는 말 |
+| 나흐체러르 | Nachzehrer | ナハツェーラー | 2차 | 라스트 라이트의 살카즈 혈통 |
+| 나흐체러르 왕 | Sovereign of the Nachzehrers | — | 2차 | 라스트 라이트 파일 자료 4 |
+| 전투 왕정 | War Court | — | 2차 | 라스트 라이트 파일 자료 4. '두 번째 전투 왕정'은 en another War Court |
+| 전투 왕정의 공주 | Princess of the War Court | — | 2차 | 상인들이 라스트 라이트를 부르는 말 |
 | 혹한의 춤 | — | — | 미확인 | 라스트 라이트 기본 공격 |
 | 세쉬카의 비전 | — | — | 미확인 | 라스트 라이트 배틀 스킬 |
 | 저온 주입 | — | — | 미확인 | 라스트 라이트 배틀 스킬이 거는 상태 |
@@ -1057,7 +1068,13 @@ updated: 2026-10-29
 | 응접실 | Reception Room | 応接室 | 공식(ko) | |
 | 제조실 | Manufacturing Cabin | 製造室 | 공식(ko) | 제조실 I, 제조실 II처럼 번호를 붙임 |
 | 재배실 | Growth Chamber | 培養室 | 공식(ko) | 재배실 I처럼 번호를 붙임 |
-| 정보 교류 | Clue Exchange | — | 미확인 | 응접실에서 단서로 여는 기능 |
+| 정보 교류 | Clue Exchange | — | 공식(ko) | 응접실에서 단서로 여는 기능. [친구와 교류](systems/social.md) |
+| 단서 / 단서 수집 | Clue | — | 공식(ko) | 응접실 오퍼레이터가 모으는 것 |
+| 공용 설비 | Shared Facility | — | 공식(ko) | 다른 관리자 세계에 공유되는 필드 설비. 위키 일부 문서는 '공유 설비' |
+| 유지보수 | Repair* | — | 공식(ko) | 공식 공지의 공용 설비 수리 표현 |
+| 생산 지원 | Production Assist | — | 미확인 | 친구 제강호에서 하는 지원. ko는 커뮤니티 표현 |
+| 운송 의뢰 | — | — | 공식(ko) | 포장 운송 의뢰를 공식 공지가 부르는 말 |
+| 탄력 수요 물자 | — | — | 미확인 | 친구 제강호 물자 관리 단말에서 파는 물자. ko는 공략 글 |
 | 신뢰도 | Trust | 信頼度 | 공식(ko) | 오퍼레이터와의 관계 수치 |
 | 컨디션 | Mood | — | 공식(ko) | 배치된 오퍼레이터의 상태 수치 |
 
@@ -1142,9 +1159,17 @@ updated: 2026-10-29
 | 부유식 회수기 I·II·III | Aero-Salvager I–III | — | 미확인 | |
 | 소형 / 중형 / 대형 가속 유닛 | Speed Booster [S] / [M] / [L] | — | 미확인 | 무릉 전용 기력 회복 |
 | 사척 / 오척 / 육척 <양기도> | 4FT / 5FT / 6FT Qi Cultivation Scroll | — | 미확인 | 무릉 전용 스킬 게이지 회복 |
+| 떠도는 메아리 | Persistent Echo | 迷える声 | 2차 | 화살 칩 |
+| 비스트의 분노 | Beastly Rage | 狂獣激昂 | 2차 | 화살 칩 |
+| 혹한의 결정 | Rime Tip | 凍てつく矢 | 2차 | 화살 칩 |
+| 불타는 송진 | Flaming Resin | 燃ゆる松脂 | 2차 | 화살 칩 |
+| 여명을 가르는 빛 | Dawnbreaker | 夜を裂く光 | 2차 | 화살 칩 |
+| — | Typhoeus's Archery Range | ティフォロスの射場 | 2차 | 티프로스 궁술 훈련 시설. ko 미확인(영상 제목에 '티프로스의 활터') |
+| — | Trial of the Bow | 弓の試練 | 2차 | 1.5 버전 이벤트. ko 미확인 |
 
 ## 히스토리
 
+- 2026-10-31: 엔드필드 공업 부서(공학 센터 등), 나흐체러르·전투 왕정, 매츠 크로·네츠살렘, 화살 칩, 친구 기능 표기 추가. 정보 교류를 공식 공지 표기로 확정.
 - 2026-10-29: 중복 행을 합치고 주제별 표로 다시 묶음. 엔드필드 공업의 사람들, 고요한 수도회, 주술 타임 표기 추가.
 - 2026-10-21: 관리권·지역 건설 레벨 확정, Prosperity의 '번영도' 표기 철회.
 - 2026-10: 최초 작성. 오퍼레이터·전투·세계관·지역·아이템·컨텐츠 표기를 차례로 추가.
