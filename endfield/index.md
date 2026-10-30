@@ -33,7 +33,7 @@
 
 - [content/dijiang.md](content/dijiang.md) — 제강호 (본부 함선의 설정, 핵심 제어 중추·응접실·제조실·재배실 기능)
 - [content/aic.md](content/aic.md) — 통합 공업 시스템 (프로토콜 코어·서브 코어, 전력·식양 전력, 벨트·파이프·창고, 배치 한도, 설비 목록, 배터리·식양·적동 생산 사슬, 생산품 쓰임, 버전별 변화)
-- [content/settlements.md](content/settlements.md) — 거점과 지역 개발 (서브 코어 거점 목록, 관리권과 거점 거래·거점 성장, 거점 방어, 저장고 노드와 포장 운송(상자·화물 등급·화물 상태별 보상·노드별 개선), 지역 건설 레벨과 구역별 프로토콜 용량·집라인·전술 시설 상한, 탐색 시설, 무릉의 지역 장치)
+- [content/settlements.md](content/settlements.md) — 거점과 지역 개발 (서브 코어 거점 목록, 관리권과 거점 거래·거점 성장, 거점 방어, 저장고 노드와 포장 운송(운반 중 내구도를 깎는 행동), 지역 건설 레벨과 구역별 프로토콜 용량·집라인·전술 시설 상한, 탐색 시설, 무릉의 지역 장치)
 - [content/si_painting.md](content/si_painting.md) — 사의 그림 (1.6 버전 무릉의 여덟 번째 지역. 그림 속 세계의 설정·한도·전력·자원, 인연 마을 객잔 평가·테마별 별 점수와 메뉴 조건·요리 태그·Full Blaze·개조 비용·상점·오퍼레이터 배치 보너스·마일스톤과 Spirit Money, 농장·자동 수확 설비, 목장의 부지·짐승·사료·자동 먹이, 메인 스토리 2장 VIII 「심연을 떠나며」 장면별 줄거리)
 - [content/eco_farming.md](content/eco_farming.md) — 생태 재배와 논배미 (재배기·씨앗 추출기와의 차이, 생태 재배 구역의 위치와 흐름, 논배미 10종의 수확·변종·쓰임, 스프링클러·기체 분산기 급수, 1.6 자동 수확)
 - [content/combat_content.md](content/combat_content.md) — 전투 컨텐츠 (위기 협약의 제약·규칙·보상·시즌, 그림자 이정표 시리즈와 Agony 모드, 전쟁의 메아리 등급·칭호, 선검 연무의 Dataplate와 Data Overflow, 입장 권한 등급)

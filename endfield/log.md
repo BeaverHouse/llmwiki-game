@@ -1,5 +1,7 @@
 # Arknights: Endfield — 변경 기록 (append-only, 최신이 위)
 
+- 2026-10-30 | ai | content/settlements.md·index.md·backlog.md | 포장 운송 절을 운반 중 점프·전투·프로토콜 전송을 피하라는 내용만 남기고 줄임 | user-feedback (Austin)
+
 - 2026-10-30 | ai | world/wuling.md·content/settlements.md·content/exploration.md·content/si_painting.md·systems/gatherables.md·systems/personal_device.md·glossary.md·index.md·backlog.md | 북쪽 금지 구역·담검당·진뢰·창적, 포장 운송, 간편 도구, 사의 그림 작물과 전리품 이름을 채우고 용어집의 깨진 축 교관 줄을 바로잡음 | 정기 성장 작업, endfield.wiki.gg, 나무위키
 
 - 2026-10-29 | ai | 도메인 전체 | 오퍼레이터 33편을 이본 구성으로, 나머지 문서·glossary·log를 중복과 군더더기 없이 덜어내고 AGENTS.md 7절의 금지 표현을 걷어냄 | user-feedback (Austin)

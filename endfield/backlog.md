@@ -19,7 +19,7 @@
 
 [AGENTS.md](../AGENTS.md) 6절에 맞는 질문만 둔다.
 
-- 게임 화면의 한국어 표기: 포장 운송의 화물 등급(Durable·Fragile·Super Fragile)과 화물 상태(Integrity), 간편 도구 동작 이름(스캔·카메라·폭발물·담기·분사·수리·궁술), 북쪽 금지 구역 구획 이름(Miasma's End, Sentry Base, Designated Urban Area, Waterworks Hub, Quelltide Levee, Cliffside Courtyard, Xiranite Research Labs, Tianshi Pillar R&D Center, Ghost Mesa Test Site, Celestial Column). 답이 없으면 영어 표기를 그대로 둔다(2026-11-01까지).
+- 게임 화면의 한국어 표기: 간편 도구 동작 이름(스캔·카메라·폭발물·담기·분사·수리·궁술), 북쪽 금지 구역 구획 이름(Miasma's End, Sentry Base, Designated Urban Area, Waterworks Hub, Quelltide Levee, Cliffside Courtyard, Xiranite Research Labs, Tianshi Pillar R&D Center, Ghost Mesa Test Site, Celestial Column). 답이 없으면 영어 표기를 그대로 둔다(2026-11-01까지).
 
 ## 완료
 
