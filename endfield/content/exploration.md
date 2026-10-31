@@ -1,12 +1,15 @@
 ---
 title: 탐색 컨텐츠 (Exploration)
 type: guide
-aliases: [탐색, 탐색 컨텐츠, 필드 탐색, 수집 요소, 오리렌, 상자, 연구 포인트, 장비 템플릿, 오리지늄 회로 영감, 탈로사이트, Talosite, 탈로사이트 거래소, Talosite Exchange, 프로토콜 용량, 집라인 제한, 전술 시설 제한, 에너지 응집점, 고위 에너지 응집점, Energy Alluvium, Severe Energy Alluvium, 탐색 레벨, Exploration Level, 월드 레벨, World Level, 침식된 유산을 찾아서, Etchspace Salvage, 탐색 의뢰, Aberrant Exploration, 탐색 지원 기술, Exploration Support Tech, 집중 의뢰, Focus Commission, 작전 지표, Operation Metrics, 숨겨진 구역의 여행자, Delver of the Cryptic, 수명]
+aliases: [탐색, 탐색 컨텐츠, 필드 탐색, 수집 요소, 오리렌, 상자, 연구 포인트, 장비 템플릿, 오리지늄 회로 영감, 탈로사이트, Talosite, 탈로사이트 거래소, Talosite Exchange, 프로토콜 용량, 집라인 제한, 전술 시설 제한, 에너지 응집점, 고위 에너지 응집점, Energy Alluvium, Severe Energy Alluvium, 탐색 레벨, Exploration Level, 월드 레벨, World Level, 침식된 유산을 찾아서, Etchspace Salvage, 탐색 의뢰, Aberrant Exploration, 탐색 지원 기술, Exploration Support Tech, 집중 의뢰, Focus Commission, 작전 지표, Operation Metrics, 숨겨진 구역의 여행자, Delver of the Cryptic, 수명, 간편 도구, Easy Tools, 스캔, 담기, 분사, 분사 드론, Jet Drone, 궁술, 수리, Typhoeus's Archery Range, ティフォロスの射場, Cliffbottom Archery Range, Trial of the Bow, 弓の試練, Archer's Epiphany]
 sources:
   - https://namu.wiki/w/명일방주:%20엔드필드/지역 (2026-10-22 수정본, 지역별 제한·수집 요소, CC BY-NC-SA 2.0 KR)
-  - https://endfield.wiki.gg/wiki/Energy_Alluvium · Etchspace_Salvage(wikitext, 변경 기록) · Etchspace_Salvage/Commissions (2026-07-27 수정본) · Delver_of_the_Cryptic · Exploration_Level (02/05 최적화 공지 변경점) · Talosite_Exchange (2026-07~10 수정본)
+  - https://namu.wiki/w/명일방주:%20엔드필드/설비 (성형기·충진기 문단의 담기·드론 분사, 2026-10-25 수정본, CC BY-NC-SA 2.0 KR)
+  - https://endfield.wiki.gg/wiki/Energy_Alluvium · Etchspace_Salvage(wikitext, 변경 기록) · Etchspace_Salvage/Commissions (2026-07-27 수정본) · Delver_of_the_Cryptic · Exploration_Level (02/05 최적화 공지 변경점) · Talosite_Exchange (2026-07~10 수정본) · Easy_Tools (2026-09-11 수정본)
+  - https://endfield.wiki.gg/wiki/Typhoeus%27s_Archery_Range (2026-09-17 수정본) · Trial_of_the_Bow (2026-09-12 수정본) · Cliffbottom_Archery_Range (2026-09-09 수정본) · A_Dreamscape_Shattered_by_Her_Arrow (2026-09-06 수정본) · Dreamscape_of_Wind_and_Snow (2026-10-29 수정본)
+  - https://game8.jp/arknights-endfield/814895 (2026-10-16 갱신) · https://game8.jp/arknights-endfield/814620 (2026-09-14 갱신)
 created: 2026-10-23
-updated: 2026-10-29
+updated: 2026-10-31
 ---
 
 # 탐색 컨텐츠
@@ -53,6 +56,19 @@ updated: 2026-10-29
 - 눈 덮인 소나무 숲: 사미 출신 제사장이 베헤모스 사미를 찾는 실험을 하며 주술로 지역을 봉쇄한 곳이다. 길을 잃게 하는 안개와 접근하는 자를 공격하는 주술은 티프로스와 합류한 뒤 쓸 수 있는 티프로스의 활로 룬을 없애면 사라진다. 움직이는 바위와 눈보라가 있다. 경로를 제한하는 사망 판정 구역은 그대로 남는다.
 - 수명: 천사장 연구를 위해 세웠다가 침식으로 수몰된 홍산 과학원의 옛 도시를, 관리자가 여소귀의 이야기를 듣고 재구성한 공간이다. 무릉성의 여소귀를 통해 들어간다. 오리렌과 채집 자원이 없고 공업 모드가 꺼진다. 거대한 종으로 시간대를 4단계로 바꾸며 단계마다 갈 수 있는 구역이 달라진다. 시간은 저절로 흘러 0이 되면 맵 전체가 처음 단계로 돌아가며, 임무를 마친 뒤에도 같다. 종을 최대 세 번 쳐서 출발 시간대를 정할 수 있다.
 - 사의 그림: 곳곳의 그림으로 끊어진 길을 그려 잇는다. 메인 스토리가 끝날 무렵 사가 전력 코어를 그려 두어 금지 구역에서 전기를 끌어올 필요가 없다([사의 그림](si_painting.md)).
+
+## 간편 도구 (Easy Tools)
+
+간편 도구 버튼에 동작 하나를 걸어 두고 버튼만 눌러 쓴다. 휠 오른쪽 첫 칸은 특정 지역이나 물체에서만 쓰는 특수 도구이고 초록색으로 표시된다.
+
+- 스캔: 일반 상호작용 대상은 파랑, 임무 대상은 노랑으로 표시한다. 채집물과 광맥에 쓰면 매장량이 나온다. Protosync가 특수 목표를 감지하면 스캔으로 대략적인 위치를 찾고, 가까워질수록 반응이 세진다. 동적 침식에 다가가 스캔하면 침식 맥과 침식 코어가 드러난다([아겔로스와 침식](../world/aggeloi_and_blight.md#게임-안의-침식)). 물에 쓰면 그 자리의 양이 나오고, 양이 적힌 곳은 퍼낼 수 있으며 '무한'인 곳은 퍼낼 수 없다.
+- 카메라: 사진을 찍는다. 일부 이벤트, 의뢰, 부가 임무가 촬영을 요구한다. 1.4 버전에 오퍼레이터 포즈가 생겼다.
+- 폭발물: 공업 폭발물을 얻은 뒤 버튼 한 번으로 쓴다.
+- 담기: 무릉에서만 쓴다. 호수나 물이 찬 저수지 근처에서 빈 병에 액체를 담거나 병의 액체를 붓는다. 1.4 버전부터 기체도 담지만 내압 캔에만 담긴다.
+- 분사: 분사 드론(Jet Drone)을 띄워 배낭의 페리움 병에 든 청정수, 액화 식양, 액화 중식양을 뿌린다. 청정수로 작동하는 장치가 있고, 무릉의 동적 침식은 액화 식양으로만 걷힌다. 일부 구역의 Flow Control Node에 연결하면 범위 안에서 청정수가, Xiranite Flow Control Node를 활성화하면 액화 식양이 계속 다시 채워진다.
+- 수리(특수): 친구가 공유한 필드 설비([공용 설비](../systems/social.md#공용-설비))를 내구도 최대로 고친다. 설비마다 하루 1회이고 서버 시각 4시에 초기화된다. 1.4 버전부터 공유 집라인을 타면 자동으로 쓴다.
+- 중추 식양 장치 스캔(특수): 북쪽 금지 구역 전용. [개인 장치](../systems/personal_device.md)에 있다.
+- 궁술(특수): 눈 덮인 소나무 숲 전용. 티프로스의 화살을 쏴 룬을 없애거나 투사체를 부순다. 1.5 버전에 생겼고, 화살 칩은 [개인 장치](../systems/personal_device.md#화살-칩), 훈련 시설은 [Typhoeus's Archery Range](#typhoeuss-archery-range)에 있다.
 
 ## 탐색 레벨
 
@@ -233,6 +249,43 @@ Manifest Containment는 그 구역의 정해진 색 보관함에서 나오는 �
 
 200,000까지 모두 받으면 오로베릴 4,000, 기초 헤드헌팅 허가증 20, 탈로시안 화폐 250,000이 된다.
 
+## Typhoeus's Archery Range
+
+무릉 눈 덮인 소나무 숲의 시설이다. [티프로스](../operators/typhoeus.md)를 조작해 간편 도구 궁술로 제한 시간 안에 표적을 쏜다. 1.5 버전에 생겼다. 화살 칩의 효과는 [개인 장치](../systems/personal_device.md#화살-칩)에 있다.
+
+### 개방
+
+부가 임무 Cliffbottom Archery Range(일본어 崖の下の射場)에서 기계를 고치고 잠금을 풀면 열린다. 기계 수리는 오리지늄 회로 퍼즐이고, 잠금 해제 비용은 없다. 임무는 단말기로 온 티프로스의 메시지를 읽고 답하면 시작된다. 임무의 단계는 기계 수리, 잠금 해제, 안드레의 칩 시험 두 번, Daily Exercise 한 번, 시설 강화, 최대 레벨 달성 순이다.
+
+이 임무가 열리는 조건은 출처마다 다르다. endfield.wiki.gg 시설 문서는 부가 임무 A Dreamscape Shattered by Her Arrow를, 같은 사이트의 이벤트 문서와 game8은 티프로스 이야기 A Winter Dream Fogged Deep in the Woods(일본어 冬の夢は霧の中に)를 마치라고 적는다.
+
+### 시설 강화
+
+[무릉 관리권](settlements.md#관리권과-거점-거래)으로 강화한다. 강화할 때마다 [지역 건설치](settlements.md)를 준다.
+
+| 강화 | 열리는 단계 | 무릉 관리권 | 지역 건설치 |
+|---|---|---|---|
+| 0 → 1 | Basic Training: Persistent Echo·Beastly Rage, Daily Exercise 01 | 0 | 300 |
+| 1 → 2 | Basic Training: Rime Tip·Flaming Resin, Daily Exercise 02 | 50,000 | 500 |
+| 2 → 3 | Basic Training: Dawnbreaker, Daily Exercise 03 | 120,000 | 850 |
+| 3 → 4 | Advanced Training, Daily Exercise 04 | 300,000 | 1,200 |
+
+game8은 다음 레벨로 올리려면 앞 레벨의 Daily Exercise를 먼저 깨야 한다고 적는다. endfield.wiki.gg 시설 문서에는 이 조건이 없다. game8은 화살 칩 공식이 열리는 레벨도 이 표대로 적는다. endfield.wiki.gg 시설 문서 안의 칩 표와 단계 표는 일부 칩의 개방 레벨을 이 표와 한 단계씩 다르게 적는다.
+
+### 단계
+
+- Basic Training: 칩이 미리 정해진 훈련이다. 칩마다 하나씩 다섯 단계다. Beastly Rage 단계는 기본·일반·방벽·중장·에너지 실드 표적이 다 나오고, Flaming Resin 단계는 방벽을 뺀 넷이 나온다.
+- Advanced Training(레벨 4): 칩을 최대 2개만 고르고, 다른 칩으로 바꾸면 곧바로 적용된다. Herd of Hornbeasts(모든 표적이 계속 움직이고 체력이 높다), Flock of Fowlbeasts(표적이 많고 체력이 낮다), School of Fins(체력 높은 표적과 낮은 표적이 섞여 가끔 서로 붙는다), Hive of Bees(체력 높은 표적과 낮은 표적이 겹쳐 나온다) 네 단계다.
+- Daily Exercise: 서버 날마다 초기화된다. 01~03은 배치가 고정이고 칩 변형 조건이 날마다 바뀐다. 04는 배치 5종과 변형 3종이 돌아가며 그날의 순위표가 있다. 단계마다 시간 목표가 셋이고 하나에 별 1개다. 높은 단계를 깨면 낮은 단계는 모두 별 3개가 된다. 별은 보상이 없고 저장되지 않으며 영광의 길 메달 조건에만 쓰인다.
+
+표적의 체력은 기본 1, 일반 2, 방벽 3, 중장 4, 에너지 실드 2다. 방벽은 크기가 바뀌며 뒤의 표적을 가린다. 에너지 실드가 있는 표적은 얼지 않고, 송진이 붙지 않으며, 이미 붙은 송진도 피해를 받아 터지지 않는다.
+
+### 보상
+
+Basic Training과 Advanced Training을 처음 깨면 오로베릴을 준다. 단계마다 Basic 20, Advanced 50이고 합계 300이다. 영광의 길 메달 Archer's Epiphany는 Basic Training을 모두 깨고 Daily Exercise 04를 한 번 깨면 받고, Advanced Training을 모두 깨고 Daily Exercise 04를 별 3개로 깨면 꾸며진다.
+
+1.5 버전 이벤트 Trial of the Bow는 이 시설의 단계로 진행했다. 이벤트가 끝난 뒤에도 시설과 첫 클리어 보상은 남는다.
+
 ## 숨겨진 구역의 여행자 (Delver of the Cryptic)
 
 필드 장치를 응용한 프로토콜 공간들로 이루어진 상시 이벤트다. 퍼즐을 풀어 출구에 닿는 공간과 빨리 닿는 공간이 있다. 공간마다 상자 셋이나 추가 목표가 있다. 한 시리즈의 공간을 모두 클리어하면 [영광의 길](path_of_glory.md) 메달을 받고, 상자와 추가 목표를 모두 채우면 메달이 꾸며진다.
@@ -250,13 +303,18 @@ Manifest Containment는 그 구역의 정해진 색 보관함에서 나오는 �
 - 의뢰 목록 페이지는 2026-07-27 수정본이라 1.3 버전 이후의 변경이 반영되었는지.
 - '숨겨진 구역의 여행자' 각 시리즈와 공간의 한국어 이름.
 - 지역 표의 빈 프로토콜 용량·집라인 단계값, 4번 협곡 지역의 탈로사이트 수.
+- 간편 도구 동작 이름(스캔, 카메라, 폭발물, 담기, 분사, 수리, 궁술), 분사 드론, Flow Control Node·Xiranite Flow Control Node의 게임 안 한국어 표기. 담기·분사는 나무위키 설비 서술을 따랐다.
+- Typhoeus's Archery Range와 그 단계·임무·이벤트·메달(Cliffbottom Archery Range, Basic Training, Advanced Training, Daily Exercise, Trial of the Bow, Archer's Epiphany)의 한국어 게임 표기. 커뮤니티 영상 제목에 '티프로스의 활터', '궁술 시련'이 보이지만 본문으로 확인하지 못했다.
+- 사격장 임무가 열리는 조건(A Dreamscape Shattered by Her Arrow가 A Winter Dream Fogged Deep in the Woods의 한 장인지), 첫 클리어 보상의 두 번째 품목, 눈 덮인 소나무 숲 안의 정확한 위치.
 - 영어 업데이트명과 버전의 대응. Zeroth Directive를 1.0(미션 제로), Old Deep Water Dies, by Rising Tide It is Denied를 1.1, At the Wake of Spring을 1.2(봄날의 새벽)로 본 것은 한국어 버전 이름과 뜻으로 맞춘 것이다.
 
 ## 히스토리
 
+- 2026-10-31: Typhoeus's Archery Range 절 추가.
+- 2026-10-30: 간편 도구 절 추가.
 - 2026-10-27: 침식된 유산을 찾아서의 의뢰·연구 목록과 작전 지표 보상 표 추가.
 - 2026-10-25: 탐색 레벨과 탈로사이트 거래소 절 추가.
 - 2026-10-23: 최초 작성.
-- 1.5 버전(Dreamscape of Wind and Snow): 탈로사이트 거래소 개인 장치 구획 추가.
+- 1.5 버전(Dreamscape of Wind and Snow): 탈로사이트 거래소 개인 장치 구획, Typhoeus's Archery Range와 이벤트 Trial of the Bow 추가.
 - 1.2 버전: 침식된 유산을 찾아서 5·6구역 개방(5구역 개방 때 최대치는 혼란 한계 5,000, 컨테이너 55, 혼란 내성 50%). 집중 의뢰 보상 20,000으로 상승, 작전 지표 보상 확대.
 - 1.1 버전: 침식된 유산을 찾아서 4구역 개방(혼란 한계 4,200, 컨테이너 50). 집중 의뢰 보상 10,000으로 상승, 작전 지표 보상 확대.
