@@ -13,7 +13,7 @@ sources:
   - https://anothereden.game-info.wiki/d/%C8%F3%B8%F8%BC%B0%B1%A3%A4%B7%A5%DC%A5%B9%C6%F1%B0%D7%C5%D9%C9%BD (Seesaa Wiki 「非公式隠しボス難易度表」, 2026-08-11 수정본. 번개 무효·흡수 사례)
   - 사이트 데이터 ae_translation_all (용어 표기)
 created: 2026-10-21
-updated: 2026-10-29
+updated: 2026-11-01
 ---
 
 # 번개 파티 (招雷陣 편성)
@@ -44,7 +44,7 @@ updated: 2026-10-29
 | [오를레아(AS)](../characters/orleya_as.md) | 도끼 | 탱커. 「レズィストンス」로 전체 공격을 혼자 받고, 이즈나의 「超集中」 유지도 돕는다 |
 | [우츠하라](../characters/utsuhara.md) | 도끼 | 守護 탱커 또는 AF 회수 |
 | 은빛을 휘감은 번개술사 | — | 서브 어태커. 건스로 「帯電」을 계속 붙이면 「デリンジャー」 강화 조건이 늘 찬다 |
-| 캄라네쥬 | — | 서브 어태커. 천 3명 + AF 회전으로 ANOTHER ZONE을 유지하면 강화 조건이 늘 찬다 |
+| [캄라네쥬](../characters/kamlanage.md) | 지팡이 | 서브 어태커. 천 3명 + AF 회전으로 ANOTHER ZONE을 유지하면 강화 조건이 늘 찬다 |
 
 오보로 문서는 순수 번개 파티의 다른 서브 어태커로 메리나(ES), 빅트(AS)를 들었다.
 

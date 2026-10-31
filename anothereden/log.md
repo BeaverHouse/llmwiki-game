@@ -1,5 +1,6 @@
 # Another Eden — 변경 기록 (append-only, 최신이 위)
 
+- 2026-11-01 | ai | characters/ 6편 신규, guides/meta_characters.md·guides/thunder_party.md·glossary.md·index.md·backlog.md | 스토리 동료 피네(AS)·캄라네쥬·에이미·리이카·사이러스·헬레나 카드를 쓰고 명단과 번개 파티에서 링크함 | Seesaa, 사이트 데이터
 - 2026-10-31 | ai | characters/ 6편 신규, guides/meta_characters.md·glossary.md·index.md·backlog.md | 엘레노아·메릿·유인·까마귀 밤의 밀정 츠바메·듀이·푸른 빛의 낫잡이(AS) 카드를 쓰고 명단에서 링크함 | Seesaa, 사이트 데이터
 - 2026-10-30 | ai | characters/ 6편 신규, characters/shigure_es.md·guides/meta_characters.md·glossary.md·index.md·backlog.md | 뮬루스(ES)·시온(ES)·하보크·고답의 요묘 네코코·히스메나(ES)·플람라피스(ES) 카드를 쓰고 시구레(ES)의 틀린 SA 조건 비교를 지움 | Seesaa, 사이트 데이터
 - 2026-10-29 | ai | 도메인 전체 | 동료 문서를 알마(AS) 카드 형식으로, 가이드·강적·glossary·log를 중복과 군더더기 없이 덜어내고 "캐릭터"를 "동료"로, AGENTS.md 7절의 금지 표현을 걷어냄 | user-feedback (Austin), anothereden.wiki
