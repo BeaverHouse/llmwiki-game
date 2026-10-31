@@ -4,12 +4,12 @@ type: guide
 aliases: [친구, 친구 기능, 친구 목록, Friends, Friends Menu, フレンド, 공용 설비, 공유 설비, Shared Facility, 유지보수, 생산 지원, Production Assist, 단서, 단서 수집, Clue, 정보 교류, Clue Exchange, 크레딧, Credit, 친구 함선 방문, 탄력 수요 물자]
 sources:
   - https://endfield.gryphline.com/ko-kr/news/4499 (공식 한국어 개발자 통신, 2026-01-17)
-  - https://endfield.wiki.gg/wiki/Friends_menu (2025-12-24 수정본) · Path_of_Glory/Social (2026-04-30 수정본) · Clue (2026-07-26 수정본) · OMV_Dijiang (2026-10-23 수정본) · Easy_Tools (2026-09-11 수정본) · Depot_Node (2026-09-12 수정본)
+  - https://endfield.wiki.gg/wiki/Friends_menu (2025-12-24 수정본) · Path_of_Glory/Social (2026-04-30 수정본) · Clue (2026-07-26 수정본) · OMV_Dijiang (2026-10-23 수정본) · Easy_Tools (2026-09-11 수정본) · Depot_Node (2026-09-12 수정본) · Stock_Redistribution (2026-10-18 수정본)
   - https://gamewith.net/akendfield/72431 · https://gamewith.net/akendfield/72406 · https://gamewith.net/akendfield/72728 (2026-03 갱신)
   - https://appmedia.jp/?p=79690109 (2026-09-10 갱신)
   - https://gall.dcinside.com/mgallery/board/view/?id=endfield&no=231163 (응접실 공략, 2026-02-07) · https://m.dcinside.com/board/endfield/286514 (친구 지원 팁, 2026-02-12)
 created: 2026-10-31
-updated: 2026-10-31
+updated: 2026-11-01
 ---
 
 # 친구와 교류 (Friends)
@@ -78,7 +78,7 @@ updated: 2026-10-31
 
 ## 그 밖의 크레딧
 
-- 탄력 수요 물자: 부가 임무 Lucky Carrot을 마치면 열린다. 친구 제강호의 물자 관리 단말에서 팔 수 있고, 친구가 판 총액에 따라 함선 주인이 크레딧을 받는다.
+- 탄력 수요 물자: 물자 관리 단말기 레벨 2(무릉은 레벨 1)에서 열린다([거점과 지역 개발](../content/settlements.md#물자-관리-단말기)). 친구 제강호의 물자 관리 단말에서 팔 수 있고([제강호](../content/dijiang.md#친구-가격-확인과-판매)), 친구가 판 총액에 따라 함선 주인이 크레딧을 받는다.
 - 운송 의뢰: 다른 관리자가 올린 [포장 운송](../content/settlements.md) 의뢰를 끝내면 크레딧 30을 받는다. 하루 3번까지다.
 
 ## 영광의 길

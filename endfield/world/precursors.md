@@ -1,15 +1,15 @@
 ---
 title: 선사 문명 (Precursor Civilization)
 type: guide
-aliases: [선사 문명, 선인류, Precursor, Precursors, Precursor Civilization, 선사 문명 유적, Precursor ruins, Celestial Fulcrum, Personality and Cognitive Synchronization, PCS, The Homecoming]
+aliases: [선사 문명, 선인류, Precursor, Precursors, Precursor Civilization, 선사 문명 유적, Precursor ruins, Personality and Cognitive Synchronization, PCS, The Homecoming]
 sources:
   - https://namu.wiki/w/명일방주:%20엔드필드/등장인물%20및%20세력 (중추 파일 '파운데이션' 한국어 텍스트, 2026-10-25 수정본, 2026-10-31 열람, CC BY-NC-SA 2.0 KR)
   - https://namu.wiki/w/명일방주:%20엔드필드/설정 (선인류 문단과 중추 파일 '테라' 인용, 2026-10-07 수정본, 2026-10-31 열람, CC BY-NC-SA 2.0 KR)
-  - https://endfield.wiki.gg/wiki/Nexus_Files (2026-10-19 수정본)와 중추 파일 영어 텍스트 Nexus_Files:_Terra · Nexus_Files:_Talos-II · Nexus_Files:_Originium · Nexus_Files:_Race · Nexus_Files:_The_Foundation · Nexus_Files:_Cabal_of_Tranquility, 스타게이트는 Cosmic_Gate 문서
+  - https://endfield.wiki.gg/wiki/Nexus_Files (2026-10-19 수정본)와 중추 파일 영어 텍스트 Nexus_Files:_Terra · Nexus_Files:_Talos-II · Nexus_Files:_Originium · Nexus_Files:_Race · Nexus_Files:_The_Foundation · Nexus_Files:_Cabal_of_Tranquility
   - https://endfield.wiki.gg/wiki/Precursor (2026-09-22 수정본)
   - https://endfield.wiki.gg/wiki/Long_Road · Opus:_The_Living (무기 이야기 영어 텍스트, 2026-09 수정본)
 created: 2026-10-31
-updated: 2026-10-31
+updated: 2026-11-01
 ---
 
 # 선사 문명 (Precursor Civilization)
@@ -21,10 +21,10 @@ updated: 2026-10-31
 | 기록 | 내용 |
 |---|---|
 | 중추 파일 '테라' | 테라 문명의 조상은 원래 탈로스2에 살다가 테라로 건너가 천재지변 속에서 문명을 세웠다. 152년 전 스타게이트를 건넌 일을 사람들은 Paving the Way라 기렸지만, 역사의 진실을 아는 몇몇은 The Homecoming(돌아옴)이라 부른다. 두 행성의 낮과 밤, 계절이 같은 것은 선사 문명의 기술이 두 행성의 자전을 잃어버린 천체 기준에 맞춘 결과라고 널리 여겨진다 |
-| 중추 파일(영어 Cosmic Gate) | 스타게이트는 작동 원리가 일부만 밝혀진 선사 문명의 운송 기반 시설이다. 테라에는 북쪽과 남쪽에 하나씩 있었고, 탈로스2에서 확인된 것은 북극의 하나뿐이다. 짝이 되는 탈로스2의 스타게이트는 테라 항성계 안의 선사 문명 천체 계산·측정 장치 Celestial Fulcrum이 다시 작동한 뒤에야 찾았다. 인류는 탈로스2의 스타게이트를 일부러 손대지 않았다. 과학자들은 탈로스2 항성계에 다른 스타게이트가 더 있을 것이라고 본다. 지금은 탈로스2의 오로라 아래 가려져 있다 |
+| 중추 파일(영어 Cosmic Gate) | 스타게이트는 선사 문명의 운송 기반 시설이다. 테라와 탈로스2의 스타게이트와 Celestial Fulcrum은 [기본 설정](setting_basics.md#스타게이트)에 있다 |
 | 중추 파일(영어 Talos-II) | 항성계 안에서 탈로스2의 위치와 스타게이트를 보면 이 살 만한 환경이 우주가 우연히 준 선물이 아니라고 믿을 이유가 있다 |
 | 중추 파일(영어 Originium) | 오리지늄이 정보를 담는 매체로 인공적으로 만들어졌다는 사실이 비교적 최근에 밝혀졌다. 오리지늄은 주변 환경을 바꾸고 생물의 진화에도 영향을 준다. 오리지늄을 만든 이가 테라 문명에 품은 의도는 밝혀지지 않았다. 이 기록은 만든 이를 선사 문명이라고 적지 않는다 |
-| 중추 파일(영어 Race) | 산크타는 선사 문명의 Personality and Cognitive Synchronization(PCS)으로 문화적 정체성이 바뀐 살카즈 종족이다. 살카즈는 테라의 원주민이며 탈로스2의 유일한 진짜 '방문자'다. 1장 Ⅲ에서 과학 단지를 지나면 열린다 |
+| 중추 파일(영어 Race) | 산크타는 선사 문명의 Personality and Cognitive Synchronization(PCS)으로 문화적 정체성이 바뀐 살카즈 종족이다. 살카즈는 테라의 원주민이며 탈로스2의 유일한 진짜 '방문자'다. 1장 Ⅲ에서 과학 단지를 지나면 열린다. 파일 전체는 [종족](races.md)에 있다 |
 | 중추 파일 '파운데이션' | 파운데이션은 선사 문명의 유산을 손에 넣은 특수 개체이며, 그 존재 자체가 유산의 일부다([파운데이션](foundation.md#중추-파일-파운데이션)) |
 
 ## 탈로스2의 유적
@@ -37,7 +37,7 @@ updated: 2026-10-31
 
 ## 확인하지 못한 것
 
-- 중추 파일 '테라'·'종족'과 Cosmic Gate·Talos-II·Originium 파일, 「끝없는 여정」 이야기의 한국어 텍스트. 표의 내용은 영어 텍스트를 옮겼다. Paving the Way, The Homecoming, Celestial Fulcrum, PCS의 한국어 표기도 확인하지 못했다. 무기 Long Road를 「끝없는 여정」으로 짝지은 것도 확실하지 않다([glossary.md](../glossary.md)).
+- 중추 파일 '테라'·'종족'과 Talos-II·Originium 파일, 「끝없는 여정」 이야기의 한국어 텍스트. 표의 내용은 영어 텍스트를 옮겼다. Paving the Way, The Homecoming, PCS의 한국어 표기도 확인하지 못했다. 무기 Long Road를 「끝없는 여정」으로 짝지은 것도 확실하지 않다([glossary.md](../glossary.md)).
 - '선사 문명'이 한국어 게임 텍스트의 고정 표기인지. 나무위키 서술은 '선인류'를 쓴다.
 - 오리지늄을 만든 이가 선사 문명인지. endfield.wiki.gg 오리지늄 문서는 그렇다고 적지만 중추 파일은 만든 이를 밝히지 않는다.
 - 나무위키 설정 문서의 서술 가운데 선사 문명이 탈로스2의 토착 생물을 스타게이트로 테라에 보냈다는 것과, 탈로스2에 선인류 문명의 흔적은 있으나 온전한 유물은 거의 없다는 것의 근거 기록. 나무위키는 뒤의 것에 「끝없는 여정」과 문서 보관소 '유적 연구원의 편지'를 근거로 달았지만 '유적 연구원의 편지'는 찾지 못했다.
@@ -46,4 +46,5 @@ updated: 2026-10-31
 
 ## 히스토리
 
+- 2026-11: 스타게이트 기록을 [기본 설정](setting_basics.md#스타게이트)으로 옮기고 링크로 바꿈.
 - 2026-10-31: 최초 작성. 1.6 버전까지의 중추 파일과 무기 이야기로 정리.
