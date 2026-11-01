@@ -4,9 +4,9 @@ type: guide
 aliases: [사의 그림, Si's Painting, 그림 세계, 인연 마을, 인연 마을 객잔, 연원객잔, Yuanyuan Manor, Yuanyuan Manor Inn, 객잔, 객잔 운영, Innkeeping, Spirit Money, 소하장, Xiaohe Manor, 2장 VIII, 심연을 떠나며, Sanctuary from the Rift, 새 먹으로 그리다, Paint with Fresh Ink, 단청도, Sanctuary of Ink]
 sources:
   - https://namu.wiki/w/명일방주:%20엔드필드/지역 (사의 그림 문단과 각주, 2026-10-25) · /스토리 (연표와 5.8 프로세스 VIII, 2026-10-19) · /업데이트 (1.6 「단청도」, 2026-10-15) (CC BY-NC-SA 2.0 KR)
-  - https://endfield.wiki.gg/wiki/Si's_Painting (2026-10-19) · Yuanyuan_Manor_Inn (2026-10-24) · Spirit_Money (2026-10-20) · Innkeeping (2026-10-23) · Innkeeping/Theme (2026-10-24) · Innkeeping/Recipe (2026-10-27) · Ranching (2026-10-22) · Yummy_Feed, Double-Yummy_Feed, Meat, Milk, Egg, Fin_Fillet와 각 (A) 문서 · Ballpea · Cabbage (2026-10-15, 한국어 표기 포함)
+  - https://endfield.wiki.gg/wiki/Si's_Painting (2026-10-19) · Yuanyuan_Manor_Inn (2026-10-24) · Spirit_Money (2026-10-20) · Innkeeping (2026-10-23) · Innkeeping/Theme (2026-10-24) · Innkeeping/Recipe (2026-10-27) · Ranching (2026-10-22) · Yummy_Feed, Double-Yummy_Feed, Meat, Milk, Egg, Fin_Fillet와 각 (A) 문서 · Ballpea · Cabbage · Matoberry · Matoberry_Seeds · Sourberry · Whitemelon · Relishroom · Pingtuber · Crunchcane · Oilseed_Bloom · Oilseeds · Seed_Oil (2026-10-15, 한국어 표기 포함) · 객잔 요리 문서 44개(Fin-Mato_Soup 등, 2026-10-20 무렵, 재료와 한국어 표기)
 created: 2026-10-22
-updated: 2026-10-30
+updated: 2026-11-01
 ---
 
 # 사의 그림 (Si's Painting)
@@ -111,7 +111,23 @@ updated: 2026-10-30
 
 입구에 엔드필드 공업의 자동 수확 설비(Auto-Farmer)가 있고, 활성화하면 무릉성 실험 재배 구역에서도 같은 설비를 쓸 수 있다. 업그레이드하면 자동 육묘와 자동 수확을 하고, 수확물은 설비 저장고에 상한까지 쌓이며 무릉 창고로 원격 이동할 수 있다. 사의 그림의 설비는 Spirit Money로 업그레이드한다. 논배미와 물 주기는 [생태 재배와 논배미](eco_farming.md)에 있다.
 
-둥근 콩(Ballpea)과 청경채(Cabbage)는 객잔 요리에만 쓰는 작물이다. 영어 설명문은 fine cultivation(논배미 설명문의 한국어로는 정밀 재배)으로만 기를 수 있다고 적고, 영어 자료의 획득처는 물자 상자(Ingredients Crate)와 열일이의 상점이다.
+### 객잔 작물
+
+아래 작물은 객잔 요리에만 쓴다. 영어 설명문은 모두 fine cultivation(논배미 설명문의 한국어로는 정밀 재배)으로만 기를 수 있다고 적는다. 수확물은 물자 상자(Ingredients Crate)와 열일이의 상점에서도 나온다. 토마토 씨앗과 유채꽃 씨앗은 열일이의 상점에서만 팔고, 설명문은 만든 재배지(crafted farm plots)에 심어 수확한다고 적는다. 푸른잎베리, 다미버섯, 청경채는 고급품 (A)와 그 씨앗·포자 (A)가 따로 있고, 요리 재료에서 일반품과 따로 센다.
+
+| 작물 | 영어 | 쓰는 요리(개수) |
+|---|---|---|
+| 토마토 | Matoberry | 토마토 달걀볶음(Mato & Egg) 1, 감자튀김(Tuber Fries) 2, 토마토 월과 조림(Melon in Sauce) 4, 과일 샐러드(Berry Fruity Toss) 1, 탕수 린수(Sweet & Sour Fingot) 4, 최고급 린수말이(Roll of Fin-Supreme) 3, 토마토 린수탕(Fin-Mato Soup) 3 |
+| 푸른잎베리 | Sourberry | 일반: 새콤한 베리푸딩(Sourberry Pudding) 3, 과일 샐러드 3. (A): 달콤한 베리 화채(Berry-Sweet Sip) 2, 붉은 꽃술 치즈케이크(Redbloom Cheesecake) 2, 과일 버블티(Pearly Fruit Punch) 2, 팔보 찹쌀밥(Eight Treasure Rice) 1 |
+| 월과 | Whitemelon | 토마토 월과 조림 2, 월과 고기완자탕(Melon & Meatball Soup) 3, 눈꽃 노른자 월병(Snow-Veiled Mooncake) 2, 마라샹궈(Mala Xiang Guo) 3 |
+| 다미버섯 | Relishroom | 일반: 버섯 만두(Shroom Dumpling) 1, 청경채 보양죽(Tonic Congee & Greens) 2, 린수 만두(Fin Dumpling) 2, 꼬치구이(Roasted Kebab) 2. (A): 버섯 크림수프(Cream of Shroom) 1, 산라탕(Hot & Sour Soup) 2, '흰목이버섯 연밥' 수프("Snowshroom & Lotus" Soup) 3, 불도장(Immortal Galore of Fortune) 1, '한입의 유람'("Spoon Swimmer") 1, 마라샹궈 1, 과일 샐러드 1 |
+| 납작 감자 | Pingtuber | 홍고추 감자채(Shredded Tuber & Pepper) 2, 감자튀김 5, 마라샹궈 2, 과일 버블티 3 |
+| 사탕수수 | Crunchcane | 달걀푸딩(Steamed Flan) 2 |
+| 유채꽃 | Oilseed Bloom | 요리에 바로 들어가지 않는다. 유채꽃을 가공한 유채기름(Seed Oil)이 토마토 린수탕 2, 맑은 린수탕(White Fin Broth) 4, 뚝배기 고기 조림(Clay Jar Meat) 2, 감자튀김 3, 팥앙금 머랭 튀김(Sweetbeans on Snow) 3, 마라맛 훈툰(Chaoshou & Numbing Sauce) 2에 들어간다 |
+| 둥근 콩 | Ballpea | 콩 비빔면(Pea-Topped Noodles) 4, 팔보 찹쌀밥 3, 팥앙금 찹쌀경단(Beanpaste Tangyuan) 2, 팥앙금 머랭 튀김 3, 달콤한 베리 화채 3, 버섯 크림수프 3, '흰목이버섯 연밥' 수프 3, 비단결 두부탕(Tofu Bouquet Soup) 2, '한입의 유람' 3 |
+| 청경채 | Cabbage | 일반: 인연 마을 나물비빔밥(Yuanyuan Veggy Rice) 1, 청경채 보양죽 1, 절임채소 린수볶음(Fin & Pickled Greens) 2, 린향육슬(Fin-Savory Shreds) 2. (A): 절임채소 린수볶음 1, 뚝배기 고기 조림 1, 과일 샐러드 1, 계룡 고기말이(Boundary Lung Roll) 1, 최고급 린수말이 1, 월과 고기완자탕 2, 비단결 두부탕 2, 토마토 린수탕 1 |
+
+유채꽃의 씨앗은 유채꽃 씨앗(Oilseeds)이다. 유채기름은 상점과 물자 상자에서도 얻는다. 밀가루(Flour)의 원료 회보리와 쓴맛 나는 고추(Tartpepper)는 [논배미](eco_farming.md#논배미)에서 기른다.
 
 ### 목장
 
@@ -146,9 +162,11 @@ updated: 2026-10-30
 ## 확인하지 못한 것
 
 - 한국어 게임 표기: 객잔 이름(인연 마을, 연원객잔, 여원원), Spirit Money, Pink Bolete, 객잔 평가·테마·개조·보조 역할·취미·레시피·요리 태그·Full Blaze, 목장의 짐승·부지·포만도·행복도. 사료와 생산물 이름은 영어 아이템 문서의 한국어 칸을 따랐다.
-- 둥근 콩·청경채를 기르는 논배미가 따로 있는지, 둥근 콩·청경채 말고 객잔 작물(Matoberry, Sourberry, Whitemelon, Relishroom, Pingtuber, Crunchcane, Oilseeds)의 한국어 이름.
+- 객잔 작물의 재배지(crafted farm plots)를 어디에 놓는지(사의 그림 농장만인지, 무릉성 실험 재배 구역에서도 되는지), 만드는 법, 재배 시간과 수확량. (A) 작물을 얻는 방법과 자동 수확 설비 레벨 3의 Refine Crop의 관계. 유채기름을 만드는 설비. 영어 작물 문서의 가공 표는 분당 수치만 보이고 설비와 생산물 이름이 빠져 있다.
+- 객잔 작물과 요리의 한국어 이름은 영어 아이템 문서의 한국어 칸을 따랐다. 토마토(Matoberry)와 사탕수수(Crunchcane)는 일반 작물 이름과 같아 게임 안 표기인지 확인하지 못했다.
+- 요리 재료 가운데 Sugar, Starch, Spice Mix 130, Ground Pepper의 한국어 이름과 원료, Flour의 한국어 이름.
 - 사의 그림 식양 기체(분당 40 × 2)와 1.6 버전 증가분 40이 어떻게 맞는지.
-- 평가 4 테마의 별 점수, 레시피별 재료, 별 보상 가운데 아이콘이 깨진 품목.
+- 평가 4 테마의 별 점수, 별 보상 가운데 아이콘이 깨진 품목.
 - 고깃덩이·우유·린수 고기를 낳는 짐승, 축사 1~5칸과 첫 연못의 가격.
 - 마일스톤 단계 보상과 상점 품목(영어 표 아이콘이 깨짐).
 - 「새 먹으로 그리다」가 Paint with Fresh Ink의 한국어 제목인지, 2장 VIII 제목이 게임 안 표기와 같은지. 영어 객잔 문서는 객잔을 여는 메인 임무를 Chapter II Process VII: Paint with Fresh Ink로 적어 임무 문서의 VIII과 어긋난다.

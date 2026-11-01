@@ -1,5 +1,7 @@
 # Arknights: Endfield — 변경 기록 (append-only, 최신이 위)
 
+- 2026-11-01 | ai | content/settlements.md·content/si_painting.md·content/dijiang.md·world/wuling.md·world/races.md(신규)·world/setting_basics.md·world/precursors.md·world/timeline.md·systems/social.md·glossary.md·index.md·backlog.md | 지역 시설, 객잔 작물, 응룡 특수부대, 종족, 스타게이트, 물자 관리와 탄력 수요 물자를 채움 | 정기 성장 작업, endfield.wiki.gg, 나무위키, GameWith, game8, appmedia
+
 - 2026-10-31 | ai | content/exploration.md·systems/personal_device.md·world/endfield_staff.md·world/factions.md·world/precursors.md(신규)·systems/social.md(신규)·world/valley_iv.md·world/m3.md·world/foundation.md·content/dijiang.md·content/path_of_glory.md·glossary.md·index.md·backlog.md | 티프로스 궁술 훈련 시설과 화살 칩, 엔드필드 공업의 부서, 매츠 크로와 플레밍, 선사 문명, 친구 기능을 채움 | 정기 성장 작업, endfield.wiki.gg, 나무위키, 공식 한국어 공지, game8
 
 - 2026-10-30 | ai | content/settlements.md·index.md·backlog.md | 포장 운송 절을 운반 중 점프·전투·프로토콜 전송을 피하라는 내용만 남기고 줄임 | user-feedback (Austin)
