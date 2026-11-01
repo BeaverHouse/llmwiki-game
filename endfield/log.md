@@ -1,5 +1,7 @@
 # Arknights: Endfield — 변경 기록 (append-only, 최신이 위)
 
+- 2026-11-02 | ai | world/factions.md·world/valley_iv.md·world/aggeloi_and_blight.md·world/foundation.md·world/wuling.md·world/yan.md(신규)·world/races.md·content/si_painting.md·systems/social.md·glossary.md·index.md·backlog.md | 인두 지령, 탈로스2의 오로라, 알레이크레오스의 검, 객잔 요리 44종과 가공 재료, 염국, 탄력 수요 물자 크레딧을 채움 | 정기 성장 작업, endfield.wiki.gg, 나무위키, GameWith, AppMedia
+
 - 2026-11-01 | ai | content/settlements.md·content/si_painting.md·content/dijiang.md·world/wuling.md·world/races.md(신규)·world/setting_basics.md·world/precursors.md·world/timeline.md·systems/social.md·glossary.md·index.md·backlog.md | 지역 시설, 객잔 작물, 응룡 특수부대, 종족, 스타게이트, 물자 관리와 탄력 수요 물자를 채움 | 정기 성장 작업, endfield.wiki.gg, 나무위키, GameWith, game8, appmedia
 
 - 2026-10-31 | ai | content/exploration.md·systems/personal_device.md·world/endfield_staff.md·world/factions.md·world/precursors.md(신규)·systems/social.md(신규)·world/valley_iv.md·world/m3.md·world/foundation.md·content/dijiang.md·content/path_of_glory.md·glossary.md·index.md·backlog.md | 티프로스 궁술 훈련 시설과 화살 칩, 엔드필드 공업의 부서, 매츠 크로와 플레밍, 선사 문명, 친구 기능을 채움 | 정기 성장 작업, endfield.wiki.gg, 나무위키, 공식 한국어 공지, game8

@@ -5,11 +5,11 @@ aliases: [친구, 친구 기능, 친구 목록, Friends, Friends Menu, フレン
 sources:
   - https://endfield.gryphline.com/ko-kr/news/4499 (공식 한국어 개발자 통신, 2026-01-17)
   - https://endfield.wiki.gg/wiki/Friends_menu (2025-12-24 수정본) · Path_of_Glory/Social (2026-04-30 수정본) · Clue (2026-07-26 수정본) · OMV_Dijiang (2026-10-23 수정본) · Easy_Tools (2026-09-11 수정본) · Depot_Node (2026-09-12 수정본) · Stock_Redistribution (2026-10-18 수정본)
-  - https://gamewith.net/akendfield/72431 · https://gamewith.net/akendfield/72406 · https://gamewith.net/akendfield/72728 (2026-03 갱신)
-  - https://appmedia.jp/?p=79690109 (2026-09-10 갱신)
+  - https://gamewith.net/akendfield/72431 · https://gamewith.net/akendfield/72406 · https://gamewith.net/akendfield/72728 · https://gamewith.net/akendfield/72758 (2026-03 갱신)
+  - https://appmedia.jp/?p=79690109 · https://appmedia.jp/arknights_endfield/79813814 (FP 획득처 표, 2026-09-10 갱신)
   - https://gall.dcinside.com/mgallery/board/view/?id=endfield&no=231163 (응접실 공략, 2026-02-07) · https://m.dcinside.com/board/endfield/286514 (친구 지원 팁, 2026-02-12)
 created: 2026-10-31
-updated: 2026-11-01
+updated: 2026-11-02
 ---
 
 # 친구와 교류 (Friends)
@@ -78,7 +78,7 @@ updated: 2026-11-01
 
 ## 그 밖의 크레딧
 
-- 탄력 수요 물자: 물자 관리 단말기 레벨 2(무릉은 레벨 1)에서 열린다([거점과 지역 개발](../content/settlements.md#물자-관리-단말기)). 친구 제강호의 물자 관리 단말에서 팔 수 있고([제강호](../content/dijiang.md#친구-가격-확인과-판매)), 친구가 판 총액에 따라 함선 주인이 크레딧을 받는다.
+- 탄력 수요 물자: 물자 관리 단말기 레벨 2(무릉은 레벨 1)에서 열린다([거점과 지역 개발](../content/settlements.md#물자-관리-단말기)). 친구 제강호의 물자 관리 단말에서 팔 수 있고([제강호](../content/dijiang.md#친구-가격-확인과-판매)), 파는 쪽과 함선 주인이 모두 크레딧을 받는다. 함선 주인은 방문한 친구가 판 총액에 따라 받고, 하루 상한은 60이다.
 - 운송 의뢰: 다른 관리자가 올린 [포장 운송](../content/settlements.md) 의뢰를 끝내면 크레딧 30을 받는다. 하루 3번까지다.
 
 ## 영광의 길
@@ -91,7 +91,7 @@ updated: 2026-11-01
 - 정보 교류가 열리는 조건. endfield.wiki.gg는 탐색 임무 Dijiang Upgrade and Maintenance II, GameWith는 핵심 제어 중추 레벨 3으로 적는다.
 - 단서를 받을 때의 크레딧. 커뮤니티 공략과 GameWith는 25·15·5(하루 45), endfield.wiki.gg는 15·10·5(하루 30)로 적는다.
 - 재배실 지원 보상, 단서 번호별 세력과 오퍼레이터는 커뮤니티 공략에만 있다. 지원을 받은 쪽의 생산 가속 수치는 팬 블로그에만 있다.
-- 탄력 수요 물자 판매로 받는 크레딧. 커뮤니티 공략과 GameWith는 60으로 적고, endfield.wiki.gg는 판매 총액에 따른다고만 적는다.
+- 탄력 수요 물자 판매로 받는 크레딧. 함선 주인 쪽은 AppMedia가 한 번에 받는 양은 불명, 하루 상한 60으로 적고, GameWith의 크레딧 표는 60, endfield.wiki.gg는 판매 총액에 따른다고만 적는다. 파는 쪽도 받는다는 서술은 GameWith에 있지만 양을 적은 출처는 없다.
 - 크레딧 보유 상한. GameWith는 상한을 넘은 크레딧이 4시에 사라진다고만 적는다.
 - 수리에 재료가 드는지. 영어 공략 한 곳은 기본 재료가 든다고 적고, endfield.wiki.gg 간편 도구 문서는 비용을 적지 않는다.
 - 생산 지원, 친구 메뉴의 탭과 버튼, Social 메달 4종의 한국어 게임 표기. 공식 공지는 '공용 설비'·'유지보수'·'단서 수집'·'정보 교류'·'운송 의뢰'로 적는다.

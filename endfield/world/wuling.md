@@ -35,7 +35,7 @@ sources:
   - https://gamewith.net/akendfield/73207 (영문 챕터명)
   - https://appmedia.jp/?p=79690247 (일본어 지명)
 created: 2026-10-18
-updated: 2026-11-01
+updated: 2026-11-02
 ---
 
 # 무릉 (Wuling)
@@ -85,10 +85,7 @@ updated: 2026-11-01
 | Overflow | Xiranflow Cloudseeder Station 지원에 배치된 대원 |
 | Hillock (고인) | 북쪽 금지 구역에 안전 구역을 만들다 죽었다. 쓰러지기 전에 좌표를 축 교관에게 보냈고, 진천우가 무릉을 떠나고 두 달 뒤였다(2장 Ⅶ 결의 대사) |
 | Mansion, Wrought (고인) | 2장 Ⅶ 「A Past Shared by the Swordmancers」에 나온다 |
-| Shore (고인) | 팀장. 그 팀이 알레이크레오스의 검을 처음 발견했다. 북쪽 금지 구역에서 검을 쫓다가 진동으로 퇴로가 끊겨 죽었다(Yinglung Combat Record) |
-| Stern (고인) | 팀장. 안전 구역을 만들다 알레이크레오스의 검이 일으킨 진동으로 퇴로가 끊겨 죽었다(Yinglung Combat Record) |
-| Benefit (고인) | 팀장. 북쪽 금지 구역에 안전 구역을 만들다 죽었다(Audio Log: Damaged) |
-| Macro, Amber (고인) | 전 팀장(Letter: Looks Like a Will) |
+| Shore, Stern, Macro, Amber, Benefit (고인) | 2년 전 금지 구역 감시 작전에 나선 다섯 팀과 그 팀장의 이름. Shore 팀이 알레이크레오스의 검을 처음 찾았고, 다섯 팀 모두 돌아오지 못했다([파운데이션](foundation.md#알레이크레오스의-검)) |
 
 #### 암실의 유품 상자
 
