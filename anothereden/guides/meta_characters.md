@@ -19,11 +19,13 @@ sources:
   - https://anothereden.game-info.wiki/d/%A5%A2%A5%F3%A1%A6%A5%AD%A1%A6%A5%C7%A5%A3%A5%B0%A5%DE (Seesaa Wiki 「アン・キ・ディグマ」, 2026-04-02 수정본)
   - https://anothereden.game-info.wiki/d/%A5%EA%A5%CA%A5%EA%A5%A2 (Seesaa Wiki 「リナリア」, 2025-07-09 수정본과 댓글(2025-11-29 連携 실측))
   - https://anothereden.game-info.wiki/ (Seesaa Wiki 톱 페이지, 2026-10-11 수정본. Ver3.17.0)
+  - https://anothereden.game-info.wiki/d/%A5%AD%A5%C3%A5%C9 (Seesaa Wiki 「キッド」, 2026-04-02 수정본)
+  - https://anothereden.game-info.wiki/d/%A5%EA%A5%E5%A5%BC (Seesaa Wiki 「リュゼ」, 2025-07-09 수정본)
   - 배포 동료의 고난이도 쓰임은 이 위키의 raids/·guides/·characters/ 문서
   - "user-feedback (Austin): 메타 명단은 Seesaa·anothertier 교집합만 쓴다(일본·글로벌 유저층이 달라 기준이 다름), 두 사이트가 스타일을 다르게 고른 동료는 두 스타일 모두 적는다, 배포는 스토리 동료 전원 + 성능 좋은 배포, 교집합 밖은 파티·강적 문서가 멤버로 소개할 때만 문서를 만든다 (2026-10-29)"
   - 사이트 데이터 ae_translation_all (용어 표기)
 created: 2026-10-17
-updated: 2026-11-01
+updated: 2026-11-02
 ---
 
 # 고난이도 동료 명단
@@ -104,17 +106,17 @@ Seesaa 랭크 순(같은 랭크는 Seesaa 표 순서)이다.
 | リィカ / [리이카](../characters/riica.md) | 메인 3장 | NS (SA) | 보조. 腕知 50% 버프·물리 내성 디버프 서포터, 소생·글래스터 담당 |
 | サイラス / [사이러스](../characters/cyrus.md) | 메인 9장 | NS (SA) | 쓰인 예를 확인하지 못함. 물 베기 어태커, SA 후 迎撃 탱커 |
 | ヘレナ / [헬레나](../characters/helena.md) | 메인 19장 | NS (SA) | 보조. 셴화·유나 마법 파티의 글래스터 담당, [氷原のヌシ](../raids/hyougen_no_nushi.md) 배포 동료 클리어(지면 ZONE·버프) |
-| ギルドナ / 길드너 | 메인 29장 | NS (SA) | [ムル・アンクン](../raids/muru_ankun.md) 최종 형태에 「ディモスセイバー」, 보상 「絶望の腕輪・真」가 전용 장비 |
-| アルテナ | 메인 60장 | NS (SA 없음) | 쓰인 예를 확인하지 못함. 내성 장비로 속성 물리 공격을 받는 탱커 |
+| ギルドナ / [길드너](../characters/guildna.md) | 메인 29장 | NS (SA) | [ムル・トリオ](../raids/muru_three_parties.md) アンクン 最終形態에 「ディモスセイバー」, [ムル・アンクン](../raids/muru_ankun.md) 보상 「絶望の腕輪・真」가 전용 장비 |
+| アルテナ / [알테나](../characters/altena.md) | 메인 60장 | NS (SA 없음) | 쓰인 예를 확인하지 못함. 내성 장비로 속성 물리 공격을 받는 탱커 |
 
 ### 성능 좋은 배포 6명
 
 | 일본어 / 한국어 | 입수 | 쓰는 스타일 | 고난이도에서 | anothertier |
 |---|---|---|---|---|
-| キッド / 키드 | 협주 「クロノ・クロス」 | NS (SA) | 축적 10의 「Zスティール」로 腕知 50% 디버프를 확정으로 건다. 스테이터스가 높은 강적에 쓴다 | SS(SA) |
-| ユーチェリカ | 외전 「螺旋の記憶と原初の旋律」 | NS (SA) | 무속성 마법 어태커. 적마다 약점 속성으로 공격한다 | SS(SA) |
-| ガリユ / 가리유 | 邂逅 | NS (SA, 진현현) | 불 마법 어태커. [星天の杖](seiten_equipment.md) 추천 동료 | S(SA) |
-| リュゼ / 류제 | 외전 「臥竜の島と絶崖の紋」 | NS (SA) | 아르카디아·용 파티의 글래스터 담당, 쿠치나와 「蛇冥印」 연동 | S(SA) |
+| キッド / [키드](../characters/kid.md) | 협주 「クロノ・クロス」 | NS (SA) | 「パワーレベル」 10의 「Zスティール」로 적 전체 腕知速 50%DOWN(1턴). 스테이터스가 높은 강적에 쓴다 | SS(SA) |
+| ユーチェリカ / [체리카](../characters/chelika.md) | 외전 「螺旋の記憶と原初の旋律」 | NS (SA) | 무속성 마법 어태커. 적마다 약점 속성으로 공격한다 | SS(SA) |
+| ガリユ / [가리유](../characters/gariyu.md) | 邂逅 | NS (SA, 진현현) | 불 마법 어태커. [星天の杖](seiten_equipment.md) 추천 동료 | S(SA) |
+| リュゼ / [류제](../characters/wryz.md) | 외전 「臥竜の島と絶崖の紋」 | NS (SA) | 물 창 어태커 겸 水天陣·水属性耐性 디버퍼. 아르카디아 파티, 쿠치나와 「蛇冥印」 연동 | S(SA) |
 | スタイナー / 슈타이너 | FF9 협주 | NS (SA) | SA 庇立て와 暗黒剣으로 거의 모든 공격을 받는 탱커. [オズマ](../raids/ozuma.md) 보상 「エクスカリバーⅡ」 전용 대상. 지금은 얻을 수 없다 | S(SA) |
 | ジタン | FF9 협주 | NS (SA) | 바람 도 어태커 겸 서포터. 지금은 얻을 수 없다 | S(SA) |
 
