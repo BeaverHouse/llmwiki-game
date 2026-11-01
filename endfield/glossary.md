@@ -218,6 +218,7 @@ updated: 2026-10-31
 | 밴드 협약 | Band Accord | — | 2차 | 문명 밴드 세력 간 협약. 탈로스력 17년 |
 | 자유시 | Free Cities | — | 2차 | 상업연합회의 자치 도시 |
 | 연맹 공단 | United Workers' Syndicates of Talos II (UWST) | 工業団連盟 | 2차 | zh 联盟工团. 정식 명칭 탈로스 II 전 연맹 공단 |
+| 인두 지령 / '인두' 발신기 / 권한 키 카드 | Utjug Order / Utjug Signal Emitter / Authorization Keycard | — / 「烙鉄」通信機 / 権限キー | 미확인 | 연맹 공단의 비상 동원 명령과 발동 장치. 지령 이름은 나무위키 스토리 요약, 장치 이름은 영어 아이템 문서의 한국어 칸. zh 烙铁 |
 | 탈로스 II 상업연합회 | Talos II General Chamber of Commerce (TGCC) | 環タロ商会 | 2차 | zh 環塔商會. 게임 안 표기는 '탈로스 II'로 '탈로스2'와 다름 |
 | 시에스타 그룹 | Siesta Group | — | 미확인 | 라반도르마를 운영하는 기업 |
 | 레이시언 인더스트리 / 미에슈코 공업 / 지바 상업 회사 | RAYTHEAN Industries / Mieszko Industries / — | — | 2차 | 상업연합회 참여 기업 |
@@ -233,7 +234,9 @@ updated: 2026-10-31
 | 응룡 특수부대 | Yinglung Special Task Force (YSTF) | — | 2차 | 홍산 과학원 소속 부대 |
 | 무릉성 순찰대 | Wuling Watchguards | — | 2차 | 미브가 대장 |
 | 금위군 | Imperial Guard | — | 미확인 | 명하의 소속. 탈로스 II의 금위군은 홍산 과학원 천사가 따로 편성 |
-| 염국 | Yan | — | 미확인 | 천사부가 있는 테라의 나라 |
+| 염국 | Yan | — | 미확인 | 천사부가 있는 테라의 나라. [염국](world/yan.md). 명하 소개문의 한국어 텍스트가 '염국 금위군'으로 적는다 |
+| 정천도위 | Captain of Pacified Skies | — | 미확인 | 명하의 직함. ko는 나무위키에 옮겨진 명하 소개문 |
+| 문명 보존 협정 | Civilization Preservation Agreement | — | 미확인 | 장검 골짜기의 전자 파일. ko는 옮긴 것 |
 | 청파채 | Qingbo Stockade | 清波砦 | 2차 | zh 清波寨. 탕탕이 대당가로 있는 거주지 |
 | 대당가 | — | — | 미확인 | 청파채 두목을 부르는 말 |
 | 창적 | Cangzei Pirates | — | 2차 | 청파채 강경파 무장 세력 |
@@ -1158,6 +1161,7 @@ updated: 2026-10-31
 | 토마토 / 푸른잎베리 / 월과 / 다미버섯 | Matoberry / Sourberry / Whitemelon / Relishroom | トマベリー / サワーベリー / 白瓜 / 百味キノコ | 미확인 | 객잔 작물. ko는 영어 아이템 문서의 한국어 칸 |
 | 납작 감자 / 사탕수수 / 유채꽃 | Pingtuber / Crunchcane / Oilseed Bloom | ひらいも / シャキキビ / アブラ花 | 미확인 | 객잔 작물. ko는 영어 아이템 문서의 한국어 칸 |
 | 유채꽃 씨앗 / 토마토 씨앗 / 유채기름 | Oilseeds / Matoberry Seeds / Seed Oil | アブラ花の種 / トマベリーの種 / アブラ花オイル | 미확인 | 객잔 작물 씨앗과 가공품 |
+| 전분 / 밀가루 / 설탕 / 고춧가루 / 백삼십 가지 향신료 | Starch / Flour / Sugar / Ground Pepper / Spice Mix 130 | デンプン / 灰麦粉 / 砂糖 / チリパウダー / 百三十味 | 미확인 | 객잔 요리 가공 재료. ko는 영어 아이템 문서의 한국어 칸. 요리 이름 44종은 [사의 그림](content/si_painting.md#요리) |
 | 벌레 나뭇가지 / 꼬마 먹물 덩어리 / 재앙을 내리는 단비 | Slug Sprig / Ink Droplet / Calamity's Raindew | 触角の若枝 / 墨ころ / 劫の雨 | 미확인 | 요리 재료 전리품. ko는 영어 아이템 문서의 한국어 칸 |
 
 ## 개인 장치
@@ -1197,6 +1201,7 @@ updated: 2026-10-31
 
 ## 히스토리
 
+- 2026-11-02: 인두 지령, 객잔 가공 재료, 정천도위·문명 보존 협정 표기 추가.
 - 2026-11-01: 지역 시설, 탄력 수요 물자, 객잔 작물, 스타게이트, 응룡 대원, 종족 표기 추가.
 - 2026-10-31: 엔드필드 공업 부서(공학 센터 등), 나흐체러르·전투 왕정, 매츠 크로·네츠살렘, 화살 칩, 친구 기능 표기 추가. 정보 교류를 공식 공지 표기로 확정.
 - 2026-10-29: 중복 행을 합치고 주제별 표로 다시 묶음. 엔드필드 공업의 사람들, 고요한 수도회, 주술 타임 표기 추가.
