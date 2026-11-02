@@ -4,23 +4,23 @@
 
 ## 다음 작업
 
-- 명하 | operators/argent_flow.md | 2026-11 초 출시 예정(유지보수자 확인). 수치가 공개된 뒤 쓴다. 2026-11-02 기준 나무위키에 배틀 스킬 그림자 제압·연계 스킬 별의 궤적(방어 불능인 적에게 발동)·궁극기 천공 가르기의 한국어 설명은 올라왔지만 배율·재능·잠재능력이 비어 있고, endfield.wiki.gg는 아직 출시 예정 문서다. AppMedia에 성능 문서가 있다(미열람). 영어 코드네임 Argent Flow, 본명 야명하 | 나무위키 「명하(명일방주: 엔드필드)」, endfield.wiki.gg Argent_Flow, appmedia.jp 명하(ミンホ) 성능 문서
-- 감시 시설 의뢰 | content/settlements.md 감시 시설 절 보강 | 사진 의뢰 32종의 대상과 위치, 생태 개요 보상 | endfield.wiki.gg Environment_Monitoring와 각 의뢰 문서
-- 청파채의 기원 | world/wuling.md 청파채 절 보강 | 염국 문서의 선조의 샘 염국 장치. 청파채를 세운 천사 완과 홍산을 떠난 사람들, 무기 이야기 Brigand's Calling, 염국에서 왔다는 추정의 근거 | endfield.wiki.gg Qingbo_Stockade·Qingbo_Stockade_(location)·Brigand's_Calling, 나무위키 「/등장인물 및 세력」
-- 장검 골짜기 | world/wuling.md 하위 지역 보강 | 염국 문서의 비밀 금고와 문명 보존 협정. 긴급 사이드 임무 Deep Vaulted Steel, 금고를 지은 때(약 100년 전 방호 시설이라는 무릉 문서 서술과 중추 파일의 차이), 선검 연무와의 관계 | endfield.wiki.gg Sword_Vault_Dale·Deep_Vaulted_Steel, 나무위키 「/지역」
-- 쉐이와 베헤모스 심장 | world/behemoth.md 보강 | 염국 문서의 사세대. 중추 파일 'Feranmut Sui'의 대사냥 기록, 홍산 과학원과 열세 번째 대리인이 표석 안에 만든 베헤모스 심장 | endfield.wiki.gg Nexus_Files:_Feranmut_Sui·Nexus_Files:_Feranmut, 펠리카 BAKER 통신 "Sights at the Marker Stone"
+- 명하 | operators/argent_flow.md | 2026-11 초 출시 예정(유지보수자 확인). 수치가 공개된 뒤 쓴다. 2026-11-03 기준 나무위키는 기본 공격 배율과 육성 재료, 배틀 스킬 그림자 제압(연계 스킬 뒤 질주하는 천둥으로 바뀌어 전기 부착을 소모하고 높은 등급 감전과 방어 불능 1스택)·연계 스킬 별의 궤적(방어 불능인 적에게 발동)·궁극기 천공 가르기의 설명만 있고 스킬 배율·재능·잠재능력이 비어 있다. endfield.wiki.gg는 아직 출시 예정 문서다. AppMedia에 성능 문서가 있다(미열람). 영어 코드네임 Argent Flow, 본명 야명하 | 나무위키 「명하(명일방주: 엔드필드)」, endfield.wiki.gg Argent_Flow, appmedia.jp 명하(ミンホ) 성능 문서
+- 선검국 | world/wuling.md 홍산 과학원 절 | 장검 골짜기 임무를 내는 무릉성의 Bureau of Swordmancers, 반항 설명문과 응룡 선발의 Hongshan Swordmancers. 같은 기관인지, 하는 일, 한국어 표기 | endfield.wiki.gg Bureau_of_Swordmancers·Hongshan_Swordmancers, 나무위키 「/등장인물 및 세력」
+- 선조의 샘 임무 | world/wuling.md 청파채 절 | 샘 아래 염국 장치를 찾은 Patron of the Spring I~III와 Du Ming, 펠리카가 말한 샘에 기대지 않는 청파채 | endfield.wiki.gg Patron_of_the_Spring_I~III, Perlica/Baker "Ancestral Spring and Qingbo"
+- 수돈 안쪽 구역 | world/wuling.md 하위 지역 | 감시 의뢰와 베헤모스 심장 절이 가리키는 Reservoir Station, Serenity Garden(새겨진 이름), Cloudrest Woods, Security Section, Urban Development Hall | endfield.wiki.gg Marker_Stone·Marker_Stone_Interiors, 나무위키 「/지역」
+- Æthillu | world/aggeloi_and_blight.md | 수돈 내부에 떠다니는 에테르 존재(감시 의뢰). 정체와 심도와의 관계 | endfield.wiki.gg Æthillu, Photo:_The_Floating_"Æthillu"
 
 ## 확인 필요
 
 [AGENTS.md](../AGENTS.md) 6절에 맞는 질문만 둔다.
 
-- 게임 화면의 한국어 표기: 티프로스 궁술 훈련 시설(Typhoeus's Archery Range)과 그 단계 이름(Basic Training, Advanced Training, Daily Exercise), 부가 임무 Cliffbottom Archery Range, 이벤트 Trial of the Bow, 친구 제강호의 생산 지원(Production Assist). 답이 없으면 영어 표기를 그대로 둔다(2026-11-02까지).
 - 게임 화면의 한국어 표기: 감시 시설(Environment Monitoring)과 생태 개요, 탄력 수요 물자가 '탄력 수요 물자'인지 '변동 수요 물자'인지, 물자 관리 단말기의 Lucky Carrot. 응룡 특수부대의 봉이 부대장인지(결 파일 자료 1의 서명은 '대원'). 답이 없으면 영어 표기와 양쪽 서술을 그대로 둔다(2026-11-03까지).
-- 친구에게서 단서를 받을 때 그날 첫째·둘째·셋째에 받는 크레딧이 25·15·5인지 15·10·5인지. 답이 없으면 출처가 더 많은 25·15·5를 본문에 두고 다른 쪽을 확인하지 못한 것에 남긴다(2026-11-02까지).
 - 2장 Ⅶ에서 홍산 과학원이 스스로를 염국의 몇 번째 구역이라 부르는지(스물두 번째 행정 구역인지 13번째 주인지). 답이 없으면 염국 문서에 양쪽 서술을 그대로 둔다(2026-11-04까지).
 - 친구 제강호에서 탄력 수요 물자를 팔 때 파는 쪽이 받는 크레딧, 함선 주인 쪽 60이 한 번에 받는 양인지 하루 상한인지. 답이 없으면 하루 상한 60, 파는 쪽 양은 확인하지 못함으로 둔다(2026-11-04까지).
 
 ## 완료
+
+- 2026-11-03: content/settlements.md 감시 의뢰 32종과 생태 개요 보상, world/wuling.md 청파채의 세운 내력과 장검 골짜기, world/behemoth.md 대사냥 기록과 베헤모스 심장. 장검 골짜기 금고 서술은 이미 염국 문서에 있어 무릉 문서에는 지형과 임무만 둠. 무릉 하위 지역 표의 '약 100년 전'은 출처 표현대로 '100여 년 전'으로 고침. 궁술 훈련 시설 표기와 단서 크레딧은 답 기한이 지나 영어 표기와 25·15·5를 유지. 명하는 스킬 배율이 아직 비어 있어 남김
 
 - 2026-11-02: world/factions.md 인두 지령(Utjug Order는 세력이 아니라 연맹 공단의 비상 동원 명령), world/aggeloi_and_blight.md 탈로스2의 오로라, world/foundation.md 알레이크레오스의 검, content/si_painting.md 객잔 요리 44종과 가공 재료, world/yan.md(염국은 도시가 아니라 따로 링크될 대상이라 문명 밴드 문서 대신 새 문서로), systems/social.md 탄력 수요 물자 크레딧. 간편 도구 동작 이름과 북쪽 금지 구역 구획 이름은 답 기한이 지나 영어 표기를 유지. 명하는 배율이 아직 공개되지 않아 남김
 

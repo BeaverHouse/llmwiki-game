@@ -115,8 +115,10 @@ sources:
   - https://endfield.wiki.gg/wiki/Sticker:_Engineering_Division · Nachzehrer · Crowe · Persistent_Echo · Beastly_Rage · Rime_Tip · Flaming_Resin · Dawnbreaker
   - https://game8.jp/arknights-endfield/814895 (ティフォロスの射場·弓の試練)
   - https://namu.wiki/w/라스트%20라이트(명일방주:%20엔드필드) · https://namu.wiki/w/이본(명일방주:%20엔드필드) (2026-10-31 열람, CC BY-NC-SA 2.0 KR)
+  - https://endfield.wiki.gg/wiki/Nexus_Files:_Feranmut_Sui · Deep_Vaulted_Steel · Environment_Monitoring · Qingbo_Stockade (2026-11-03 열람)
+  - https://namu.wiki/w/명일방주:%20엔드필드/등장인물%20및%20세력 (해묵, 2026-10-25 수정본, CC BY-NC-SA 2.0 KR)
 created: 2026-10-12
-updated: 2026-10-31
+updated: 2026-11-03
 ---
 
 # 엔드필드 고유명사 표기 (ko/en/ja)
@@ -286,6 +288,8 @@ updated: 2026-10-31
 | 쉐이수 | — | — | 미확인 | 쉐이의 본체 |
 | 쉐이 능묘 | — | — | 미확인 | 쉐이수가 잠든 곳 |
 | 대사냥 | Great Hunt | — | 미확인 | 염국이 베헤모스와 벌인 전쟁. ko는 사 파일 자료 3 |
+| 베헤모스 심장 | Feranmut Heart | — | 미확인 | 수돈 안에서 대균열을 누르는 장치. 나무위키는 '베히모스의 심장' |
+| — | Ennoblement of the Gods | — | 미확인 | 대사냥이 끝나 이룬 일 |
 | 드래곤 버블 | Chubby Lung* | — | 미확인 | 무릉의 마스코트 인형·장식. en은 아이템 '드래곤 버블 채소 젤리'(Chubby Lung Jellied Greens)·'드래곤 버블 · 방흥 에디션'(Chubby Lung: Fangxing Memorabilia)에서 짝지음 |
 
 ## 4번 협곡
@@ -325,6 +329,9 @@ updated: 2026-10-31
 | 수돈 | Marker Stone | 首礎 | 2차 | zh 首础. 첫 천사장 |
 | 천사장 배열 | Tianshi Pillar Array | — | 2차 | 식양 입자로 침식 조류를 다스리는 시설 |
 | 수명 | Suiming | 遂明 | 2차 | 옛 수몰 도시를 재구성한 공간 |
+| — | Ancient Sword Stele | — | 미확인 | 장검 골짜기의 장치 세 곳 |
+| — | Bureau of Swordmancers | — | 미확인 | 무릉성의 기관. Deep Vaulted Steel의 의뢰 장소 |
+| — | Monitoring Center / Reservoir Station / Cloudrest Woods / Field Logistics Depot | — | 미확인 | 감시 의뢰에 나오는 무릉성·수돈의 장소 |
 | 천사장 문서 기록관 / 천사장 연구소 | — | — | 미확인 | 수명의 구역 |
 | Waking Bell | Waking Bell | — | 미확인 | 수명성의 공공 경보 종. ko 미확인 |
 | 사의 그림 | Si's Painting | — | 2차 | [사의 그림](content/si_painting.md) |
@@ -1198,9 +1205,13 @@ updated: 2026-10-31
 | 두린 / 뱀파이어 | Durin / Vampire | ドゥリン / — | 미확인 | 살카즈 계통 |
 | 위치킹 | Witch King | — | 미확인 | 전설의 카프리니 |
 | — | Lei Fa | — | 미확인 | 키린이 만든 오리지늄 아츠 |
+| — | Ruan Lin | — | 미확인 | 원일의 친아버지이자 탕탕의 양아버지 |
+| — | Lian Xiaowu / Walton | — | 미확인 | Deep Vaulted Steel의 의뢰인과 장검 골짜기에서 만나는 인물 |
+| 해묵 | — | — | 미확인 | 베헤모스 심장 수복을 맡은 천사. ko는 나무위키 |
 
 ## 히스토리
 
+- 2026-11-03: 베헤모스 심장, 장검 골짜기와 감시 의뢰의 장소, 청파채·수돈 인물 표기 추가.
 - 2026-11-02: 인두 지령, 객잔 가공 재료, 정천도위·문명 보존 협정 표기 추가.
 - 2026-11-01: 지역 시설, 탄력 수요 물자, 객잔 작물, 스타게이트, 응룡 대원, 종족 표기 추가.
 - 2026-10-31: 엔드필드 공업 부서(공학 센터 등), 나흐체러르·전투 왕정, 매츠 크로·네츠살렘, 화살 칩, 친구 기능 표기 추가. 정보 교류를 공식 공지 표기로 확정.
