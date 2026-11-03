@@ -44,6 +44,10 @@
 - [guides/wind_party.md](guides/wind_party.md) — 바람 파티 (세스타(AS)·멜피피아 중심 風王陣 편성. 「二刀神狼・改」의 그 턴 弱点看破(風), 멜피피아의 祈祷·「予知」·腕知 디버프, 連携·オーバークリティカル 담당, 極・風王陣 유지 문제, 출처 편성 예 3종)
 - [guides/pierce_party.md](guides/pierce_party.md) — 찌르기 파티 (세리에스(AS)·의협의 사냥꾼 라클레어·네코코(ES) 중심 瞬突陣 편성. 창·활 통일 이유, 鎧通/射切 AF 사이클, 라클레어가 못 까는 버프, 클러그혼·아나벨(ES) 등 후보, 출처 편성 예 3종)
 - [guides/shade_party.md](guides/shade_party.md) — 그림자 파티 (애니·검은 옷의 칼잡이(AS)·클러그혼 중심 刻陰陣 편성. 刻陰陣 배율표, 「血の誓約」 庇立て 배치, 絶・刻陰陣과 共鳴<挺身>, 「シャンバラ」 받기 콤보, 출처 편성 예 3종, 약점)
+- [guides/mobius_labyrinth.md](guides/mobius_labyrinth.md) — メビウスの迷宮 (外史 「久遠の渦」 프롤로그로 개방되는 20층 로그라이크. 悠久·スピナル オーパーツ 고르기, ディグメダル 宝玉 교환, チャーム·デトネーター, 층별 보스와 위험한 적, アンモナイズ, 녹시스 가입·스킬 강화 층)
+- [guides/genshoukan.md](guides/genshoukan.md) — 幻象館 (Ver3.12.30 탈출 게임형 수수께끼. 제13장 클리어 후 次元の狭間, 장소별 힌트, クロノスの石 칭호 5개)
+- [guides/tomurai_no_hana.md](guides/tomurai_no_hana.md) — 弔いの花 (코린다 장미 퀘스트. 제8장 パルシファル宮殿, 정답 赤 白 ピンク·5枚·コリンダのバラ, 진행 순서와 보상)
+- [guides/treasure_maps.md](guides/treasure_maps.md) — 宝地図 (3부 前編 ヴァンデ海 심해 인양. 水中ジェットスクリュー·固形燃料, 지도 4장의 입수처·횟수·고정 순서 보상(夢詠みの書·天の導き·冥の誘い·錬鉱石), Ver3.16.60 설명문 수정)
 - [guides/superbosses.md](guides/superbosses.md) — 숨은 보스 난이도 (Seesaa 비공식 난이도표의 기준과 ★11.7 이상 보스 목록)
 
 ## raids/
