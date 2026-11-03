@@ -10,11 +10,11 @@ sources:
   - https://namu.wiki/w/네파리스 (2026-09-08 수정본, CC BY-NC-SA 2.0 KR)
   - https://endfield.wiki.gg/wiki/The_Foundation (중추 파일 '파운데이션' 영어 텍스트)
   - https://endfield.wiki.gg/wiki/Ardashir
-  - https://endfield.wiki.gg/wiki/Yinglung_Special_Task_Force (알레이크레오스의 검 관련 응룡 전투 기록)
+  - https://endfield.wiki.gg/wiki/Yinglung_Combat_Record · Letter:_Looks_Like_a_Will · Communication_Log · Audio_Log:_Damaged · Alleikhreos,_Chiliarch (조사 보고와 기록 영어 텍스트, 적 설명문, 2026-11-02 열람)
   - https://namu.wiki/w/카뮤(명일방주:%20엔드필드) (인사 요약서 인용, 2026-10-02 수정본, CC BY-NC-SA 2.0 KR)
   - https://endfield.wiki.gg/wiki/Camille/File (인사 요약서 영어 텍스트, 2026-06-26 수정본)
 created: 2026-10-21
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 # 파운데이션 (The Foundation)
@@ -66,7 +66,23 @@ M3는 파운데이션이 여러 분파로 나뉘어 있으며, 백여 년 전 �
 
 쓰러지면서 그는 관리자에게 우리는 왜 생존할 권리가 없느냐, 왜 당신의 터전을 포기하느냐고 묻고, 당신은 그녀에게 속은 것뿐이라는 말을 남긴다.
 
-중추 파일 '응룡 특수부대'의 전투 기록에서 그의 검을 처음 발견한 것도 응룡 대원들이었고, 검이 일으킨 진동으로 퇴로가 끊겨 북쪽 금지 구역에서 숨진 대원들이 있었다. 2장 Ⅶ에서 일행이 발견하는 초자연 에너지를 내뿜는 거대한 검은 지형을 무너뜨린 원인 가운데 하나였다.
+적 설명문은 그를 파운데이션의 피조물이자 수많은 전투를 겪은 노병으로 적는다. 그는 초자연을 떠돌다 잃어버린 검을 되찾았고, 그 틈을 찢어 돌아왔다. 전투에서 검을 떨어뜨리는 기믹은 [적](../content/enemies.md#알레이크레오스-천부장)에 있다.
+
+#### 알레이크레오스의 검
+
+2장 Ⅶ에서 일행이 발견하는 초자연 에너지를 내뿜는 거대한 검은 지형을 무너뜨린 원인 가운데 하나였다. 이 검을 처음 찾은 것은 응룡 특수부대였다. 북쪽 금지 구역에서 모으는 기록 일곱 편을 세 갈래 조사로 맞추면 조사 보고 Yinglung Combat Record가 완성된다(아래 내용은 영어 텍스트).
+
+- 2년 전 응룡 다섯 팀(Shore, Stern, Macro, Amber, Benefit)이 금지 구역에서 대규모 감시 작전을 벌였고, 다섯 팀 가운데 응룡 관문으로 살아 돌아온 팀은 없었다. 보고서는 Shore가 이끈 팀이 알레이크레오스가 던진 검을 실제로 찾았다고 결론짓는다.
+- 검 때문에 침식 안개가 퍼져 두 팀이 금지 구역 깊숙이 갇혔다. Shore는 다른 세 팀에게 좌표를 들려 돌려보내고, Stern 팀과 함께 가진 응룡장을 모두 박으며 더 깊이 들어갔다. 통신 기록에서 Stern은 우리 임무는 담검당까지 안전한 길을 내는 것이라고 맞서지만, Shore는 지금이 그 좌표에 닿을 마지막 기회라며 Stern 팀의 응룡장을 모두 넘겨받는다.
+- Shore가 검을 찾은 직후 산사태가 났다. 검이 협곡 아래로 떨어지는 것을 본 Shore는 혼자 남아 검을 쫓으며 데이터를 기록하고 위치를 어림했다. 유서에서 Shore는 8년 전의 무릉 대균열 사고가 사고가 아니라 이 검이 일으킨 것이라고 적고, 뒤에 올 원정대가 Stern이 박은 응룡장을 따라와 침식 안개를 걷어 내기를 바란다.
+- 좌표를 든 팀 가운데 하나만 Designated Urban Area 근처까지 갔고, 그 팀도 침식의 그림자(Blightshade)의 습격으로 금지 구역을 빠져나가지 못했다. 좌표는 나중에 다른 작전에 나선 응룡 팀이 회수했다. 사상자가 너무 많아 응룡 특수부대는 감시 작전을 멈췄고, 산사태로 지형이 바뀌어 회수한 좌표도 쓸모가 없어졌다.
+- 보고서는 Shore가 말한 무기가 알레이크레오스의 무기라고 확인하면서도, 실제 좌표는 관리자가 넘긴 좌표와 맞지 않으며 산사태로 지형이 크게 바뀌었을 수 있다고 적는다.
+
+| 기록 | 내용 |
+|---|---|
+| Log of Amber Team: Major Surveillance Op 4, Letter: For the Family, Log of Macro Team: Major Surveillance Op 4 | 조사 1. 다섯 팀 감시 작전의 기록 |
+| Data Log: Yinglung Pillar Coordinates, Communication Log | 조사 2. 응룡장 좌표와 Shore·Stern의 통신 |
+| Letter: Looks Like a Will, Audio Log: Damaged | 조사 3. Shore의 유서와, 좌표를 들고 가다 침식의 그림자와 싸운 끝에 Shore에게 사과하며 끊기는 Benefit의 음성 기록 |
 
 ### 아다시르
 
@@ -91,10 +107,12 @@ M3는 파운데이션이 여러 분파로 나뉘어 있으며, 백여 년 전 �
 - 알레이크레오스, 엘 아이그니스, 천부장, 정체불명의 소녀의 게임 안 한국어 표기. 영어 위키는 Alleikhreos, Mysterious Girl로 적는다.
 - 중추 파일 '파운데이션'의 열람 조건.
 - 파운데이션의 '진정한 창조물'이 무엇인지. 영어 명칭 Foundite만 알려져 있고 설명은 없다.
+- Yinglung Combat Record와 그 기록 일곱 편의 한국어 제목과 본문, Shore·Stern·Macro·Amber·Benefit의 한국어 이름, 기록마다 얻는 위치. 2년 전 감시 작전의 연도는 기록에 없다.
 - 테라 연합 과학 탐사단이 언제 탈로스2에 왔고 어떤 단체였는지, 홍산 과학원 설립에 함께한 '연합 과학 탐사단'과 132년의 '과학 탐사단'이 같은 단체인지.
 
 ## 히스토리
 
+- 2026-11-02: 알레이크레오스의 검 소절 추가(Yinglung Combat Record).
 - 2026-10-29: 연표·세력·네파리스 문서와 겹치는 꿈 장면, 카뮤 부모의 내력, 네파리스의 행적을 줄이고 링크로 바꿈.
 - 2026-10-24: 테라 연합 과학 탐사단 절 추가.
 - 2026-10-21: 최초 작성. 1.6 버전까지의 내용을 나무위키 등장인물·스토리·설정·아다시르·네파리스 문서와 endfield.wiki.gg로 정리.

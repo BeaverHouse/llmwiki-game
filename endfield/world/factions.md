@@ -1,7 +1,7 @@
 ---
 title: 세력 (Factions)
 type: guide
-aliases: [세력, 진영, 문명 밴드, Civilization Band, 文明地帯, 밴드 협약, Band Accord, U3, 연맹 공단, UWST, 탈로스 II 상업연합회, TGCC, 홍산 과학원, HAS, 철의 서약군, Order of Steel Oath, 고요한 수도회, Cabal of Tranquility, 静語伝道会, 진리, Veritas, 베리타스, 회화파, Sessionites, 해석파, Veritarites, 재현파, Resurgonites, 세 수사의 비유, 만물의 대지, Hannabit Circuit, 세쉬카, Seš'qa, セシュカ, 생명의 척추, 라이프 스파인, Lifebone, 의장, Speaker, 수호자, Agaš'mekanaz, Keeper of Wisdom, 주술 타임, Witching Hour, 巫术时刻, 오픈 데이, Open Day, 유랑자 대모험, Errant's Grand Adventure, 제왕정의 행진, 왕정 연합 행진, Parade of the Royal Courts, 사미베르그, 랜드브레이커, Landbreaker, 울프팀, The Pack, 사막 도적, Sandreavers, 자유시, 탈로스 성, 라반도르마, 매츠 크로, 크로, Matz Crowe, Crowe, 플레밍, Fleming, 교량 건설자, Bridge Builder, 나흐체러르, Nachzehrer, 전투 왕정, War Court, 네츠살렘, Nezzsalem]
+aliases: [세력, 진영, 문명 밴드, Civilization Band, 文明地帯, 밴드 협약, Band Accord, U3, 연맹 공단, UWST, 탈로스 II 상업연합회, TGCC, 홍산 과학원, HAS, 철의 서약군, Order of Steel Oath, 고요한 수도회, Cabal of Tranquility, 静語伝道会, 진리, Veritas, 베리타스, 회화파, Sessionites, 해석파, Veritarites, 재현파, Resurgonites, 세 수사의 비유, 만물의 대지, Hannabit Circuit, 세쉬카, Seš'qa, セシュカ, 생명의 척추, 라이프 스파인, Lifebone, 의장, Speaker, 수호자, Agaš'mekanaz, Keeper of Wisdom, 주술 타임, Witching Hour, 巫术时刻, 오픈 데이, Open Day, 유랑자 대모험, Errant's Grand Adventure, 제왕정의 행진, 왕정 연합 행진, Parade of the Royal Courts, 사미베르그, 랜드브레이커, Landbreaker, 울프팀, The Pack, 사막 도적, Sandreavers, 자유시, 탈로스 성, 라반도르마, 매츠 크로, 크로, Matz Crowe, Crowe, 인두 지령, Utjug Order, 인두 발신기, Utjug Signal Emitter, 플레밍, Fleming, 교량 건설자, Bridge Builder, 나흐체러르, Nachzehrer, 전투 왕정, War Court, 네츠살렘, Nezzsalem]
 sources:
   - https://namu.wiki/w/명일방주:%20엔드필드/등장인물%20및%20세력 (세쉬카 문단과 무기 '붉게 물든 가호' 이야기 한국어 텍스트 포함, 2026-10-25 수정본, CC BY-NC-SA 2.0 KR)
   - https://namu.wiki/w/명일방주:%20엔드필드/설정 (역사 문단, 2026-10-07 수정본, CC BY-NC-SA 2.0 KR)
@@ -34,10 +34,11 @@ sources:
   - https://endfield.wiki.gg/wiki/Suffering%27s_End (무기 이야기 영어 텍스트, 2026-09-02 수정본)
   - https://namu.wiki/w/이본(명일방주:%20엔드필드) (인사 요약서, 대사 '4번 협곡에 관하여' 한국어 텍스트, 2026-10-19 수정본, 2026-10-31 열람, CC BY-NC-SA 2.0 KR)
   - https://endfield.wiki.gg/wiki/Crowe (2026-08-01 수정본)
+  - https://endfield.wiki.gg/wiki/Nexus_Files:_Utjug_Order (중추 파일 '인두 지령' 영어 텍스트) · Utjug_Signal_Emitter · Authorization_Keycard (아이템 설명과 한국어 칸) · Scaldings_of_Utjug (임무 목표) · Perlica/Baker (BAKER 통신 "Utjug Order" 영어 텍스트), 2026-11-02 열람
   - https://endfield.wiki.gg/wiki/Yvonne/File (2026-09-02 수정본) · Yvonne/Dialogue (2026-09-08 수정본)
   - https://wiki.biligame.com/zmd/伊冯 (중국어 인사 요약서, 2026-05-15 수정본)
 created: 2026-10-21
-updated: 2026-10-31
+updated: 2026-11-02
 ---
 
 # 세력 (Factions)
@@ -80,6 +81,18 @@ updated: 2026-10-31
 
 TA-TA 개발에 크로가 맡은 몫은 출처마다 다르다([TA-TA 프로토타입](endfield_staff.md#ta-ta-프로토타입)). 1장 Ⅳ에서 발전소를 폭파하려던 장면은 [4번 협곡](valley_iv.md#ⅳ-잔불과-전쟁의-향기-smoking-embers)에 있다.
 
+### 인두 지령
+
+인두 지령(영어 Utjug Order, 중국어 아이템 이름은 烙铁)은 연맹 공단이 극한의 전투 상황에서 군사 자원을 보내려고 발동하는 특수 동원 체계다. 세력이 아니다. 중추 파일 '인두 지령'(영어 텍스트, 메인 임무 1장 Ⅳ 「Scaldings of Utjug」 진행으로 열림)의 내용은 다음과 같다.
+
+- 발동 장치는 지역마다 배치된 신호 발신기와 비컨으로 이루어진다. 발신기에는 권한 키 카드 두 장이 딸려 있고, 각각 그 현장의 서로 다른 고위 현장 지휘관이 맡는다. 두 장을 동시에 써야 통신 좌표가 전송된다.
+- 연맹 공단의 최고 전략 명령 가운데 하나다. 받는 쪽은 발신지가 파멸적인 군사 공격을 받고 있다고 보고, 지령을 받은 연맹 공단 시설은 모두 조건 없이 발신지로 군사 자원을 보낸다.
+- 좌표를 받으면 연맹 공단 전구 사령부가 음성 확인을 한다. 응답이 없으면 포화 투입을, 응답이 구체적인 전투 조건을 알려 오면 지정한 위치에 정밀 투입을 한다.
+
+1장 Ⅳ에서 크로는 에너지 공급 고지를 빼앗기자 인두 지령으로 랜드브레이커를 치려 했다. 그러려면 '인두' 발신기와, 습격 때 행방불명된 에너지 공급 고지 현장 책임자 대니얼스의 권한 키 카드가 있어야 했다. 아이템 설명에서 키 카드에는 누군가의 피가 묻어 있다. 크로가 두 물건을 찾으러 보낸 대원들과는 연락이 끊겼고, 두 물건은 관리자 일행이 발전소 실험실에서 찾아 크로에게 건넨다(임무 「Scaldings of Utjug」). 그 뒤의 장면은 [4번 협곡](valley_iv.md#ⅳ-잔불과-전쟁의-향기-smoking-embers)에 있다.
+
+펠리카는 BAKER 통신에서 이 전략 명령이 랜드브레이커 부족을 상대로 내려진 적은 없다고 기억하며, 본 크러셔가 노동자의 생계를 공격해 선을 넘었으니 연맹 공단이 대가를 치르게 할 것이라고 말한다(영어 텍스트).
+
 ## 탈로스 II 상업연합회
 
 영어 명칭은 Talos II General Chamber of Commerce(TGCC)다. 테라의 오래된 군수 대기업부터 새로 생긴 외식 체인까지 여러 기업이 모여 문명 밴드와 탈로스2 전역에 영향력을 행사한다. 아겔로스와의 전쟁으로 스타게이트가 무너지고 개척지들이 고립되자, 테라와 탈로스2를 오가던 트럭 운전사들이 다시 차를 몰아 개척지 사이의 연결을 지켰고, 이들이 지금 상업연합회의 중심이 되었다.
@@ -103,7 +116,7 @@ TA-TA 개발에 크로가 맡은 몫은 출처마다 다르다([TA-TA 프로토�
 정식 명칭은 염국 천사부 부속 홍산 과학원(Hongshan Academy of Sciences, HAS)이다. 신행성 탐사를 위해 염국이 보낸 천사부의 과학자들에서 비롯되었다. 이들은 제1차 아겔로스 전쟁 때 스타게이트로 테라에 돌아갈 기회를 포기하고 남아 개척자들을 도왔다. 살기에 알맞은 홍산 환형산(영어 Hongshan Crater)을 맡아, 스스로를 천사부의 대표로 여겨 환형산 안에 새 천사부를 세우고 대규모 과학 단지와 수경 재배 시설을 지었다. 이것이 밴드 협약 체결 며칠 전 연합 과학 탐사단과 함께 홍산 과학원으로 정식 등록되었다(중추 파일 '홍산 과학원'). 환형산의 모습은 [문명 밴드의 도시](civilization_band.md#홍산-환형산)에 있다.
 
 - 홍산 환형산의 분화구를 중심으로 세워졌으며, 홍산의 식량이 문명 밴드 전역에 공급된다.
-- 본국과 연락이 끊긴 뒤에도 스스로를 염국 천사부의 부속 연구 기관으로 여기며, 염국의 13번째 주를 자처한다. 세력 지도자의 직함도 '대리 책임자'다.
+- 본국과 연락이 끊긴 뒤에도 스스로를 염국 천사부의 부속 연구 기관으로 여기며, 염국의 한 행정 구역을 자처한다(몇 번째인지는 출처마다 다르다. [염국](yan.md#홍산-과학원)). 세력 지도자의 직함도 '대리 책임자'다.
 - 정예 부대 [응룡 특수부대](wuling.md#응룡-특수부대)를 둔다.
 - 무릉 과학 개발 구역(무릉성)과 그 바깥의 청파채는 [무릉](wuling.md)에 있다.
 - 소속 오퍼레이터: [여풍](../operators/lifeng.md), [판](../operators/da_pan.md), [장방이](../operators/zhuang_fangyi.md), [미브](../operators/mi_fu.md), [결](../operators/arcane.md), [사](../operators/si.md).
@@ -296,6 +309,7 @@ TA-TA 개발에 크로가 맡은 몫은 출처마다 다르다([TA-TA 프로토�
 - 생명의 척추(라이프 스파인)가 정확히 무엇이며, 처음의 생명의 척추는 어디에 있었는지.
 - 오픈 데이 행진의 한국어 이름. 「붉게 물든 가호」 이야기는 '왕정 연합 행진', 「분쇄의 군주」 이야기는 '제왕정의 행진'으로 적고, 영어 텍스트는 둘 다 Parade of the Royal Courts다.
 - 주술 타임의 일본어 표기.
+- 인두 지령이 나오는 임무의 차례. 중추 파일과 인물 문서는 1장 Ⅳ, endfield.wiki.gg 임무 문서 머리말은 1장 Ⅲ으로 적는다. 중추 파일 '인두 지령'의 한국어 텍스트와 지령 자체의 한국어 게임 표기(아이템 이름은 '인두' 발신기).
 - 매츠 크로의 성별·성우와 한국어 이외 표기. 종족·경력은 endfield.wiki.gg 하나에만 있고, 일본어 マッツ・クロウ는 팬 위키에서만 보았다.
 - 플레밍이 말하는 '전투 왕정'(War Court)이 무엇인지, 파일 자료 4의 웬디고가 누구인지, 네츠살렘이 누구인지. 기록은 설명하지 않는다.
 - 라스트 라이트 파일 자료 2·3의 열람 조건. 나무위키는 50%·100%, endfield.wiki.gg는 둘 다 100%로 적는다.
@@ -306,6 +320,7 @@ TA-TA 개발에 크로가 맡은 몫은 출처마다 다르다([TA-TA 프로토�
 
 ## 히스토리
 
+- 2026-11-02: 연맹 공단 절에 인두 지령 추가. 홍산 과학원의 '13번째 주'를 출처가 갈리는 것으로 고치고 염국 문서로 연결.
 - 2026-10-31: 연맹 공단 절에 매츠 크로, 세쉬카 절에 플레밍(라스트 라이트 파일 자료 4, 나흐체러르와 전투 왕정) 추가.
 - 2026-10-29: 고요한 수도회 절 보강(중추 파일 '고요한 수도회'의 기술 복원·특허 공개, 진리와 예배, 세 교파의 영어 이름과 하는 일, 세 수사의 비유). 이전 판의 "'베리타스'라는 기계 신으로 숭배한다"와 "다른 세력에게 괴짜 취급을 받는다"는 게임 기록에서 확인하지 못해 확인하지 못한 것으로 옮김. 세쉬카 절에 주술 타임 소절 추가. 연표·도시·4번 협곡·네파리스 문서와 겹치는 설명을 링크로 바꿈.
 - 2026-10-27: 세쉬카 절 보강(베헤모스의 이빨과 생명의 척추, 의장, 카뮤의 부모, 제이컵 마이센의 배신과 수호자, 지금의 세쉬카, 구성원).

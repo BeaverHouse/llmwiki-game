@@ -4,9 +4,10 @@ type: guide
 aliases: [사의 그림, Si's Painting, 그림 세계, 인연 마을, 인연 마을 객잔, 연원객잔, Yuanyuan Manor, Yuanyuan Manor Inn, 객잔, 객잔 운영, Innkeeping, Spirit Money, 소하장, Xiaohe Manor, 2장 VIII, 심연을 떠나며, Sanctuary from the Rift, 새 먹으로 그리다, Paint with Fresh Ink, 단청도, Sanctuary of Ink]
 sources:
   - https://namu.wiki/w/명일방주:%20엔드필드/지역 (사의 그림 문단과 각주, 2026-10-25) · /스토리 (연표와 5.8 프로세스 VIII, 2026-10-19) · /업데이트 (1.6 「단청도」, 2026-10-15) (CC BY-NC-SA 2.0 KR)
-  - https://endfield.wiki.gg/wiki/Si's_Painting (2026-10-19) · Yuanyuan_Manor_Inn (2026-10-24) · Spirit_Money (2026-10-20) · Innkeeping (2026-10-23) · Innkeeping/Theme (2026-10-24) · Innkeeping/Recipe (2026-10-27) · Ranching (2026-10-22) · Yummy_Feed, Double-Yummy_Feed, Meat, Milk, Egg, Fin_Fillet와 각 (A) 문서 · Ballpea · Cabbage · Matoberry · Matoberry_Seeds · Sourberry · Whitemelon · Relishroom · Pingtuber · Crunchcane · Oilseed_Bloom · Oilseeds · Seed_Oil (2026-10-15, 한국어 표기 포함) · 객잔 요리 문서 44개(Fin-Mato_Soup 등, 2026-10-20 무렵, 재료와 한국어 표기)
+  - https://endfield.wiki.gg/wiki/Si's_Painting (2026-10-19) · Yuanyuan_Manor_Inn (2026-10-24) · Spirit_Money (2026-10-20) · Innkeeping (2026-10-23) · Innkeeping/Theme (2026-10-24) · Innkeeping/Recipe (2026-10-28 수정본, 2026-11-02 열람. 목록의 최고급 린수말이 재료 중복과 린수 만두의 태그 'Taste'는 각 요리 문서를 따름) · Ranching (2026-10-22) · Yummy_Feed, Double-Yummy_Feed, Meat, Milk, Egg, Fin_Fillet와 각 (A) 문서 · Ballpea · Cabbage · Matoberry · Matoberry_Seeds · Sourberry · Whitemelon · Relishroom · Pingtuber · Crunchcane · Oilseed_Bloom · Oilseeds · Seed_Oil (2026-10-15, 한국어 표기 포함) · 객잔 요리 문서 44개(Fin-Mato_Soup 등, 2026-10-20 무렵, 재료와 한국어 표기)
+  - https://endfield.wiki.gg/wiki/Starch · Flour · Sugar · Ground_Pepper · Spice_Mix_130 (한국어 칸과 설명문) · Module:Recipe/Shredding_Unit · Module:Recipe/Reactor_Crucible (가공 공식), 2026-11-02 열람
 created: 2026-10-22
-updated: 2026-11-01
+updated: 2026-11-02
 ---
 
 # 사의 그림 (Si's Painting)
@@ -61,7 +62,7 @@ updated: 2026-11-01
 | 3 | Appetizing Start, Cereal & Flour, Warming Flow, Cozily Sweet | 12000 / 24000 / 36000 / 48000 / 60000 |
 | 4 | Truly Wholesome, Luxurious Banquet, Tea Break, Soup & Entree, Ocean & Land, School of Fins, Fully Flavored | 확인하지 못함 |
 
-요리는 종류와 태그 2개를 가진다. 태그는 맛(신맛 Sour, 단맛 Sweet, 짠맛 Salty, 매운맛 Spicy, 감칠맛 Savory)과 재료·성격(Veggy, Meaty, Finny, Rich, Classy, Lovely 등)이다. 메뉴 조건과 인기 태그는 이 태그에 걸리고, 주방 오퍼레이터의 속성 보너스는 맛 태그에 붙는다. 일부 비싼 음료는 만들 수 없어 상점이나 물자 상자로 모은다.
+요리는 종류와 태그를 가진다([요리](#요리)). 태그는 맛(신맛 Sour, 단맛 Sweet, 짠맛 Salty, 매운맛 Spicy, 감칠맛 Savory)과 재료·성격(Veggy, Meaty, Finny, Rich, Classy, Lovely 등)이다. 메뉴 조건과 인기 태그는 이 태그에 걸리고, 주방 오퍼레이터의 속성 보너스는 맛 태그에 붙는다. 일부 비싼 음료는 만들 수 없어 상점이나 물자 상자로 모은다.
 
 ### Full Blaze
 
@@ -115,19 +116,85 @@ updated: 2026-11-01
 
 아래 작물은 객잔 요리에만 쓴다. 영어 설명문은 모두 fine cultivation(논배미 설명문의 한국어로는 정밀 재배)으로만 기를 수 있다고 적는다. 수확물은 물자 상자(Ingredients Crate)와 열일이의 상점에서도 나온다. 토마토 씨앗과 유채꽃 씨앗은 열일이의 상점에서만 팔고, 설명문은 만든 재배지(crafted farm plots)에 심어 수확한다고 적는다. 푸른잎베리, 다미버섯, 청경채는 고급품 (A)와 그 씨앗·포자 (A)가 따로 있고, 요리 재료에서 일반품과 따로 센다.
 
-| 작물 | 영어 | 쓰는 요리(개수) |
+| 작물 | 영어 | 요리에 들어가는 형태 |
 |---|---|---|
-| 토마토 | Matoberry | 토마토 달걀볶음(Mato & Egg) 1, 감자튀김(Tuber Fries) 2, 토마토 월과 조림(Melon in Sauce) 4, 과일 샐러드(Berry Fruity Toss) 1, 탕수 린수(Sweet & Sour Fingot) 4, 최고급 린수말이(Roll of Fin-Supreme) 3, 토마토 린수탕(Fin-Mato Soup) 3 |
-| 푸른잎베리 | Sourberry | 일반: 새콤한 베리푸딩(Sourberry Pudding) 3, 과일 샐러드 3. (A): 달콤한 베리 화채(Berry-Sweet Sip) 2, 붉은 꽃술 치즈케이크(Redbloom Cheesecake) 2, 과일 버블티(Pearly Fruit Punch) 2, 팔보 찹쌀밥(Eight Treasure Rice) 1 |
-| 월과 | Whitemelon | 토마토 월과 조림 2, 월과 고기완자탕(Melon & Meatball Soup) 3, 눈꽃 노른자 월병(Snow-Veiled Mooncake) 2, 마라샹궈(Mala Xiang Guo) 3 |
-| 다미버섯 | Relishroom | 일반: 버섯 만두(Shroom Dumpling) 1, 청경채 보양죽(Tonic Congee & Greens) 2, 린수 만두(Fin Dumpling) 2, 꼬치구이(Roasted Kebab) 2. (A): 버섯 크림수프(Cream of Shroom) 1, 산라탕(Hot & Sour Soup) 2, '흰목이버섯 연밥' 수프("Snowshroom & Lotus" Soup) 3, 불도장(Immortal Galore of Fortune) 1, '한입의 유람'("Spoon Swimmer") 1, 마라샹궈 1, 과일 샐러드 1 |
-| 납작 감자 | Pingtuber | 홍고추 감자채(Shredded Tuber & Pepper) 2, 감자튀김 5, 마라샹궈 2, 과일 버블티 3 |
-| 사탕수수 | Crunchcane | 달걀푸딩(Steamed Flan) 2 |
-| 유채꽃 | Oilseed Bloom | 요리에 바로 들어가지 않는다. 유채꽃을 가공한 유채기름(Seed Oil)이 토마토 린수탕 2, 맑은 린수탕(White Fin Broth) 4, 뚝배기 고기 조림(Clay Jar Meat) 2, 감자튀김 3, 팥앙금 머랭 튀김(Sweetbeans on Snow) 3, 마라맛 훈툰(Chaoshou & Numbing Sauce) 2에 들어간다 |
-| 둥근 콩 | Ballpea | 콩 비빔면(Pea-Topped Noodles) 4, 팔보 찹쌀밥 3, 팥앙금 찹쌀경단(Beanpaste Tangyuan) 2, 팥앙금 머랭 튀김 3, 달콤한 베리 화채 3, 버섯 크림수프 3, '흰목이버섯 연밥' 수프 3, 비단결 두부탕(Tofu Bouquet Soup) 2, '한입의 유람' 3 |
-| 청경채 | Cabbage | 일반: 인연 마을 나물비빔밥(Yuanyuan Veggy Rice) 1, 청경채 보양죽 1, 절임채소 린수볶음(Fin & Pickled Greens) 2, 린향육슬(Fin-Savory Shreds) 2. (A): 절임채소 린수볶음 1, 뚝배기 고기 조림 1, 과일 샐러드 1, 계룡 고기말이(Boundary Lung Roll) 1, 최고급 린수말이 1, 월과 고기완자탕 2, 비단결 두부탕 2, 토마토 린수탕 1 |
+| 토마토 | Matoberry | 그대로 |
+| 푸른잎베리 | Sourberry | 일반품과 (A) |
+| 월과 | Whitemelon | 그대로 |
+| 다미버섯 | Relishroom | 일반품과 (A) |
+| 납작 감자 | Pingtuber | 그대로, 또는 전분으로 가공 |
+| 사탕수수 | Crunchcane | 그대로, 또는 설탕으로 가공 |
+| 유채꽃 | Oilseed Bloom | 유채기름으로 가공해서만 쓴다 |
+| 둥근 콩 | Ballpea | 그대로 |
+| 청경채 | Cabbage | 일반품과 (A) |
 
-유채꽃의 씨앗은 유채꽃 씨앗(Oilseeds)이다. 유채기름은 상점과 물자 상자에서도 얻는다. 밀가루(Flour)의 원료 회보리와 쓴맛 나는 고추(Tartpepper)는 [논배미](eco_farming.md#논배미)에서 기른다.
+유채꽃의 씨앗은 유채꽃 씨앗(Oilseeds)이다. 밀가루의 원료 회보리, 쓴맛 나는 고추(Tartpepper), 금석벼(Amber Rice)는 [논배미](eco_farming.md#논배미)에서 기른다. 작물별로 어느 요리에 몇 개 들어가는지는 아래 요리 표에 있다.
+
+### 가공 재료
+
+요리에 쓰는 가공품은 통합 공업 시스템 설비로 만든다. 모두 열일이의 상점과 물자 상자에서도 얻는다.
+
+| 재료 | 영어 | 원료 → 설비 | 비고 |
+|---|---|---|---|
+| 전분 | Starch | 납작 감자 1 → 분쇄기 → 3 (2초) | |
+| 밀가루 | Flour | 회보리 1 → 분쇄기 → 3 (2초) | |
+| 고춧가루 | Ground Pepper | 쓴맛 나는 고추 1 → 분쇄기 → 3 (2초) | |
+| 설탕 | Sugar | 사탕수수 1 → 분쇄기 → 3 (2초) | |
+| 유채기름 | Seed Oil | 유채꽃 1 + 청정수 1 → 반응기·확장 반응기 → 1 (2초) | |
+| 백삼십 가지 향신료 | Spice Mix 130 | 만드는 공식이 없다 | 5성. 상점과 물자 상자로만 얻는다 |
+
+목장 사료도 같은 설비로 만든다. 납작 감자 잎을 분쇄기에 넣은 가루와 청정수를 반응기에 넣으면 Yummy Feed, 둥근 콩 꼬투리 가루와 청정수를 넣으면 Double-Yummy Feed가 나온다.
+
+### 요리
+
+44종이다. 등급이 5성이면 태그 2개, 4성이면 맛 태그 1개, 2·3성이면 태그가 없다. 값은 판매가, 시간은 조리 시간(초)이다. 개방의 '평가 N'은 객잔 평가 N 달성, '테마 별 N'은 그 테마에서 별 N개 획득이다. 재료의 (A)는 고급품이고, 알은 파울비스트의 알, 고기는 고깃덩이다.
+
+| 종류 | 요리 | 영어 | 등급 | 값 | 시간 | 태그 | 재료 | 개방 |
+|---|---|---|---|---|---|---|---|---|
+| 국 | 비단결 두부탕 | Tofu Bouquet Soup | 5 | 120 | 40 | Lovely, Classy | 백삼십 가지 향신료 1, 청경채(A) 2, 둥근 콩 2, 전분 2 | Luxurious Banquet 별 4 |
+| 국 | '흰목이버섯 연밥' 수프 | "Snowshroom & Lotus" Soup | 5 | 110 | 40 | Veggy, Classy | 다미버섯(A) 3, 둥근 콩 3, 설탕 3 | Tea Break 별 4 |
+| 국 | 맑은 린수탕 | White Fin Broth | 5 | 105 | 40 | Savory, Finny | 알(A) 2, 린수 고기(A) 2, 유채기름 4 | Soup & Entree 별 4 |
+| 국 | 버섯 크림수프 | Cream of Shroom | 5 | 90 | 40 | Salty, Veggy | 다미버섯(A) 1, 우유(A) 2, 둥근 콩 3, 밀가루 2 | Soup & Entree 별 2 |
+| 국 | 월과 고기완자탕 | Melon & Meatball Soup | 5 | 90 | 40 | Savory, Rich | 청경채(A) 2, 고기(A) 1, 월과 3 | 평가 4 |
+| 국 | 토마토 린수탕 | Fin-Mato Soup | 5 | 90 | 40 | Sour, Finny | 린수 고기(A) 2, 청경채(A) 1, 유채기름 2, 토마토 3 | 평가 4 |
+| 국 | 달콤한 베리 화채 | Berry-Sweet Sip | 5 | 70 | 40 | Sweet, Rich | 푸른잎베리(A) 2, 둥근 콩 3, 설탕 2 | Warming Flow 별 4 |
+| 국 | 산라탕 | Hot & Sour Soup | 5 | 60 | 40 | Spicy, Sour | 다미버섯(A) 2, 전분 4, 쓴맛 나는 고추 2 | 평가 3 |
+| 디저트 | 붉은 꽃술 치즈케이크 | Redbloom Cheesecake | 5 | 125 | 35 | Sour, Lovely | 알(A) 2, 우유(A) 1, 푸른잎베리(A) 2, 전분 6 | Tea Break 별 2 |
+| 디저트 | 과일 버블티 | Pearly Fruit Punch | 5 | 100 | 35 | Sweet, Rich | 우유(A) 1, 푸른잎베리(A) 2, 설탕 3, 납작 감자 3 | Truly Wholesome 별 4 |
+| 디저트 | 눈꽃 노른자 월병 | Snow-Veiled Mooncake | 5 | 90 | 35 | Salty, Classy | 알(A) 2, 월과 2, 설탕 3, 밀가루 3 | Luxurious Banquet 별 2 |
+| 디저트 | 황금실 미니 케이크 | Goldfloss Chiffon | 5 | 80 | 35 | Salty, Meaty | 고기(A) 2, 알(A) 1, 설탕 2, 밀가루 2 | 평가 4 |
+| 디저트 | 팥앙금 머랭 튀김 | Sweetbeans on Snow | 4 | 60 | 25 | Sweet | 알(A) 1, 둥근 콩 3, 유채기름 3 | Cozily Sweet 별 4 |
+| 디저트 | 새콤한 베리푸딩 | Sourberry Pudding | 4 | 55 | 25 | Sour | 우유(A) 1, 푸른잎베리 3, 전분 3 | Cozily Sweet 별 2 |
+| 디저트 | 팥앙금 찹쌀경단 | Beanpaste Tangyuan | 4 | 50 | 25 | Sweet | 금석벼 4, 설탕 2, 둥근 콩 2 | 평가 3 |
+| 디저트 | 치즈 크래커 | Salted Cheese Crackers | 4 | 36 | 15 | Salty | 밀가루 3, 알 3, 우유 3 | Sweet and Salty 별 4 |
+| 디저트 | 달걀푸딩 | Steamed Flan | 3 | 32 | 15 | | 사탕수수 2, 우유 1, 알 3 | Sweet and Salty 별 2 |
+| 디저트 | 찹쌀떡 | Sticky Rice Cake | 3 | 30 | 15 | | 금석벼 3, 전분 3, 설탕 2 | 평가 2 |
+| 반찬 | 탕수 린수 | Sweet & Sour Fingot | 5 | 115 | 35 | Finny, Classy | 린수 고기(A) 2, 백삼십 가지 향신료 1, 토마토 4 | School of Fins 별 4 |
+| 반찬 | 불도장 | Immortal Galore of Fortune | 5 | 110 | 35 | Savory, Rich | 고기(A) 2, 린수 고기(A) 1, 다미버섯(A) 1, 린수 고기 3 | Truly Wholesome 별 2 |
+| 반찬 | '한입의 유람' | "Spoon Swimmer" | 5 | 90 | 35 | Savory, Sweet | 알(A) 1, 다미버섯(A) 1, 설탕 3, 둥근 콩 3 | 임무 A Day to Remember |
+| 반찬 | 마라샹궈 | Mala Xiang Guo | 5 | 85 | 35 | Salty, Spicy | 고기(A) 1, 다미버섯(A) 1, 월과 3, 납작 감자 2 | Fully Flavored 별 2 |
+| 반찬 | 뚝배기 고기 조림 | Clay Jar Meat | 5 | 85 | 35 | Sweet, Meaty | 고기(A) 2, 청경채(A) 1, 유채기름 2, 설탕 2 | Ocean & Land 별 2 |
+| 반찬 | 과일 샐러드 | Berry Fruity Toss | 5 | 80 | 35 | Sour, Veggy | 청경채(A) 1, 다미버섯(A) 1, 푸른잎베리 3, 토마토 1 | 평가 4 |
+| 반찬 | 꼬치구이 | Roasted Kebab | 4 | 60 | 25 | Spicy | 고기(A) 2, 다미버섯 2, 고춧가루 2 | Appetizing Start 별 4 |
+| 반찬 | 절임채소 린수볶음 | Fin & Pickled Greens | 4 | 55 | 25 | Sour | 청경채(A) 1, 린수 고기 2, 청경채 2 | Appetizing Start 별 2 |
+| 반찬 | 감자튀김 | Tuber Fries | 4 | 55 | 25 | Salty | 유채기름 3, 납작 감자 5, 토마토 2 | Warming Flow 별 2 |
+| 반찬 | 린향육슬 | Fin-Savory Shreds | 4 | 36 | 15 | Sweet | 청경채 2, 전분 3, 고기 3 | Drinking Social 별 4 |
+| 반찬 | 토마토 월과 조림 | Melon in Sauce | 3 | 32 | 15 | | 월과 2, 토마토 4 | Drinking Social 별 2 |
+| 반찬 | 노릇한 린수 구이 | Skilleted Fin | 3 | 28 | 15 | | 린수 고기 2, 전분 5 | 평가 2 |
+| 반찬 | 홍고추 감자채 | Shredded Tuber & Pepper | 2 | 12 | 15 | | 쓴맛 나는 고추 1, 납작 감자 2 | 평가 1 |
+| 반찬 | 토마토 달걀볶음 | Mato & Egg | 2 | 12 | 15 | | 토마토 1, 알 2 | 평가 1 |
+| 주식 | 계룡 고기말이 | Boundary Lung Roll | 5 | 125 | 35 | Meaty, Lovely | 청경채(A) 1, 고기(A) 2, 백삼십 가지 향신료 1, 밀가루 3 | Ocean & Land 별 4 |
+| 주식 | 마라맛 훈툰 | Chaoshou & Numbing Sauce | 5 | 100 | 35 | Salty, Spicy | 고기(A) 3, 유채기름 2, 밀가루 4, 고춧가루 2 | Fully Flavored 별 4 |
+| 주식 | 최고급 린수말이 | Roll of Fin-Supreme | 5 | 85 | 35 | Savory, Sour | 린수 고기(A) 1, 청경채(A) 1, 밀가루 6, 토마토 3 | School of Fins 별 2 |
+| 주식 | 팔보 찹쌀밥 | Eight Treasure Rice | 5 | 80 | 35 | Sweet, Lovely | 푸른잎베리(A) 1, 금석벼 3, 둥근 콩 3, 설탕 2 | 평가 4 |
+| 주식 | 콩 비빔면 | Pea-Topped Noodles | 4 | 60 | 25 | Spicy | 둥근 콩 4, 고춧가루 1, 밀가루 6 | Cereal & Flour 별 4 |
+| 주식 | 린수 만두 | Fin Dumpling | 4 | 55 | 25 | Savory | 린수 고기(A) 1, 다미버섯 2, 밀가루 6 | Cereal & Flour 별 2 |
+| 주식 | 필라프 | Meaty Pilaf | 4 | 50 | 25 | Salty | 고기(A) 1, 금석벼 2, 쓴맛 나는 고추 4 | 평가 3 |
+| 주식 | 청경채 보양죽 | Tonic Congee & Greens | 3 | 36 | 15 | | 금석벼 3, 청경채 1, 다미버섯 2 | Cereal Galore 별 4 |
+| 주식 | 버섯 만두 | Shroom Dumpling | 3 | 32 | 15 | | 다미버섯 1, 밀가루 4, 고기 3 | Cereal Galore 별 2 |
+| 주식 | 인연 마을 나물비빔밥 | Yuanyuan Veggy Rice | 3 | 28 | 15 | | 금석벼 3, 청경채 1, 알 2 | 평가 2 |
+| 주식 | 고기찐빵 | Meat Baozi | 2 | 12 | 15 | | 고기 2, 밀가루 2 | 평가 1 |
+| 주식 | 채소 손칼국수 | Hand-Kneaded Noodle | 2 | 12 | 15 | | 알 1, 밀가루 3 | 평가 1 |
 
 ### 목장
 
@@ -162,9 +229,9 @@ updated: 2026-11-01
 ## 확인하지 못한 것
 
 - 한국어 게임 표기: 객잔 이름(인연 마을, 연원객잔, 여원원), Spirit Money, Pink Bolete, 객잔 평가·테마·개조·보조 역할·취미·레시피·요리 태그·Full Blaze, 목장의 짐승·부지·포만도·행복도. 사료와 생산물 이름은 영어 아이템 문서의 한국어 칸을 따랐다.
-- 객잔 작물의 재배지(crafted farm plots)를 어디에 놓는지(사의 그림 농장만인지, 무릉성 실험 재배 구역에서도 되는지), 만드는 법, 재배 시간과 수확량. (A) 작물을 얻는 방법과 자동 수확 설비 레벨 3의 Refine Crop의 관계. 유채기름을 만드는 설비. 영어 작물 문서의 가공 표는 분당 수치만 보이고 설비와 생산물 이름이 빠져 있다.
+- 객잔 작물의 재배지(crafted farm plots)를 어디에 놓는지(사의 그림 농장만인지, 무릉성 실험 재배 구역에서도 되는지), 만드는 법, 재배 시간과 수확량. (A) 작물을 얻는 방법과 자동 수확 설비 레벨 3의 Refine Crop의 관계.
 - 객잔 작물과 요리의 한국어 이름은 영어 아이템 문서의 한국어 칸을 따랐다. 토마토(Matoberry)와 사탕수수(Crunchcane)는 일반 작물 이름과 같아 게임 안 표기인지 확인하지 못했다.
-- 요리 재료 가운데 Sugar, Starch, Spice Mix 130, Ground Pepper의 한국어 이름과 원료, Flour의 한국어 이름.
+- 요리 판매가의 단위(Spirit Money인지). 요리 문서는 Price만 적는다.
 - 사의 그림 식양 기체(분당 40 × 2)와 1.6 버전 증가분 40이 어떻게 맞는지.
 - 평가 4 테마의 별 점수, 별 보상 가운데 아이콘이 깨진 품목.
 - 고깃덩이·우유·린수 고기를 낳는 짐승, 축사 1~5칸과 첫 연못의 가격.
@@ -175,6 +242,7 @@ updated: 2026-11-01
 
 ## 히스토리
 
+- 2026-11-02: 요리 44종 표와 가공 재료 절 추가. 작물 표의 요리별 개수는 요리 표로 옮김.
 - 2026-10-28: 테마, 요리 태그, Full Blaze, 목장 절 추가. 상점 주인 표기를 열일이로 채움.
 - 2026-10-25: 객잔 평가 표 보강, 개조·상점·취미 보너스·마일스톤 절과 Spirit Money 추가.
 - 2026-10-22: 최초 작성(1.6 버전 「단청도」 기준).

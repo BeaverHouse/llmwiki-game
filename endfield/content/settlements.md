@@ -1,14 +1,14 @@
 ---
 title: 거점과 지역 개발
 type: guide
-aliases: [정착지, 거점, 서브 코어 구역, 서브 거점, 지역 개발, 지역 건설 레벨, 지역 레벨, 관리권, 협곡 관리권, 지역 건설치, 거점 레벨, 거점 거래, 거점 방어, Outpost, Regional Development, Stock Bill, Prosperity, 저장고 노드, 저장소 노드, 창고 노드, Depot Node, 포장 운송, 화물 운송, 배달, Pack and Deliver, 재활용센터, 재활용 시설, Recycling Station, 항공 부품, Aerospace Material, 물자 관리 단말기, 물자 재분배 단말, Stock Redistribution, Elastic Goods, 감시 시설, 환경 감시, Environment Monitoring]
+aliases: [정착지, 거점, 서브 코어 구역, 서브 거점, 지역 개발, 지역 건설 레벨, 지역 레벨, 관리권, 협곡 관리권, 지역 건설치, 거점 레벨, 거점 거래, 거점 방어, Outpost, Regional Development, Stock Bill, Prosperity, 저장고 노드, 저장소 노드, 창고 노드, Depot Node, 포장 운송, 화물 운송, 배달, Pack and Deliver, 재활용센터, 재활용 시설, Recycling Station, 항공 부품, Aerospace Material, 물자 관리 단말기, 물자 재분배 단말, Stock Redistribution, Elastic Goods, 감시 시설, 환경 감시, Environment Monitoring, 사진 의뢰, 생태 개요, Ecology Overview]
 sources:
   - https://namu.wiki/w/명일방주:%20엔드필드/지역 (2026-10-25) · /공업 (2026-08-03) · /설비 (2026-10-25, 의료 타워 문단) (CC BY-NC-SA 2.0 KR)
-  - https://endfield.wiki.gg/wiki/Outpost (2026-09-20) · Regional_Development (2026-10-04) · Depot_Node (2026-09-12) · Recycling_Station (2026-09-12) · Stock_Redistribution (2026-10-18) · Environment_Monitoring (2026-09-11)
+  - https://endfield.wiki.gg/wiki/Outpost (2026-09-20) · Regional_Development (2026-10-04) · Depot_Node (2026-09-12) · Recycling_Station (2026-09-12) · Stock_Redistribution (2026-10-18) · Environment_Monitoring (2026-09-11 수정본, wikitext의 보상·화폐 포함) · 사진 의뢰 32편(Photo:_"Cleansing_Jade" 등, 2026-11-03 열람)
   - "user-feedback (Austin): 관리권 = Stock Bill, Regional Development = 지역 건설 레벨, Prosperity의 한국어 표기는 특정 못 함 (2026-10-21). 포장 운송은 점프·전투·프로토콜 전송을 하면 내구도가 깎이니 하지 말라고만 적을 것 (2026-10-30)"
   - https://gall.dcinside.com/mgallery/board/view/?id=endfield&no=133155 (커뮤니티 용어 '지역 건설치', 거점 레벨업이 건설치를 가장 많이 준다는 글)
 created: 2026-10-20
-updated: 2026-11-01
+updated: 2026-11-03
 ---
 
 # 거점과 지역 개발
@@ -92,13 +92,62 @@ updated: 2026-11-01
 
 감시 시설(Environment Monitoring)은 무릉에만 있다. 감시 단말기가 정해진 대상을 사진으로 찍는 의뢰를 내고, 찍어 오면 보수를 준다. 지역 개발 메뉴에서 열거나 무릉성의 Monitoring Center, 수돈의 단말기에 상호작용해 연다. 의뢰 목록은 32종이다.
 
+개선 비용은 무릉 관리권이다.
+
 | 개선 | 무릉성 Monitoring Center | 수돈 | 바뀌는 것 |
 |---|---|---|---|
 | 1 → 2 | 186,000 | 240,000 | 의뢰 칸 2 → 3, 보수 증가, 의뢰 종류 증가 |
 | 2 → 3 | 250,000 | 320,000 | 보수 증가, 의뢰 종류 증가 |
 | 3 → 4 | 450,000 | 500,000 | 보수 증가, 의뢰 종류 증가 |
 
-단말기마다 마친 의뢰를 생태 개요(영어 Ecology Overview)에 기록하고, 기록이 1·4·8·12·16개가 되면 특별 보상을 준다.
+단말기마다 마친 의뢰를 생태 개요(영어 Ecology Overview)에 기록하고, 기록 수에 따라 보상을 준다. 스티커와 필터 이름은 영어 표기다.
+
+| 기록 | 무릉성 Monitoring Center | 수돈 |
+|---|---|---|
+| 1 | T-크레딧 10,000 | T-크레딧 10,000 |
+| 4 | 스티커 HAS | 스티커 Engineering Division |
+| 8 | 필터 Monochrome | 필터 Thespian |
+| 12 | 스티커 Super Pressurized | 스티커 Explosion |
+| 16 | 필터 Spring | 필터 Teal and Orange |
+
+#### 의뢰 목록
+
+의뢰 이름은 영어 표기다. Rainbow Fin in Water만 동력 대나무 뗏목을 탄 채로 찍는다.
+
+| 지역 | 의뢰 | 찍을 것 |
+|---|---|---|
+| 경옥 골짜기 | Photo: "Cleansing Jade" | 돌기둥 옆구리에서 자라는 흰 잎 나무 |
+| 경옥 골짜기 | Photo: Rainbow Fin in Water | 물속의 Rainbow Fin |
+| 경옥 골짜기 | Photo: Collapsed Tianshi Pillar | 무너져 버려진 천사장과 거기 붙어 자라는 식물 |
+| 경옥 골짜기 | Photo: "Eternal Sunset" | 정자 안에서 자라는 분홍 잎 나무 |
+| 경옥 골짜기 | Photo: Cistern Originium Slugs | 무리 지은 Cistern Originium Slug |
+| 경옥 골짜기 | Photo: Ancient Tree in Lake | 작은 호수 속 고목 |
+| 경옥 골짜기 | Photo: Inflated Lankybeast | 몸이 부풀어 빛나는 Lankybeast |
+| 경옥 골짜기 | Photo: Sable-chested Fowlbeast | 주위를 살피는 Sable-chested Fowlbeast |
+| 경옥 골짜기 | Photo: Pier Waterwheel | 돌아가는 부두 물레방아 |
+| 무릉성 | Photo: Growing Crop | 실내 시험 재배지의 작물 |
+| 무릉성 | Photo: Damaged Beacon | 침식 조류에 망가진 탐지 비콘 |
+| 무릉성 | Photo: Field Logistics Depot Ecology | 무릉성에서 청파채 쪽으로 나가면 처음 나오는 Field Logistics Depot 주변 |
+| 무릉성 | Photo: Vigorous Cistern Originium Slug | 활발한 Cistern Originium Slug |
+| 무릉성 | Photo: Mini Shellbeast in Defense | 껍데기 속으로 움츠린 Mini Shellbeast |
+| 무릉성 | Photo: Xiranite Nexus | 식양 장치 Xiranite Nexus |
+| 무릉성 | Photo: Waterlamps | 배를 드러낸 Waterlamp |
+| 청파채 | Photo: Annular Waterfall | 선조의 샘 근처의 고리 모양 폭포 |
+| 청파채 | Photo: Bamboo Water Chimes | 동굴 안 계단 모양 바위와 대나무 물 풍경 |
+| 청파채 | Photo: Mysterious Cryptid Graffiti | 스케치하는 사람이 괴생물의 증거라고 한 낙서 |
+| 청파채 | Photo: Withered Branches | 원일이 만든 마른 가지와 그 주변 |
+| 수돈 | Photo: Water Temperature Controller | Urban Development Hall 근처 수온 조절기. 의뢰 문서 제목 아래 지역은 Unknown Region이다 |
+| 수돈 | Photo: Flora Observation Point | Reservoir Station 사람들이 만든 식물 관찰소 |
+| 수돈 | Photo: Peach Tree at Babbles's Home | Babbles네 집 복숭아나무 |
+| 수돈 | Photo: Rainbow | 무지개 |
+| 수돈 | Photo: "Tree of the Old Courtyard" | 10년 전 북쪽 금지 구역에서 옮겨 심은 나무 |
+| 수돈 | Photo: Serenity Garden Tianshi Pillar | 고장 난 Serenity Garden의 천사장 |
+| 수돈 | Photo: Hanging Vines | Reservoir Station 위의 덩굴 |
+| 수돈 | Photo: Cloudrest Eco-Site | Cloudrest Woods 생태 구역 |
+| 수돈 | Photo: Feranmut Heart | [베헤모스 심장](../world/behemoth.md#베헤모스-심장) |
+| 수돈 | Photo: "Pool Lotus" | Security Section 근처 연못의 연꽃 |
+| 수돈 | Photo: "Autumn Gold" | 추모 의식에 바치는 꽃 Autumn Gold |
+| 수돈 내부 | Photo: The Floating "Æthillu" | 떠다니는 Æthillu |
 
 ## 지역 건설 레벨
 
@@ -129,13 +178,15 @@ updated: 2026-11-01
 - 경옥 골짜기 전술 시설 상한. 나무위키는 10, 영어 표의 레벨 2 값은 8로 아직 오르는 중이다.
 - 거점 지역 상한의 단계(100 → 150 → 200과 80 → 110).
 - 저장고 노드의 한국어 표기. 전리품 설명문은 저장고 노드, 나무위키 설비 문서는 저장소 노드로 적는다.
-- 재활용센터·감시 시설 개선 비용과 감시 시설 기록 보상의 화폐 종류. 영어 표에 아이콘만 있고, 재활용센터 비용은 두 화폐 가운데 하나를 내는 꼴(100 or 100)로 적혀 있다. 재활용센터 건설치는 무릉 값만 있다.
-- 감시 시설, 생태 개요, Monitoring Center의 한국어 표기. 나무위키 지역 문서가 수돈 중앙 섬 아래쪽에 있다고 적은 수돈 지역 환경 관측기가 수돈 감시 단말기인지.
+- 재활용센터 개선 비용의 화폐 종류. 영어 표에 아이콘만 있고, 두 화폐 가운데 하나를 내는 꼴(100 or 100)로 적혀 있다. 재활용센터 건설치는 무릉 값만 있다.
+- 감시 의뢰 하나하나의 보수와 개방 조건. 의뢰 문서에 나오지 않는다.
+- 감시 시설, 생태 개요, Monitoring Center와 의뢰 이름의 한국어 표기. 나무위키 지역 문서가 수돈 중앙 섬 아래쪽에 있다고 적은 수돈 지역 환경 관측기가 수돈 감시 단말기인지.
 - 물자 관리 단말기가 열리는 권한 등급. endfield.wiki.gg는 15, 영어 공략 두 곳은 14로 적는다.
 - 응룡 관문 단말기 레벨 1의 일일 회복량 +185. 다른 단계(+15~+40)와 크게 달라 표 오기일 수 있다.
 
 ## 히스토리
 
+- 2026-11-03: 감시 시설 절에 의뢰 32종의 지역과 대상, 생태 개요 보상 추가.
 - 2026-10-30: 저장고 노드와 포장 운송 절 추가. 운송 중 의료 타워 치유 판정을 이 절로 옮김. 같은 날 유지보수자 요청으로 운반 중 피할 행동만 남기고 줄임.
 
 - 2026-10-21: 관리권 = Stock Bill, 지역 건설 레벨 = Regional Development 확정. 번영도는 근거 없는 번역어라 쓰지 않는다.
