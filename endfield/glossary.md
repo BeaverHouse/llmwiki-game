@@ -117,8 +117,10 @@ sources:
   - https://namu.wiki/w/라스트%20라이트(명일방주:%20엔드필드) · https://namu.wiki/w/이본(명일방주:%20엔드필드) (2026-10-31 열람, CC BY-NC-SA 2.0 KR)
   - https://endfield.wiki.gg/wiki/Nexus_Files:_Feranmut_Sui · Deep_Vaulted_Steel · Environment_Monitoring · Qingbo_Stockade (2026-11-03 열람)
   - https://namu.wiki/w/명일방주:%20엔드필드/등장인물%20및%20세력 (해묵, 2026-10-25 수정본, CC BY-NC-SA 2.0 KR)
+  - https://namu.wiki/w/명일방주:%20엔드필드/무기/권총 (반항·향수 설명문과 반항 이야기 한국어 텍스트, 2026-10-06 수정본, 2026-11-04 열람, CC BY-NC-SA 2.0 KR)
+  - https://endfield.wiki.gg/wiki/Bureau_of_Swordmancers · Marker_Stone · Marker_Stone_Interiors · Æthillu · Patron_of_the_Spring_I · Du_Ming (2026-11-04 열람)
 created: 2026-10-12
-updated: 2026-11-03
+updated: 2026-11-04
 ---
 
 # 엔드필드 고유명사 표기 (ko/en/ja)
@@ -242,6 +244,7 @@ updated: 2026-11-03
 | 청파채 | Qingbo Stockade | 清波砦 | 2차 | zh 清波寨. 탕탕이 대당가로 있는 거주지 |
 | 대당가 | — | — | 미확인 | 청파채 두목을 부르는 말 |
 | 창적 | Cangzei Pirates | — | 2차 | 청파채 강경파 무장 세력 |
+| 선검국 / 홍산 선검국 | Bureau of Swordmancers / Hongshan Swordmancers | — | 공식(ko) | 홍산 과학원 직속 무기·장비 연구 생산 기관. ko는 무기 반항·향수 설명문 |
 | 철의 서약군 | Order of Steel Oath | 鉄誓軍 | 2차 | 북쪽 방어선에서 아겔로스와 싸우는 군사 조직 |
 | 원정 | — | — | 미확인 | 철의 서약군의 신병 모집 전통 |
 | 고요한 수도회 | Cabal of Tranquility | 静語伝道会 | 2차 | 라테라노에서 탈로스2로 파견된 기술 연수 조직 |
@@ -330,8 +333,10 @@ updated: 2026-11-03
 | 천사장 배열 | Tianshi Pillar Array | — | 2차 | 식양 입자로 침식 조류를 다스리는 시설 |
 | 수명 | Suiming | 遂明 | 2차 | 옛 수몰 도시를 재구성한 공간 |
 | — | Ancient Sword Stele | — | 미확인 | 장검 골짜기의 장치 세 곳 |
-| — | Bureau of Swordmancers | — | 미확인 | 무릉성의 기관. Deep Vaulted Steel의 의뢰 장소 |
+| 수돈 내부 | Marker Stone Interiors | 首礎内部 | 2차 | 수돈 안의 특수 구역. ko는 wiki.gg 언어 칸 |
 | — | Monitoring Center / Reservoir Station / Cloudrest Woods / Field Logistics Depot | — | 미확인 | 감시 의뢰에 나오는 무릉성·수돈의 장소 |
+| — | Watchtower Reservoir Station / Restricted Area / Lake Islet / Serenity Garden / Urban Development Hall / Security Section | — | 미확인 | 수돈의 장소 |
+| — | Patron of the Spring I~III | — | 미확인 | 선조의 샘 사이드 임무 |
 | 천사장 문서 기록관 / 천사장 연구소 | — | — | 미확인 | 수명의 구역 |
 | Waking Bell | Waking Bell | — | 미확인 | 수명성의 공공 경보 종. ko 미확인 |
 | 사의 그림 | Si's Painting | — | 2차 | [사의 그림](content/si_painting.md) |
@@ -393,7 +398,9 @@ updated: 2026-11-03
 | 파샤 | Pasha | — | 2차 | 아다시르가 밝힌 사르곤에서의 지위 |
 | 알레이크레오스 / 알레이크레오스, 천부장 | Alleikhreos / Alleikhreos, Chiliarch | 千人隊長アレイクレウス | 2차 | 파운데이션의 병사. 2장 VII 대균열 깊은 곳의 적 |
 | 원일 | Ruan Yi | ルアン・イー | 2차 | 탕탕의 양오빠. 청파채 복수파 |
-| 완 | Ruan | — | 2차 | 청파채를 세운 천사 |
+| 원 천사 | Tianshi Ruan | — | 공식(ko) | 무기 반항 이야기에서 홍산을 먼저 떠난 천사. ko는 무기 이야기 한국어 텍스트 |
+| 유 선생 | Old Liu | — | 공식(ko) | 무기 반항 이야기의 천사. 원 천사의 동창 |
+| — | Du Ming | — | 미확인 | 선조의 샘 임무의 청파채 청년 |
 | 수구 | — | — | 미확인 | 청파채 인물 |
 | 봉 | Summit | — | 미확인 | 응룡 특수부대 부대장. 본명 심교아. 결 파일 자료 1의 서명은 '대원' |
 | 언 | Phrase | — | 미확인 | 응룡 특수부대 대원 |
@@ -1124,6 +1131,7 @@ updated: 2026-11-03
 | 결정아겔로스 | Walking Chrysopolis | 歩行晶城 | 2차 | 알파 |
 | 파조의 상 | Tidalklast | 破潮の像 | 2차 | 알파 |
 | 천고 | Skydrummer | 天鼓 | 2차 | 알파 |
+| 잔영 | Æthillu | イーサルー | 2차 | zh 表象. 수돈의 야외 생물. 아다시르의 부름에 응한 환영 |
 
 ## 채집 재료·천연자원
 
@@ -1211,6 +1219,7 @@ updated: 2026-11-03
 
 ## 히스토리
 
+- 2026-11-04: 선검국, 잔영, 수돈 내부, 선조의 샘 임무 표기 추가. 청파채를 세운 천사를 무기 반항 한국어 텍스트대로 '원 천사'로 고침.
 - 2026-11-03: 베헤모스 심장, 장검 골짜기와 감시 의뢰의 장소, 청파채·수돈 인물 표기 추가.
 - 2026-11-02: 인두 지령, 객잔 가공 재료, 정천도위·문명 보존 협정 표기 추가.
 - 2026-11-01: 지역 시설, 탄력 수요 물자, 객잔 작물, 스타게이트, 응룡 대원, 종족 표기 추가.
