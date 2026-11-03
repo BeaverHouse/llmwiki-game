@@ -21,11 +21,12 @@ sources:
   - https://anothereden.game-info.wiki/ (Seesaa Wiki 톱 페이지, 2026-10-11 수정본. Ver3.17.0)
   - https://anothereden.game-info.wiki/d/%A5%AD%A5%C3%A5%C9 (Seesaa Wiki 「キッド」, 2026-04-02 수정본)
   - https://anothereden.game-info.wiki/d/%A5%EA%A5%E5%A5%BC (Seesaa Wiki 「リュゼ」, 2025-07-09 수정본)
+  - https://anothereden.game-info.wiki/d/%A5%B9%A5%BF%A5%A4%A5%CA%A1%BC (Seesaa Wiki 「スタイナー」, 2026-01-01 수정본)
   - 배포 동료의 고난이도 쓰임은 이 위키의 raids/·guides/·characters/ 문서
   - "user-feedback (Austin): 메타 명단은 Seesaa·anothertier 교집합만 쓴다(일본·글로벌 유저층이 달라 기준이 다름), 두 사이트가 스타일을 다르게 고른 동료는 두 스타일 모두 적는다, 배포는 스토리 동료 전원 + 성능 좋은 배포, 교집합 밖은 파티·강적 문서가 멤버로 소개할 때만 문서를 만든다 (2026-10-29)"
   - 사이트 데이터 ae_translation_all (용어 표기)
 created: 2026-10-17
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 
 # 고난이도 동료 명단
@@ -66,7 +67,7 @@ Seesaa 랭크 순(같은 랭크는 Seesaa 표 순서)이다.
 | クラグホーン | [클러그혼](../characters/clughorn.md) | NS (SA) | 그림자·창 | 모드 전환형 탱커 겸 그림자 연타 어태커. SA 후 SB 「ルミナガーディアン」으로 2턴 守護 | SSS | SSS(SA) |
 | イヅナ | [이즈나](../characters/izuna.md) | NS (SA) | 번개·지팡이 | 자기 버프를 모두 갖춘 번개 마법 어태커. SA 후 개막 AF 게이지, 오보로(SA)와 弱点看破(雷)를 이어 건다 | SSS | SS(SA) |
 | ユナ | [유나](../characters/yuna.md) | NS (SA) | 무·지팡이 | 힐러 겸 디버퍼. 진현현으로 腕知 60%·物理耐性·全属性耐性 100% 디버프. SA 후 매 턴 상태 이상 배리어, 「神威依代」로 バフリバーサル, MP 회복 | SS | SSS(SA) |
-| アナベル(ES) | 아나벨(ES) | ES (SA) | 불·창 | 천 3명이면 어태커, 명 3명이면 디버퍼 겸 迎撃 탱커. SA 후 배리어 관통 | SS | S(SA) |
+| アナベル(ES) | [아나벨(ES)](../characters/anabel_es.md) | ES (SA) | 불·창 | 천 3명이면 어태커, 명 3명이면 디버퍼 겸 迎撃 탱커. SA 후 배리어 관통 | SS | S(SA) |
 | 高踏の妖猫 ねここ | [고답의 요묘 네코코](../characters/necoco_alter.md) | 異時層 (SA) | 번개·지팡이 | 「猫染め御免ニャ」로 攻撃種 臨機応変을 걸어 공격 종류를 맞춘다. 명 파티 디버퍼 | SS | S(SA) |
 | ヒスメナ(ES) | [히스메나(ES)](../characters/hismena_es.md) | ES (SA) | 불·검 | 双撃陣・斬突 전개, 연격 어태커 | SS | S(SA) |
 | フラムラピス(ES) | [플람라피스(ES)](../characters/flammelapis_es.md) | ES (SA) | 물·검 | 双撃陣・斬魔 서포터 겸 AF 어태커 | SS | SS(SA) |
@@ -83,7 +84,7 @@ Seesaa 랭크 순(같은 랭크는 Seesaa 표 순서)이다.
 | ジルバー(AS) | [질버(AS)](../characters/zilva_as.md) | AS (SA) | 땅·무·도끼 | 「残香」으로 공격 속성을 적의 약점에 맞추는 어태커(アン・キ・ディグマ의 속성 무관 어태커). SA 「死出の途」 腕知 70% 디버프로 闇のアルターフォース 장기전 | S | S(SA) |
 | メルピピア / メルピピア(AS) | [멜피피아](../characters/melpiphia.md) / 멜피피아(AS) | NS (SA)·AS (SA) 둘 다 | 바람·검 | [바람 파티](wind_party.md) 서포터. 「未来予知・ピンチ」와 ANOTHER ZONE 시 腕知 60% 디버프로 받고, 「未来予知・チャンス」로 화력. 祈祷. SA 후 회복도 맡는다 | S (NS) | AS S(SA), NS A(SA) |
 | マツリカ | 마츠리카 | NS (SA) | 물·도끼 | 단일 특화 버프(오른쪽 칸)·디버프(「消魂」 대상). 「ソテリア・フォラス」로 오른쪽 칸 동료에게 連携를 붙여 다른 속성 파티에도 들어간다 | S | SS(SA) |
-| ミナルカ(AS) | 미나르카(AS) | AS (SA) | 불·검 | 불 어태커. 守護로 아군을 지키며 迎撃 연타, 「オーヴァー・キル」 | S | SS(SA) |
+| ミナルカ(AS) | [미나르카(AS)](../characters/minalca_as.md) | AS (SA) | 불·검 | 불 어태커. 守護로 아군을 지키며 迎撃 연타, 「オーヴァー・キル」 | S | SS(SA) |
 | デューイ | [듀이](../characters/dewey.md) | NS (SA) | 물·권갑 | 물·타격 서포터. 왼쪽 칸에 心技一体 | S | S(SA) |
 | 白磁の魔人(AS) / 白磁の魔人 | 백자의 마인 밍화(AS) / 백자의 마인 밍화 | 異時層 AS (SA)·異時層 NS 둘 다 | 땅·지팡이 | 땅 서포터. 전위·후위 교대로 자동 서포트, 絶・地裂陣 재전개 | S (AS) | AS SS(SA), NS SSS(SA 불가) |
 | クチナワ(AS) | [쿠치나와(AS)](../characters/kuchinawa.md) | AS (SA) | 땅·지팡이 | 좌우 땅 동료에게 連携, <脆禍>로 장기전 화력 유지, 「腐食之訪」 弱点看破(地) | S (AS) | SS(SA). NS도 S(SA) |
@@ -117,8 +118,8 @@ Seesaa 랭크 순(같은 랭크는 Seesaa 표 순서)이다.
 | ユーチェリカ / [체리카](../characters/chelika.md) | 외전 「螺旋の記憶と原初の旋律」 | NS (SA) | 무속성 마법 어태커. 적마다 약점 속성으로 공격한다 | SS(SA) |
 | ガリユ / [가리유](../characters/gariyu.md) | 邂逅 | NS (SA, 진현현) | 불 마법 어태커. [星天の杖](seiten_equipment.md) 추천 동료 | S(SA) |
 | リュゼ / [류제](../characters/wryz.md) | 외전 「臥竜の島と絶崖の紋」 | NS (SA) | 물 창 어태커 겸 水天陣·水属性耐性 디버퍼. 아르카디아 파티, 쿠치나와 「蛇冥印」 연동 | S(SA) |
-| スタイナー / 슈타이너 | FF9 협주 | NS (SA) | SA 庇立て와 暗黒剣으로 거의 모든 공격을 받는 탱커. [オズマ](../raids/ozuma.md) 보상 「エクスカリバーⅡ」 전용 대상. 지금은 얻을 수 없다 | S(SA) |
-| ジタン | FF9 협주 | NS (SA) | 바람 도 어태커 겸 서포터. 지금은 얻을 수 없다 | S(SA) |
+| スタイナー / [슈타이너](../characters/steiner.md) | FF9 협주 | NS (SA) | 서포트 어빌리티 「庇立て」와 「暗黒剣」 挑発로 거의 모든 공격을 받는 탱커. [オズマ](../raids/ozuma.md) 보상 「エクスカリバーⅡ」 전용 대상. 지금은 얻을 수 없다 | S(SA) |
+| ジタン / [지탄](../characters/zidane.md) | FF9 협주 | NS (SA) | 바람 도 어태커 겸 서포터. 지금은 얻을 수 없다 | S(SA) |
 
 ## 교집합 밖
 

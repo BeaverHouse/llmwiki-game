@@ -1,5 +1,7 @@
 # Another Eden — 변경 기록 (append-only, 최신이 위)
 
+- 2026-11-03 | ai | characters/ 4편 신규, characters/ewan.md·meryt.md·laclair_alter.md, guides/meta_characters.md·pierce_party.md·stellar_awakening_priority.md, glossary.md·index.md·backlog.md | 슈타이너·지탄·미나르카(AS)·아나벨(ES) 카드를 쓰고 다른 문서의 庇立て·烈火陣·「ジャスティス」 서술을 출처에 맞게 고쳤으며 찾아봐야 하는 콘텐츠 후보를 backlog에 나눔 | Seesaa, 사이트 데이터
+
 - 2026-11-02 | ai | characters/ 6편 신규, guides/meta_characters.md·glossary.md·index.md·backlog.md | 배포 동료 길드너·알테나·키드·체리카·가리유·류제 카드를 쓰고 명단의 키드·류제·길드너 설명을 출처에 맞게 고침 | Seesaa, 사이트 데이터
 
 - 2026-11-01 | ai | characters/ 6편 신규, guides/meta_characters.md·guides/thunder_party.md·glossary.md·index.md·backlog.md | 스토리 동료 피네(AS)·캄라네쥬·에이미·리이카·사이러스·헬레나 카드를 쓰고 명단과 번개 파티에서 링크함 | Seesaa, 사이트 데이터
