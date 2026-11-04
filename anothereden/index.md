@@ -25,14 +25,14 @@
 ## guides/
 
 - [guides/meta_characters.md](guides/meta_characters.md) — 고난이도 동료 명단 (Seesaa 「星の夢のかけらガイド」(Ver3.16.50)·anothertier tier list v16 교집합 메타 41명의 스타일·속성·역할·랭크, 스토리 동료 10명과 성능 좋은 배포 6명, 교집합 밖 동료 이름. 이 위키가 동료 문서를 두는 범위)
-- [guides/meta_equipment.md](guides/meta_equipment.md) — 환경 장비와 입수처 (모든 무기 공통 시리즈, 무기 종류별 주요 무기, 방어구 시리즈, 최고 난도 보스 보상)
+- [guides/meta_equipment.md](guides/meta_equipment.md) — 환경 장비와 입수처 (모든 무기 공통 시리즈, 千年樹 무기 8종 입수처, 무기 종류별 주요 무기, 방어구 시리즈, 최고 난도 보스 보상)
 - [guides/crystal_party.md](guides/crystal_party.md) — 결정 파티 (질퍼니(AS)·틸릴(ES)·알마(AS)·미스트레아 중심 輝晶陣 편성. 멤버 역할, ZONE 전개·연장, 출처 편성 예 4종, 단기/장기·명 검 변형, 개막 AF, 약점, 강적 적성)
 - [guides/thunder_party.md](guides/thunder_party.md) — 번개 파티 (베레토(AS)·오보로·이즈나 중심 招雷陣 편성. 招雷陣의 AF 게이지 성질, 멤버 역할, 오보로+이즈나 弱点看破(雷) 연속 콤보, 출처 편성 예, 버디·장비, 약점, 최상위 보스 적성)
 - [guides/water_party.md](guides/water_party.md) — 물 파티 (엘실(NS/AS)·월화의 영애 히스메나(AS)·베르단타 중심 水天陣 편성. 엘실 NS 「グラスミゼリコルド」의 4턴 후 영구 弱点看破(水), NS·AS 차이, 출처 편성 예 6종, 약점, カプトニク·闇のアルターフォース·アン・キ・ディグマ·暁の塔のヌシ 적성)
 - [guides/grasta.md](guides/grasta.md) — 글래스터 (빌드에 반복 등장하는 글래스터(搦手ノ撃·撃陣/極・撃陣の力·覚醒の力·共鳴の力·増恵/増蝕·狂星·디버프 내성)와 錬成 광석(狙い撃つ·MP消費攻撃·AFコンボ·ZONE覚醒)의 효과·조건·입수처, 장착 칸·潜在錬成)
 - [guides/seiten_equipment.md](guides/seiten_equipment.md) — 星天 무기 (外伝 「螺旋の記憶と原初の旋律」 クラフト로 만드는 8종 공통 효과 MP消費攻撃·MP·공격 시 MP 회복의 단계별 수치, 강화 소재, 10단계 소재 昏き星の塊 입수처, 추천 동료. 일본 서버)
 - [guides/weapon_reforging.md](guides/weapon_reforging.md) — 武器打ち直し (개방 조건(3부 前編 클리어, +10 강화), 시리즈별 전용 소재·錬鉱石·フェイズシフト 소재, 冥鬼·翠晶·ルーナ·亜空·プリズム 등 주요 무기의 打ち直し 전후 효과, 팬 정리의 사용 동료)
-- [guides/manifest_weapons.md](guides/manifest_weapons.md) — 현현 무기와 結実 무기 (현현·진현현·結実 세 단계의 차이, 시작 조건, 才珠·極彩の虹石, 顕現せし闘気 교환표, 무기 경험치, 대상 동료. altema 2026-10-22 기준)
+- [guides/manifest_weapons.md](guides/manifest_weapons.md) — 현현 무기와 結実 무기 (현현·진현현·結実 세 단계의 차이, 시작 조건, 才珠·極彩の虹石, 顕現せし闘気 교환표, 주간 誓約 4종과 9주 로테이션, 무기 경험치, 대상 동료. altema 2026-10-22 기준)
 - [guides/armor.md](guides/armor.md) — 방어구 (千年樹 시리즈 효과·입수(エントラーナ 金天蓼), 竜纏 시리즈와 千年樹와의 선택 기준, 赫耀·蒐魔装·エルピス 등 상위 시리즈, 夢晶の指輪 등 단품)
 - [guides/zone.md](guides/zone.md) — ZONE과 ANOTHER ZONE (ZONE별 피해 배율·AF 게이지 증가량 표, 전개·파괴, 極·絶ZONE과 ZONE覚醒 1회 제한, 共鳴蓄積, アナザーセンス, ZONE 어빌리티 표, 歌唱·祈祷)
 - [guides/another_force.md](guides/another_force.md) — アナザーフォース (AF 게이지 200과 쌓이는 양, 고유 증가 효과, 속도·리캐스트와 왼쪽 배치, 회복 모션 지연, 콤보 배율 규칙, AF·EX 필살기 계산, SB와의 관계)
@@ -48,6 +48,8 @@
 - [guides/genshoukan.md](guides/genshoukan.md) — 幻象館 (Ver3.12.30 탈출 게임형 수수께끼. 제13장 클리어 후 次元の狭間, 장소별 힌트, クロノスの石 칭호 5개)
 - [guides/tomurai_no_hana.md](guides/tomurai_no_hana.md) — 弔いの花 (코린다 장미 퀘스트. 제8장 パルシファル宮殿, 정답 赤 白 ピンク·5枚·コリンダのバラ, 진행 순서와 보상)
 - [guides/treasure_maps.md](guides/treasure_maps.md) — 宝地図 (3부 前編 ヴァンデ海 심해 인양. 水中ジェットスクリュー·固形燃料, 지도 4장의 입수처·횟수·고정 순서 보상(夢詠みの書·天の導き·冥の誘い·錬鉱石), Ver3.16.60 설명문 수정)
+- [guides/kyodaijuu.md](guides/kyodaijuu.md) — 巨大獣 生息地確認リスト (3부 中編 ギルバデス 거대 적 25종의 장소와 巨獣核, 처치 종류 수에 따른 파츠 레벨 상한 Lv50·60·80, 먼저 키울 무장, ジェネスヴルム·ラヴォーグ 이벤트, Ver3.17.0 ラビリベリア 수정)
+- [guides/star5_release.md](guides/star5_release.md) — ☆5 해방 퀘스트 (邂逅·開眼·☆5解放 19종과 대상 동료. 邂逅 ガリユ編의 시작·6전 장소·적 내성과 대처, 復活の魔獣王의 魔導機甲 위치·기믹·ジャゼル 호른 공략·魔導瘴珠 파밍)
 - [guides/superbosses.md](guides/superbosses.md) — 숨은 보스 난이도 (Seesaa 비공식 난이도표의 기준과 ★11.7 이상 보스 목록)
 
 ## raids/
