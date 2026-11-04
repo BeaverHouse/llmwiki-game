@@ -1,10 +1,10 @@
 ---
 title: 무릉 (Wuling)
 type: guide
-aliases: [무릉, Wuling, 武陵, 무릉 과학 개발 구역, 무릉성, 무릉 대균열, 청파채, 수돈, 응룡 관문, 응룡 특수부대, Yinglung Special Task Force, 봉, Summit, 언, Phrase, 북쪽 금지 구역, North Wuling Exclusion Zone, 담검당, Tanjian Hall, 축 교관, Instructor Zhu, 진뢰, Blitzcrash, 창적, Cangzei Pirates, 이당가, Ruan Lin, 장검 골짜기, Sword Vault Dale, Deep Vaulted Steel, 침식 안개, Blight Miasma, 메인 스토리 2장, 수명, Suiming, 遂明, 여소귀, Yu Shigui, Bell of Recollection, Waking Bell, 선조의 샘, Ancestral Spring, Patron of the Spring, Du Ming, Marker Stone, 首礎, 수돈 내부, Marker Stone Interiors, 잔영, Æthillu, 원 천사, Tianshi Ruan]
+aliases: [무릉, Wuling, 武陵, 무릉 과학 개발 구역, 무릉성, 무릉 대균열, 청파채, 수돈, 응룡 관문, 응룡 특수부대, Yinglung Special Task Force, 봉, Summit, 언, Phrase, 북쪽 금지 구역, North Wuling Exclusion Zone, 담검당, Tanjian Hall, 축 교관, Instructor Zhu, 진뢰, Blitzcrash, 창적, Cangzei Pirates, 이당가, Ruan Lin, 장검 골짜기, Sword Vault Dale, Deep Vaulted Steel, 침식 안개, Blight Miasma, 메인 스토리 2장, 수명, Suiming, 遂明, 여소귀, Yu Shigui, Bell of Recollection, Waking Bell, 선조의 샘, Ancestral Spring, Patron of the Spring, Du Ming, Marker Stone, 首礎, 수돈 내부, Marker Stone Interiors, 잔영, Æthillu, 원 천사, Tianshi Ruan, 무릉성 순찰대, Wuling Watchguards, 가반, Jia Ban, 철묘, Iron Boatswain, 수구, Rusty Hook]
 sources:
   - https://namu.wiki/w/명일방주:%20엔드필드/지역 (수명·장검 골짜기·수돈 문단 포함, 2026-11-03 수정본, 2026-11-04 열람, CC BY-NC-SA 2.0 KR)
-  - https://namu.wiki/w/명일방주:%20엔드필드/등장인물%20및%20세력 (청파채 문단 포함, 2026-10-25 수정본, CC BY-NC-SA 2.0 KR)
+  - https://namu.wiki/w/명일방주:%20엔드필드/등장인물%20및%20세력 (청파채·봉·수구와 철묘 문단 포함, 2026-10-25 수정본, 2026-11-05 열람, CC BY-NC-SA 2.0 KR)
   - https://namu.wiki/w/명일방주:%20엔드필드/스토리 (연표, 1장 Ⅱ, 2장 요약, 2026-10-19 수정본, CC BY-NC-SA 2.0 KR)
   - https://namu.wiki/w/명일방주:%20엔드필드/업데이트 (2026-10-15 수정본, CC BY-NC-SA 2.0 KR)
   - https://namu.wiki/w/명일방주:%20엔드필드/설비 (기체 분산기 문단, 2026-10-25 수정본, CC BY-NC-SA 2.0 KR)
@@ -20,6 +20,7 @@ sources:
   - https://namu.wiki/w/탕탕(명일방주:%20엔드필드) (기타 문단의 대당가·이당가, 2026-10-09 수정본, CC BY-NC-SA 2.0 KR)
   - https://endfield.wiki.gg/wiki/Xiranite
   - https://endfield.wiki.gg/wiki/Yinglung_Special_Task_Force
+  - https://endfield.wiki.gg/wiki/Wuling_Watchguards (2026-09-01 수정본) · Iron_Boatswain (2026-09-21 수정본) · Jia_Ban (2026-08-01 수정본) · Lifeng/Story (2026-07-27 수정본), 2026-11-05 열람
   - https://endfield.wiki.gg/wiki/Suiming (2026-09-27 수정본)
   - https://endfield.wiki.gg/wiki/Bell_of_Recollection (2026-10-14 수정본)
   - https://endfield.wiki.gg/wiki/North_Wuling_Exclusion_Zone (2026-10-19 수정본)
@@ -38,7 +39,7 @@ sources:
   - https://gamewith.net/akendfield/73207 (영문 챕터명)
   - https://appmedia.jp/?p=79690247 (일본어 지명)
 created: 2026-10-18
-updated: 2026-11-04
+updated: 2026-11-05
 ---
 
 # 무릉 (Wuling)
@@ -110,7 +111,21 @@ updated: 2026-11-04
 
 ### 무릉성
 
-무릉의 행정·연구 중심 도시로, 대균열 바로 위에 세워졌다. 식양 제방 위에 장방이의 집무실이 있고, 천사부 학원, 재료과학연구소, 방행가 상업 구역 등이 있다. 치안은 홍산 과학원 산하의 무릉성 순찰대가 맡으며, 대장은 [미브](../operators/mi_fu.md)다. [판](../operators/da_pan.md)과 [여풍](../operators/lifeng.md)도 무릉성에서 생활했다.
+무릉의 행정·연구 중심 도시로, 대균열 바로 위에 세워졌다. 식양 제방 위에 장방이의 집무실이 있고, 천사부 학원, 재료과학연구소, 방행가 상업 구역 등이 있다. 치안은 [무릉성 순찰대](#무릉성-순찰대)가 맡는다. [판](../operators/da_pan.md)과 [여풍](../operators/lifeng.md)도 무릉성에서 생활했다.
+
+#### 무릉성 순찰대
+
+무릉성에 본부를 둔 홍산 과학원의 경비 조직으로, 무릉 지역의 치안과 방어를 맡는다. 대장 [미브](../operators/mi_fu.md)의 임명은 장방이가 보증하고 직접 감독한다. 선검국이 순찰대용으로 제안한 실험 장비가 장비 세트 [식양의 흐름](../systems/gear_sets.md)이다.
+
+| 대원 | 영어 | 기록 |
+|---|---|---|
+| 가반 | Jia Ban | 2장 Ⅴ에서 네파리스가 무릉성을 공격할 때 위기에 빠졌고, 수구가 가반의 순찰대 옷을 대신 입고 청파채 복수파를 유인하다 전사했다 |
+| 철묘 | Iron Boatswain | 수구의 동생. 본명 강정무. 형이 죽은 뒤 무릉으로 돌아와 순찰대에 입대했다. endfield.wiki.gg의 직급 표기는 수습 대원(Trainee Watchguard) |
+| 봉의 동생 | — | [봉](#대원)이 입양한 동생. 이름은 확인하지 못함 |
+
+수구(본명 강정구)와 철묘 형제는 공부가 싫어 무릉을 떠나 청파채에 들어갔었다. 관리자, 미브, 철묘가 실종된 수구를 찾다가 사정을 알게 되었고, 미브는 수구의 본명과 별호를 안사원의 영수벽에 새겨 무릉의 영웅으로 남겼다.
+
+endfield.wiki.gg 명단에는 여풍도 수습 대원으로 올라 있고, 그 밖에 Huang Di, Ji Bing, Lan Shan, Li Liangliang, Li Zhui, Liu, Ren Zhenyun, Yan Lin, Yu Shi, Zuo Guyan이 대원으로 적혀 있다. 여풍이 순찰대 소속이라는 게임 안 기록은 확인하지 못했다.
 
 ### 청파채
 
@@ -295,7 +310,7 @@ Deep Vaulted Steel의 흐름은 다음과 같다(영어 텍스트).
 - II 「자연의 조화」(The Way of Water): 장방이와 협력 관계를 맺고, 무릉 외곽에 통합 공업 설비를 깔아 수로·전력 문제와 식양 생산을 돕는다.
 - III 「내부 분열」(The Long Feud): 청파채의 복수파가 반란을 일으킨다. 탕탕의 양오빠 원일이 탕탕을 가두고, 아다시르와 네파리스에게 받은 힘으로 무릉성에 복수하려 한다. 원일은 선조의 샘에서 괴물로 변해 쓰러지며, 탕탕에게 무릉성으로 가라는 말을 남긴다.
 - IV 「과거의 이야기」: 아다시르가 수돈의 방어를 약화시킨다. 결이 아다시르를 봉인하지만 결 자신도 함께 갇힌다.
-- V 「노도」: 네파리스가 무릉성을 공격한다. 일행은 천사장 배열의 중심부를 복구하고, 무릉성과 청파채가 함께 싸워 네파리스를 물리친다([네파리스와 본 크러셔](nefarith.md#무릉-메인-스토리-2장)). 랜드브레이커 쪽으로 넘어간 복수파는 와해되고, 청파채의 수구가 순찰대원을 대신해 전사한다.
+- V 「노도」: 네파리스가 무릉성을 공격한다. 일행은 천사장 배열의 중심부를 복구하고, 무릉성과 청파채가 함께 싸워 네파리스를 물리친다([네파리스와 본 크러셔](nefarith.md#무릉-메인-스토리-2장)). 랜드브레이커 쪽으로 넘어간 복수파는 와해되고, 청파채의 수구가 순찰대원을 대신해 전사한다([무릉성 순찰대](#무릉성-순찰대)).
 - VI 「천근의 무게」: 장방이가 대균열 봉쇄 장치를 개량한다. 혼자 짐을 지려는 장방이를 관리자가 돕고, 142년 희생자들(여풍의 부모 등)의 기록을 마주한다.
 - VII 「폐허의 연기」: 일행이 응룡 관문을 지나 북쪽 금지 구역으로 들어간다. 결과 진천우는 담검당 폐허에서 스승 축의 침식된 그림자와 맞서고, 결은 죄책감을 넘어선다. 대균열 중심부에서 파운데이션의 병사 [알레이크레오스](foundation.md#알레이크레오스)를 쓰러뜨리고 대균열 봉쇄 작전은 성공한다.
 - VIII 「심연을 떠나며」: 관리자가 초자연으로 입은 부상을 치료하려고 사의 그림 세계에 들어가, 과거의 자신과 마주한 뒤 제강호로 돌아온다. 줄거리는 [사의 그림](../content/si_painting.md), 제로번째 지령은 [미션 제로](zeroth_directive.md)에 있다.
@@ -325,6 +340,7 @@ Deep Vaulted Steel의 흐름은 다음과 같다(영어 텍스트).
 
 ## 히스토리
 
+- 2026-11-05: 무릉성 절에 무릉성 순찰대(하는 일, 확인된 대원, 수구의 희생과 철묘의 입대) 추가.
 - 2026-11-04: 청파채 절에 선조의 샘(중추 파일, 임무, 펠리카 통신), 수돈 절(장소, 수돈 내부, 잔영) 추가. 반항 이야기를 한국어 텍스트로 다시 옮기고 Hongshan Swordmancers·Bureau of Swordmancers를 선검국으로 고침.
 - 2026-11-03: 청파채 절에 세운 내력(중추 파일, 탕탕의 말, 무기 반항 이야기)과 염국과 이어지는 기록, 장검 골짜기 절 추가.
 - 2026-10-30: 북쪽 금지 구역 절(배경, 탐색, 구획, 담검당, 진뢰)과 청파채의 창적 절 추가.

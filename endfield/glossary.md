@@ -119,8 +119,9 @@ sources:
   - https://namu.wiki/w/명일방주:%20엔드필드/등장인물%20및%20세력 (해묵, 2026-10-25 수정본, CC BY-NC-SA 2.0 KR)
   - https://namu.wiki/w/명일방주:%20엔드필드/무기/권총 (반항·향수 설명문과 반항 이야기 한국어 텍스트, 2026-10-06 수정본, 2026-11-04 열람, CC BY-NC-SA 2.0 KR)
   - https://endfield.wiki.gg/wiki/Bureau_of_Swordmancers · Marker_Stone · Marker_Stone_Interiors · Æthillu · Patron_of_the_Spring_I · Du_Ming (2026-11-04 열람)
+  - https://endfield.wiki.gg/wiki/Wuling_Watchguards · Iron_Boatswain · Jia_Ban · Hongshan_Crater (2026-11-05 열람)
 created: 2026-10-12
-updated: 2026-11-04
+updated: 2026-11-05
 ---
 
 # 엔드필드 고유명사 표기 (ko/en/ja)
@@ -237,6 +238,9 @@ updated: 2026-11-04
 | 사사대 | — | — | 미확인 | 담 천사가 제안했다 거둔 사세대의 새 이름 |
 | 응룡 특수부대 | Yinglung Special Task Force (YSTF) | — | 2차 | 홍산 과학원 소속 부대 |
 | 무릉성 순찰대 | Wuling Watchguards | — | 2차 | 미브가 대장 |
+| 가반 | Jia Ban | — | 2차 | 무릉성 순찰대원. 수구가 대신 전사했다 |
+| 철묘 | Iron Boatswain | — | 2차 | 수구의 동생. 무릉성 순찰대 수습 대원 |
+| 홍산 1번 질량 가속기 | Hongshan-1 Mass Driver | — | 공식(ko) | 홍산 환형산의 매스 드라이버. ko는 무기 반항 이야기 한국어 텍스트 |
 | 금위군 | Imperial Guard | — | 미확인 | 명하의 소속. 탈로스 II의 금위군은 홍산 과학원 천사가 따로 편성 |
 | 염국 | Yan | — | 미확인 | 천사부가 있는 테라의 나라. [염국](world/yan.md). 명하 소개문의 한국어 텍스트가 '염국 금위군'으로 적는다 |
 | 정천도위 | Captain of Pacified Skies | — | 미확인 | 명하의 직함. ko는 나무위키에 옮겨진 명하 소개문 |
@@ -401,7 +405,7 @@ updated: 2026-11-04
 | 원 천사 | Tianshi Ruan | — | 공식(ko) | 무기 반항 이야기에서 홍산을 먼저 떠난 천사. ko는 무기 이야기 한국어 텍스트 |
 | 유 선생 | Old Liu | — | 공식(ko) | 무기 반항 이야기의 천사. 원 천사의 동창 |
 | — | Du Ming | — | 미확인 | 선조의 샘 임무의 청파채 청년 |
-| 수구 | — | — | 미확인 | 청파채 인물 |
+| 수구 | Rusty Hook | — | 2차 | 청파채 인물. 철묘의 형 |
 | 봉 | Summit | — | 미확인 | 응룡 특수부대 부대장. 본명 심교아. 결 파일 자료 1의 서명은 '대원' |
 | 언 | Phrase | — | 미확인 | 응룡 특수부대 대원 |
 | 축 / 축 교관 | Zhu / Instructor Zhu | — | 2차 | 담검당을 세운 응룡 특수부대 교관. 결·진천우의 스승. 고인 |
@@ -1219,6 +1223,7 @@ updated: 2026-11-04
 
 ## 히스토리
 
+- 2026-11-05: 무릉성 순찰대원 가반·철묘, 수구의 영어 표기, 홍산 1번 질량 가속기 추가.
 - 2026-11-04: 선검국, 잔영, 수돈 내부, 선조의 샘 임무 표기 추가. 청파채를 세운 천사를 무기 반항 한국어 텍스트대로 '원 천사'로 고침.
 - 2026-11-03: 베헤모스 심장, 장검 골짜기와 감시 의뢰의 장소, 청파채·수돈 인물 표기 추가.
 - 2026-11-02: 인두 지령, 객잔 가공 재료, 정천도위·문명 보존 협정 표기 추가.

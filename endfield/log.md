@@ -1,5 +1,7 @@
 # Arknights: Endfield — 변경 기록 (append-only, 최신이 위)
 
+- 2026-11-05 | ai | world/wuling.md·world/civilization_band.md·world/timeline.md·glossary.md·index.md·backlog.md | 무릉성 순찰대와 홍산 1번 질량 가속기를 채우고 가속기 습격 시점을 확인하지 못한 것으로 남김 | 정기 성장 작업, endfield.wiki.gg, 나무위키
+
 - 2026-11-04 | ai | world/factions.md·world/wuling.md·world/yan.md·glossary.md·index.md·backlog.md | 선검국, 선조의 샘 임무, 수돈과 수돈 내부·잔영을 채우고 반항 이야기를 한국어 텍스트로 다시 옮김 | 정기 성장 작업, endfield.wiki.gg, 나무위키
 
 - 2026-11-03 | ai | content/settlements.md·world/wuling.md·world/behemoth.md·world/yan.md·glossary.md·index.md·backlog.md | 감시 의뢰 32종, 청파채의 세운 내력, 장검 골짜기, 대사냥 기록과 베헤모스 심장을 채움 | 정기 성장 작업, endfield.wiki.gg, 나무위키
