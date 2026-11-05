@@ -12,7 +12,7 @@ sources:
   - https://namu.wiki/w/카치르
   - "user-feedback: 강제 띄우기·넘어뜨리기 방어 불능 스택 수 확정 사례(판 궁극기 2, 여풍 궁극기 2, 미브 궁극기 1) (Austin, 2026-10-19)"
 created: 2026-10-27
-updated: 2026-10-29
+updated: 2026-11-06
 ---
 
 # 포그라니치니크 파티
@@ -99,6 +99,7 @@ updated: 2026-10-29
 - 관리자 편성: 여풍이나 판 자리에 [관리자](../operators/endministrator.md). 관리자 배틀 스킬의 강타가 갑옷 파괴용 스택을 소모하므로 갑옷 파괴 뒤에만 쓴다.
 - 쇄빙 편성: 포그라니치니크 · 진천우 · [알레쉬](../operators/alesh.md) · [에스텔라](../operators/estella.md). [미브 파티](mi_fu_party.md)의 미브 자리에 포그라니치니크를 넣은 형태다.
 - 로시가 메인 딜러인 하이브리드 편성은 [로시 파티](rossi_party.md)에서 다룬다.
+- 명하 편성: 여풍 자리에 [명하](../operators/argent_flow.md)(명하 · 미브 · 진천우 · 포그라니치니크). 출시 직후 구상이라 [명하 파티](argent_flow_party.md#물리-파티-구상)에 둔다.
 
 ## 확인하지 못한 것
 

@@ -6,10 +6,11 @@ sources:
   - "user-feedback (Austin): 용어 확인(2026-10-12), 엔드필드 공업 인사 기록 '리컨비너' 전문을 공식 설정으로 제공(2026-10-14) (Slack)"
   - https://x.com/AKEndfieldKR/status/1987716843986112698 (펠리카 소개) · https://x.com/AKEndfieldJP/status/1987717096273231905 (ペリカ 소개) · https://x.com/AKEndfieldKR/status/1723898477787431216 (아겔로스 소개)
   - https://endfield.wiki.gg/wiki/Talos-II · Endfield
+  - https://namu.wiki/w/명일방주:%20엔드필드/무기/권총 (향수 이야기 한국어 텍스트, 2026-10-06 수정본, 2026-11-06 열람, CC BY-NC-SA 2.0 KR)
   - https://endfield.wiki.gg/wiki/Cosmic_Gate (2026-09-07 수정본)와 중추 파일 영어 텍스트 Nexus_Files:_Cosmic_Gate · Nexus_Files:_Terra · Nexus_Files:_Talos-II · Nexus_Files:_The_First_Aggeloi_War, 열람 조건은 Nexus_Files (2026-10-19 수정본)
   - https://namu.wiki/w/명일방주:%20엔드필드/설정 (2026-10-07 수정본, CC BY-NC-SA 2.0 KR) · https://namu.wiki/w/관리자(명일방주:%20엔드필드)
 created: 2026-10-12
-updated: 2026-11-01
+updated: 2026-11-06
 ---
 
 # 기본 설정
@@ -18,7 +19,7 @@ updated: 2026-11-01
 
 ## 탈로스2
 
-가스 거대 행성 탈로스의 두 번째 위성이다. 주민들은 흔히 행성처럼 부른다.
+가스 거대 행성 탈로스의 두 번째 위성이다. 주민들은 흔히 행성처럼 부른다. 탈로스2에는 달이 없고, 사람들이 '달'이라 부르는 것은 탈로스 I이다(6성 권총 향수의 이야기, [탈로스력 연표](timeline.md#치욕의-전쟁-전야-향수-이야기)).
 
 테라에서 온 개척자들이 여러 세대에 걸쳐 사람이 사는 지역인 문명 밴드를 세웠다. 테라와 잇던 [스타게이트](#스타게이트)가 무너져 개척자들은 아래 위협에 스스로 맞서 왔다.
 

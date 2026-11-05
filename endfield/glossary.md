@@ -67,7 +67,9 @@ sources:
   - https://endfield.wiki.gg/wiki/Triglava
   - https://endfield.wiki.gg/wiki/Yuanyuan_Manor_Inn
   - https://endfield.wiki.gg/wiki/Si
-  - https://endfield.wiki.gg/wiki/Argent_Flow
+  - https://endfield.wiki.gg/wiki/Argent_Flow (2026-11-05 수정본) · Lunar_Calling · Complexed_Industry · Home_Longing (언어 칸)
+  - https://www.gametoc.co.kr/news/articleView.html?idxno=112808 (우레 표기, 2026-11-06)
+  - https://endfield.wiki.gg/wiki/The_Traveler's_Guide_to_Talos-II/Marker_Stone (안사원·영수벽·Serenity Garden 영어 표기)
   - https://namu.wiki/w/명일방주:%20엔드필드/장비
   - https://endfield.wiki.gg/wiki/Gear
   - https://namu.wiki/w/명일방주:%20엔드필드/무기
@@ -121,7 +123,7 @@ sources:
   - https://endfield.wiki.gg/wiki/Bureau_of_Swordmancers · Marker_Stone · Marker_Stone_Interiors · Æthillu · Patron_of_the_Spring_I · Du_Ming (2026-11-04 열람)
   - https://endfield.wiki.gg/wiki/Wuling_Watchguards · Iron_Boatswain · Jia_Ban · Hongshan_Crater (2026-11-05 열람)
 created: 2026-10-12
-updated: 2026-11-05
+updated: 2026-11-06
 ---
 
 # 엔드필드 고유명사 표기 (ko/en/ja)
@@ -133,6 +135,7 @@ updated: 2026-11-05
 | 한국어 | English | 日本語 | 확인 | 메모 |
 |---|---|---|---|---|
 | 탈로스2 | Talos-II | タロⅡ | 공식 | 가스 거대 행성 탈로스의 두 번째 위성 |
+| 탈로스 I | Talos-I | — | 2차 | 탈로스2 하늘의 '달'. ko는 무기 향수 이야기 |
 | 탈로스 | Talos | タロ | 미확인 | 탈로스2가 도는 가스 거대 행성 |
 | 탈로스 V | Talos V | — | 미확인 | 탈로스의 다른 위성 |
 | 테라 | Terra | テラ | 2차 | 로도스 아일랜드가 활동하는 땅. 개척자들의 고향 |
@@ -339,7 +342,10 @@ updated: 2026-11-05
 | — | Ancient Sword Stele | — | 미확인 | 장검 골짜기의 장치 세 곳 |
 | 수돈 내부 | Marker Stone Interiors | 首礎内部 | 2차 | 수돈 안의 특수 구역. ko는 wiki.gg 언어 칸 |
 | — | Monitoring Center / Reservoir Station / Cloudrest Woods / Field Logistics Depot | — | 미확인 | 감시 의뢰에 나오는 무릉성·수돈의 장소 |
-| — | Watchtower Reservoir Station / Restricted Area / Lake Islet / Serenity Garden / Urban Development Hall / Security Section | — | 미확인 | 수돈의 장소 |
+| — | Watchtower Reservoir Station / Restricted Area / Lake Islet / Security Section | — | 미확인 | 수돈의 장소 |
+| 안사원 | Urban Development Hall | — | 미확인 | 수돈 북쪽의 기념관. ko는 나무위키의 수구 기록 |
+| 영수벽 | Eternal Wall | — | 미확인 | 안사원의 기념비. ko는 나무위키의 수구 기록 |
+| — | Serenity Garden / Merit Stones | — | 미확인 | 수돈 남쪽의 정원과 공적비 |
 | — | Patron of the Spring I~III | — | 미확인 | 선조의 샘 사이드 임무 |
 | 천사장 문서 기록관 / 천사장 연구소 | — | — | 미확인 | 수명의 구역 |
 | Waking Bell | Waking Bell | — | 미확인 | 수명성의 공공 경보 종. ko 미확인 |
@@ -665,6 +671,14 @@ updated: 2026-11-05
 | 명하 | Argent Flow | ミンホ | 2차 | zh 明河. 본명 야명하(Ye Minghe). 6성 전기 한손검 가드 |
 | 정천도위 | Captain of Pacified Skies | — | 미확인 | 명하의 직함 |
 | 노여 | Nuli | — | 미확인 | 명하의 갤럽비스트 |
+| 광휘의 잔재 | Dust Resplendent | — | 2차 | 명하 기본 공격 |
+| 그림자 제압 | Darkness Cowed | — | 2차 | 명하 배틀 스킬 |
+| 질주하는 천둥 | Bolt Rush | — | 2차 | 명하 연계 스킬 뒤 바뀌는 배틀 스킬 |
+| 별의 궤적 | Stars Shifted | — | 2차 | 명하 연계 스킬 |
+| 천공 가르기 | Heavens Sundered | — | 2차 | 명하 궁극기 |
+| 청명한 칼날 | Cleansing Cleave | — | 2차 | 명하 궁극기의 내려베기 |
+| 우레 | Sunderization | — | 미확인 | 명하가 감전과 함께 거는 표식. ko는 공식 콘텐츠 크리에이터 기사 |
+| — | Zenith of Voltmancy / Springvolt Galore | — | 미확인 | 명하 재능 |
 
 ## 전투
 
@@ -763,6 +777,8 @@ updated: 2026-11-05
 | 기질 | Essence | — | 미확인 | 무기 스킬 레벨을 올리는 장착물 |
 | 기질 식각 | — | — | 미확인 | 5성 기질 옵션 강화 |
 | 백야의 별 | White Night Nova | — | 2차 | 6성 한손검 |
+| 환월 | Lunar Calling | 問月 | 2차 | 6성 한손검. 명하 전용 |
+| 응집 공업 | Complexed Industry | 複合工業 | 2차 | 6성 한손검. 프로토콜 통행증 |
 | 위대한 이름 | Eminent Repute | — | 2차 | 6성 한손검 |
 | 테르밋 커터 | Thermite Cutter | — | 2차 | 6성 한손검 |
 | 부요 | Rapid Ascent* | — | 미확인 | 6성 한손검 |
@@ -814,7 +830,7 @@ updated: 2026-11-05
 | 예술의 폭군 | Artzy Tyrannical | — | 2차 | 6성 권총. 이본 전용 |
 | 반항 | Brigand's Calling* | — | 미확인 | 6성 권총. 탕탕 전용 |
 | 항로의 개척자 | Navigator* | — | 미확인 | 6성 권총 |
-| 향수 | Home Longing* | — | 미확인 | 6성 권총 |
+| 향수 | Home Longing | 望郷 | 2차 | 6성 권총. 프로토콜 통행증 |
 | 이성적인 작별 | Rational Farewell | — | 2차 | 5성 권총. 울프가드 전용 |
 | O.B.J. 벨로시투스 | OBJ Velocitous | — | 2차 | 5성 권총. 플루라이트 전용 |
 | 작품: 중생 | Opus: The Living | — | 2차 | 5성 권총 |
@@ -1223,6 +1239,7 @@ updated: 2026-11-05
 
 ## 히스토리
 
+- 2026-11-06: 명하 스킬·우레, 환월·응집 공업, 탈로스 I, 안사원·영수벽 추가. 향수 영어 표기 확정.
 - 2026-11-05: 무릉성 순찰대원 가반·철묘, 수구의 영어 표기, 홍산 1번 질량 가속기 추가.
 - 2026-11-04: 선검국, 잔영, 수돈 내부, 선조의 샘 임무 표기 추가. 청파채를 세운 천사를 무기 반항 한국어 텍스트대로 '원 천사'로 고침.
 - 2026-11-03: 베헤모스 심장, 장검 골짜기와 감시 의뢰의 장소, 청파채·수돈 인물 표기 추가.

@@ -1,7 +1,7 @@
 ---
 title: 무릉 (Wuling)
 type: guide
-aliases: [무릉, Wuling, 武陵, 무릉 과학 개발 구역, 무릉성, 무릉 대균열, 청파채, 수돈, 응룡 관문, 응룡 특수부대, Yinglung Special Task Force, 봉, Summit, 언, Phrase, 북쪽 금지 구역, North Wuling Exclusion Zone, 담검당, Tanjian Hall, 축 교관, Instructor Zhu, 진뢰, Blitzcrash, 창적, Cangzei Pirates, 이당가, Ruan Lin, 장검 골짜기, Sword Vault Dale, Deep Vaulted Steel, 침식 안개, Blight Miasma, 메인 스토리 2장, 수명, Suiming, 遂明, 여소귀, Yu Shigui, Bell of Recollection, Waking Bell, 선조의 샘, Ancestral Spring, Patron of the Spring, Du Ming, Marker Stone, 首礎, 수돈 내부, Marker Stone Interiors, 잔영, Æthillu, 원 천사, Tianshi Ruan, 무릉성 순찰대, Wuling Watchguards, 가반, Jia Ban, 철묘, Iron Boatswain, 수구, Rusty Hook]
+aliases: [무릉, Wuling, 武陵, 무릉 과학 개발 구역, 무릉성, 무릉 대균열, 청파채, 수돈, 응룡 관문, 응룡 특수부대, Yinglung Special Task Force, 봉, Summit, 언, Phrase, 북쪽 금지 구역, North Wuling Exclusion Zone, 담검당, Tanjian Hall, 축 교관, Instructor Zhu, 진뢰, Blitzcrash, 창적, Cangzei Pirates, 이당가, Ruan Lin, 장검 골짜기, Sword Vault Dale, Deep Vaulted Steel, 침식 안개, Blight Miasma, 메인 스토리 2장, 수명, Suiming, 遂明, 여소귀, Yu Shigui, Bell of Recollection, Waking Bell, 선조의 샘, Ancestral Spring, Patron of the Spring, Du Ming, Marker Stone, 首礎, 수돈 내부, Marker Stone Interiors, 잔영, Æthillu, 원 천사, Tianshi Ruan, 무릉성 순찰대, Wuling Watchguards, 가반, Jia Ban, 철묘, Iron Boatswain, 수구, Rusty Hook, 안사원, Urban Development Hall, 영수벽, Eternal Wall, Serenity Garden]
 sources:
   - https://namu.wiki/w/명일방주:%20엔드필드/지역 (수명·장검 골짜기·수돈 문단 포함, 2026-11-03 수정본, 2026-11-04 열람, CC BY-NC-SA 2.0 KR)
   - https://namu.wiki/w/명일방주:%20엔드필드/등장인물%20및%20세력 (청파채·봉·수구와 철묘 문단 포함, 2026-10-25 수정본, 2026-11-05 열람, CC BY-NC-SA 2.0 KR)
@@ -14,6 +14,7 @@ sources:
   - https://endfield.wiki.gg/wiki/Qingbo_Stockade (중추 파일 '청파채'와 2장 Ⅲ 탕탕 대사 인용, 2026-10-01 수정본) · Qingbo_Stockade_(location) (2026-09-10 수정본)
   - https://namu.wiki/w/명일방주:%20엔드필드/무기/권총 (반항 이야기 한국어 텍스트, 2026-10-06 수정본, 2026-11-04 열람, CC BY-NC-SA 2.0 KR)
   - https://endfield.wiki.gg/wiki/Nexus_Files:_Ancestral_Spring (2026-04-26 수정본) · Patron_of_the_Spring_I · Patron_of_the_Spring_II · Patron_of_the_Spring_III (2026-06-07 수정본) · Perlica/Baker ("Ancestral Spring and Qingbo", 2026-06-29 수정본), 2026-11-04 열람
+  - https://endfield.wiki.gg/wiki/The_Traveler's_Guide_to_Talos-II/Marker_Stone (공식 X 게시 2026-03-06의 영어 텍스트, 2026-09-01 수정본) · Rusty_Hook (2026-07-30 수정본) · Comrades:_Remembrance, 2026-11-06 열람
   - https://endfield.wiki.gg/wiki/Marker_Stone (2026-09-10 수정본) · Marker_Stone_Interiors (2026-09-26 수정본) · Æthillu (2026-10-22 수정본) · Photo:_The_Floating_"Æthillu" (2026-07-20 수정본), 2026-11-04 열람
   - https://endfield.wiki.gg/wiki/Sword_Vault_Dale (2026-09-12 수정본) · Deep_Vaulted_Steel (2026-06-22 수정본)
   - https://endfield.wiki.gg/wiki/Enemy (창적 정의)
@@ -39,7 +40,7 @@ sources:
   - https://gamewith.net/akendfield/73207 (영문 챕터명)
   - https://appmedia.jp/?p=79690247 (일본어 지명)
 created: 2026-10-18
-updated: 2026-11-05
+updated: 2026-11-06
 ---
 
 # 무릉 (Wuling)
@@ -123,7 +124,7 @@ updated: 2026-11-05
 | 철묘 | Iron Boatswain | 수구의 동생. 본명 강정무. 형이 죽은 뒤 무릉으로 돌아와 순찰대에 입대했다. endfield.wiki.gg의 직급 표기는 수습 대원(Trainee Watchguard) |
 | 봉의 동생 | — | [봉](#대원)이 입양한 동생. 이름은 확인하지 못함 |
 
-수구(본명 강정구)와 철묘 형제는 공부가 싫어 무릉을 떠나 청파채에 들어갔었다. 관리자, 미브, 철묘가 실종된 수구를 찾다가 사정을 알게 되었고, 미브는 수구의 본명과 별호를 안사원의 영수벽에 새겨 무릉의 영웅으로 남겼다.
+수구(본명 강정구)와 철묘 형제는 공부가 싫어 무릉을 떠나 청파채에 들어갔었다. 관리자, 미브, 철묘가 실종된 수구를 찾다가 사정을 알게 되었고, 미브는 수구의 이름을 [안사원의 영수벽](#안사원과-serenity-garden)에 새겨 무릉의 영웅으로 남겼다. 새긴 이름을 나무위키는 본명과 별호로, endfield.wiki.gg는 본명 강정구로 적는다.
 
 endfield.wiki.gg 명단에는 여풍도 수습 대원으로 올라 있고, 그 밖에 Huang Di, Ji Bing, Lan Shan, Li Liangliang, Li Zhui, Liu, Ren Zhenyun, Yan Lin, Yu Shi, Zuo Guyan이 대원으로 적혀 있다. 여풍이 순찰대 소속이라는 게임 안 기록은 확인하지 못했다.
 
@@ -205,7 +206,15 @@ endfield.wiki.gg 명단에는 여풍도 수습 대원으로 올라 있고, 그 �
 
 수돈(영어 Marker Stone, 일본어 首礎)은 143년에 세운 첫 천사장이자 무릉성의 근간이 되는 가장 큰 천사장이고, 이를 둘러싼 지역이 1.2 버전(봄날의 새벽)에 무릉의 네 번째 지역으로 열렸다. 북쪽으로 무릉성, 동쪽으로 경옥 골짜기와 이어지고, 처음에는 무릉성 남쪽 능수길로 들어간다. 메인 스토리 2장 Ⅳ 대부분이 여기서 벌어진다. 거점은 심장 수복실이고([거점과 지역 개발](../content/settlements.md)), 안쪽의 베헤모스 심장은 [베헤모스와 쉐이](behemoth.md#베헤모스-심장)에 있다. 중앙 섬의 위아래는 메인 스토리를 진행해 다리가 복구되면 들어간다. 과활성 침식과 수집 요소 수는 [탐색 컨텐츠](../content/exploration.md)에 있다.
 
-endfield.wiki.gg에 실린 장소는 Watchtower Reservoir Station, Restricted Area, Cloudrest Woods, Lake Islet, Serenity Garden, Urban Development Hall이고 설명은 비어 있다. 감시 의뢰에는 Reservoir Station 사람들이 만든 식물 관찰소, 고장 난 Serenity Garden의 천사장, Cloudrest Woods 생태 구역, Urban Development Hall 근처의 수온 조절기, Security Section 근처 연못이 나온다([거점과 지역 개발](../content/settlements.md#의뢰-목록)).
+endfield.wiki.gg에 실린 장소는 Watchtower Reservoir Station, Restricted Area, Cloudrest Woods, Lake Islet, Serenity Garden, Urban Development Hall이다. 안사원(Urban Development Hall)과 Serenity Garden은 [아래](#안사원과-serenity-garden)에 있고, 나머지는 설명이 비어 있다. 감시 의뢰에는 Reservoir Station 사람들이 만든 식물 관찰소, 고장 난 Serenity Garden의 천사장, Cloudrest Woods 생태 구역, Urban Development Hall 근처의 수온 조절기, Security Section 근처 연못이 나온다([거점과 지역 개발](../content/settlements.md#의뢰-목록)).
+
+### 안사원과 Serenity Garden
+
+공식 X 계정의 「탈로스 II 여행 가이드」 수돈 편(무릉 여행사 발행, 2026-03-06 게시, 영어 텍스트)이 수돈 북쪽과 남쪽의 기념 장소를 소개한다.
+
+- 안사원(Urban Development Hall): 수돈 북쪽. 무릉을 세운 일과 무릉성을 위해 목숨을 바친 영웅을 기리려고 지었다. 무릉을 세울 때는 북쪽 금지 구역, 대균열, 아겔로스, 무릉 연구 기지가 실패할 위험과 맞서야 했다. 안에는 무릉 건설기의 역사 문서와 기념품이 있고, 바깥벽에는 첫 천사장 수돈이 올라가는 단계별 사진(수돈 건설 기록)이 걸려 있다. 학생 단체 견학이 잦다.
+- 영수벽(Eternal Wall): 안사원의 기념비. 수돈 기초에 쓰고 남은 식양 재료로 만들었고, 출신을 가리지 않고 무릉성에 기여한 모든 사람의 이름을 새긴다. 미브가 수구의 이름을 새긴 곳이다([무릉성 순찰대](#무릉성-순찰대)). 임무 Comrades: Remembrance가 영수벽으로 가는 임무다.
+- Serenity Garden: 수돈 남쪽의 작은 땅에 천사장 하나와 Merit Stones라 부르는 석판들이 있다. 석판에는 큰 공을 세운 사람의 이름과 생애를 새기며, 무릉 연구 기지·무릉성·수돈을 지은 사람과 식양 연구자의 이름이 올라 있다. 사람들은 꽃을 두고 가며 오래 머물지 않는다. 감시 의뢰의 고장 난 천사장이 이곳에 있다.
 
 ### 수돈 내부
 
@@ -334,12 +343,14 @@ Deep Vaulted Steel의 흐름은 다음과 같다(영어 텍스트).
 - 수명 임무 「Bell of Recollection」, 의뢰인 Shang Jin, 종 Waking Bell, Citizen Square의 한국어 표기. 수명성 이야기(누가 왜 종을 고치려 했는지, 도시가 어떻게 잠겼는지)의 게임 안 대사.
 - 중추 파일 '청파채'의 한국어 텍스트. 반항 이야기의 블랙홀 프로토콜이 무엇인지는 그 이야기 안에서도 밝혀지지 않는다. 원 천사가 탕탕 파일 자료의 Ruan Lin이나 원일의 집안과 이어지는지도 기록이 없다.
 - 중추 파일 '선조의 샘', Patron of the Spring 임무, Du Ming의 한국어 표기와 임무 대사. 기계 봉인을 청한 주민이 Du Ming인지는 중추 파일에 이름이 없다.
-- 수돈 장소(Watchtower Reservoir Station, Restricted Area, Cloudrest Woods, Lake Islet, Serenity Garden, Urban Development Hall, Security Section)의 한국어 표기와 설명. 감시 의뢰의 Reservoir Station이 Watchtower Reservoir Station과 같은 곳인지.
+- 수돈 장소(Watchtower Reservoir Station, Restricted Area, Cloudrest Woods, Lake Islet, Serenity Garden, Security Section)의 한국어 표기와 설명. Merit Stones와 임무 Comrades: Remembrance의 한국어 표기.
+- 안사원 = Urban Development Hall, 영수벽 = Eternal Wall은 수구의 이름을 새긴 곳을 나무위키와 endfield.wiki.gg가 같은 일로 적어 짝지었다. 게임 안 한국어 표기로는 확인하지 못했다. 감시 의뢰의 Reservoir Station이 Watchtower Reservoir Station과 같은 곳인지.
 - 잔영의 한국어 설명문과 감시 의뢰 문구.
 - Deep Vaulted Steel, Lian Xiaowu, Walton, Ancient Sword Stele, Chi Xiao의 한국어 표기. 이 Walton이 [문명 보존 협정](yan.md#장검-골짜기의-비밀-금고)의 Columbia 대표 Dr. Indy Walton과 어떤 관계인지.
 
 ## 히스토리
 
+- 2026-11-06: 수돈 절에 안사원·영수벽·Serenity Garden 추가.
 - 2026-11-05: 무릉성 절에 무릉성 순찰대(하는 일, 확인된 대원, 수구의 희생과 철묘의 입대) 추가.
 - 2026-11-04: 청파채 절에 선조의 샘(중추 파일, 임무, 펠리카 통신), 수돈 절(장소, 수돈 내부, 잔영) 추가. 반항 이야기를 한국어 텍스트로 다시 옮기고 Hongshan Swordmancers·Bureau of Swordmancers를 선검국으로 고침.
 - 2026-11-03: 청파채 절에 세운 내력(중추 파일, 탕탕의 말, 무기 반항 이야기)과 염국과 이어지는 기록, 장검 골짜기 절 추가.
