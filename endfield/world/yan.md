@@ -6,12 +6,12 @@ sources:
   - https://endfield.wiki.gg/wiki/Nexus_Files:_Yan (중추 파일 '염국' 영어 텍스트, 2026-11-02 열람)
   - https://endfield.wiki.gg/wiki/Nexus_Files:_Hongshan_Academy_of_Sciences_(HAS) · Hongshan_Academy_of_Sciences (2장 Ⅶ 인용과 Chat Records: History Enthusiast 인용), 2026-11-02 열람
   - https://endfield.wiki.gg/wiki/Nexus_Files:_Sword_Vault_Dale (열람 조건 포함) · Civilization_Preservation_Agreement (전자 파일 본문), 2026-11-02 열람
-  - https://endfield.wiki.gg/wiki/Perlica/Baker (BAKER 통신 "Ancestral Spring and Qingbo"·"Wuling and Burdenbeast" 영어 텍스트, 2026-11-02 열람)
+  - https://endfield.wiki.gg/wiki/Nexus_Files:_Ancestral_Spring (중추 파일 '선조의 샘' 영어 텍스트, 2026-04-26 수정본, 2026-11-04 열람)
   - https://endfield.wiki.gg/wiki/Argent_Flow (2026-10-19 수정본)
   - https://namu.wiki/w/명하(명일방주:%20엔드필드) (명하 소개문 한국어 텍스트, 2026-10-30 수정본, 2026-11-02 열람, CC BY-NC-SA 2.0 KR)
   - https://namu.wiki/w/명일방주:%20엔드필드/지역 (장검 골짜기 문단, 2026-11-02 수정본, CC BY-NC-SA 2.0 KR)
 created: 2026-11-02
-updated: 2026-11-03
+updated: 2026-11-04
 ---
 
 # 염국 (Yan)
@@ -60,14 +60,14 @@ endfield.wiki.gg는 2장 Ⅶ을 근거로, 과학원이 테라와의 정치적 �
 
 ### 청파채
 
-청파채의 수원 선조의 샘 깊은 곳에는 염국 천사가 남긴 장치가 있다. 관리자는 거의 물의 운동 에너지만으로 돌아가는 설계라며 감탄하고, 펠리카는 백여 년 전에 이미 이런 설계가 있었다는 데 놀란다(펠리카 BAKER 통신 "Ancestral Spring and Qingbo", 영어 텍스트). 청파채의 내력은 [무릉](wuling.md)에 있다.
+청파채의 수원 선조의 샘 바닥에는 백여 년 전 염국 천사들이 설치한 관개 기계가 있어 지하수에서 침식을 걸러 왔다. 기계와 봉인 경위는 [무릉](wuling.md#선조의-샘), 청파채의 내력은 [무릉](wuling.md#세운-내력)에 있다.
 
 ## 확인하지 못한 것
 
 - 중추 파일 '염국'·'장검 골짜기'의 한국어 텍스트, '염국' 파일의 열람 조건. True Lung, Imperial Astronomers, 여섯 부의 한국어 게임 표기. 위 본문의 '예부와 공부'는 영어 텍스트를 옮긴 것이다.
 - 홍산 과학원이 스스로를 염국의 몇 번째 구역이라 부르는지. endfield.wiki.gg는 2장 Ⅶ을 근거로 스물두 번째 행정 구역, 나무위키는 13번째 주로 적는다. 2장 Ⅶ의 원문은 확인하지 못했다.
 - 탈로스2 금위군의 편성. 나무위키 명하 문서는 탈로스2의 금위군이 정식 금위군이 아니라 홍산 과학원의 수석 천사가 따로 편성한 것이고 테라의 금위군은 아무도 넘어오지 않았다고 적지만 근거를 밝히지 않는다. 중추 파일은 규모가 작고 임무와 구성이 바뀌었다고만 적는다. '대염'은 장방이 BAKER 통신의 영어 Great Yan을 옮긴 표기다.
-- 청파채 사람들이 염국에서 왔는지. endfield.wiki.gg 편집자는 염국 천사의 장치와 구전 기술을 근거로 그렇게 추정한다. 청파채를 세운 완이 천사부의 천사였다는 기록은 있지만([무릉](wuling.md#세운-내력)), 함께 떠난 사람들이 어디 출신인지 적은 게임 기록은 찾지 못했다.
+- 청파채 사람들이 염국에서 왔는지. endfield.wiki.gg 편집자는 염국 천사의 장치와 구전 기술을 근거로 그렇게 추정한다. 무기 반항 이야기에서 화자 일행을 청파로 이끈 원 천사가 천사부의 천사였다는 기록은 있지만([무릉](wuling.md#세운-내력)), 함께 떠난 사람들이 어디 출신인지 적은 게임 기록은 찾지 못했다.
 - 장검 골짜기 금고를 지은 해. 나무위키 지역 문서는 100여 년 전으로, 중추 파일은 1차 전쟁이 터진 뒤 침식에 묻혔다고만 적는다.
 - 문명 보존 협정 서명자들의 한국어 표기.
 

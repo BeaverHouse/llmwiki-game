@@ -4,21 +4,19 @@
 
 ## 다음 작업
 
-- 명하 | operators/argent_flow.md | 2026-11 초 출시 예정(유지보수자 확인). 수치가 공개된 뒤 쓴다. 2026-11-03 기준 나무위키는 기본 공격 배율과 육성 재료, 배틀 스킬 그림자 제압(연계 스킬 뒤 질주하는 천둥으로 바뀌어 전기 부착을 소모하고 높은 등급 감전과 방어 불능 1스택)·연계 스킬 별의 궤적(방어 불능인 적에게 발동)·궁극기 천공 가르기의 설명만 있고 스킬 배율·재능·잠재능력이 비어 있다. endfield.wiki.gg는 아직 출시 예정 문서다. AppMedia에 성능 문서가 있다(미열람). 영어 코드네임 Argent Flow, 본명 야명하 | 나무위키 「명하(명일방주: 엔드필드)」, endfield.wiki.gg Argent_Flow, appmedia.jp 명하(ミンホ) 성능 문서
-- 선검국 | world/wuling.md 홍산 과학원 절 | 장검 골짜기 임무를 내는 무릉성의 Bureau of Swordmancers, 반항 설명문과 응룡 선발의 Hongshan Swordmancers. 같은 기관인지, 하는 일, 한국어 표기 | endfield.wiki.gg Bureau_of_Swordmancers·Hongshan_Swordmancers, 나무위키 「/등장인물 및 세력」
-- 선조의 샘 임무 | world/wuling.md 청파채 절 | 샘 아래 염국 장치를 찾은 Patron of the Spring I~III와 Du Ming, 펠리카가 말한 샘에 기대지 않는 청파채 | endfield.wiki.gg Patron_of_the_Spring_I~III, Perlica/Baker "Ancestral Spring and Qingbo"
-- 수돈 안쪽 구역 | world/wuling.md 하위 지역 | 감시 의뢰와 베헤모스 심장 절이 가리키는 Reservoir Station, Serenity Garden(새겨진 이름), Cloudrest Woods, Security Section, Urban Development Hall | endfield.wiki.gg Marker_Stone·Marker_Stone_Interiors, 나무위키 「/지역」
-- Æthillu | world/aggeloi_and_blight.md | 수돈 내부에 떠다니는 에테르 존재(감시 의뢰). 정체와 심도와의 관계 | endfield.wiki.gg Æthillu, Photo:_The_Floating_"Æthillu"
+- 명하 | operators/argent_flow.md | 2026-11 초 출시 예정(유지보수자 확인). 수치가 공개된 뒤 쓴다. 2026-11-05 기준 나무위키(2026-11-04 수정본)는 기본 공격 배율과 육성 재료, 배틀 스킬 그림자 제압(연계 스킬 뒤 질주하는 천둥으로 바뀌어 전기 부착을 소모하고 높은 등급 감전과 방어 불능 1스택)·연계 스킬 별의 궤적(방어 불능인 적에게 발동)·궁극기 천공 가르기의 설명만 있고 스킬 배율·재능·잠재능력이 비어 있다. endfield.wiki.gg는 아직 출시 예정 문서다. AppMedia에 성능 문서가 있다(미열람). 영어 코드네임 Argent Flow, 본명 야명하 | 나무위키 「명하(명일방주: 엔드필드)」, endfield.wiki.gg Argent_Flow, appmedia.jp 명하(ミンホ) 성능 문서
+- 향수 이야기와 치욕의 전쟁 전야 | world/timeline.md 17년 줄 | 6성 권총 향수(Home Longing)의 이야기가 '치욕의 전쟁 발발 전야, 어느 천사의 일기'로 끝나고 천사부가 염국 명절을 탈로스2에 들여온 일과 유랑자 캠프의 충돌을 적는다. 치욕의 전쟁 직전의 천사부를 보여 주는 게임 기록 | 나무위키 「명일방주: 엔드필드/무기/권총」, endfield.wiki.gg Home_Longing
+- 안사원과 영수벽 | world/wuling.md 하위 지역 또는 무릉성 절 | 미브가 수구의 본명과 별호를 새겨 무릉의 영웅으로 남긴 곳. 위치와 다른 이름이 새겨진 내력 | endfield.wiki.gg 검색, 나무위키 「명일방주: 엔드필드/지역」
 
 ## 확인 필요
 
 [AGENTS.md](../AGENTS.md) 6절에 맞는 질문만 둔다.
 
-- 게임 화면의 한국어 표기: 감시 시설(Environment Monitoring)과 생태 개요, 탄력 수요 물자가 '탄력 수요 물자'인지 '변동 수요 물자'인지, 물자 관리 단말기의 Lucky Carrot. 응룡 특수부대의 봉이 부대장인지(결 파일 자료 1의 서명은 '대원'). 답이 없으면 영어 표기와 양쪽 서술을 그대로 둔다(2026-11-03까지).
-- 2장 Ⅶ에서 홍산 과학원이 스스로를 염국의 몇 번째 구역이라 부르는지(스물두 번째 행정 구역인지 13번째 주인지). 답이 없으면 염국 문서에 양쪽 서술을 그대로 둔다(2026-11-04까지).
-- 친구 제강호에서 탄력 수요 물자를 팔 때 파는 쪽이 받는 크레딧, 함선 주인 쪽 60이 한 번에 받는 양인지 하루 상한인지. 답이 없으면 하루 상한 60, 파는 쪽 양은 확인하지 못함으로 둔다(2026-11-04까지).
-
 ## 완료
+
+- 2026-11-05: world/wuling.md 무릉성 순찰대(가반·철묘·봉의 동생, 수구의 희생), world/civilization_band.md 홍산 환형산의 매스 드라이버와 홍산 1번 질량 가속기, world/timeline.md 습격 시점을 확인하지 못한 것으로. 여풍은 endfield.wiki.gg 명단에만 수습 대원으로 있어 게임 기록으로 확인하지 못한 것으로 둠. 블랙홀 프로토콜은 엔드필드 게임 안 기록에서 설명을 찾지 못해 넣지 않음. 홍산 과학원의 염국 구역 번호와 탄력 수요 물자 크레딧은 답 기한이 지나 양쪽 서술과 하루 상한 60을 유지. 명하는 스킬 배율이 아직 비어 있어 남김
+
+- 2026-11-04: world/factions.md 선검국(Bureau of Swordmancers와 Hongshan Swordmancers는 같은 기관이고, 무기 설명문 한국어는 '홍산 선검국'), world/wuling.md 선조의 샘 임무·수돈과 수돈 내부·잔영(Æthillu). 잔영은 수돈에만 나오는 적이라 아겔로스와 침식 문서 대신 무릉 문서의 수돈 절에 둠. 반항 이야기의 한국어 텍스트를 찾아 '완'을 '원 천사'로 고침. 수돈 장소는 한국어 표기와 설명을 찾지 못해 영어 이름만 둠. 감시 시설·생태 개요·탄력 수요 물자·Lucky Carrot 표기와 봉의 직위는 답 기한이 지나 영어 표기와 양쪽 서술을 유지. 명하는 스킬 배율이 아직 비어 있어 남김
 
 - 2026-11-03: content/settlements.md 감시 의뢰 32종과 생태 개요 보상, world/wuling.md 청파채의 세운 내력과 장검 골짜기, world/behemoth.md 대사냥 기록과 베헤모스 심장. 장검 골짜기 금고 서술은 이미 염국 문서에 있어 무릉 문서에는 지형과 임무만 둠. 무릉 하위 지역 표의 '약 100년 전'은 출처 표현대로 '100여 년 전'으로 고침. 궁술 훈련 시설 표기와 단서 크레딧은 답 기한이 지나 영어 표기와 25·15·5를 유지. 명하는 스킬 배율이 아직 비어 있어 남김
 

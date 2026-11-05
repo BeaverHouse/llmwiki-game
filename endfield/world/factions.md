@@ -1,7 +1,7 @@
 ---
 title: 세력 (Factions)
 type: guide
-aliases: [세력, 진영, 문명 밴드, Civilization Band, 文明地帯, 밴드 협약, Band Accord, U3, 연맹 공단, UWST, 탈로스 II 상업연합회, TGCC, 홍산 과학원, HAS, 철의 서약군, Order of Steel Oath, 고요한 수도회, Cabal of Tranquility, 静語伝道会, 진리, Veritas, 베리타스, 회화파, Sessionites, 해석파, Veritarites, 재현파, Resurgonites, 세 수사의 비유, 만물의 대지, Hannabit Circuit, 세쉬카, Seš'qa, セシュカ, 생명의 척추, 라이프 스파인, Lifebone, 의장, Speaker, 수호자, Agaš'mekanaz, Keeper of Wisdom, 주술 타임, Witching Hour, 巫术时刻, 오픈 데이, Open Day, 유랑자 대모험, Errant's Grand Adventure, 제왕정의 행진, 왕정 연합 행진, Parade of the Royal Courts, 사미베르그, 랜드브레이커, Landbreaker, 울프팀, The Pack, 사막 도적, Sandreavers, 자유시, 탈로스 성, 라반도르마, 매츠 크로, 크로, Matz Crowe, Crowe, 인두 지령, Utjug Order, 인두 발신기, Utjug Signal Emitter, 플레밍, Fleming, 교량 건설자, Bridge Builder, 나흐체러르, Nachzehrer, 전투 왕정, War Court, 네츠살렘, Nezzsalem]
+aliases: [세력, 진영, 문명 밴드, Civilization Band, 文明地帯, 밴드 협약, Band Accord, U3, 연맹 공단, UWST, 탈로스 II 상업연합회, TGCC, 홍산 과학원, HAS, 선검국, 홍산 선검국, Bureau of Swordmancers, Hongshan Swordmancers, HS.Swords, 철의 서약군, Order of Steel Oath, 고요한 수도회, Cabal of Tranquility, 静語伝道会, 진리, Veritas, 베리타스, 회화파, Sessionites, 해석파, Veritarites, 재현파, Resurgonites, 세 수사의 비유, 만물의 대지, Hannabit Circuit, 세쉬카, Seš'qa, セシュカ, 생명의 척추, 라이프 스파인, Lifebone, 의장, Speaker, 수호자, Agaš'mekanaz, Keeper of Wisdom, 주술 타임, Witching Hour, 巫术时刻, 오픈 데이, Open Day, 유랑자 대모험, Errant's Grand Adventure, 제왕정의 행진, 왕정 연합 행진, Parade of the Royal Courts, 사미베르그, 랜드브레이커, Landbreaker, 울프팀, The Pack, 사막 도적, Sandreavers, 자유시, 탈로스 성, 라반도르마, 매츠 크로, 크로, Matz Crowe, Crowe, 인두 지령, Utjug Order, 인두 발신기, Utjug Signal Emitter, 플레밍, Fleming, 교량 건설자, Bridge Builder, 나흐체러르, Nachzehrer, 전투 왕정, War Court, 네츠살렘, Nezzsalem]
 sources:
   - https://namu.wiki/w/명일방주:%20엔드필드/등장인물%20및%20세력 (세쉬카 문단과 무기 '붉게 물든 가호' 이야기 한국어 텍스트 포함, 2026-10-25 수정본, CC BY-NC-SA 2.0 KR)
   - https://namu.wiki/w/명일방주:%20엔드필드/설정 (역사 문단, 2026-10-07 수정본, CC BY-NC-SA 2.0 KR)
@@ -37,8 +37,10 @@ sources:
   - https://endfield.wiki.gg/wiki/Nexus_Files:_Utjug_Order (중추 파일 '인두 지령' 영어 텍스트) · Utjug_Signal_Emitter · Authorization_Keycard (아이템 설명과 한국어 칸) · Scaldings_of_Utjug (임무 목표) · Perlica/Baker (BAKER 통신 "Utjug Order" 영어 텍스트), 2026-11-02 열람
   - https://endfield.wiki.gg/wiki/Yvonne/File (2026-09-02 수정본) · Yvonne/Dialogue (2026-09-08 수정본)
   - https://wiki.biligame.com/zmd/伊冯 (중국어 인사 요약서, 2026-05-15 수정본)
+  - https://endfield.wiki.gg/wiki/Bureau_of_Swordmancers (중추 파일 '선검국' 영어 텍스트와 제품 목록, 2026-06-16 수정본, 2026-11-04 열람)
+  - https://namu.wiki/w/명일방주:%20엔드필드/무기/권총 (반항·향수 설명문 한국어 텍스트, 2026-10-06 수정본, 2026-11-04 열람, CC BY-NC-SA 2.0 KR)
 created: 2026-10-21
-updated: 2026-11-02
+updated: 2026-11-04
 ---
 
 # 세력 (Factions)
@@ -120,6 +122,38 @@ TA-TA 개발에 크로가 맡은 몫은 출처마다 다르다([TA-TA 프로토�
 - 정예 부대 [응룡 특수부대](wuling.md#응룡-특수부대)를 둔다.
 - 무릉 과학 개발 구역(무릉성)과 그 바깥의 청파채는 [무릉](wuling.md)에 있다.
 - 소속 오퍼레이터: [여풍](../operators/lifeng.md), [판](../operators/da_pan.md), [장방이](../operators/zhuang_fangyi.md), [미브](../operators/mi_fu.md), [결](../operators/arcane.md), [사](../operators/si.md).
+
+### 선검국
+
+선검국(영어 Bureau of Swordmancers, 다른 이름 Hongshan Swordmancers·HS.Swords)은 홍산 과학원이 직접 관리하는 연구·생산 기관이다. 무기 설명문의 한국어 표기는 '홍산 선검국'이다(반항, 향수). 중추 파일 '선검국'(영어 텍스트)의 내용은 다음과 같다.
+
+- 홍산 과학원과 문명 밴드 전체에 공급할 경·중장비와 무기를 연구·개발·생산한다. 홍산 과학원 산하 지역 분소의 생산을 관리하면서 생산 설계도를 심사·배포하고, 만든 장비의 최종 품질 검증도 맡는다.
+- 탈로스2의 스타게이트를 잃은 뒤 제1차 아겔로스 전쟁에서 인류가 크게 밀리자, 이를 메우려고 세웠다. 아겔로스에 맞설 무기와 장비 연구에 힘을 쏟았고, 테라 여러 나라에서 온 군인들의 요구에 맞춰 여러 규격의 장비를 만들었다. 전쟁 때 만든 낡은 장비 상당수에 지금도 'Manufactured by the Bureau of Swordmancers'가 새겨져 있다.
+- 지금도 홍산 과학원 인원이 가장 먼저 고르는 무기와 장비이고, 문명 밴드 시장에서도 평이 좋다.
+
+무릉성에도 선검국이 있어, 사이드 임무 Deep Vaulted Steel의 의뢰가 여기서 나온다([무릉](wuling.md#장검-골짜기)). 응룡 선발의 아츠 정밀도 평가에 쓰는 식양 부품 아츠 유닛도 선검국이 무릉용으로 개발했다([무릉](wuling.md#선발)).
+
+설명문이 선검국 제품으로 적는 무기와 장비는 아래와 같다. 성능은 [무기](../systems/weapons.md)와 [장비 세트](../systems/gear_sets.md)에 있다.
+
+| 종류 | 이름 | 설명문의 선검국 관련 내용 |
+|---|---|---|
+| 양손검 | 적영 (Amaranthine Tassel) | 설계와 생산에 10년이 걸린 중무기의 본보기 |
+| 양손검 | 고대의 강줄기 (Ancient Canal) | 다른 양손검보다 가볍다 |
+| 양손검 | 검은 추적자 (Seeker of Dark Lung) | 표준 양손검. 새 특수 코팅을 입혔다 |
+| 한손검 | 숭배의 시선 (Aspirant) | 선검국의 1세대 무기이고, 시장에서 꽤 인기를 끈 유일한 제품이다. 황야에서 복제품이 많이 발견된다 |
+| 한손검 | 부요 (Rapid Ascent) | 뛰어난 사람에게 상으로 주는 고급 장식 검. 이름은 홍산 과학원 내부 투표로 정했다 |
+| 장병기 | 산의 지배자 (Mountain Bearer) | 실험용 창. 자루를 특수 합금으로 단조했다 |
+| 권총 | 반항 (Brigand's Calling) | 디자인은 간단하지만 재료가 탄탄하고 휴대가 편하다 |
+| 권총 | 향수 (Home Longing) | 홍산 과학원 무장 부대의 기본 방침에 맞춰 무게를 줄이고 그립감을 다듬었다 |
+| 아츠 유닛 | 고독한 나룻배 (Lone Barge) | 새 식양 합금을 과감하게 넣어 시전 효율이 높지만 다루기 어렵다 |
+| 아츠 유닛 | 무가내하 (Monaihe) | 식양으로 만들었다. 재료가 변덕스러워 집중력과 정밀도가 아주 높은 사람만 제대로 쓴다 |
+| 장비 세트 | 검술사 (Swordmancer) | 선검국 초기 판매품 |
+| 장비 세트 | 고검의 잔향 (Grizzled Edge) | 잃어버린 기술 설계 문서를 연구해 만든 다기능 방어 장비 |
+| 장비 세트 | 조류의 물결 (Tide Surge) | 침식 조류 근처에서 일하는 사람용 |
+| 장비 세트 | 응룡 50식 (Type 50 Yinglung) | 응룡 특수부대 장비의 민간판. 중요한 동력 부품이 빠져 일반 사용자와 오히려 잘 맞는다 |
+| 장비 세트 | 식양의 흐름 (Xiranflow) | 무릉성 순찰대용으로 제안된 실험 장비 |
+| 장비 세트 | 식양의 숨결 (Eternal Xiranite) | '미친' 천사의 유산 |
+| 세트 없는 장비 | 위기 탈출 (Redeemer) 계열 | — |
 
 ## 철의 서약군
 
@@ -317,9 +351,11 @@ TA-TA 개발에 크로가 맡은 몫은 출처마다 다르다([TA-TA 프로토�
 - 중추 파일 '고요한 수도회'의 한국어 텍스트와 열람 조건, 세 교파의 일본어 표기, 「작품: 중생」·「선교의 자유」 이야기의 한국어 텍스트.
 - 자이히를 제강호로 보낸 원장. 자이히 파일 자료 3(영어)은 플론다가 추천했다고 적고, 파일 자료 4의 일기(영어)는 원장 Mumu가 보냈다고 적는다. 한국어 텍스트는 두 곳 모두 '원장님'이다.
 - endfield.wiki.gg 정보 상자는 세쉬카의 한국어 표기를 '세슈카'로 적지만, 확인한 한국어 게임 텍스트는 모두 '세쉬카'로 적는다.
+- 중추 파일 '선검국'의 한국어 텍스트와 열람 조건. 반항·향수 말고 선검국 제품 설명문의 한국어 텍스트. 무릉성 선검국이 지역 분소인지.
 
 ## 히스토리
 
+- 2026-11-04: 홍산 과학원 절에 선검국(중추 파일 내용, 제품 목록) 추가.
 - 2026-11-02: 연맹 공단 절에 인두 지령 추가. 홍산 과학원의 '13번째 주'를 출처가 갈리는 것으로 고치고 염국 문서로 연결.
 - 2026-10-31: 연맹 공단 절에 매츠 크로, 세쉬카 절에 플레밍(라스트 라이트 파일 자료 4, 나흐체러르와 전투 왕정) 추가.
 - 2026-10-29: 고요한 수도회 절 보강(중추 파일 '고요한 수도회'의 기술 복원·특허 공개, 진리와 예배, 세 교파의 영어 이름과 하는 일, 세 수사의 비유). 이전 판의 "'베리타스'라는 기계 신으로 숭배한다"와 "다른 세력에게 괴짜 취급을 받는다"는 게임 기록에서 확인하지 못해 확인하지 못한 것으로 옮김. 세쉬카 절에 주술 타임 소절 추가. 연표·도시·4번 협곡·네파리스 문서와 겹치는 설명을 링크로 바꿈.

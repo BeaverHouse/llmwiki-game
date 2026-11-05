@@ -1,7 +1,7 @@
 ---
 title: 문명 밴드의 도시 (Cities of the Civilization Band)
 type: guide
-aliases: [문명 밴드의 도시, 도시, 오보르니스크, Aubornisk, 라반도르마, La Fantoma, Lavandorma, ラヴァンドマ, 라 판토마, 탈로스 성, Talos City, タロスシティ, 맛 고로도프, Mat' Gorodov, 공업 모선, Industrial Mothership, Simonch, 트리글라바, Triglava, トリグラフ, 홍산 환형산, 환형산, 홍산 크레이터, Hongshan Crater, 홍산성, 대수도원, Monasterium, Great Monastery, 大修道院, 부서진 분, Shatterus, 옐시, Kjersch, イェルシェ, Morospolis]
+aliases: [문명 밴드의 도시, 도시, 오보르니스크, Aubornisk, 라반도르마, La Fantoma, Lavandorma, ラヴァンドマ, 라 판토마, 탈로스 성, Talos City, タロスシティ, 맛 고로도프, Mat' Gorodov, 공업 모선, Industrial Mothership, Simonch, 트리글라바, Triglava, トリグラフ, 홍산 환형산, 환형산, 홍산 크레이터, Hongshan Crater, 홍산성, 매스 드라이버, 홍산 1번 질량 가속기, Hongshan-1 Mass Driver, 대수도원, Monasterium, Great Monastery, 大修道院, 부서진 분, Shatterus, 옐시, Kjersch, イェルシェ, Morospolis]
 sources:
   - https://namu.wiki/w/명일방주:%20엔드필드/등장인물%20및%20세력 (2026-10-18 수정본, CC BY-NC-SA 2.0 KR)
   - https://endfield.wiki.gg/wiki/Talos_City (2026-04-25 수정본, 한국어·일본어 표기 포함)
@@ -10,14 +10,15 @@ sources:
   - https://endfield.wiki.gg/wiki/Triglava (2026-05-20 수정본, 한국어·일본어 표기 포함)
   - https://endfield.wiki.gg/wiki/Beta_Test:Talos-II (베타 테스트 시기 설정, 2025-12-27 수정본)
   - https://namu.wiki/w/진천우 (인사 요약서, 파일 자료 3·4, 대사 '홍산에 관하여' 인용, 2026-09-25 수정본, CC BY-NC-SA 2.0 KR)
-  - https://endfield.wiki.gg/wiki/Hongshan_Crater (진천우 기록·장방이 대사·아이템 설명 영어 텍스트, 2026-05-11 수정본)
+  - https://endfield.wiki.gg/wiki/Hongshan_Crater (진천우 기록·장방이 대사·아이템 설명·메모 영어 텍스트, 매스 드라이버 승차권, 2026-05-11 수정본, 2026-11-05 열람)
+  - https://namu.wiki/w/명일방주:%20엔드필드/무기/권총 (반항 이야기 한국어 텍스트, 2026-10-06 수정본, 2026-11-05 열람, CC BY-NC-SA 2.0 KR)
   - https://namu.wiki/w/자이히 (파일 자료 3, 대사 '대화 2'·'부서진 분에 관하여'·'세 교파에 관하여' 인용, 2026-09-29 수정본, CC BY-NC-SA 2.0 KR)
   - https://endfield.wiki.gg/wiki/Monasterium (한국어·일본어 표기, 중추 파일 '고요한 수도회' 영어 텍스트, 2026-05-01 수정본)
   - https://namu.wiki/w/스노우샤인 (파일 자료 3, 잠재능력 일러스트 설명 인용, 2026-09-29 수정본, CC BY-NC-SA 2.0 KR)
   - https://endfield.wiki.gg/wiki/Kjersch (한국어·일본어 표기, 영어 대사, 2026-04-25 수정본)
   - https://endfield.wiki.gg/wiki/Morospolis (메모 영어 텍스트, 2026-04-25 수정본)
 created: 2026-10-22
-updated: 2026-10-29
+updated: 2026-11-05
 ---
 
 # 문명 밴드의 도시
@@ -81,7 +82,14 @@ updated: 2026-10-29
 그 밖의 영어 기록은 다음과 같다.
 
 - 아이템 'Hetonite Solution' 설명: 앵커는 홍산 환형산 호수(Hongshan Crater Lake) 깊은 곳의 금속 이온을 끌어당겨 아겔로스를 조립한다. 무릉의 천사들은 이 과정을 익혀 대규모 금속 석출에 쓰고 있다.
-- 메모 'Troubled Sketcher': 쓴 사람은 환형산과 그곳의 매스 드라이버를 그리러 홍산으로 옮겨 갈까 생각한다. 'Brigand's Calling'은 이런 시설 하나를 'Hongshan-1 Mass Driver'로 부른다.
+- 메모 'Troubled Sketcher': 쓴 사람은 환형산과 그곳의 매스 드라이버를 그리러 홍산으로 옮겨 갈까 생각한다.
+
+환형산에는 매스 드라이버(질량 가속기)가 여러 기 있다. 그중 하나의 이름이 나오는 기록은 다음 둘이다.
+
+- 무기 [반항](../systems/weapons.md)(Brigand's Calling) 이야기: 한국어 텍스트는 '홍산 1번 질량 가속기', 영어 텍스트는 Hongshan-1 Mass Driver로 적는다. 제1차 아겔로스 전쟁 뒤 천사부가 중립을 지키던 중에 이곳이 습격당했고, 그 뒤 천사들 사이의 틈이 드러나 원 천사 일행이 홍산을 떠났다([무릉](wuling.md#세운-내력)). 같은 이야기에서 홍산 1번 에너지 공급 시설에 들어갔다 붙잡힌 전문 농업인들은 "왜 스타게이트를 고치지 않지? 왜 이 가속기로 우리를 집에 보내주지 않는 거야?"라고 따진다.
+- 출석 이벤트 'Etchings of Our Cosmic Dreams'의 승차권: "DEPARTS: MASS DRIVER HS01"이라고 적혀 있다.
+
+습격한 쪽과 피해는 기록에 없다.
 
 ## 대수도원
 
@@ -138,6 +146,7 @@ updated: 2026-10-29
 
 ## 히스토리
 
+- 2026-11-05: 홍산 환형산 절에 매스 드라이버와 홍산 1번 질량 가속기 기록 추가.
 - 2026-10-29: 세력 문서와 겹치는 홍산 과학원의 내력과 고요한 수도회의 세 교파를 그 문서로 넘기고 링크로 바꿈.
 - 2026-10-25: 홍산 환형산, 대수도원, 옐시, Morospolis 절 추가. 클로즈 베타 테스트 때의 탈로스 성은 은빛 대로·대리석 아치·마천루가 늘어선 완성된 정치 중심지로, 연맹 공단 본부·상업연합회 기업 수도·엔드필드 공업 대표 중앙부·전령청이 있었다.
 - 2026-10-22: 최초 작성. 1.6 버전 시점의 나무위키 등장인물 문서와 endfield.wiki.gg 도시 문서 기준. 베타 테스트 시기에는 탈로스 성이 완성된 정치 중심지로, 오보르니스크가 오리지늄 광업 도시로 소개되었다.
