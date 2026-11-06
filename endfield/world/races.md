@@ -9,7 +9,7 @@ sources:
   - https://namu.wiki/w/명일방주:%20엔드필드/설정 (종족 문단, 2026-10-07 수정본, CC BY-NC-SA 2.0 KR)
   - https://namu.wiki/w/명일방주/종족 (종족 한국어 표기와 엔드필드의 키린 표기, 2026-10-24 수정본, CC BY-NC-SA 2.0 KR)
 created: 2026-11-01
-updated: 2026-11-01
+updated: 2026-11-06
 ---
 
 # 종족 (Race)
@@ -74,7 +74,7 @@ updated: 2026-11-01
 
 ## 오퍼레이터와 인물의 종족
 
-오퍼레이터 인물 정보의 종족 항목이다. 출시 전인 명하도 넣었다.
+오퍼레이터 인물 정보의 종족 항목이다.
 
 | 분류 | 종족 | 오퍼레이터 | 그 밖의 인물 |
 |---|---|---|---|
@@ -92,7 +92,7 @@ updated: 2026-11-01
 | 에인션츠 | 와이번 | [이본](../operators/yvonne.md) | |
 | 에인션츠 | 아다크리스 | | [네파리스](nefarith.md) |
 | 에인션츠(중추 파일 목록에는 없음) | 아나티 | [알레쉬](../operators/alesh.md) | |
-| 엘더즈 | 용 | [진천우](../operators/chen_qianyu.md), 명하(미출시) | |
+| 엘더즈 | 용 | [진천우](../operators/chen_qianyu.md), [명하](../operators/argent_flow.md) | |
 | 엘더즈 | 키린 | [장방이](../operators/zhuang_fangyi.md) | |
 | 살카즈 | 살카즈 | [레바테인](../operators/laevatain.md), [미브](../operators/mi_fu.md), [티프로스](../operators/typhoeus.md), [자이히](../operators/xaihi.md), [라스트 라이트](../operators/last_rite.md)(나흐체러르), [카뮤](../operators/camille.md)(뱀파이어), [리노](../operators/liino.md)(디얄) | |
 | 살카즈 | 아나사 | [여풍](../operators/lifeng.md) | |
@@ -113,8 +113,6 @@ updated: 2026-11-01
 - 다른 한 출처는 테라 원주민에 베헤모스와 엘프를 더하고 탈로스2 사람의 평균 수명을 150년으로 적는다. 중추 파일은 원주민이자 '방문자'로 살카즈만 꼽는다.
 - 아나티가 어느 분류에 드는지 적은 게임 기록. 중추 파일 목록에 아나티가 없다.
 - 사의 종족 항목 '미공개'가 베헤모스 대리인이라는 신분과 관계있는지, 관리자의 종족.
-- 명하는 미출시라 인물 정보가 바뀔 수 있다.
-
 ## 히스토리
 
 - 2026-11: 문서 작성. 중추 파일 '종족'과 1.6 버전까지의 오퍼레이터 인물 정보로 정리.
