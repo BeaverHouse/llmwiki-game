@@ -1,5 +1,7 @@
 # Another Eden — 변경 기록 (append-only, 최신이 위)
 
+- 2026-11-07 | ai | raids/shupetoniku.md·rebiteitaa.md 신규, guides/sub_contents.md·star5_release.md·armor.md, raids/kaputoniku.md, glossary.md·index.md·backlog.md | シュペトニク·レビテイター 강적 문서를 쓰고 서브 콘텐츠에 四獣·エルピス 무기 입수·낚시를, ☆5 해방에 翻る剣先 1~4전·祈天の玉座·開眼 ガリユ編·One Other Ordeal 4전을 넣음 | Seesaa, altema, Pocket Gamer
+
 - 2026-11-06 | ai | guides/akaki_ryuusei.md·sub_contents.md·blunt_party.md 신규, guides/star5_release.md·kyodaijuu.md, characters/guildna.md·cyrus.md, raids/rekisen_kougairyuu.md, glossary.md·index.md·backlog.md | 赫き流星·서브 콘텐츠 보상·타격 파티 문서를 쓰고 ☆5 해방에 翻る剣先 5전과 「絶望のつるぎ・真」 소재(絶望の反証)를 넣음 | Seesaa, altema
 
 - 2026-11-05 | ai | guides/kyodaijuu.md·star5_release.md 신규, guides/manifest_weapons.md·meta_equipment.md, characters/guildna.md·gariyu.md, glossary.md·index.md·backlog.md | 巨大獣 목록과 ☆5 해방 퀘스트(가리유·길드너) 문서를 쓰고 현현 무기에 주간 誓約, 환경 장비에 千年樹 무기 입수처를 넣음 | Seesaa

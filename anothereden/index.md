@@ -33,7 +33,7 @@
 - [guides/seiten_equipment.md](guides/seiten_equipment.md) — 星天 무기 (外伝 「螺旋の記憶と原初の旋律」 クラフト로 만드는 8종 공통 효과 MP消費攻撃·MP·공격 시 MP 회복의 단계별 수치, 강화 소재, 10단계 소재 昏き星の塊 입수처, 추천 동료. 일본 서버)
 - [guides/weapon_reforging.md](guides/weapon_reforging.md) — 武器打ち直し (개방 조건(3부 前編 클리어, +10 강화), 시리즈별 전용 소재·錬鉱石·フェイズシフト 소재, 冥鬼·翠晶·ルーナ·亜空·プリズム 등 주요 무기의 打ち直し 전후 효과, 팬 정리의 사용 동료)
 - [guides/manifest_weapons.md](guides/manifest_weapons.md) — 현현 무기와 結実 무기 (현현·진현현·結実 세 단계의 차이, 시작 조건, 才珠·極彩の虹石, 顕現せし闘気 교환표, 주간 誓約 4종과 9주 로테이션, 무기 경험치, 대상 동료. altema 2026-10-22 기준)
-- [guides/armor.md](guides/armor.md) — 방어구 (千年樹 시리즈 효과·입수(エントラーナ 金天蓼), 竜纏 시리즈와 千年樹와의 선택 기준, 赫耀·蒐魔装·エルピス 등 상위 시리즈, 夢晶の指輪 등 단품)
+- [guides/armor.md](guides/armor.md) — 방어구 (千年樹 시리즈 효과·입수(エントラーナ 金天蓼), 竜纏 시리즈와 千年樹와의 선택 기준, 赫耀·蒐魔装·エルピス 등 상위 시리즈, スピリット 방어구 입수 섬, 夢晶の指輪 등 단품)
 - [guides/zone.md](guides/zone.md) — ZONE과 ANOTHER ZONE (ZONE별 피해 배율·AF 게이지 증가량 표, 전개·파괴, 極·絶ZONE과 ZONE覚醒 1회 제한, 共鳴蓄積, アナザーセンス, ZONE 어빌리티 표, 歌唱·祈祷)
 - [guides/another_force.md](guides/another_force.md) — アナザーフォース (AF 게이지 200과 쌓이는 양, 고유 증가 효과, 속도·리캐스트와 왼쪽 배치, 회복 모션 지연, 콤보 배율 규칙, AF·EX 필살기 계산, SB와의 관계)
 - [guides/stellar_awakening.md](guides/stellar_awakening.md) — 성도각성과 SB (각성 경로 3가지, 星譜 입수, ステラボード 우선순위, 천명 게이지 쌓이는 양, SB 사양)
@@ -50,15 +50,17 @@
 - [guides/tomurai_no_hana.md](guides/tomurai_no_hana.md) — 弔いの花 (코린다 장미 퀘스트. 제8장 パルシファル宮殿, 정답 赤 白 ピンク·5枚·コリンダのバラ, 진행 순서와 보상)
 - [guides/treasure_maps.md](guides/treasure_maps.md) — 宝地図 (3부 前編 ヴァンデ海 심해 인양. 水中ジェットスクリュー·固形燃料, 지도 4장의 입수처·횟수·고정 순서 보상(夢詠みの書·天の導き·冥の誘い·錬鉱石), Ver3.16.60 설명문 수정)
 - [guides/kyodaijuu.md](guides/kyodaijuu.md) — 巨大獣 生息地確認リスト (3부 中編 ギルバデス 거대 적 25종의 장소와 巨獣核, 처치 종류 수에 따른 파츠 레벨 상한 Lv50·60·80, 먼저 키울 무장, ジェネスヴルム·ラヴォーグ 이벤트, Ver3.17.0 ラビリベリア 수정)
-- [guides/star5_release.md](guides/star5_release.md) — ☆5 해방 퀘스트 (邂逅·開眼·☆5解放 19종과 대상 동료. 邂逅 ガリユ編의 시작·6전 장소·적 내성과 대처, 翻る剣先 5전 幽冥の魔女의 石化·「グラビティー」 대처, 復活の魔獣王의 魔導機甲 위치·기믹·ジャゼル 호른 공략·魔導瘴珠 파밍, 絶望のつるぎ・真은 アレクト 보상으로 打ち直し)
+- [guides/star5_release.md](guides/star5_release.md) — ☆5 해방 퀘스트 (邂逅·開眼·☆5解放 19종과 대상 동료. 邂逅 ガリユ編의 시작·6전 장소·적 내성과 대처, 翻る剣先 1~5전과 5전 幽冥の魔女의 石化·「グラビティー」 대처, 復活の魔獣王의 魔導機甲 위치·기믹·ジャゼル 호른 공략·魔導瘴珠 파밍, 祈天の玉座 연전과 魔獣王の極意, 開眼 ガリユ編 5연전, One Other Ordeal 4전 特殊デウス・エクス, 絶望のつるぎ・真은 アレクト 보상으로 打ち直し)
 - [guides/akaki_ryuusei.md](guides/akaki_ryuusei.md) — 赫き流星 (3부 中編 뒤 ラヴォーグ γ·α·β·δ·ε 5연전과 ギルバデス 超巨大結晶生物ラヴォーグ. 진행 순서·크레이터 위치, 같은 속성만 통하는 「不吉な星の瞬き」·分裂体 격파 금지·20턴 제한, 보스별 누적과 어태커, 「時空崩壊」 받기와 ギルバデス 세팅, 보상 星斬丸·夢晶の指輪)
-- [guides/sub_contents.md](guides/sub_contents.md) — 서브 콘텐츠 보상 (叡智の塔 등급별 조건·보상과 リッチマン商会(達人のバッジ·叡智のバッジ·撃陣 광석 4종), バウンティハンター HEAD와 エルピス 무기, 낚시 リル 무기, 銛突き漁 ヌシ, オークション. 喝采·ロード・オブ・マナ·バイクゲーム은 제외)
+- [guides/sub_contents.md](guides/sub_contents.md) — 서브 콘텐츠 보상 (叡智の塔 등급별 조건·보상과 リッチマン商会(達人のバッジ·叡智のバッジ·撃陣 광석 4종), 四獣 4체와 ウィザード級 상대 기믹, バウンティハンター HEAD와 エルピス 무기 8종 입수 순서, 낚시 시작·4大ヌシ 낚시터·リヴァイアサン·リル 무기 打ち直し 진주, 銛突き漁 ヌシ, オークション. 喝采·ロード・オブ・マナ·バイクゲーム은 제외)
 - [guides/superbosses.md](guides/superbosses.md) — 숨은 보스 난이도 (Seesaa 비공식 난이도표의 기준과 ★11.7 이상 보스 목록)
 
 ## raids/
 
 - [raids/an_ki_digma.md](raids/an_ki_digma.md) — アン・キ・ディグマ (난이도 ★12.0 최상위 숨은 보스. 출현 조건, 7개 凶星 기믹, 패턴 대응, 통상·전점등 공략 방침, 속성별 파티, 클리어 영상)
 - [raids/kaputoniku.md](raids/kaputoniku.md) — カプトニク (★11.9, Ver3.8.15, ★12 등급 신설의 계기. 빛나는 팔·頭核의 반대 속성 ANOTHER ZONE·버프 8종 오라, 세 가지 대처법, ライカマジック, 속성별 파티, 꼼수 편성, 클리어 영상)
+- [raids/shupetoniku.md](raids/shupetoniku.md) — シュペトニク (★11.3, Ver3.8.15, カプトニク 선행. 빛나는 팔 격파 전 공격 종류 무효, 찌르기·타격·마법 피격 오라라 베기로 몰아침, 「Predator」와 마지막 스토퍼 즉사 콤보, 강화 ライカマジック 紅·蒼·金, 투고 편성)
+- [raids/rebiteitaa.md](raids/rebiteitaa.md) — レビテイター (★11.8, Ver3.8.0 叡智の塔 최종전. 7가지 속성 형태의 약점·흡수, 스킬 게이지, 「共鳴」 버프 해제와 튜시아, 毒ペ 오라, 프라이 루프, 알마(NS)·듀이(AS)·셴화(SA) 편성)
 - [raids/yami_alter_force.md](raids/yami_alter_force.md) — 闇のアルターフォース (★11.9, Ver3.10.0. 버프·디버프 8종 이상 시 주는 피해 95% 감소 오라, 세는 버프·안 세는 버프, 스킬 게이지, 단기·장기 파티, 클리어 사례)
 - [raids/rekisen_kougairyuu.md](raids/rekisen_kougairyuu.md) — 歴戦の甲鎧竜 (★11.8, Ver3.16.50. 超生命力으로 최소 9턴, 傷壊·アングリー・ヘイト, 제2형태 강제 기절과 「海じゃらし」, 날려 보내기 3회, 타격 파티, 클리어 영상)
 - [raids/hyougen_no_nushi.md](raids/hyougen_no_nushi.md) — 氷原のヌシ (★11.9, Ver3.3.0 バウンティハンター 4大ヌシ. 스토퍼마다 무작위 즉사, 매 턴 凍結과 땅 이외 속성 피격 시 상태 이상 내성 100%DOWN, AF 100% 시 초화력화. 소생 담당 + 상태 이상 배리어 2회 이상, 파티, 클리어 영상)
