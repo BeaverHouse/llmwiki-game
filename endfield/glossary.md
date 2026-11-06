@@ -67,7 +67,7 @@ sources:
   - https://endfield.wiki.gg/wiki/Triglava
   - https://endfield.wiki.gg/wiki/Yuanyuan_Manor_Inn
   - https://endfield.wiki.gg/wiki/Si
-  - https://endfield.wiki.gg/wiki/Argent_Flow (2026-11-05 수정본) · Lunar_Calling · Complexed_Industry · Home_Longing (언어 칸)
+  - https://endfield.wiki.gg/wiki/Argent_Flow (2026-11-05 수정본) · Argent_Flow/File · Argent_Flow/Dialogue · Lunar_Calling · Complexed_Industry · Home_Longing (언어 칸)
   - https://www.gametoc.co.kr/news/articleView.html?idxno=112808 (우레 표기, 2026-11-06)
   - https://endfield.wiki.gg/wiki/The_Traveler's_Guide_to_Talos-II/Marker_Stone (안사원·영수벽·Serenity Garden 영어 표기)
   - https://namu.wiki/w/명일방주:%20엔드필드/장비
@@ -123,7 +123,7 @@ sources:
   - https://endfield.wiki.gg/wiki/Bureau_of_Swordmancers · Marker_Stone · Marker_Stone_Interiors · Æthillu · Patron_of_the_Spring_I · Du_Ming (2026-11-04 열람)
   - https://endfield.wiki.gg/wiki/Wuling_Watchguards · Iron_Boatswain · Jia_Ban · Hongshan_Crater (2026-11-05 열람)
 created: 2026-10-12
-updated: 2026-11-06
+updated: 2026-11-07
 ---
 
 # 엔드필드 고유명사 표기 (ko/en/ja)
@@ -244,7 +244,7 @@ updated: 2026-11-06
 | 가반 | Jia Ban | — | 2차 | 무릉성 순찰대원. 수구가 대신 전사했다 |
 | 철묘 | Iron Boatswain | — | 2차 | 수구의 동생. 무릉성 순찰대 수습 대원 |
 | 홍산 1번 질량 가속기 | Hongshan-1 Mass Driver | — | 공식(ko) | 홍산 환형산의 매스 드라이버. ko는 무기 반항 이야기 한국어 텍스트 |
-| 금위군 | Imperial Guard | — | 미확인 | 명하의 소속. 탈로스 II의 금위군은 홍산 과학원 천사가 따로 편성 |
+| 금위군 | Imperial Guard | — | 미확인 | 명하의 소속. 탈로스 II의 금위군 열세 명은 담 천사가 임명 |
 | 염국 | Yan | — | 미확인 | 천사부가 있는 테라의 나라. [염국](world/yan.md). 명하 소개문의 한국어 텍스트가 '염국 금위군'으로 적는다 |
 | 정천도위 | Captain of Pacified Skies | — | 미확인 | 명하의 직함. ko는 나무위키에 옮겨진 명하 소개문 |
 | 문명 보존 협정 | Civilization Preservation Agreement | — | 미확인 | 장검 골짜기의 전자 파일. ko는 옮긴 것 |
@@ -415,7 +415,7 @@ updated: 2026-11-06
 | 봉 | Summit | — | 미확인 | 응룡 특수부대 부대장. 본명 심교아. 결 파일 자료 1의 서명은 '대원' |
 | 언 | Phrase | — | 미확인 | 응룡 특수부대 대원 |
 | 축 / 축 교관 | Zhu / Instructor Zhu | — | 2차 | 담검당을 세운 응룡 특수부대 교관. 결·진천우의 스승. 고인 |
-| 담 천사 | — | — | 미확인 | 홍산 과학원의 최고참 천사. 사를 돌봄 |
+| 담 천사 | Tianshi Tan | — | 미확인 | 홍산 과학원의 최고참 천사. 사를 돌보고 금위군을 임명. [세력](world/factions.md#담-천사) |
 | 라시교 | — | — | 미확인 | 판의 홍산 과학원 스승 |
 | 여소귀 | Yu Shigui | — | 미확인 | 무릉성 NPC. 수명으로 가는 포탈. Shang Jin의 스승 |
 | Shang Jin | Shang Jin | — | 미확인 | 무릉성의 천사. 임무 Bell of Recollection의 의뢰인. ko 미확인 |
@@ -1236,9 +1236,12 @@ updated: 2026-11-06
 | — | Ruan Lin | — | 미확인 | 원일의 친아버지이자 탕탕의 양아버지 |
 | — | Lian Xiaowu / Walton | — | 미확인 | Deep Vaulted Steel의 의뢰인과 장검 골짜기에서 만나는 인물 |
 | 해묵 | — | — | 미확인 | 베헤모스 심장 수복을 맡은 천사. ko는 나무위키 |
+| — | Lil' Dodge / Songseeker / Pan'an / Luoyi / Aldertone | — | 미확인 | 명하 파일 자료에 나오는 인물·마을·도시·종족 이름 |
+| — | Fulei, the Lurking Thunder | — | 미확인 | 명하가 오래 쓴 검(대사 '무기에 관하여'). 환월과 다른 무기 |
 
 ## 히스토리
 
+- 2026-11-07: 담 천사 영어 표기, 명하 파일 자료의 이름 추가. 금위군 설명을 명하 대사대로 고침.
 - 2026-11-06: 명하 스킬·우레, 환월·응집 공업, 탈로스 I, 안사원·영수벽 추가. 향수 영어 표기 확정.
 - 2026-11-05: 무릉성 순찰대원 가반·철묘, 수구의 영어 표기, 홍산 1번 질량 가속기 추가.
 - 2026-11-04: 선검국, 잔영, 수돈 내부, 선조의 샘 임무 표기 추가. 청파채를 세운 천사를 무기 반항 한국어 텍스트대로 '원 천사'로 고침.

@@ -4,8 +4,8 @@
 
 ## 다음 작업
 
-- 명하 배경 기록 | operators/argent_flow.md 배경 절 | 인사 요약서, 파일 자료 1~4, 오퍼레이터 스토리 「명하: 돌아온 손님」, 대사를 아직 옮기지 못했다. 관리자와의 만남으로 검세가 달라졌다는 소개문의 내력이 여기 있을 수 있다 | endfield.wiki.gg Argent_Flow/File · Argent_Flow/Story · Argent_Flow/Dialogue, 나무위키 「명하(명일방주: 엔드필드)」 상세 기록 문단(2026-11-06 기준 비어 있음)
-- 담 천사 | world/factions.md 홍산 과학원 절 | 명하의 상관이자 사를 돌보는 홍산 최고참 천사. 응룡 특수부대 이름을 정하고 사사대를 제안한 기록이 베헤모스 문서에 흩어져 있다 | endfield.wiki.gg 검색(Tianshi Tan), 나무위키 「명일방주: 엔드필드/등장인물 및 세력」
+- 10년 전 극지 원정과 명하 | content/si_painting.md 2장 Ⅷ 줄거리, world/timeline.md | endfield.wiki.gg 명하 줄거리 문서가 2장 Ⅷ을 근거로 관리자가 극지 원정에서 명하의 목숨을 구했다고 적는다. 명하 소개문의 '관리자가 건넨 답'과 대사 '대화 5'의 미션 제로 합류가 여기서 풀릴 수 있다 | endfield.wiki.gg Chapter II Process VIII 임무 문서, 나무위키 「명일방주: 엔드필드/스토리」 2장 Ⅷ 문단
+- Lil' Dodge | world/endfield_staff.md | 명하 파일 자료 1·3에서 오퍼레이터 장기자랑을 열고 명하를 제강호 특별 교관으로 부른 엔드필드 공업 인물. 위키에 없다 | endfield.wiki.gg 검색(Lil' Dodge), 나무위키 엔드필드 공업 NPC 문단
 - 재검증 | parties/argent_flow_party.md | 2026-11-19
 
 ## 확인 필요
@@ -15,6 +15,8 @@
 - 명하 우레와 다른 오퍼레이터의 강타 | operators/argent_flow.md 카드, parties/argent_flow_party.md 물리 파티 구상 | 미브 추형·판 연계 같은 다른 오퍼레이터의 강타로도 우레가 터지는지, 그리고 연계로 전기 부착 1스택을 깔고 질주하는 천둥을 쓰면 감전 II인지(I이면 레벨 식이 다름). 답에 따라 물리 파티 구상의 딜과 판정이 바뀐다. 2026-11-08까지 답이 없으면 확인하지 못한 것으로 두고 재검증 때 영상으로 본다 | 2026-11-06 질문
 
 ## 완료
+
+- 2026-11-07: operators/argent_flow.md 배경 절(기본 파일 덧붙임, 인사 요약서, 파일 자료 1~4, 대사. 한국어 상세 기록이 아직 비어 있어 영어 텍스트를 옮김), world/factions.md 담 천사, world/yan.md 금위군(담 천사가 열세 명을 임명, 인사 요약서 주석). 파일 자료 개방 조건은 나무위키와 endfield.wiki.gg가 달라 양쪽을 적음. 소개문의 '관리자가 건넨 답'은 기록에 없어 확인하지 못한 것으로 두고 2장 Ⅷ 주제로 넘김
 
 - 2026-11-06: operators/argent_flow.md(명하. endfield.wiki.gg 2026-11-05 수정본 수치와 나무위키 한국어 스킬 이름), parties/argent_flow_party.md(출시 직후 구상 두 개), world/timeline.md 치욕의 전쟁 전야(향수 이야기), world/wuling.md 안사원·영수벽·Serenity Garden. 우레 표기는 공식 콘텐츠 크리에이터 기사에서 가져옴. 안사원·영수벽과 영어 이름의 짝은 수구 기록 두 개로 맞춤. 출시 전 표현이 남은 종족·염국·사의 그림 문서를 고침
 
