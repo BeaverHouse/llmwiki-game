@@ -4,9 +4,10 @@ type: hub
 aliases: [오퍼레이터, 오퍼레이터 목록, 캐릭터 목록, 직군, 속성, 능력치]
 sources:
   - https://namu.wiki/w/명일방주:%20엔드필드/오퍼레이터 (2026-09-02 수정본, CC BY-NC-SA 2.0 KR)
-  - "user-feedback (Austin): 사 출시, 명하 미출시·11월 초 출시 예정 (2026-10-19·21)"
+  - "user-feedback (Austin): 사 출시 (2026-10-19)"
+  - https://endfield.wiki.gg/wiki/Headhunting/Banners (명하 한정 헤드헌팅 시작 2026-11-05)
 created: 2026-10-14
-updated: 2026-10-29
+updated: 2026-11-06
 ---
 
 # 오퍼레이터 개요
@@ -50,7 +51,7 @@ updated: 2026-10-29
 
 ## 명단
 
-2026-09-02 기준 34명이다. 사는 2026-10-15 출시되었고, 명하는 2026-10-21 기준 미출시(11월 초 예정)다.
+2026-11-06 기준 34명이다. 사는 2026-10-15, 명하는 2026-11-05에 출시되었다.
 
 | 오퍼레이터 | 속성 | 무기 | 직군 | 문서 |
 |---|---|---|---|---|
@@ -87,7 +88,7 @@ updated: 2026-10-29
 | 아크라이트 | 전기 | 한손검 | 뱅가드 | [operators/arclight.md](../operators/arclight.md) |
 | 장방이 | 전기 | 아츠 유닛 | 스트라이커 | [operators/zhuang_fangyi.md](../operators/zhuang_fangyi.md) |
 | 리노 | 전기 | 장병기 | 서포터 | [operators/liino.md](../operators/liino.md) |
-| 명하 | 전기 | 한손검 | 가드 | 미출시 (11월 초 예정) |
+| 명하 | 전기 | 한손검 | 가드 | [operators/argent_flow.md](../operators/argent_flow.md) |
 
 ## 기타
 
@@ -100,5 +101,6 @@ updated: 2026-10-29
 
 ## 히스토리
 
+- 2026-11-05: 명하 출시.
 - 2026-10-15: 사 출시.
 - 2026-10: 최초 작성.

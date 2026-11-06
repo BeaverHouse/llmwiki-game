@@ -1,5 +1,7 @@
 # Arknights: Endfield — 변경 기록 (append-only, 최신이 위)
 
+- 2026-11-06 | ai | operators/argent_flow.md(신규)·parties/argent_flow_party.md(신규)·parties/synergy.md·parties/pogranichnik_party.md·systems/weapons.md·systems/operators.md·world/timeline.md·world/setting_basics.md·world/wuling.md·world/races.md·world/yan.md·content/si_painting.md·glossary.md·index.md·backlog.md | 출시된 명하의 문서와 파티 구상을 쓰고 향수 이야기와 안사원·영수벽을 채움 | 정기 성장 작업, endfield.wiki.gg, 나무위키, 게임톡
+
 - 2026-11-05 | ai | world/wuling.md·world/civilization_band.md·world/timeline.md·glossary.md·index.md·backlog.md | 무릉성 순찰대와 홍산 1번 질량 가속기를 채우고 가속기 습격 시점을 확인하지 못한 것으로 남김 | 정기 성장 작업, endfield.wiki.gg, 나무위키
 
 - 2026-11-04 | ai | world/factions.md·world/wuling.md·world/yan.md·glossary.md·index.md·backlog.md | 선검국, 선조의 샘 임무, 수돈과 수돈 내부·잔영을 채우고 반항 이야기를 한국어 텍스트로 다시 옮김 | 정기 성장 작업, endfield.wiki.gg, 나무위키
