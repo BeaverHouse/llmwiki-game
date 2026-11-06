@@ -1,5 +1,7 @@
 # Another Eden — 변경 기록 (append-only, 최신이 위)
 
+- 2026-11-06 | ai | guides/akaki_ryuusei.md·sub_contents.md·blunt_party.md 신규, guides/star5_release.md·kyodaijuu.md, characters/guildna.md·cyrus.md, raids/rekisen_kougairyuu.md, glossary.md·index.md·backlog.md | 赫き流星·서브 콘텐츠 보상·타격 파티 문서를 쓰고 ☆5 해방에 翻る剣先 5전과 「絶望のつるぎ・真」 소재(絶望の反証)를 넣음 | Seesaa, altema
+
 - 2026-11-05 | ai | guides/kyodaijuu.md·star5_release.md 신규, guides/manifest_weapons.md·meta_equipment.md, characters/guildna.md·gariyu.md, glossary.md·index.md·backlog.md | 巨大獣 목록과 ☆5 해방 퀘스트(가리유·길드너) 문서를 쓰고 현현 무기에 주간 誓約, 환경 장비에 千年樹 무기 입수처를 넣음 | Seesaa
 
 - 2026-11-03 | ai | characters/ 4편 신규, characters/ewan.md·meryt.md·laclair_alter.md, guides/meta_characters.md·pierce_party.md·stellar_awakening_priority.md, glossary.md·index.md·backlog.md | 슈타이너·지탄·미나르카(AS)·아나벨(ES) 카드를 쓰고 다른 문서의 庇立て·烈火陣·「ジャスティス」 서술을 출처에 맞게 고쳤으며 찾아봐야 하는 콘텐츠 후보를 backlog에 나눔 | Seesaa, 사이트 데이터
