@@ -4,8 +4,8 @@
 
 ## 다음 작업
 
-- 10년 전 극지 원정과 명하 | content/si_painting.md 2장 Ⅷ 줄거리, world/timeline.md | endfield.wiki.gg 명하 줄거리 문서가 2장 Ⅷ을 근거로 관리자가 극지 원정에서 명하의 목숨을 구했다고 적는다. 명하 소개문의 '관리자가 건넨 답'과 대사 '대화 5'의 미션 제로 합류가 여기서 풀릴 수 있다 | endfield.wiki.gg Chapter II Process VIII 임무 문서, 나무위키 「명일방주: 엔드필드/스토리」 2장 Ⅷ 문단
-- Lil' Dodge | world/endfield_staff.md | 명하 파일 자료 1·3에서 오퍼레이터 장기자랑을 열고 명하를 제강호 특별 교관으로 부른 엔드필드 공업 인물. 위키에 없다 | endfield.wiki.gg 검색(Lil' Dodge), 나무위키 엔드필드 공업 NPC 문단
+- 디지털 코믹 「The Promise」 | world/timeline.md 극점 원정, operators/perlica.md 배경 | endfield.wiki.gg 연표가 극점 원정(142년, 북쪽 전초 기지 습격과 엔드필드·연맹 공단 원정)과 펠리카 구출(140년 무렵)의 근거로 드는 펠리카 프롤로그 코믹. 위키 연표의 139년·142년 차이가 여기서 풀릴 수 있다 | Gryphline 공식 사이트 코믹, endfield.wiki.gg The_Promise(지금은 빈 문서)
+- Mr. Krad | world/endfield_staff.md 도치 절 | 도치가 가르침을 짧은 구호로 옮긴다는 인물. 아이템 설명 두 곳에만 나와 누구인지 모른다 | endfield.wiki.gg 검색(Krad), 나무위키 아이템 문서의 전술 흐름 칩·스킬 업그레이드 선택 상자 한국어 설명
 - 재검증 | parties/argent_flow_party.md | 2026-11-19
 
 ## 확인 필요
@@ -15,6 +15,8 @@
 - 명하 우레와 다른 오퍼레이터의 강타 | operators/argent_flow.md 카드, parties/argent_flow_party.md 물리 파티 구상 | 미브 추형·판 연계 같은 다른 오퍼레이터의 강타로도 우레가 터지는지, 그리고 연계로 전기 부착 1스택을 깔고 질주하는 천둥을 쓰면 감전 II인지(I이면 레벨 식이 다름). 답에 따라 물리 파티 구상의 딜과 판정이 바뀐다. 2026-11-08까지 답이 없으면 확인하지 못한 것으로 두고 재검증 때 영상으로 본다 | 2026-11-06 질문
 
 ## 완료
+
+- 2026-11-08: world/timeline.md 극점 원정(한국어 표기는 안개 속 불빛 설명문), content/si_painting.md 2장 Ⅷ 명하 장면, world/endfield_staff.md 도치(Lil' Dodge의 한국어 표기는 여풍 파일 자료 1·로시 인사 요약서). 극점 원정에서 관리자가 명하를 구했다는 서술은 영어 줄거리 문서에만 있고 근거로 든 2장 Ⅷ 임무 목표와 한국어 줄거리에 없어 확인하지 못한 것으로 둠
 
 - 2026-11-07: operators/argent_flow.md 배경 절(기본 파일 덧붙임, 인사 요약서, 파일 자료 1~4, 대사. 한국어 상세 기록이 아직 비어 있어 영어 텍스트를 옮김), world/factions.md 담 천사, world/yan.md 금위군(담 천사가 열세 명을 임명, 인사 요약서 주석). 파일 자료 개방 조건은 나무위키와 endfield.wiki.gg가 달라 양쪽을 적음. 소개문의 '관리자가 건넨 답'은 기록에 없어 확인하지 못한 것으로 두고 2장 Ⅷ 주제로 넘김
 
