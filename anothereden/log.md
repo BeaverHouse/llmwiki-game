@@ -1,5 +1,7 @@
 # Another Eden — 변경 기록 (append-only, 최신이 위)
 
+- 2026-11-08 | ai | raids/dr_fetan.md·aru_tomasu.md·ikaruga.md·gusutafu.md·pikkii.md 신규, guides/status_effects.md·sub_contents.md·superbosses.md, raids/yami_alter_force.md·kaputoniku.md, glossary.md·index.md·backlog.md | バウンティハンター 보스 다섯 편을 쓰고 상태 효과에 버프 종류 수·묶음별 상한·피해 상한을, 서브 콘텐츠 낚시에 도구 강화와 リル 무기 소재를 넣음 | Seesaa 보스 5종·「バフ・デバフまとめ」·「ダメージ計算の仕様」·「非公式隠しボス難易度表」, altema 「釣りシステム」
+
 - 2026-11-07 | ai | raids/shupetoniku.md·rebiteitaa.md 신규, guides/sub_contents.md·star5_release.md·armor.md, raids/kaputoniku.md, glossary.md·index.md·backlog.md | シュペトニク·レビテイター 강적 문서를 쓰고 서브 콘텐츠에 四獣·エルピス 무기 입수·낚시를, ☆5 해방에 翻る剣先 1~4전·祈天の玉座·開眼 ガリユ編·One Other Ordeal 4전을 넣음 | Seesaa, altema, Pocket Gamer
 
 - 2026-11-06 | ai | guides/akaki_ryuusei.md·sub_contents.md·blunt_party.md 신규, guides/star5_release.md·kyodaijuu.md, characters/guildna.md·cyrus.md, raids/rekisen_kougairyuu.md, glossary.md·index.md·backlog.md | 赫き流星·서브 콘텐츠 보상·타격 파티 문서를 쓰고 ☆5 해방에 翻る剣先 5전과 「絶望のつるぎ・真」 소재(絶望の反証)를 넣음 | Seesaa, altema
