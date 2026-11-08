@@ -1,5 +1,7 @@
 # Another Eden — 변경 기록 (append-only, 최신이 위)
 
+- 2026-11-09 | ai | characters/elseal.md·verdanta.md·mazrika.md·renri_alter.md·aldo.md 신규, characters/shigure_es.md, guides/water_party.md·meta_characters.md·another_force.md·status_effects.md·stellar_awakening_priority.md·sub_contents.md, raids/muru_ankun.md, glossary.md·index.md·backlog.md | 엘실·베르단타·마츠리카·도회의 자객 렌리·알도 카드를 쓰고 다른 문서의 엇갈린 서술(알도 개막 AF 조건, 엘실(AS) SB 대상, 렌리 스킬명)을 고쳤으며 낚시 ヌシ에 공격과 紅サンゴの欠片를 넣음 | Seesaa 동료 페이지 6종·「星導覚醒キャラ一覧」, altema 「四大ヌシの攻略と釣る方法」
+
 - 2026-11-08 | ai | raids/dr_fetan.md·aru_tomasu.md·ikaruga.md·gusutafu.md·pikkii.md 신규, guides/status_effects.md·sub_contents.md·superbosses.md, raids/yami_alter_force.md·kaputoniku.md, glossary.md·index.md·backlog.md | バウンティハンター 보스 다섯 편을 쓰고 상태 효과에 버프 종류 수·묶음별 상한·피해 상한을, 서브 콘텐츠 낚시에 도구 강화와 リル 무기 소재를 넣음 | Seesaa 보스 5종·「バフ・デバフまとめ」·「ダメージ計算の仕様」·「非公式隠しボス難易度表」, altema 「釣りシステム」
 
 - 2026-11-07 | ai | raids/shupetoniku.md·rebiteitaa.md 신규, guides/sub_contents.md·star5_release.md·armor.md, raids/kaputoniku.md, glossary.md·index.md·backlog.md | シュペトニク·レビテイター 강적 문서를 쓰고 서브 콘텐츠에 四獣·エルピス 무기 입수·낚시를, ☆5 해방에 翻る剣先 1~4전·祈天の玉座·開眼 ガリユ編·One Other Ordeal 4전을 넣음 | Seesaa, altema, Pocket Gamer

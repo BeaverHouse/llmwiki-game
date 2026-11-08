@@ -9,6 +9,8 @@ sources:
   - https://anothereden.game-info.wiki/d/%A1%F95%A5%AD%A5%E3%A5%E9%B0%EC%CD%F7 (Seesaa Wiki 「☆5キャラ一覧」, 2026-10-23 수정본. 실장 버전·속성·무기·배포 표기)
   - https://anothereden.game-info.wiki/d/%C7%DB%C9%DB%A5%AD%A5%E3%A5%E9%A4%DE%A4%C8%A4%E1 (Seesaa Wiki 「配布キャラまとめ」, 2025-07-08 수정본)
   - https://anothereden.game-info.wiki/d/%A5%A2%A5%EB%A5%C9%28%A5%A2%A5%CA%A5%B6%A1%BC%A5%B9%A5%BF%A5%A4%A5%EB%29 (Seesaa Wiki 「アルド(アナザースタイル)」, 2025-08-04 수정본)
+  - https://anothereden.game-info.wiki/d/%A5%A2%A5%EB%A5%C9 (Seesaa Wiki 「アルド」, 2025-05-11 수정본. NS 개막 AF 조건, オーガベイン・天)
+  - https://anothereden.game-info.wiki/d/%A5%A8%A5%EB%A5%B7%A1%BC%A5%EB%28%A5%A2%A5%CA%A5%B6%A1%BC%A5%B9%A5%BF%A5%A4%A5%EB%29 (Seesaa Wiki 「エルシール(アナザースタイル)」, 2025-07-09 수정본. NS로 스타일 체인지)
   - https://anothereden.game-info.wiki/d/%A5%A2%A5%B7%A5%E5%A5%C6%A5%A3%A5%A2 (Seesaa Wiki 「アシュティア」, 2026-10-11 수정본)
   - https://anothereden.game-info.wiki/d/%A5%A8%A5%A4%A5%DF (Seesaa Wiki 「エイミ」, 2026-06-28 수정본)
   - https://anothereden.game-info.wiki/d/%A5%EA%A5%A3%A5%AB (Seesaa Wiki 「リィカ」, 2026-09-03 수정본)
@@ -26,7 +28,7 @@ sources:
   - "user-feedback (Austin): 메타 명단은 Seesaa·anothertier 교집합만 쓴다(일본·글로벌 유저층이 달라 기준이 다름), 두 사이트가 스타일을 다르게 고른 동료는 두 스타일 모두 적는다, 배포는 스토리 동료 전원 + 성능 좋은 배포, 교집합 밖은 파티·강적 문서가 멤버로 소개할 때만 문서를 만든다 (2026-10-29)"
   - 사이트 데이터 ae_translation_all (용어 표기)
 created: 2026-10-17
-updated: 2026-11-03
+updated: 2026-11-09
 ---
 
 # 고난이도 동료 명단
@@ -60,8 +62,8 @@ Seesaa 랭크 순(같은 랭크는 Seesaa 표 순서)이다.
 | ミュルス(ES) | [뮬루스(ES)](../characters/myrus_es.md) | ES (SA) | 물·도끼 | 星海陣으로 속성·공격 종류가 섞인 파티를 만든다. 무조건 재행동, EX로 AF 게이지 회수 | SSS | S(SA). NS도 S(SA) |
 | シオン(ES) | [시온(ES)](../characters/shion_es.md) | ES (SA) | 번개·도 | 베기 파티 화력 서포터. SA 후 비용 없이 心技一体 | SSS | SS(SA) |
 | ハヴォック | [하보크](../characters/havoc.md) | NS (SA) | 결정·권갑 | 타격 버퍼. 타격 파티의 버프와 連携, 날려 보내기·상태 이상 대책. [歴戦の甲鎧竜](../raids/rekisen_kougairyuu.md) 타격 파티 받기 | SSS | SS(SA) |
-| 韜晦の討手 レンリ | 도회의 자객 렌리 | 異時層 (SA 전제) | 불·권갑 | SA 후 전투 시작에 명 아군에게 腕知 100%·불 속성 100%·連携. 「オーバーロード」로 무기 종류 버프·배리어 관통. SA가 없으면 이 효과가 없다 | SSS | SS(SA) |
-| ヴェルダンタ | 베르단타 | NS (SA) | 물·검 | [물 파티](water_party.md) 어태커. SA 후 개막 3턴 弱点看破<水> | SSS | SS(SA) |
+| 韜晦の討手 レンリ | [도회의 자객 렌리](../characters/renri_alter.md) | 異時層 (SA 전제) | 불·권갑 | SA 후 전투 시작에 명 아군에게 腕知 100%·불 속성 100%·連携. 「オーバーロード」로 무기 종류 버프·배리어 관통. SA가 없으면 이 효과가 없다 | SSS | SS(SA) |
+| ヴェルダンタ | [베르단타](../characters/verdanta.md) | NS (SA) | 물·검 | [물 파티](water_party.md) 어태커. SA 후 개막 3턴 弱点看破<水> | SSS | SS(SA) |
 | 紫装の槍使い(AS) | 보라 의상의 창술사(AS) | 異時層 AS (SA) | 땅·창 | 땅 어태커. 共鳴<心眼> 8 이상에서 최대 15연격, 絶・地裂陣 | SSS | SS(SA) |
 | シグレ(ES) | [시구레(ES)](../characters/shigure_es.md) | ES (SA) | 바람·도 | 바람·베기 탱커 겸 버퍼. 수비형·공격형 자세 전환, 腕知 60% 디버프, 迎撃, 下克上, 도 連携 | SSS | SSS(SA) |
 | クラグホーン | [클러그혼](../characters/clughorn.md) | NS (SA) | 그림자·창 | 모드 전환형 탱커 겸 그림자 연타 어태커. SA 후 SB 「ルミナガーディアン」으로 2턴 守護 | SSS | SSS(SA) |
@@ -75,7 +77,7 @@ Seesaa 랭크 순(같은 랭크는 Seesaa 표 순서)이다.
 | メリト | [메릿](../characters/meryt.md) | NS (SA) | 불·권갑 | 불 어태커. 「燃命百掌」 최대 6연격, <挺身> | SS | S(SA) |
 | ユーイン | [유인](../characters/ewan.md) | NS (SA) | 불·망치 | 불·타격 어태커. 명 3명 이상에서 「ラーヴァインパクト」 12연격 | SS | SSS(SA) |
 | メリナ | 메리나 | NS (SA) | 물·망치 | SA 후 「エルの唄」로 攻撃種 臨機応変을 파티 전체에. 歌唱 추격으로 3회 행동 | SS | S(SA) |
-| エルシール(AS) | 엘실(AS) | AS (SA) | 물·검 | 물 파티 서포터. 물 마법 지원, 心眼, 연격수 버프. AS로 각성 게이지를 모은 뒤 NS로 바꾸는 운용도 있다 | SS | SS(SA). NS는 S(SA 불가) |
+| エルシール(AS) | [엘실(AS)](../characters/elseal.md) | AS (SA) | 물·검 | 물 파티 서포터. 물 마법 지원, 心眼, 연격수 버프. 화력 지원은 NS가 높아 AS를 「メールドシープの書」로 NS로 바꿔 쓰기도 한다 | SS | SS(SA). NS는 S(SA 불가) |
 | セリエス(AS) / セリエス | [세리에스(AS)](../characters/cerius_as.md) / [세리에스](../characters/cerius.md) | AS (SA)·NS (SA) 둘 다 | 땅·활 | 땅·찌르기 어태커. AS는 鎧通·射切 모드 전환, SA 후 SB 「白貫閃」으로 적 전체 弱点看破<突>(アン・キ・ディグマ의 속성 무관 어태커). NS는 자기 버프를 모두 갖춰 땅 파티 어태커 | SS (AS) | NS S(SA), AS A(SA) |
 | 烏夜の隠密 ツバメ | [까마귀 밤의 밀정 츠바메](../characters/tsubame_alter.md) | 異時層 (SA) | 바람·권갑 | 바람 서포터 겸 어태커. 風王陣, 心技一体. SB 「燕雀猫乱舞」 30연격 | SS | SS(SA) |
 | 黒衣の刀使い(AS) | [검은 옷의 칼잡이(AS)](../characters/black_clad_swordsman_as.md) | 異時層 AS (SA) | 그림자·땅·도 | [그림자 파티](shade_party.md) 어태커. 絶・刻陰陣 | SS | S(SA) |
@@ -83,7 +85,7 @@ Seesaa 랭크 순(같은 랭크는 Seesaa 표 순서)이다.
 | ヴィクト | 빅트 | NS (SA) | 번개·바람·도 | 번개·베기 단기전 어태커. 歴戦 상태에서 최대 16연격 | SS | SS(SA) |
 | ジルバー(AS) | [질버(AS)](../characters/zilva_as.md) | AS (SA) | 땅·무·도끼 | 「残香」으로 공격 속성을 적의 약점에 맞추는 어태커(アン・キ・ディグマ의 속성 무관 어태커). SA 「死出の途」 腕知 70% 디버프로 闇のアルターフォース 장기전 | S | S(SA) |
 | メルピピア / メルピピア(AS) | [멜피피아](../characters/melpiphia.md) / 멜피피아(AS) | NS (SA)·AS (SA) 둘 다 | 바람·검 | [바람 파티](wind_party.md) 서포터. 「未来予知・ピンチ」와 ANOTHER ZONE 시 腕知 60% 디버프로 받고, 「未来予知・チャンス」로 화력. 祈祷. SA 후 회복도 맡는다 | S (NS) | AS S(SA), NS A(SA) |
-| マツリカ | 마츠리카 | NS (SA) | 물·도끼 | 단일 특화 버프(오른쪽 칸)·디버프(「消魂」 대상). 「ソテリア・フォラス」로 오른쪽 칸 동료에게 連携를 붙여 다른 속성 파티에도 들어간다 | S | SS(SA) |
+| マツリカ | [마츠리카](../characters/mazrika.md) | NS (SA) | 물·도끼 | 단일 특화 버프(오른쪽 칸)·디버프(「消魂」 대상). 「ソテリア・フォラス」로 오른쪽 칸 동료에게 連携를 붙여 다른 속성 파티에도 들어간다 | S | SS(SA) |
 | ミナルカ(AS) | [미나르카(AS)](../characters/minalca_as.md) | AS (SA) | 불·검 | 불 어태커. 守護로 아군을 지키며 迎撃 연타, 「オーヴァー・キル」 | S | SS(SA) |
 | デューイ | [듀이](../characters/dewey.md) | NS (SA) | 물·권갑 | 물·타격 서포터. 왼쪽 칸에 心技一体 | S | S(SA) |
 | 白磁の魔人(AS) / 白磁の魔人 | 백자의 마인 밍화(AS) / 백자의 마인 밍화 | 異時層 AS (SA)·異時層 NS 둘 다 | 땅·지팡이 | 땅 서포터. 전위·후위 교대로 자동 서포트, 絶・地裂陣 재전개 | S (AS) | AS SS(SA), NS SSS(SA 불가) |
@@ -99,7 +101,7 @@ Seesaa 랭크 순(같은 랭크는 Seesaa 표 순서)이다.
 
 | 일본어 / 한국어 | 입수 | 쓰는 스타일 | 고난이도에서 |
 |---|---|---|---|
-| アルド / 알도 | 처음부터 | AS (SA)·NS (SA) | AS는 전투 시작 시 AF 게이지 50%, 「オーガベイン・破天」([ムル・トリオ](../raids/muru_three_parties.md) アンクン 전 불 파티). NS는 SB 「星竜斬」과 「オリジンフォース」(적 버프 제거)로 [闇のアルターフォース](../raids/yami_alter_force.md) 장기전과 오보로·우츠하라 편성 |
+| アルド / [알도](../characters/aldo.md) | 처음부터 (AS는 메인 121장) | AS (SA)·NS (SA) | AS는 전투 시작 시 AF 게이지 50%, 「オーガベイン・破天」([ムル・トリオ](../raids/muru_three_parties.md) アンクン 전 불 파티). NS는 전위 천 3명이면 개막 AF 100%, SB 「星竜斬」이 약점 속성이 되어 오보로·우츠하라 편성. 전용 무기 オーガベイン・天을 들면 두 스타일 모두 「オリジンフォース」(적 버프 제거)로 [闇のアルターフォース](../raids/yami_alter_force.md) 장기전 |
 | フィーネ / [피네(AS)](../characters/feinne_as.md) | 메인 25장 (AS는 Ver3.8.0) | AS (SA) | 보조. 「オーガグレイス」로 AF 게이지 +100%, 속성 변경으로 빠진 속성을 메움, 星海陣, AF 중 배리어 관통. [ムル・キカ](../raids/muru_kika.md) 배포 한정 클리어(캄라네쥬와) |
 | アシュティア / 애쉬티어 | 메인 87장 | NS (SA) | 최근 고난이도에서는 쓰기 어렵다. 쓸 때는 堅守陣(애쉬티어·아나벨(ES)만 전개)과 버디 코로보 AF 회복 50%, 「コズミックフレア」의 소생과 HP·MP 회복 |
 | カムラナージュ / [캄라네쥬](../characters/kamlanage.md) | 메인 95장 | NS (SA) | 번개 서브 어태커. ムル・キカ 배포 한정 클리어(피네(AS)와), 보상 「背理夢想の指輪」가 전용 장비. [アン・キ・ディグマ](../raids/an_ki_digma.md) 번개 파티 |

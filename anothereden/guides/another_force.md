@@ -5,9 +5,10 @@ aliases: [AF, アナザーフォース, Another Force, AF 게이지, AFゲージ
 sources:
   - https://anothereden.game-info.wiki/d/%A5%A2%A5%CA%A5%B6%A1%BC%A5%D5%A5%A9%A1%BC%A5%B9%A4%DE%A4%C8%A4%E1 (Seesaa Wiki 「アナザーフォースまとめ」, 2026-07-20 수정본과 댓글(2024-11~2026-10), CC BY-NC-SA 4.0. 일부 수치는 アルティマニア와 「アナデンの館」 조사 인용)
   - https://anothereden.game-info.wiki/d/%C0%B1%C6%B3%B3%D0%C0%C3 (Seesaa Wiki 「星導覚醒」, 2024-09-28 수정본. SB와 AF)
+  - https://anothereden.game-info.wiki/d/%A5%A2%A5%EB%A5%C9 (Seesaa Wiki 「アルド」, 2025-05-11 수정본, 댓글 2026-09-10)·https://anothereden.game-info.wiki/d/%A5%A2%A5%EB%A5%C9%28%A5%A2%A5%CA%A5%B6%A1%BC%A5%B9%A5%BF%A5%A4%A5%EB%29 (「アルド(アナザースタイル)」, 2025-08-04 수정본). 알도 개막 AF 조건
   - 사이트 데이터 ae_translation_all (용어 표기)
 created: 2026-10-23
-updated: 2026-10-29
+updated: 2026-11-09
 ---
 
 # アナザーフォース (AF)
@@ -59,7 +60,7 @@ updated: 2026-10-29
 | 閃撃陣 중 하디(AS) 「エクリプスキャノン」 | +30 |
 | 플람라피스(AS) 전투 시작 시 | 100으로 만듦 |
 | 나기(ES)·투바(ES)의 EX 필살기 | +50 |
-| SA 알도 전투 시작 시 | 200으로 만듦 |
+| SA [알도](../characters/aldo.md) 전투 시작 시 | NS는 알도 포함 전위 천 3명 이상이면 200으로 만듦. AS는 전위면 100 미만일 때 100으로 |
 | 코로보 차지 스킬 (Seesaa 표기 「スチームチャージ」) | +60 / 애쉬티어가 전위면 +100 |
 | 모케 「モケの遠吠え」 | +10 |
 | 피네(AS) 「オーガグレイス」 | +200 |
