@@ -9,11 +9,11 @@ sources:
   - https://anothereden.game-info.wiki/d/%B7%EE%B2%DA%A4%CE%CE%E1%BE%EE (Seesaa Wiki 「月華の令嬢」, 2026-07-16 수정본)
   - https://anothereden.game-info.wiki/d/%B7%EE%B2%DA%A4%CE%CE%E1%BE%EE%28%A5%A2%A5%CA%A5%B6%A1%BC%A5%B9%A5%BF%A5%A4%A5%EB%29 (Seesaa Wiki 「月華の令嬢(アナザースタイル)」, 2026-07-16 수정본)
   - https://anothereden.game-info.wiki/d/%A5%B8%A5%EB%A5%D5%A5%A1%A5%CB%A1%BC%28%A5%A2%A5%CA%A5%B6%A1%BC%A5%B9%A5%BF%A5%A4%A5%EB%29 (Seesaa Wiki 「ジルファニー(アナザースタイル)」, 2026-10-11 수정본. 탱커형 편성)
-  - Seesaa Wiki 「カプトニク」(2024-07-12)·「闇のアルターフォース」(2026-03-07)·「アン・キ・ディグマ」(2026-04-02)·「非公式隠しボス難易度表」(2026-08-11). 보스별 평가
+  - Seesaa Wiki 「カプトニク」(2024-07-12)·「闇のアルターフォース」(2026-03-07)·「アン・キ・ディグマ」(2026-04-02)·「暁の塔のヌシ」(2025-07-09)·「非公式隠しボス難易度表」(2026-08-11). 보스별 평가
   - https://anothereden.game-info.wiki/d/%C0%B1%C6%B3%B3%D0%C0%C3%A5%AD%A5%E3%A5%E9%B0%EC%CD%F7 (Seesaa Wiki 「星導覚醒キャラ一覧」, 2026-11-09 수정본. 엘실(AS) 실장일)
   - 사이트 데이터 ae_translation_all (용어 표기)
 created: 2026-10-22
-updated: 2026-11-09
+updated: 2026-11-10
 ---
 
 # 물 파티 (水天陣 편성)
@@ -124,7 +124,7 @@ updated: 2026-11-09
 | [カプトニク](../raids/kaputoniku.md) ★11.9 | SA 질퍼니·SA 마츠리카로 받고 히스메나가 어태커, 엘실이 기믹을 무시하게 한다. 꼼수: 4턴째 「グラスミゼリコルド」로 弱点看破를 걸고, 적이 ANOTHER ZONE을 펴기 직전 엘실을 빼 전위를 불 2 + 물 1로 만들어 極・水天陣을 펴게 한다 |
 | [闇のアルターフォース](../raids/yami_alter_force.md) ★11.9 | 엘실 채용형은 다소 장기전이지만 쉬운 편. 4턴 뒤 「グラスミゼリコルド」로 弱点看破가 영구 |
 | [アン・キ・ディグマ](../raids/an_ki_digma.md) ★12.0 | 세 형태 중 하나를 맡는다. SA 메리나, 마츠리카, 베르단타, 뮬루스(ES)(星海陣이라 水天陣과의 전환을 고려) |
-| 暁の塔のヌシ ★11.7 | 물 이외 무효. 물 물리 파티가 없으면 난이도가 크게 오른다 ([숨은 보스](superbosses.md)) |
+| [暁の塔のヌシ](../raids/akatsuki_no_tou_no_nushi.md) ★11.7 | 물 이외 무효. 엘실·펠미나(ES)·심홍의 사자 이루루 물 물리 파티로 3턴. 레레(AS) 물 마법은 듀이(AS)로 「バーンアンガー」를 지운다 |
 
 ## 히스토리
 
