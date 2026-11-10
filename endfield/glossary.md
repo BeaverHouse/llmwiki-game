@@ -122,8 +122,10 @@ sources:
   - https://namu.wiki/w/명일방주:%20엔드필드/무기/권총 (반항·향수 설명문과 반항 이야기 한국어 텍스트, 2026-10-06 수정본, 2026-11-04 열람, CC BY-NC-SA 2.0 KR)
   - https://endfield.wiki.gg/wiki/Bureau_of_Swordmancers · Marker_Stone · Marker_Stone_Interiors · Æthillu · Patron_of_the_Spring_I · Du_Ming (2026-11-04 열람)
   - https://endfield.wiki.gg/wiki/Wuling_Watchguards · Iron_Boatswain · Jia_Ban · Hongshan_Crater (2026-11-05 열람)
+  - https://endfield.wiki.gg/wiki/Arsenal_Ticket · Laevatain/File (2026-11-09 열람), https://namu.wiki/w/레바테인(명일방주:%20엔드필드) (크래드 한국어 표기, 2026-11-05 수정본, CC BY-NC-SA 2.0 KR)
+  - https://endfield.gryphline.com/ko-kr/news/0753 (공식 만화 <약속> 공지)
 created: 2026-10-12
-updated: 2026-11-07
+updated: 2026-11-09
 ---
 
 # 엔드필드 고유명사 표기 (ko/en/ja)
@@ -162,6 +164,7 @@ updated: 2026-11-07
 | 미션 제로 | Zeroth Directive | 初号指令 | 2차 | zh 零号委托. 1.0 버전 이름. 나무위키 2장 Ⅷ 요약은 '제로번째 지령' |
 | 미션 제로의 서명인 | Signatory of Zeroth Directive | — | 2차 | |
 | 생명 재가동 | — | — | 미확인 | 미션 제로의 목적. 나무위키 요약은 '생명의 고동', '생명의 재시작' |
+| 약속 | The Promise | — | 공식(ko) | 펠리카 공식 만화. ko는 공식 공지 '공식 만화 <약속> 공개' |
 | 로도스 아일랜드 | Rhodes Island | ロドス・アイランド | 2차 | 엔드필드 공업을 함께 세운 세력 |
 | 로도스 아일랜드 제약회사 | Rhodes Island Pharmaceuticals | — | 공식(ko) | 로도스 아일랜드의 정식 명칭 |
 | 엔드필드 공업과 로도스 아일랜드 제약회사 간 특수 기술직 협력에 관한 협약 | Framework Agreement on Special Technical Roles and Co-Operation Between Endfield Industries and Rhodes Island Pharmaceuticals | — | 공식(ko) | 리컨비너 오퍼레이터 파견의 근거 |
@@ -393,7 +396,7 @@ updated: 2026-11-07
 | 피오나 | Fiona | — | 2차 | 제강호 통신 담당 |
 | 마틴 마빈 말렌 | Martin Marvin Malen | — | 2차 | 인사 보조(진천우 요약서는 '인사 조수'). 인사 요약서를 씀 |
 | 도치 | Lil' Dodge | — | 2차 | 엔드필드 공업의 대리 작전 교관. 페로. ko는 여풍 파일 자료 1·로시 인사 요약서 |
-| — | Mr. Krad | — | 미확인 | 도치가 가르침을 옮기는 인물. 아이템 설명에만 나옴 |
+| 크래드 | Krad (Shayen Krad) | — | 2차 | 엔드필드 보안 전문가(en Security Professional). ko는 레바테인·아케쿠리 파일 자료, 아델리아 대사는 '크래드 씨'. 전체 이름의 ko 미확인 |
 | 극점 원정 | Polar Expedition | — | 2차 | 관리자가 북쪽으로 이끈 원정. ko는 안개 속 불빛 설명문 |
 | TA-TA | Trans-Æther Tranquilizer-Automata | — | 2차 | 균열을 봉인하고 자폭한 프로토타입 기계 |
 | 네파리스 | Nefarith | ネファリス | 2차 | zh 聂菲斯. 본 크러셔를 장악한 인물 |
@@ -946,7 +949,7 @@ updated: 2026-11-07
 | 재구축 신청 | RE-Factor Issue | — | 2차 | 무기 복각. 첫 시리즈 '점묘 신청' |
 | 결빙 / 성음 / 원정 / 숭산 / 뇌명 신청 | — | — | 미확인 | 상시 무기고 신청 |
 | 무기고의 선물 | — | — | 미확인 | 무기고 신청 누적 보상 |
-| 무기고 징표 | — | — | 미확인 | 무기 신청 재화 |
+| 무기고 징표 | Arsenal Ticket | 武庫配給 | 2차 | zh 武库配额. 무기 신청 재화 |
 | 보장 징표 | Bond Quota* | — | 미확인 | 중복 오퍼레이터 부산물. en은 교환소 획득 조건으로 추정 |
 | 통합 징표 | AIC Quota* | — | 미확인 | en은 교환 품목으로 추정 |
 | 최후의 징표 | Endpoint Quota* | — | 미확인 | 상시 6성 무기 교환. en은 교환소 가격으로 추정 |
@@ -1244,6 +1247,7 @@ updated: 2026-11-07
 
 ## 히스토리
 
+- 2026-11-09: Mr. Krad를 게임 텍스트의 '크래드'로 확정. 공식 만화 <약속>, 무기고 징표 en·ja 표기 추가.
 - 2026-11-08: 도치(Lil' Dodge), Mr. Krad, 극점 원정 추가.
 - 2026-11-07: 담 천사 영어 표기, 명하 파일 자료의 이름 추가. 금위군 설명을 명하 대사대로 고침.
 - 2026-11-06: 명하 스킬·우레, 환월·응집 공업, 탈로스 I, 안사원·영수벽 추가. 향수 영어 표기 확정.
