@@ -4,10 +4,11 @@ type: guide
 aliases: [하보크, SA 하보크, 하보크(SA), ハヴォック, Havoc, 마크 달렛, マークダレット, ベズナギア, 拘束ワイヤー]
 sources:
   - https://anothereden.game-info.wiki/d/%A5%CF%A5%F4%A5%A9%A5%C3%A5%AF (Seesaa Wiki 「ハヴォック」, 2026-07-08 수정본, 댓글 1건(2026-07-08), CC BY-NC-SA 4.0)
+  - https://anothereden.game-info.wiki/d/%A5%DE%A1%BC%A5%AF%A5%F4%A5%A1%A5%F4 (Seesaa Wiki 「マークヴァヴ」, 2026-06-14 수정본. 極・撃陣の力<打> 수치)
   - 보스 운용은 이 위키의 [歴戦の甲鎧竜](../raids/rekisen_kougairyuu.md) 경유
   - 사이트 데이터 ae_character·ae_translation_all (2026-10-30. 명, 성도각성 있음)
 created: 2026-10-30
-updated: 2026-10-30
+updated: 2026-11-12
 ---
 
 # 하보크
@@ -82,7 +83,7 @@ updated: 2026-10-30
 
 ## 장비·글래스터
 
-- 글래스터: 極・撃陣の力<打>(マークヴァヴ 격파로 입수. 極・轟打陣 중 피해 UP + 상시 全属性攻撃 20%UP), 覚醒の力<拳>(SB로 ANOTHER ZONE을 계속 늘리므로) → [글래스터](../guides/grasta.md).
+- 글래스터: 極・撃陣の力<打>([マークヴァヴ](../raids/maakuvavu.md) 격파로 입수. 極・轟打陣 중 피해 15%UP + 全属性攻撃 20%UP), 覚醒の力<拳>(SB로 ANOTHER ZONE을 계속 늘리므로) → [글래스터](../guides/grasta.md).
 - 무기: ルーナ・カエストス(打ち直し). 서포터라 速度를 올려야 하고, 천명 보너스에 速度가 전혀 없다 → [武器打ち直し](../guides/weapon_reforging.md).
 - 방어구: 小判金の首飾り(같은 이유로 速度).
 

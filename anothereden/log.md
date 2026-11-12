@@ -1,5 +1,7 @@
 # Another Eden — 변경 기록 (append-only, 최신이 위)
 
+- 2026-11-12 | ai | raids/maakuvavu.md·guides/seikai_party.md 신규, guides/status_effects.md·grasta.md·armor.md·star5_release.md·superbosses.md, raids/ozuma.md, characters/havoc.md·myrus_es.md, glossary.md·index.md·backlog.md | マークヴァヴ 강적 문서와 星海陣 파티 문서를 쓰고 상태 이상 대책·광석 입수처·敬虔/継承 방어구·☆5 해방 8편을 채움 | Seesaa 「マークヴァヴ」·「ZONE・応援効果まとめ」·「状態効果まとめ」·「バッジ一覧」·AD 페이지·「装備強化_敬虔/継承シリーズ」·퀘스트 페이지 8종, altema 「markvav」, niwacame
+
 - 2026-11-11 | ai | guides/rasen_no_kioku.md 신규, guides/sub_contents.md·star5_release.md, glossary.md·index.md·backlog.md | 나선 외전 개방 사슬과 クラフト 문서를 쓰고 서브 콘텐츠에 3부 中編 魔物討伐依頼, ☆5 해방에 開眼 アザミ編·開眼 シェリーヌ編을 넣음 | Seesaa 「魔物討伐依頼」·「第3部中編_サブイベント」·「メインストーリー_第3部中編」·「螺旋の記憶と原初の旋律」과 장 페이지 4종·「クラフト」·「開眼アザミ編」·「開眼シェリーヌ編」
 
 - 2026-11-10 | ai | raids/akatsuki_no_tou_no_nushi.md·koudou_no_nushi.md·shicchitai_no_nushi.md 신규, guides/star5_release.md·superbosses.md·water_party.md·meta_equipment.md, raids/hyougen_no_nushi.md, glossary.md·index.md·backlog.md | 4大ヌシ 나머지 세 보스 문서를 쓰고 ☆5 해방에 開眼 リヴァイア編, 난이도표에 トビノオサマ를 넣고 관련 링크를 이었다 | Seesaa 「暁の塔のヌシ」·「坑道のヌシ」·「湿地帯のヌシ」·「開眼リヴァイア編」·「非公式隠しボス難易度表」
