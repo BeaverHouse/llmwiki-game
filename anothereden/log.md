@@ -1,5 +1,7 @@
 # Another Eden — 변경 기록 (append-only, 최신이 위)
 
+- 2026-11-13 | ai | guides/star5_release.md·armor.md, characters/riica.md·steiner.md, glossary.md·index.md·backlog.md | ☆5 해방 퀘스트의 빈 전투(Jewel in Shade·the winged prayer·One Other Ordeal)와 시작 조건을 채우고 東邦 방어구를 넣어 리이카·슈타이너의 효과 엇갈림을 맞춤 | altema 「jewelinshade」, BWIKI 퀘스트 7편·「平行迷宫：冥峡界」, Seesaa 「スタイナー」
+
 - 2026-11-12 | ai | raids/maakuvavu.md·guides/seikai_party.md 신규, guides/status_effects.md·grasta.md·armor.md·star5_release.md·superbosses.md, raids/ozuma.md, characters/havoc.md·myrus_es.md, glossary.md·index.md·backlog.md | マークヴァヴ 강적 문서와 星海陣 파티 문서를 쓰고 상태 이상 대책·광석 입수처·敬虔/継承 방어구·☆5 해방 8편을 채움 | Seesaa 「マークヴァヴ」·「ZONE・応援効果まとめ」·「状態効果まとめ」·「バッジ一覧」·AD 페이지·「装備強化_敬虔/継承シリーズ」·퀘스트 페이지 8종, altema 「markvav」, niwacame
 
 - 2026-11-11 | ai | guides/rasen_no_kioku.md 신규, guides/sub_contents.md·star5_release.md, glossary.md·index.md·backlog.md | 나선 외전 개방 사슬과 クラフト 문서를 쓰고 서브 콘텐츠에 3부 中編 魔物討伐依頼, ☆5 해방에 開眼 アザミ編·開眼 シェリーヌ編을 넣음 | Seesaa 「魔物討伐依頼」·「第3部中編_サブイベント」·「メインストーリー_第3部中編」·「螺旋の記憶と原初の旋律」과 장 페이지 4종·「クラフト」·「開眼アザミ編」·「開眼シェリーヌ編」
