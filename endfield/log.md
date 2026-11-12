@@ -2,6 +2,8 @@
 
 - 2026-11-12 | ai | backlog.md | 답 기한이 지난 공식 만화 <약속>의 해 질문을 기본값대로 닫음 | 정기 성장 작업, 기존 문서의 출처 병기
 
+- 2026-11-12 | ai | backlog.md | 명하 재검증 항목에 우레 강타 주체와 질주하는 천둥 감전 레벨의 답을 적음 | 나무위키, endfield.wiki.gg, Icy Veins, Game8
+
 - 2026-11-10 | ai | world/endfield_staff.md·backlog.md | 펠리카 파일 자료 2의 정보 담당자는 어느 기록에도 이름이 없음을 적고 두 사람이 어린 펠리카를 아는 대목을 덧붙임 | 정기 성장 작업, 나무위키, endfield.wiki.gg
 
 - 2026-11-09 | ai | world/endfield_staff.md·operators/perlica.md·world/timeline.md·glossary.md·index.md·backlog.md | 보안 전문가 크래드 절을 쓰고 펠리카 배경에 공식 만화 <약속> 요약을 넣음 | 정기 성장 작업, 나무위키, endfield.wiki.gg, 공식 공지, Icy Veins
