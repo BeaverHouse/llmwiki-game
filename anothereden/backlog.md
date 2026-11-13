@@ -5,7 +5,7 @@
 출처 메모:
 - altema.jp와 anothereden.wiki는 자주 403이다. 검색 결과 요약은 근거로 쓰지 않는다.
 - Seesaa 주소는 EUC-JP 퍼센트 인코딩이다. ae_character의 seesaa_url을 쓰고, 가타카나는 A5xx 규칙으로 만든다(カプトニク = %A5%AB%A5%D7%A5%C8%A5%CB%A5%AF). 번쩍번쩍 화가 멜로디의 seesaa_url은 404이고 실제 페이지는 「煌々の画人」이다. 고답의 요묘 네코코도 404이고 실제 페이지는 「高踏の妖猫」(%b9%e2%c6%a7%a4%ce%cd%c5%c7%ad)다.
-- 2026-10-30 기준 anothereden.wiki와 altema 개별 동료 페이지는 모두 403이었다. 동료 카드 6편은 Seesaa 한 곳만 근거다. 2026-11-08에는 altema 「turisystem-2766」만 열렸고 「ryikadx」·「yonndainusi」·anothereden.wiki 「Fishing」은 403이었다. 2026-11-13에는 altema 「jewelinshade」만 열렸고 「meikyoukai」·「markvav」·「wingedprayer」·「anotherdungeon」·anothereden.wiki 「Fishing」·「Underworld」는 403이었다.
+- 2026-10-30 기준 anothereden.wiki와 altema 개별 동료 페이지는 모두 403이었다. 동료 카드 6편은 Seesaa 한 곳만 근거다. 2026-11-08에는 altema 「turisystem-2766」만 열렸고 「ryikadx」·「yonndainusi」·anothereden.wiki 「Fishing」은 403이었다. 2026-11-13에는 altema 「jewelinshade」만 열렸고 「meikyoukai」·「markvav」·「wingedprayer」·「anotherdungeon」·anothereden.wiki 「Fishing」·「Underworld」는 403이었다. 2026-11-14에는 altema 「meikyoukai」·「wingedprayer」·「ryikadx」·「yonndainusi」가 열렸고 「markvav」·「anothergalreamirai」·「turichart」·「ffcollabo」는 403이었다.
 - 중국어판 BWIKI(`https://wiki.biligame.com/ae/`)는 열린다. 퀘스트·AD 문서가 2022~2023년 것이고 이름이 중국어라, 일본어 출처가 없는 고유명사는 옮기지 않고 "확인하지 못함"으로 둔다. 「钓鱼」는 567, 「冥峡界」 단독 주소는 404이고 AD 문서는 「平行迷宫：冥峡界」다.
 - 공격 종류는 베기·찌르기·타격·마법으로 쓴다.
 
@@ -13,9 +13,9 @@
 
 - 정비 | 고난이도 기준 개편 4: 파티·장비 | 파티 문서는 필수 멤버와 교체 자리, 배포 동료 파티. 장비·글래스터는 고난이도 세팅과 파밍만
 - 콘텐츠·아이템 | 맵의 반짝이와 エクリプス 무구 | 2026-11-07 조사: Seesaa에도 altema에도 반짝이 모음 페이지가 없고, 지역 페이지(「現代ミグレイナ」·「未来ミグレイナ」)는 지명뿐이다. 반짝이는 스토리 장·지역 페이지마다 「キラキラ」 표(a, b, c…)로 흩어져 있다. 고난이도와 닿는 것은 「装備強化_エクリプス武具シリーズ」와 臥竜の島と絶崖の紋(竜涙・改)·混沌の神域と英傑の詩(冥核・改)의 FEAR 소재 반짝이다. 2026-11-08 「装備強化_エクリプス武具シリーズ」(2025-08-07 수정본)를 읽었다: 무기 8종·장신구 3종, +10 능력은 무기 てきのかず 30% + 奇襲戦法, 장신구 ペイン·石化·暗闇 내성 +50% + 魔法耐性 +15%. 소재 표의 반짝이 구분은 색으로만 되어 있어 글로는 가릴 수 없다. 고난이도에서 쓴다는 출처는 아직 없다(환경 장비 문서에도 없음). 쓰는 근거가 나오면 장비 문서에 넣는다 | Seesaa 「環境キャラ・装備まとめ」, 「装備強化_エクリプス武具シリーズ」, 「臥竜の島と絶崖の紋」·「混沌の神域と英傑の詩」 강화 절
-- 콘텐츠 | ☆5 해방 퀘스트 일본어 이름 (the winged prayer 적·장소, One Other Ordeal 2·3전 적과 행동 짝, 胡蝶の街AI·wind liberator 시작 지점) | 2026-11-13 BWIKI로 전투는 다 채웠다. the winged prayer 적 5체와 시작 방, One Other Ordeal 2·3전이 어느 적인지(BWIKI 순서와 Seesaa 훈장 순서가 다름), 竜宮城 本丸·次元迷宮·真・双星の童子の証·シータ区처럼 중국어판에서 옮긴 이름이 남았다 | altema 「wingedprayer」·「ryikadx」, Seesaa 「剣の唄と失楽の翼」 각 화, 「閉ざされた箱庭と蒼穹の叛逆者」 각 화
-- 콘텐츠 | 낚시 나머지 (リル 무기 제작 장소, ヌシ 4종의 흡수 속성) | 2026-11-09 altema 「yonndainusi」로 紅サンゴの欠片·海の炎·ヌシ 공격을 채웠다. 흡수 속성은 그 페이지 표가 그림이라 읽지 못했다. リル 무기 제작 장소는 어느 출처에도 없다. 2026-11-10 altema 「turichart」·anothereden.wiki 「Fishing」 403, Seesaa 전문 검색에서 クラーケン은 「メビウスの迷宮」·훈장 페이지에만 나온다(낚시 ヌシ 개별 페이지 없음) | altema 「turichart」, Seesaa 「釣り」
-- 콘텐츠 | アナザーダンジョン 「명협계」·「未来ガルレア大陸」 | [글래스터](guides/grasta.md#광석-입수처) 광석 교환 재화(漂着物·猫土偶·変質鉱石·霊石の欠片)와 날씨 조건 신사, 개방 장, 난이도별 보상. 2026-11-12 Seesaa에 두 AD 페이지가 없어 2021년 niwacame로 교환 값을 적었다. 2026-11-13 BWIKI 「平行迷宫：冥峡界」(2023-03): 83장 클리어로 개방(녹색 패스 2장), 교환표(狙い撃つ 등 漂着物 180·猫土偶 1 칸, 맵 개방 아이템 13·6·30), 보물 맵 넷과 보스, 결산 보상 5단(3단 이상 天冥 120·240·360), 東邦 방어구(→ [방어구](guides/armor.md)에 넣음). 교환표가 "또는"인지 "둘 다"인지와 맵·보스 일본어 이름(鬼火洞·次元大聖堂 등은 검색 요약뿐)을 일본어 출처로 확인해야 문서를 쓴다 | altema 「meikyoukai」·「anothergalreamirai」·「gurasutarenseiitem」(2026-11-13도 403), BWIKI 「平行迷宫：冥峡界」·「未来嘉路雷亚大陆」, Seesaa 「アナダン一覧」
+- 콘텐츠 | ☆5 해방 퀘스트 일본어 이름 (One Other Ordeal 2·3전 적과 행동 짝, 胡蝶の街AI·wind liberator 시작 지점) | 2026-11-14 the winged prayer는 altema로 다 채웠다. One Other Ordeal 2·3전이 어느 적인지(BWIKI 순서와 Seesaa 훈장 순서가 다름), 次元迷宮·真・双星の童子の証·シータ区처럼 중국어판에서 옮긴 이름이 남았다(竜宮城 本丸은 altema 「yonndainusi」에 「竜宮城の本丸」으로 나온다). altema 「ryikadx」는 リィカ・デラックス를 4전으로 적어 훈장 순서(5전)와 다르다 | altema 「OneOtherOrdeal」 공략 페이지, Seesaa 「閉ざされた箱庭と蒼穹の叛逆者」 각 화
+- 콘텐츠 | 낚시 나머지 (リル 무기 제작 장소, ヌシ 4종의 흡수 속성) | 2026-11-09 altema 「yonndainusi」로 紅サンゴの欠片·海の炎·ヌシ 공격을 채웠다. 흡수 속성은 그 페이지 표가 그림이라 읽지 못했다. リル 무기 제작 장소는 어느 출처에도 없다. 2026-11-10 altema 「turichart」·anothereden.wiki 「Fishing」 403, Seesaa 전문 검색에서 クラーケン은 「メビウスの迷宮」·훈장 페이지에만 나온다(낚시 ヌシ 개별 페이지 없음). 2026-11-14 「yonndainusi」를 다시 읽었지만 흡수 칸은 여전히 그림이고, 「turichart」는 403 | altema 「turichart」, Seesaa 「釣り」
+- 콘텐츠 | アナザーダンジョン 「未来ガルレア大陸」 | [글래스터](guides/grasta.md#광석-입수처) 광석 교환 재화(変質鉱石·霊石の欠片)와 비 오는 날 神社跡地, 개방 장, 보상. 명협계는 2026-11-14 [명협계](guides/meikyoukai.md)로 썼다. 같은 꼴(拠点·소재·보물 에리어)로 쓴다 | altema 「anothergalreamirai」(2026-11-14 403), BWIKI 「未来嘉路雷亚大陆」, Seesaa 「アナダン一覧」
 - 보스 | マークヴァヴ 클리어 영상 주소와 부활 뒤 턴 세기 | [マークヴァヴ](raids/maakuvavu.md)의 영상 5편은 Seesaa 문서에 걸린 것인데 읽기 도구가 주소를 떨어뜨려 링크가 없다(2026-11-13 다시 읽어도 같음, 모바일 /sp/ 주소는 404). 부활 뒤 행동 패턴이 처음으로 돌아가는지(altema)·경과 턴을 잇는지(Seesaa 댓글, 보류)도 엇갈린다. 「フォースジャマー」 제2형태 2턴째 30%/40%도 | Seesaa 「マークヴァヴ」 모바일판, altema 「markvav」 영상 칸
 - 시스템·콘텐츠 | FF9 협주 「Memories of Another Sky」와 협주 동료 공통 시스템 (トランス, 裏技, サポートアビリティ·魔石力, SA装備 칸과 Ver3.16.0 レプリカ版 교환, 「次元戦艦アーク」 天冥値) | [슈타이너](characters/steiner.md)·[지탄](characters/zidane.md) 카드가 같은 설명을 되풀이한다. 서포트 어빌리티 「庇立て」를 성도각성 효과로 잘못 읽기 쉽다. 협주 종료 날짜와 종료 뒤 남는 것, 盗賊刀·ブラッドソード 입수처도 함께 본다 | Seesaa 「スタイナー」·「ジタン」·「ビビ」·「ダガー」, Seesaa 톱 페이지, altema 「ffcollabo」
 - 아이템 | 結実 무기별 고유 어빌리티와 才珠 선택 | 현현 무기 문서는 공통 구조만 다룸. 동료마다 Lv11 추가 어빌리티와 권장 才珠가 다름 | altema 「結実〇〇の攻略」 각 페이지(ketuzitu〜), Seesaa 「結実顕現武器」
@@ -69,9 +69,12 @@
 - 아이템 | 年代機 방어구 | 2026-11-11 Seesaa 「メインストーリー_第3部中編」 댓글의 ニャルム 상점 목록에는 トルルタン 武器屋 「年代機の杖」~「年代機の槌」 무기 8종(각 1200)만 있다. 방어구가 따로 있는지, ヌシ 문서의 "年代機 방어구"가 무기를 잘못 적은 것인지 「武器」·「防具」에서 확인한다. 대기 계통 환경에서 ペイン 시 피해 +50%. [坑道のヌシ](raids/koudou_no_nushi.md)·[湿地帯のヌシ](raids/shicchitai_no_nushi.md)의 어태커 장비인데 [방어구](guides/armor.md)에 항목이 없다. 효과 수치와 입수처 | Seesaa 「防具」, 「装備強化まとめ」
 - 보스 | 悠久の守神ゲニウス | 亜人の章 뒤 「2万年の時を経て」로 アストラ遺跡(現代)에 나오는 숨은 보스. [나선 외전 개방](guides/rasen_no_kioku.md)에 이름만 있다 | Seesaa 「悠久の守神ゲニウス」(있으면), 「非公式隠しボス難易度表」
 - 아이템 | 宝物庫 クラフト의 한 개뿐인 무기·방어구·글래스터 | 「螺旋の記憶と原初の旋律_亜人の章」은 宝物庫 クラフト로 一点もの 무기·방어구·글래스터를 얻는다고만 적었다. 이름과 효과 | Seesaa 「螺旋の記憶_亜人の章_第1話」~「第3話」, 「武器」·「防具」·「グラスタ」
+- 정비 | 常勝ノ盃 회복량 | [알도](characters/aldo.md)는 「常勝の盃<剣>」 전투 종료 시 HP·MP 10% 회복, [명협계](guides/meikyoukai.md) 교환표는 「常勝ノ盃」 5%. 같은 글래스터인지(표기가 다름)와 수치를 Seesaa 「グラスタ」로 맞춘다 | Seesaa 「グラスタ」, 「アルド」
 - 시스템 | 대기 계통 환경 (スモッグ 등) | [坑道のヌシ](raids/koudou_no_nushi.md)의 スモッグ(毒 시 피해 증가)와 [湿地帯のヌシ](raids/shicchitai_no_nushi.md)·[暁の塔のヌシ](raids/akatsuki_no_tou_no_nushi.md)의 "대기 계통 환경 발동 시" 오라. 어떤 환경이 대기 계통인지 정리된 곳이 없다 | Seesaa 「環境・オーラ効果まとめ」(아직 없으면 「状態効果まとめ」)
 
 ## 완료
+
+- 콘텐츠 | 명협계, the winged prayer 일본어 이름, リィカ・デラックス | 2026-11-14. [명협계](guides/meikyoukai.md) 신규(교환은 漂着物 180개 또는 猫土偶 1개로 결론). [☆5 해방 퀘스트](guides/star5_release.md)의 the winged prayer에 조건·시작 방·진행 순서·적 이름·5전 ZONE 덮어쓰기 규칙과 회복량 3,727,255, ☆5 소재를 넣고 One Other Ordeal 5전에 모드 이름·대처를 더함. [방어구](guides/armor.md) 東邦 입수는 명협계 문서로 링크. 「고난이도 기준 개편 4」·맵의 반짝이는 범위가 커서, 낚시·マークヴァヴ·未来ガルレア·FF9 협주는 출처가 막혀 이번에도 손대지 않음
 
 - 콘텐츠·아이템 | ☆5 해방 나머지 전투와 시작 조건, 東邦 방어구 | 2026-11-13. [☆5 해방 퀘스트](guides/star5_release.md)에 Jewel in Shade·the winged prayer 절, One Other Ordeal 1~3·5전과 조건·6시간 대기, 開眼 リヴァイア·アザミ와 胡蝶の街AI 조건, wind liberator 시작 도시. [방어구](guides/armor.md)에 東邦 시리즈를 넣고 리이카·슈타이너 카드의 효과 엇갈림을 物理·全属性耐性 각 10%로 맞춤. 명협계는 83장 개방까지 확인했지만 일본어 이름이 없어 문서는 미룸. 「고난이도 기준 개편 4」·맵의 반짝이·낚시 나머지·マークヴァヴ 영상은 출처가 막히거나 범위가 커서 이번에도 손대지 않음
 
