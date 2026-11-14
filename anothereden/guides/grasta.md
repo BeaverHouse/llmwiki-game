@@ -15,9 +15,10 @@ sources:
   - https://anothereden.game-info.wiki/d/%A5%DE%A1%BC%A5%AF%A5%F4%A5%A1%A5%F4 (Seesaa Wiki 「マークヴァヴ」, 2026-06-14 수정본. 極・撃陣の力<打>)
   - http://niwacame.com/meikyou/ (niwacame 「冥峡界」, 2021-05 갱신. 클리어 보상과 「混沌の子」 교환)
   - http://niwacame.com/future-garlea/ (niwacame 「未来ガルレア大陸」, 2021-05 갱신. 클리어 보상과 교환)
+  - https://anothereden.game-info.wiki/d/%A5%C8%A5%D3%A5%CE%A5%AA%A5%B5%A5%DE (Seesaa Wiki 「トビノオサマ」, 2026-10-30 수정본. 刻唄の力<杖> 보상)
   - 사이트 데이터 ae_translation_all (용어 표기)
 created: 2026-10-22
-updated: 2026-11-14
+updated: 2026-11-15
 ---
 
 # 자주 쓰는 글래스터와 입수처
@@ -111,7 +112,7 @@ updated: 2026-11-14
 
 ## 기타
 
-- 「炎ノ猛打」(마리엘): 스킬 「ファイアラッシュ」(威力 40%×5, HP 최대 시 피해 2배). 廻生 「封じられし禍つ魍魎の試練」 Stage3 클리어 보상. 「刻唄の力」은 [ZONE](zone.md)의 歌唱 항목에 효과가 있고 입수처는 확인하지 못했다.
+- 「炎ノ猛打」(마리엘): 스킬 「ファイアラッシュ」(威力 40%×5, HP 최대 시 피해 2배). 廻生 「封じられし禍つ魍魎の試練」 Stage3 클리어 보상. 「刻唄の力」은 [ZONE](zone.md)의 歌唱 항목에 효과가 있다. 「刻唄の力<杖>」은 [トビノオサマ](../raids/tobinoosama.md) 보상이고, 나머지 입수처는 확인하지 못했다.
 - 증표 글래스터(「〜の証」)는 각 동료 문서에 있다. 「お焚き上げ」(猫神神社)에서 ☆5 職書 10권, 詩篇 10권, 이절·개전 5권, 경전록 3권으로 1개를 얻는다.
 - 赫耀 무기의 狙い撃つ처럼 장비가 같은 항목을 가지면 글래스터 칸을 아낀다 → [환경 장비](meta_equipment.md).
 
