@@ -5,7 +5,7 @@
 출처 메모:
 - altema.jp와 anothereden.wiki는 자주 403이다. 검색 결과 요약은 근거로 쓰지 않는다.
 - Seesaa 주소는 EUC-JP 퍼센트 인코딩이다. ae_character의 seesaa_url을 쓰고, 가타카나는 A5xx 규칙으로 만든다(カプトニク = %A5%AB%A5%D7%A5%C8%A5%CB%A5%AF). 번쩍번쩍 화가 멜로디의 seesaa_url은 404이고 실제 페이지는 「煌々の画人」이다. 고답의 요묘 네코코도 404이고 실제 페이지는 「高踏の妖猫」(%b9%e2%c6%a7%a4%ce%cd%c5%c7%ad)다.
-- 2026-10-30 기준 anothereden.wiki와 altema 개별 동료 페이지는 모두 403이었다. 동료 카드 6편은 Seesaa 한 곳만 근거다. 2026-11-08에는 altema 「turisystem-2766」만 열렸고 「ryikadx」·「yonndainusi」·anothereden.wiki 「Fishing」은 403이었다. 2026-11-13에는 altema 「jewelinshade」만 열렸고 「meikyoukai」·「markvav」·「wingedprayer」·「anotherdungeon」·anothereden.wiki 「Fishing」·「Underworld」는 403이었다. 2026-11-14에는 altema 「meikyoukai」·「wingedprayer」·「ryikadx」·「yonndainusi」가 열렸고 「markvav」·「anothergalreamirai」·「turichart」·「ffcollabo」는 403이었다.
+- 2026-10-30 기준 anothereden.wiki와 altema 개별 동료 페이지는 모두 403이었다. 동료 카드 6편은 Seesaa 한 곳만 근거다. 2026-11-08에는 altema 「turisystem-2766」만 열렸고 「ryikadx」·「yonndainusi」·anothereden.wiki 「Fishing」은 403이었다. 2026-11-13에는 altema 「jewelinshade」만 열렸고 「meikyoukai」·「markvav」·「wingedprayer」·「anotherdungeon」·anothereden.wiki 「Fishing」·「Underworld」는 403이었다. 2026-11-14에는 altema 「meikyoukai」·「wingedprayer」·「ryikadx」·「yonndainusi」가 열렸고 「markvav」·「anothergalreamirai」·「turichart」·「ffcollabo」는 403이었다. 2026-11-15에는 altema 「ffcollabo」·「ff9weapon」이 열렸고 「anothergalreamirai」·「markvav」·「turichart」·「sasoubi」·「jigensenkanark」·「tobinoosama」·anothereden.wiki 「Melina」는 403이었다.
 - 중국어판 BWIKI(`https://wiki.biligame.com/ae/`)는 열린다. 퀘스트·AD 문서가 2022~2023년 것이고 이름이 중국어라, 일본어 출처가 없는 고유명사는 옮기지 않고 "확인하지 못함"으로 둔다. 「钓鱼」는 567, 「冥峡界」 단독 주소는 404이고 AD 문서는 「平行迷宫：冥峡界」다.
 - 공격 종류는 베기·찌르기·타격·마법으로 쓴다.
 
@@ -17,12 +17,10 @@
 - 콘텐츠 | 낚시 나머지 (リル 무기 제작 장소, ヌシ 4종의 흡수 속성) | 2026-11-09 altema 「yonndainusi」로 紅サンゴの欠片·海の炎·ヌシ 공격을 채웠다. 흡수 속성은 그 페이지 표가 그림이라 읽지 못했다. リル 무기 제작 장소는 어느 출처에도 없다. 2026-11-10 altema 「turichart」·anothereden.wiki 「Fishing」 403, Seesaa 전문 검색에서 クラーケン은 「メビウスの迷宮」·훈장 페이지에만 나온다(낚시 ヌシ 개별 페이지 없음). 2026-11-14 「yonndainusi」를 다시 읽었지만 흡수 칸은 여전히 그림이고, 「turichart」는 403 | altema 「turichart」, Seesaa 「釣り」
 - 콘텐츠 | アナザーダンジョン 「未来ガルレア大陸」 | [글래스터](guides/grasta.md#광석-입수처) 광석 교환 재화(変質鉱石·霊石の欠片)와 비 오는 날 神社跡地, 개방 장, 보상. 명협계는 2026-11-14 [명협계](guides/meikyoukai.md)로 썼다. 같은 꼴(拠点·소재·보물 에리어)로 쓴다 | altema 「anothergalreamirai」(2026-11-14 403), BWIKI 「未来嘉路雷亚大陆」, Seesaa 「アナダン一覧」
 - 보스 | マークヴァヴ 클리어 영상 주소와 부활 뒤 턴 세기 | [マークヴァヴ](raids/maakuvavu.md)의 영상 5편은 Seesaa 문서에 걸린 것인데 읽기 도구가 주소를 떨어뜨려 링크가 없다(2026-11-13 다시 읽어도 같음, 모바일 /sp/ 주소는 404). 부활 뒤 행동 패턴이 처음으로 돌아가는지(altema)·경과 턴을 잇는지(Seesaa 댓글, 보류)도 엇갈린다. 「フォースジャマー」 제2형태 2턴째 30%/40%도 | Seesaa 「マークヴァヴ」 모바일판, altema 「markvav」 영상 칸
-- 시스템·콘텐츠 | FF9 협주 「Memories of Another Sky」와 협주 동료 공통 시스템 (トランス, 裏技, サポートアビリティ·魔石力, SA装備 칸과 Ver3.16.0 レプリカ版 교환, 「次元戦艦アーク」 天冥値) | [슈타이너](characters/steiner.md)·[지탄](characters/zidane.md) 카드가 같은 설명을 되풀이한다. 서포트 어빌리티 「庇立て」를 성도각성 효과로 잘못 읽기 쉽다. 협주 종료 날짜와 종료 뒤 남는 것, 盗賊刀·ブラッドソード 입수처도 함께 본다 | Seesaa 「スタイナー」·「ジタン」·「ビビ」·「ダガー」, Seesaa 톱 페이지, altema 「ffcollabo」
 - 아이템 | 結実 무기별 고유 어빌리티와 才珠 선택 | 현현 무기 문서는 공통 구조만 다룸. 동료마다 Lv11 추가 어빌리티와 권장 才珠가 다름 | altema 「結実〇〇の攻略」 각 페이지(ketuzitu〜), Seesaa 「結実顕現武器」
 - 콘텐츠 | アナザーダンジョン 교환 재화와 방어구 (エントラーナ 金天蓼, ジスモンデ 魔女の涙蜜, オメガポリス 黄金のゼンマイ) | 방어구 문서의 千年樹·蒐魔装·エルピス 입수처. 교환 수량·주회 방법이 없음 | Seesaa 「アナダン一覧」, altema 각 アナダン 페이지
 - 시스템 | フェイズシフト | 武器打ち直し 공통 소재가 모두 フェイズシフト 레어 소재. 개방 조건·주회 장소 | Seesaa 「武器打ち直し」, 각 지역 페이지
 - 콘텐츠 | 星詠みの書架 | 배포 동료 성도각성(STELLA 난이도)과 전용 방어구 보상의 입수처. [헬레나](characters/helena.md) SA는 「楽園を目指す者たちの書」 STELLA | Seesaa 「星詠みの書架」
-- 동료 | 메리나 | 歌唱·祈祷 담당. ZONE 문서의 応援 효과 항목이 이름만 언급, 서방 파티의 臨機応変 담당, SA 「エルの唄」 | Seesaa 「メリナ」, 「ZONE・応援効果まとめ」
 - 파티 | 베기 파티 (도 파티) | [엘레노아](characters/eleanor.md)의 煌斬陣 편성(시온(ES)·이스카·알도(AS)), [시온(ES)](characters/shion_es.md)의 동방 베기 편성, [히스메나(ES)](characters/hismena_es.md)·[플람라피스(ES)](characters/flammelapis_es.md)의 보현 출장 편성이 모두 이 파티를 전제로 한다. 성도각성 추천 문서에서 Seesaa가 "2026년 화력·손 수가 압도적"이라 한 시구레(ES) 중심 편성. 질버(AS) 문서의 무속성 베기 편성(심홍의 사자 이루루·클로드(ES)·마츠리카) | Seesaa 「星導覚醒おすすめキャラ」, 「シグレ(エクストラスタイル)」, 「ジルバー(アナザースタイル)」
 - 파티 | 月光陣 혼성 파티 | 클러그혼·밀디·틸릴(ES)·알마(AS)의 그림자·번개·결정 혼성 편성 | Seesaa 「クラグホーン」, 「ミルディ」
 - 동료 | 빅트 | 성도각성 추천 ★5(기존 동료 칸). 문서 없음 | Seesaa 「ヴィクト」, 「星導覚醒おすすめキャラ」
@@ -65,14 +63,18 @@
 - 아이템 | 幻抉(打ち直し) | [도회의 자객 렌리](characters/renri_alter.md)의 첫 무기. 장비 버프·디버프가 스킬 쪽과 따로 걸려 「クラックショット」 디버프가 70%를 넘는다. 환경 장비·武器打ち直し 문서에 항목이 없다 | Seesaa 「武器打ち直し」, 「韜晦の討手」
 - 아이템 | オーガベイン・天 입수와 각성 | [알도](characters/aldo.md) 두 스타일의 「オリジンフォース」·冥封 근원. 外典 「霊長の理と枢機の天秤」 5화 뒤 입수, 2전째 격파로 각성까지만 카드에 있다. 2전째 상대와 기믹이 없다 | Seesaa 「アルド」, 「霊長の理と枢機の天秤」
 - 정비 | 「連携 모션 지연으로 AF 행동 1~2회 감소」 근거 | [アナザーフォース](guides/another_force.md)의 "AF 행동이 1~2회 줄기도 한다"는 Seesaa 「マツリカ」에 횟수가 없다(모션이 아주 느리다는 말만 있음). 출처 문장을 찾아 맞춘다 | Seesaa 「アナザーフォースまとめ」, 「マツリカ」
-- 보스 | トビノオサマ | Ver3.17.50 숨은 보스, 비공식 난이도 ★11.7(모든 무기 종류 내성, AF 게이지 회수, 회피 턴, 虚無陣 전개). 2026-11 Seesaa 페이지에 댓글이 이어지는 최신 강적 | Seesaa 「トビノオサマ」
 - 아이템 | 年代機 방어구 | 2026-11-11 Seesaa 「メインストーリー_第3部中編」 댓글의 ニャルム 상점 목록에는 トルルタン 武器屋 「年代機の杖」~「年代機の槌」 무기 8종(각 1200)만 있다. 방어구가 따로 있는지, ヌシ 문서의 "年代機 방어구"가 무기를 잘못 적은 것인지 「武器」·「防具」에서 확인한다. 대기 계통 환경에서 ペイン 시 피해 +50%. [坑道のヌシ](raids/koudou_no_nushi.md)·[湿地帯のヌシ](raids/shicchitai_no_nushi.md)의 어태커 장비인데 [방어구](guides/armor.md)에 항목이 없다. 효과 수치와 입수처 | Seesaa 「防具」, 「装備強化まとめ」
 - 보스 | 悠久の守神ゲニウス | 亜人の章 뒤 「2万年の時を経て」로 アストラ遺跡(現代)에 나오는 숨은 보스. [나선 외전 개방](guides/rasen_no_kioku.md)에 이름만 있다 | Seesaa 「悠久の守神ゲニウス」(있으면), 「非公式隠しボス難易度表」
 - 아이템 | 宝物庫 クラフト의 한 개뿐인 무기·방어구·글래스터 | 「螺旋の記憶と原初の旋律_亜人の章」은 宝物庫 クラフト로 一点もの 무기·방어구·글래스터를 얻는다고만 적었다. 이름과 효과 | Seesaa 「螺旋の記憶_亜人の章_第1話」~「第3話」, 「武器」·「防具」·「グラスタ」
 - 정비 | 常勝ノ盃 회복량 | [알도](characters/aldo.md)는 「常勝の盃<剣>」 전투 종료 시 HP·MP 10% 회복, [명협계](guides/meikyoukai.md) 교환표는 「常勝ノ盃」 5%. 같은 글래스터인지(표기가 다름)와 수치를 Seesaa 「グラスタ」로 맞춘다 | Seesaa 「グラスタ」, 「アルド」
+- 콘텐츠 | 외사 「望郷の魂と逆星の旅人」 제4화 夜遠巡り | [トビノオサマ](raids/tobinoosama.md) 출현 조건이 "夜遠巡り의 괴이를 모두 푼다"뿐이다. 괴이 목록·순서·祝玉·手記, 祭祀場 境内 숨은 방 위치를 정리한다(검색 요약에 祝玉 6개·ナミイチの部屋 手記가 나오지만 본문은 읽지 못함) | Seesaa 「望郷の魂_第4話」(댓글 많음), altema 「tobinoosama」·「幻霊の剣と神隠しの館」
+- 정비 | 명단 밖 강적 핵심 동료 (스즈누이·요르나·소이라(AS)·먹빛의 책사) | [トビノオサマ](raids/tobinoosama.md)·[マークヴァヴ](raids/maakuvavu.md) 정석에 반복 등장한다. 요르나·스즈누이는 명단 출처(Seesaa Ver3.15.60·anothertier v16) 뒤 실장이라 평가가 없다. 명단을 갱신할 출처가 나오면 다시 거른다 | Seesaa 「星の夢のかけらガイド」 최신판, anothertier 최신 tier list
+- 아이템 | 「SA装備（レプリカ版）」 성능 차이와 교환 보석 | [FF9 협주 공통 시스템](guides/ff9_collab.md)은 "원래와 일부 다르다"까지만 적었다. 교환표와 다른 점, 종료 뒤 FF9 무기·증표를 새로 얻을 수 있는지 | Seesaa 톱 페이지 Ver3.16.0 항목, altema 「sasoubi」(2026-11-15 403)·「jigensenkanark」(403)
 - 시스템 | 대기 계통 환경 (スモッグ 등) | [坑道のヌシ](raids/koudou_no_nushi.md)의 スモッグ(毒 시 피해 증가)와 [湿地帯のヌシ](raids/shicchitai_no_nushi.md)·[暁の塔のヌシ](raids/akatsuki_no_tou_no_nushi.md)의 "대기 계통 환경 발동 시" 오라. 어떤 환경이 대기 계통인지 정리된 곳이 없다 | Seesaa 「環境・オーラ効果まとめ」(아직 없으면 「状態効果まとめ」)
 
 ## 완료
+
+- 시스템·보스·동료 | FF9 협주 공통 시스템, トビノオサマ, 메리나 | 2026-11-15. [FF9 협주 공통 시스템](guides/ff9_collab.md)·[トビノオサマ](raids/tobinoosama.md)·[메리나](characters/melina.md) 신규. 슈타이너·지탄 카드의 트랜스·레플리카·天冥値 설명을 새 문서로 옮기고, 둘의 迎撃이 서포트 어빌리티(ベネチアシールド)임과 협주 종료일(2026-07-06), ブラッドソード·盗賊刀 입수처를 채움. [オズマ](raids/ozuma.md)의 「エクスカリバーⅡ」 추정 표기를 확정하고 「チョコボのカード」 교환을 더함. [글래스터](guides/grasta.md)에 刻唄の力<杖> 입수처. 「고난이도 기준 개편 4」·맵의 반짝이는 범위가 커서, ☆5 해방 이름·낚시·未来ガルレア·マークヴァヴ 영상은 altema 403(anothergalreamirai·markvav·turichart)이라 이번에도 손대지 않음. 未来ガルレア는 niwacame 「future-garlea」(2021-05)가 열리지만 낡아 단독 근거로 쓰지 않음
 
 - 콘텐츠 | 명협계, the winged prayer 일본어 이름, リィカ・デラックス | 2026-11-14. [명협계](guides/meikyoukai.md) 신규(교환은 漂着物 180개 또는 猫土偶 1개로 결론). [☆5 해방 퀘스트](guides/star5_release.md)의 the winged prayer에 조건·시작 방·진행 순서·적 이름·5전 ZONE 덮어쓰기 규칙과 회복량 3,727,255, ☆5 소재를 넣고 One Other Ordeal 5전에 모드 이름·대처를 더함. [방어구](guides/armor.md) 東邦 입수는 명협계 문서로 링크. 「고난이도 기준 개편 4」·맵의 반짝이는 범위가 커서, 낚시·マークヴァヴ·未来ガルレア·FF9 협주는 출처가 막혀 이번에도 손대지 않음
 

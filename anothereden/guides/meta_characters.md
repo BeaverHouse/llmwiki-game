@@ -28,7 +28,7 @@ sources:
   - "user-feedback (Austin): 메타 명단은 Seesaa·anothertier 교집합만 쓴다(일본·글로벌 유저층이 달라 기준이 다름), 두 사이트가 스타일을 다르게 고른 동료는 두 스타일 모두 적는다, 배포는 스토리 동료 전원 + 성능 좋은 배포, 교집합 밖은 파티·강적 문서가 멤버로 소개할 때만 문서를 만든다 (2026-10-29)"
   - 사이트 데이터 ae_translation_all (용어 표기)
 created: 2026-10-17
-updated: 2026-11-09
+updated: 2026-11-15
 ---
 
 # 고난이도 동료 명단
@@ -76,7 +76,7 @@ Seesaa 랭크 순(같은 랭크는 Seesaa 표 순서)이다.
 | エレノア | [엘레노아](../characters/eleanor.md) | NS (SA) | 결정·검 | 베기 서포터 겸 서브 어태커. SA 후 검 동료에게 연격수 버프 | SS | S(SA) |
 | メリト | [메릿](../characters/meryt.md) | NS (SA) | 불·권갑 | 불 어태커. 「燃命百掌」 최대 6연격, <挺身> | SS | S(SA) |
 | ユーイン | [유인](../characters/ewan.md) | NS (SA) | 불·망치 | 불·타격 어태커. 명 3명 이상에서 「ラーヴァインパクト」 12연격 | SS | SSS(SA) |
-| メリナ | 메리나 | NS (SA) | 물·망치 | SA 후 「エルの唄」로 攻撃種 臨機応変을 파티 전체에. 歌唱 추격으로 3회 행동 | SS | S(SA) |
+| メリナ | [메리나](../characters/melina.md) | NS (SA) | 물·망치 | SA 후 「エルの唄」로 攻撃種 臨機応変을 파티 전체에. 歌唱 추격으로 3회 행동 | SS | S(SA) |
 | エルシール(AS) | [엘실(AS)](../characters/elseal.md) | AS (SA) | 물·검 | 물 파티 서포터. 물 마법 지원, 心眼, 연격수 버프. 화력 지원은 NS가 높아 AS를 「メールドシープの書」로 NS로 바꿔 쓰기도 한다 | SS | SS(SA). NS는 S(SA 불가) |
 | セリエス(AS) / セリエス | [세리에스(AS)](../characters/cerius_as.md) / [세리에스](../characters/cerius.md) | AS (SA)·NS (SA) 둘 다 | 땅·활 | 땅·찌르기 어태커. AS는 鎧通·射切 모드 전환, SA 후 SB 「白貫閃」으로 적 전체 弱点看破<突>(アン・キ・ディグマ의 속성 무관 어태커). NS는 자기 버프를 모두 갖춰 땅 파티 어태커 | SS (AS) | NS S(SA), AS A(SA) |
 | 烏夜の隠密 ツバメ | [까마귀 밤의 밀정 츠바메](../characters/tsubame_alter.md) | 異時層 (SA) | 바람·권갑 | 바람 서포터 겸 어태커. 風王陣, 心技一体. SB 「燕雀猫乱舞」 30연격 | SS | SS(SA) |

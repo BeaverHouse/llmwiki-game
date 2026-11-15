@@ -1,5 +1,7 @@
 # Another Eden — 변경 기록 (append-only, 최신이 위)
 
+- 2026-11-15 | ai | guides/ff9_collab.md·raids/tobinoosama.md·characters/melina.md 신규, characters/steiner.md·zidane.md, raids/ozuma.md, guides/grasta.md·meta_characters.md·superbosses.md, glossary.md·index.md·backlog.md | FF9 협주 공통 시스템·トビノオサマ·메리나 문서를 쓰고 슈타이너·지탄 카드의 공통 사양을 새 문서로 옮겨 迎撃 출처와 무기 입수처를 채움 | altema 「ffcollabo」·「ff9weapon」, Seesaa 「SA装備」·「ビビ」·「トビノオサマ」·「メリナ」
+
 - 2026-11-14 | ai | guides/meikyoukai.md 신규, guides/star5_release.md·armor.md·grasta.md, glossary.md·index.md·backlog.md | 명협계 어나더 던전 문서를 쓰고 the winged prayer의 적·장소 일본어 이름과 リィカ・デラックス 모드·대처를 채움 | altema 「meikyoukai」·「wingedprayer」·「ryikadx」·「yonndainusi」
 
 - 2026-11-13 | ai | guides/star5_release.md·armor.md, characters/riica.md·steiner.md, glossary.md·index.md·backlog.md | ☆5 해방 퀘스트의 빈 전투(Jewel in Shade·the winged prayer·One Other Ordeal)와 시작 조건을 채우고 東邦 방어구를 넣어 리이카·슈타이너의 효과 엇갈림을 맞춤 | altema 「jewelinshade」, BWIKI 퀘스트 7편·「平行迷宫：冥峡界」, Seesaa 「スタイナー」
