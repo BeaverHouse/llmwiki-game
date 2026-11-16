@@ -1,5 +1,7 @@
 # Another Eden — 변경 기록 (append-only, 최신이 위)
 
+- 2026-11-16 | ai | guides/mirai_garurea.md 신규, guides/crystal_party.md·thunder_party.md·water_party.md·wind_party.md·pierce_party.md·shade_party.md·meta_equipment.md·grasta.md·seiten_equipment.md·weapon_reforging.md·manifest_weapons.md·armor.md·star5_release.md·sub_contents.md, characters/thillelille_es.md, glossary.md·index.md·backlog.md | 파티·장비 문서를 고난이도 기준(필수 멤버·교체 자리, 쓰는 장비만)으로 다시 나누고 未来ガルレア大陸 문서를 쓰고 One Other Ordeal 2·3전 순서와 낚시 ヌシ 흡수 속성을 바로잡음 | BWIKI 「平行迷宫：未来嘉路雷亚大陆」, niwacame 「future-garlea」, Seesaa 「アナダン一覧」, くさぶえがあたらない。 One Other Ordeal 공략, 9db 「After Incidents」, gamezet 釣り攻略, 기존 문서의 출처
+
 - 2026-11-15 | ai | guides/ff9_collab.md·raids/tobinoosama.md·characters/melina.md 신규, characters/steiner.md·zidane.md, raids/ozuma.md, guides/grasta.md·meta_characters.md·superbosses.md, glossary.md·index.md·backlog.md | FF9 협주 공통 시스템·トビノオサマ·메리나 문서를 쓰고 슈타이너·지탄 카드의 공통 사양을 새 문서로 옮겨 迎撃 출처와 무기 입수처를 채움 | altema 「ffcollabo」·「ff9weapon」, Seesaa 「SA装備」·「ビビ」·「トビノオサマ」·「メリナ」
 
 - 2026-11-14 | ai | guides/meikyoukai.md 신규, guides/star5_release.md·armor.md·grasta.md, glossary.md·index.md·backlog.md | 명협계 어나더 던전 문서를 쓰고 the winged prayer의 적·장소 일본어 이름과 リィカ・デラックス 모드·대처를 채움 | altema 「meikyoukai」·「wingedprayer」·「ryikadx」·「yonndainusi」
