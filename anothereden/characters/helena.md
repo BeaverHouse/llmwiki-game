@@ -6,8 +6,9 @@ sources:
   - https://anothereden.game-info.wiki/d/%A5%D8%A5%EC%A5%CA (Seesaa Wiki 「ヘレナ」, 2024-05-15 수정본, 댓글 없음, CC BY-NC-SA 4.0)
   - https://anothereden.game-info.wiki/d/%C0%B1%C6%B3%B3%D0%C0%C3%A5%AD%A5%E3%A5%E9%B0%EC%CD%F7 (Seesaa Wiki 「星導覚醒キャラ一覧」, 2026-10-23 수정본. SA 실장일·속성·무기)
   - 사이트 데이터 ae_character·ae_translation_all (2026-11-01. 명, 성도각성 있음)
+  - https://anothereden.game-info.wiki/d/%C0%B1%B1%D3%A4%DF%A4%CE%BD%F1%B2%CD (Seesaa Wiki 「星詠みの書架」, 2025-12-29 수정본. レギオンリング)
 created: 2026-11-01
-updated: 2026-11-01
+updated: 2026-11-18
 ---
 
 # 헬레나
@@ -20,7 +21,7 @@ updated: 2026-11-01
 |---|---|---|---|---|---|
 | ☆3→☆5 (SA 가능) | Ver1.0.0 (2017-04-12). ☆5 Ver1.9.0 (2018-11-29). SA Ver3.6.50 (2024-04-12) | 땅·지팡이(마법), 명 | 서포터, 어태커 | 배포. 메인 19장 클리어 | ☆4 「イーラブラスターの書」, ☆5 「ゼノレギオンの詩篇」 ×10(차원전함 VH 드롭). ☆5 해방은 外伝 「閉ざされた箱庭と蒼穹の叛逆者」 클리어. 증표 「ゼノレギオンの証」 知性 +5 / 精神 +5 |
 
-- 성도각성은 星詠みの書架 「楽園を目指す者たちの書」 난이도 STELLA 클리어로 연다.
+- 성도각성은 [星詠みの書架](../guides/hoshiyomi_no_shoka.md) 「楽園を目指す者たちの書」 난이도 STELLA 클리어로 연다. 같은 서적 No.7 보상이 헬레나 전용 「レギオンリング」(知性+30, MP消費量-10%)다.
 
 특성: 가면, 합성인간, 지팡이.
 

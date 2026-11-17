@@ -1,5 +1,7 @@
 # Another Eden — 변경 기록 (append-only, 최신이 위)
 
+- 2026-11-18 | ai | guides/hoshiyomi_no_shoka.md 신규, guides/part3_another_dungeons.md·phase_shift.md·manifest_weapons.md·stellar_awakening.md, characters/helena.md, glossary.md·index.md·backlog.md | 星詠みの書架 문서를 쓰고 3부 AD 교환에 蝕時ユニガン과 涙蜜 입수처, フェイズシフト에 파트별 장소·소재, 현현 무기에 結実 무기 19명 표를 넣음 | Seesaa 「星詠みの書架」·「星詠み_CHALLENGE攻略」·「蝕時ユニガン(アナザーダンジョン)」·「顕現武器」·「武器打ち直し」·「メイン_第86章」, altema 「phaseshift」, ふんいきアナデン 「ジスモンデ」
+
 - 2026-11-17 | ai | guides/phase_shift.md·part3_another_dungeons.md 신규, guides/weapon_reforging.md·armor.md, raids/koudou_no_nushi.md, glossary.md·index.md·backlog.md | フェイズシフト·환경 문서와 3부 AD 세 곳의 교환 문서를 쓰고 장비·ヌシ 문서에서 링크함 | Seesaa 「メインストーリー_第3部前編」·「デイリー要素まとめ」·「メイン_第89章」·「オメガポリス」·「エントラーナ」·「ジスモンデ」(各 アナザーダンジョン)·「アナダン一覧」, altema 「dai3bu」·「enntorana」
 
 - 2026-11-16 | ai | guides/mirai_garurea.md 신규, guides/crystal_party.md·thunder_party.md·water_party.md·wind_party.md·pierce_party.md·shade_party.md·meta_equipment.md·grasta.md·seiten_equipment.md·weapon_reforging.md·manifest_weapons.md·armor.md·star5_release.md·sub_contents.md, characters/thillelille_es.md, glossary.md·index.md·backlog.md | 파티·장비 문서를 고난이도 기준(필수 멤버·교체 자리, 쓰는 장비만)으로 다시 나누고 未来ガルレア大陸 문서를 쓰고 One Other Ordeal 2·3전 순서와 낚시 ヌシ 흡수 속성을 바로잡음 | BWIKI 「平行迷宫：未来嘉路雷亚大陆」, niwacame 「future-garlea」, Seesaa 「アナダン一覧」, くさぶえがあたらない。 One Other Ordeal 공략, 9db 「After Incidents」, gamezet 釣り攻略, 기존 문서의 출처
