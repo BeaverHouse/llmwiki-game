@@ -79,7 +79,7 @@
 - [parties/last_rite_party.md](parties/last_rite_party.md) — 라스트 라이트 파티 (라스트 라이트·탕탕·결·자이히 정석, 냉기 부착 3~4스택 → 겨울 포식자 사이클, 궁극기 딜 구간과 에너지 수지)
 - [parties/tangtang_party.md](parties/tangtang_party.md) — 탕탕 파티 (탕탕·질베르타·자이히·펠리카 정석, 와류 → 용오름 사이클과 딜 구간, 사·탕탕·결·질베르타 사 메인딜 편성)
 - [parties/avywenna_party.md](parties/avywenna_party.md) — 아비웨나 파티 (아비웨나·펠리카·질베르타·결 정석, 썬더랜스를 쌓아 배틀 스킬로 회수하는 사이클과 딜 구간)
-- [parties/argent_flow_party.md](parties/argent_flow_party.md) — 명하 파티 (출시 직후 구상. 명하·결·질베르타·리노 전기 파티의 연계 → 질주하는 천둥 사이클과 판정 근거, 명하·미브·진천우·포그라니치니크 물리 파티)
+- [parties/argent_flow_party.md](parties/argent_flow_party.md) — 명하 파티 (구상. 명하·결·질베르타·리노 전기 파티의 연계 → 질주하는 천둥 사이클과 판정 근거, 미브가 강타로 우레를 터뜨리는 명하·미브·진천우·포그라니치니크 물리 파티의 사이클과 판정 근거, 명하·로시 2딜 편성)
 - [parties/rossi_party.md](parties/rossi_party.md) — 로시 파티 (방어 불능과 아츠 부착 하이브리드 원리, 로질펠 기본 사이클, 로탕질펠·로울질포·물리 하이브리드·쇄빙 변형. 로탕질펠은 단계별 이유가 붙은 풀이 예제)
 
 ## operators/

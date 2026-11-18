@@ -125,7 +125,7 @@ sources:
   - https://endfield.wiki.gg/wiki/Arsenal_Ticket · Laevatain/File (2026-11-09 열람), https://namu.wiki/w/레바테인(명일방주:%20엔드필드) (크래드 한국어 표기, 2026-11-05 수정본, CC BY-NC-SA 2.0 KR)
   - https://endfield.gryphline.com/ko-kr/news/0753 (공식 만화 <약속> 공지)
 created: 2026-10-12
-updated: 2026-11-09
+updated: 2026-11-19
 ---
 
 # 엔드필드 고유명사 표기 (ko/en/ja)
@@ -684,7 +684,8 @@ updated: 2026-11-09
 | 천공 가르기 | Heavens Sundered | — | 2차 | 명하 궁극기 |
 | 청명한 칼날 | Cleansing Cleave | — | 2차 | 명하 궁극기의 내려베기 |
 | 우레 | Sunderization | — | 미확인 | 명하가 감전과 함께 거는 표식. ko는 공식 콘텐츠 크리에이터 기사 |
-| — | Zenith of Voltmancy / Springvolt Galore | — | 미확인 | 명하 재능 |
+| 하늘을 가르는 번개 | Zenith of Voltmancy | — | 미확인 | 명하 재능(우레) |
+| 번개의 향연 | Springvolt Galore | — | 미확인 | 명하 재능(팀 오리지늄 아츠 강도) |
 
 ## 전투
 
@@ -1247,6 +1248,7 @@ updated: 2026-11-09
 
 ## 히스토리
 
+- 2026-11-19: 명하 재능 한국어 표기 추가.
 - 2026-11-09: Mr. Krad를 게임 텍스트의 '크래드'로 확정. 공식 만화 <약속>, 무기고 징표 en·ja 표기 추가.
 - 2026-11-08: 도치(Lil' Dodge), Mr. Krad, 극점 원정 추가.
 - 2026-11-07: 담 천사 영어 표기, 명하 파일 자료의 이름 추가. 금위군 설명을 명하 대사대로 고침.
