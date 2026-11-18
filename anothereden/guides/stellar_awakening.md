@@ -8,7 +8,7 @@ sources:
   - https://anothereden.game-info.wiki/d/ZONE%A1%A6%B1%FE%B1%E7%B8%FA%B2%CC%A4%DE%A4%C8%A4%E1 (Seesaa Wiki 「ZONE・応援効果まとめ」, 2026-07-20 수정본. SB와 ANOTHER ZONE)
   - 사이트 데이터 ae_translation_all (용어 표기)
 created: 2026-10-23
-updated: 2026-10-29
+updated: 2026-11-18
 ---
 
 # 성도각성과 ステラバースト (SB)
@@ -19,7 +19,7 @@ updated: 2026-10-29
 
 | 경로 | 방법 |
 |---|---|
-| 배포 동료 | 星詠みの書架에서 그 동료의 서적을 난이도 STELLA로 클리어 |
+| 배포 동료 | [星詠みの書架](hoshiyomi_no_shoka.md#stella와-星譜)에서 그 동료의 서적을 난이도 STELLA로 클리어 |
 | 夢見 동료 (夢見) | 성도각성 게이지 3칸을 채운다. 실장 버전 이후 夢見에서 만나면 +1, 픽업 보너스 기간이면 +3(즉시 개방) |
 | 夢見 동료 (星譜) | 「星譜」로 게이지를 채운다. 실장 시점에 ☆5로 가지고 있으면 +1 |
 
