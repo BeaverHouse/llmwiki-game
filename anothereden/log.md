@@ -1,5 +1,7 @@
 # Another Eden — 변경 기록 (append-only, 최신이 위)
 
+- 2026-11-19 | ai | characters/victor.md·ashtear.md·guides/slash_party.md·gekkou_party.md 신규, guides/part3_another_dungeons.md·meta_characters.md, characters/shigure_es.md·shion_es.md·eleanor.md·zilva_as.md·clughorn.md·kamlanage.md, glossary.md·index.md·backlog.md | 빅트·애쉬티어 카드와 베기·月光陣 혼성 파티 문서를 쓰고 카드의 편성을 파티 문서로 옮기고 黄金のゼンマイ 입수처를 채움 | Seesaa 「ヴィクト」·「アシュティア」·「コロボ」·「シグレ(エクストラスタイル)」·「シオン(エクストラスタイル)」·「エレノア」·「ジルバー(アナザースタイル)」·「ミルディ」·「クラグホーン」·「カムラナージュ」·「ムル・ナブズ」·「ZONE・応援効果まとめ」·「星導覚醒おすすめキャラ」, altema 「chara/811」·「anotheromegapolis」
+
 - 2026-11-18 | ai | guides/hoshiyomi_no_shoka.md 신규, guides/part3_another_dungeons.md·phase_shift.md·manifest_weapons.md·stellar_awakening.md, characters/helena.md, glossary.md·index.md·backlog.md | 星詠みの書架 문서를 쓰고 3부 AD 교환에 蝕時ユニガン과 涙蜜 입수처, フェイズシフト에 파트별 장소·소재, 현현 무기에 結実 무기 19명 표를 넣음 | Seesaa 「星詠みの書架」·「星詠み_CHALLENGE攻略」·「蝕時ユニガン(アナザーダンジョン)」·「顕現武器」·「武器打ち直し」·「メイン_第86章」, altema 「phaseshift」, ふんいきアナデン 「ジスモンデ」
 
 - 2026-11-17 | ai | guides/phase_shift.md·part3_another_dungeons.md 신규, guides/weapon_reforging.md·armor.md, raids/koudou_no_nushi.md, glossary.md·index.md·backlog.md | フェイズシフト·환경 문서와 3부 AD 세 곳의 교환 문서를 쓰고 장비·ヌシ 문서에서 링크함 | Seesaa 「メインストーリー_第3部前編」·「デイリー要素まとめ」·「メイン_第89章」·「オメガポリス」·「エントラーナ」·「ジスモンデ」(各 アナザーダンジョン)·「アナダン一覧」, altema 「dai3bu」·「enntorana」
