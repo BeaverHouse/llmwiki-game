@@ -1,5 +1,6 @@
 # Blue Archive — 변경 기록 (append-only, 최신이 위)
 
+- 2026-11-19 | ai | guides/mission.md·guides/recruitment.md 신설, guides/content_guide.md·glossary.md·index.md | 임무 입문과 모집 규칙 문서를 쓰고 전술대항전 절에 진행 방식·보상·편성 원칙을, 용어집에 총력전·대결전 외국어 이름과 난이도·모집 용어를 넣음. 임무 편성 원칙에 광역 스킬 모양과 총력전 평가 차이를 넣음 | 넥슨 공식 가이드·공지·확률표, 나무위키, bluearchive.wiki, 선생님 공략 글, user-feedback (Austin)
 - 2026-11-13 | ai | notes/s94_nightmare_meta.md·raids/nightmare.md 신설, index.md·glossary.md | 새 보스 악몽 열차 공략과 S94 시즌 리포트를 쓰고 용어를 등록함 | 사이트 조회, 학생 스킬, SchaleDB 보스 스킬, kamigame, game8, 전격 온라인
 - 2026-10-29 | ai | 도메인 전체 | 보스·가이드·시즌 리포트·glossary·log를 중복과 군더더기 없이 덜어내고 AGENTS.md 7절의 금지 표현을 걷어냄 | user-feedback (Austin)
 - 2026-10-25 | ai | raids/gregorius.md·glossary.md·guides/beginner.md·index.md | 그레고리오 오르간·마법진·성자의 속삭임 기믹 보강, 설거지·침수 등록, 입문 가이드에 서버별 플래티넘 순위 추가 | 답변 리뷰, bluearchive.wiki, 나무위키

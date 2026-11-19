@@ -15,8 +15,14 @@ sources:
   - "user-feedback: 걍클고 뜻 (2026-10-22)"
   - "https://schaledb.com/data/kr/raids.min.json (악몽 열차 한국어 스킬 텍스트, 2026-11-13)"
   - https://kamigame.jp/bluearchive/page/446318009699559077.html
+  - "https://bluearchive.wiki/wiki/Total_Assault (Total Assault·総力戦, 난이도 영어 표기, 2026-11-19)"
+  - "https://bluearchive.wiki/wiki/Grand_Assault (Grand Assault·大決戦, 2026-11-19)"
+  - "https://bluearchive.fandom.com/wiki/Tactical_Competition (Tactical Challenge, 2026-11-19)"
+  - "https://www.233leyuan.com/post-detail/2067609358565556224 (总力战·大决战 용례, 2026-11-19)"
+  - "https://forum.nexon.com/bluearchive/board_view?board=1071&thread=2719471 (한국 서버 표기 전술 대회)"
+  - "https://forum.nexon.com/bluearchive/board_view?board=1071&thread=2719463 (모집 스택·특별 스택·모집 마일리지)"
 created: 2026-07-06
-updated: 2026-11-13
+updated: 2026-11-19
 ---
 
 # 용어집 (Glossary)
@@ -31,7 +37,25 @@ updated: 2026-11-13
 | 종합전술시험 - 방어 | 防御演習     |      |              |
 | 종합전술시험 - 호위 | 護衛演習     |      |              |
 | 제약해제결전        | 制約解除決戦 |      |              |
-| 전술대항전          | 戦術対抗戦   |      | PvP          |
+| 전술대항전          | 戦術対抗戦   | Tactical Challenge | PvP. 한국 서버 게임 내 표기는 전술 대회 |
+| 총력전              | 総力戦       | Total Assault | 중국어 总力战 |
+| 대결전              | 大決戦       | Grand Assault | 중국어 大决战 |
+
+## 총력전·대결전 난이도
+
+| 한국어 | 일본어 | 영어 | 비고 |
+| --- | --- | --- | --- |
+| 인세인 | | INSANE | |
+| 토먼트 | | TORMENT | |
+| 루나틱 | | LUNATIC | |
+
+## 모집
+
+| 한국어 | 일본어 | 영어 | 비고 |
+| --- | --- | --- | --- |
+| 모집 스택 | | | [recruitment.md](guides/recruitment.md) |
+| 특별 스택 | | | 특별 픽업·페스 모집의 스택 |
+| 모집 마일리지 | | | |
 
 ## 제약해제결전 보스
 
@@ -109,4 +133,5 @@ updated: 2026-11-13
 | 걍클 / 걍클고 | "그냥 클리어 (가자)". 점수·순위와 상관없이 클리어만 하면 됨. 학생 이름이 아님 | user-feedback (2026-10-22) |
 | 설거지 / 설거지 파티 | 앞 파티가 남긴 보스 체력을 다음 파티로 마저 처리하는 것, 또는 그 파티. "루나틱 설거지에서 ○○ 안 쓰는 파티"는 뒤쪽 파티 구성을 묻는 말 | [gregorius.md](raids/gregorius.md) |
 | 침수 | 컷이 올라가 어떤 난이도 클리어 점수가 한 등급 아래(플래티넘 → 골드 등)로 밀려나는 것. 등급 기준이 서버마다 달라 판정도 서버별 | [beginner.md](guides/beginner.md) |
+| 천장 | 모집 횟수를 채우면 픽업 학생을 확정으로 얻는 장치. 지금은 스택 200개 | [recruitment.md](guides/recruitment.md) |
 | 전N (전무 N성) | 전용무기 N성. "노조미 전3" = 노조미 전용무기 3성. "N성"만 쓰면 학생 성급, "N파티"는 파티 수 | [beginner.md](guides/beginner.md) |
