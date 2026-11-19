@@ -11,6 +11,7 @@ sources:
   - "https://bluearchive.wiki/wiki/Tactical_Challenge (보상 종류, 시즌, 2026-11-19 열람)"
   - "https://arca.live/b/bluearchive/82360088 (선생님 공략 글의 진행 방식과 편성 원칙)"
   - "https://gall.dcinside.com/mgallery/board/view/?id=ckrgkrptkfwk&no=1051 (선생님 공략 글의 상성 배치 원칙)"
+  - "user-feedback (Austin): 전술대항전은 코스트를 당겨 주는 학생이 필수 (2026-11-18)"
 created: 2026-07-06
 updated: 2026-11-19
 ---
@@ -77,6 +78,7 @@ YouTube 검색 링크는 `https://www.youtube.com/results?search_query={키워�
 - 공격에서 져도 잃는 순위가 없으니 티켓은 순위가 높은 상대에게 씁니다.
 - 낮은 순위에는 NPC가 많아 육성만 되어 있으면 빠르게 올라갑니다.
 - 레벨, 장비, 스킬, 성급 차이가 편성보다 먼저 승패를 가릅니다.
+- 전투가 자동이라 EX 스킬은 코스트가 차는 대로 나갑니다. 전투 초반에 코스트를 당겨 주는 학생이 있으면 EX가 상대보다 먼저 나가서, 이런 학생은 거의 필수로 넣습니다.
 - 공격 편성은 상대 방어 편성을 보고 학생과 배치를 바꿉니다.
 - 탱커는 상대 딜러의 공격 타입에 약하지 않은 장갑으로, 딜러는 상대 탱커 장갑의 약점 타입으로 고릅니다.
 - 딜러는 그 시즌 지형에 적성이 좋은 학생을 씁니다.
