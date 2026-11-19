@@ -6,10 +6,10 @@ sources:
   - https://namu.wiki/w/명일방주:%20엔드필드/지역 (2026-10-22 수정본, 지역별 제한·수집 요소, CC BY-NC-SA 2.0 KR)
   - https://namu.wiki/w/명일방주:%20엔드필드/설비 (성형기·충진기 문단의 담기·드론 분사, 2026-10-25 수정본, CC BY-NC-SA 2.0 KR)
   - https://endfield.wiki.gg/wiki/Energy_Alluvium · Etchspace_Salvage(wikitext, 변경 기록) · Etchspace_Salvage/Commissions (2026-07-27 수정본) · Delver_of_the_Cryptic · Exploration_Level (02/05 최적화 공지 변경점) · Talosite_Exchange (2026-07~10 수정본) · Easy_Tools (2026-09-11 수정본)
-  - https://endfield.wiki.gg/wiki/Typhoeus%27s_Archery_Range (2026-09-17 수정본) · Trial_of_the_Bow (2026-09-12 수정본) · Cliffbottom_Archery_Range (2026-09-09 수정본) · A_Dreamscape_Shattered_by_Her_Arrow (2026-09-06 수정본) · Dreamscape_of_Wind_and_Snow (2026-10-29 수정본)
+  - https://endfield.wiki.gg/wiki/Typhoeus%27s_Archery_Range (2026-09-17 수정본) · Trial_of_the_Bow (2026-09-12 수정본) · Cliffbottom_Archery_Range (2026-09-09 수정본) · A_Dreamscape_Shattered_by_Her_Arrow (2026-09-06 수정본) · Dreamscape_of_Wind_and_Snow (2026-10-29 수정본) · A_Winter_Dream_Fogged_Deep_in_the_Woods (하위 임무 목록, 2026-11-20 열람)
   - https://game8.jp/arknights-endfield/814895 (2026-10-16 갱신) · https://game8.jp/arknights-endfield/814620 (2026-09-14 갱신)
 created: 2026-10-23
-updated: 2026-10-31
+updated: 2026-11-20
 ---
 
 # 탐색 컨텐츠
@@ -257,7 +257,7 @@ Manifest Containment는 그 구역의 정해진 색 보관함에서 나오는 �
 
 부가 임무 Cliffbottom Archery Range(일본어 崖の下の射場)에서 기계를 고치고 잠금을 풀면 열린다. 기계 수리는 오리지늄 회로 퍼즐이고, 잠금 해제 비용은 없다. 임무는 단말기로 온 티프로스의 메시지를 읽고 답하면 시작된다. 임무의 단계는 기계 수리, 잠금 해제, 안드레의 칩 시험 두 번, Daily Exercise 한 번, 시설 강화, 최대 레벨 달성 순이다.
 
-이 임무가 열리는 조건은 출처마다 다르다. endfield.wiki.gg 시설 문서는 부가 임무 A Dreamscape Shattered by Her Arrow를, 같은 사이트의 이벤트 문서와 game8은 티프로스 이야기 A Winter Dream Fogged Deep in the Woods(일본어 冬の夢は霧の中に)를 마치라고 적는다.
+이 임무는 티프로스 이야기 A Winter Dream Fogged Deep in the Woods(일본어 冬の夢は霧の中に)를 마치면 열린다. endfield.wiki.gg 시설 문서가 조건으로 드는 A Dreamscape Shattered by Her Arrow는 이 이야기의 마지막 하위 임무다([오퍼레이터 이벤트 스토리](../world/event_stories.md#안개에-잠긴-겨울꾼의-숲)).
 
 ### 시설 강화
 
@@ -305,7 +305,7 @@ Basic Training과 Advanced Training을 처음 깨면 오로베릴을 준다. 단
 - 지역 표의 빈 프로토콜 용량·집라인 단계값, 4번 협곡 지역의 탈로사이트 수.
 - 간편 도구 동작 이름(스캔, 카메라, 폭발물, 담기, 분사, 수리, 궁술), 분사 드론, Flow Control Node·Xiranite Flow Control Node의 게임 안 한국어 표기. 담기·분사는 나무위키 설비 서술을 따랐다.
 - Typhoeus's Archery Range와 그 단계·임무·이벤트·메달(Cliffbottom Archery Range, Basic Training, Advanced Training, Daily Exercise, Trial of the Bow, Archer's Epiphany)의 한국어 게임 표기. 커뮤니티 영상 제목에 '티프로스의 활터', '궁술 시련'이 보이지만 본문으로 확인하지 못했다.
-- 사격장 임무가 열리는 조건(A Dreamscape Shattered by Her Arrow가 A Winter Dream Fogged Deep in the Woods의 한 장인지), 첫 클리어 보상의 두 번째 품목, 눈 덮인 소나무 숲 안의 정확한 위치.
+- 첫 클리어 보상의 두 번째 품목, 눈 덮인 소나무 숲 안의 정확한 위치.
 - 영어 업데이트명과 버전의 대응. Zeroth Directive를 1.0(미션 제로), Old Deep Water Dies, by Rising Tide It is Denied를 1.1, At the Wake of Spring을 1.2(봄날의 새벽)로 본 것은 한국어 버전 이름과 뜻으로 맞춘 것이다.
 
 ## 히스토리

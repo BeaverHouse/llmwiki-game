@@ -124,8 +124,9 @@ sources:
   - https://endfield.wiki.gg/wiki/Wuling_Watchguards · Iron_Boatswain · Jia_Ban · Hongshan_Crater (2026-11-05 열람)
   - https://endfield.wiki.gg/wiki/Arsenal_Ticket · Laevatain/File (2026-11-09 열람), https://namu.wiki/w/레바테인(명일방주:%20엔드필드) (크래드 한국어 표기, 2026-11-05 수정본, CC BY-NC-SA 2.0 KR)
   - https://endfield.gryphline.com/ko-kr/news/0753 (공식 만화 <약속> 공지)
+  - https://namu.wiki/w/명일방주:%20엔드필드/스토리 (이벤트 스토리 제목, 2026-11-03 수정본, CC BY-NC-SA 2.0 KR) · 이벤트별 endfield.wiki.gg 문서는 world/event_stories.md sources 참고
 created: 2026-10-12
-updated: 2026-11-19
+updated: 2026-11-20
 ---
 
 # 엔드필드 고유명사 표기 (ko/en/ja)
@@ -287,7 +288,7 @@ updated: 2026-11-19
 | 그림자 해골 | Shadowskulls | — | 2차 | 랜드브레이커 집단 |
 | 랜드브레이커 살인사건 | — | — | 미확인 | 4번 협곡 서브 퀘스트 |
 | 사미 | Sámi | サーミ | 미확인 | 티프로스의 부족 |
-| 사미베르그 | Samifjod* | — | 미확인 | '사미베르그의 아이'(티프로스)에 나오는 말 |
+| 사미베르그 | Samifjod* / Samivegr* | — | 미확인 | '사미베르그의 아이'(티프로스)에 나오는 말. 티프로스 이벤트 스토리 끝의 영어는 Samivegr |
 | 베헤모스 사미 | — | — | 미확인 | 사미인과 함께 탈로스2에 와 제1차 아겔로스 전쟁 때 희생한 존재 |
 
 ## 베헤모스
@@ -1226,6 +1227,42 @@ updated: 2026-11-19
 | — | Typhoeus's Archery Range | ティフォロスの射場 | 2차 | 티프로스 궁술 훈련 시설. ko 미확인(영상 제목에 '티프로스의 활터') |
 | — | Trial of the Bow | 弓の試練 | 2차 | 1.5 버전 이벤트. ko 미확인 |
 
+## 이벤트 스토리
+
+[오퍼레이터 이벤트 스토리](world/event_stories.md). 제목 ko는 나무위키 스토리 문서, 인물 ko는 나무위키 요약이나 영어를 옮긴 것이다.
+
+| 한국어 | English | 日本語 | 확인 | 메모 |
+|---|---|---|---|---|
+| 기억을 태운 재 | Let Fire Consume the Ashen Past | — | 2차 | 레바테인 이야기 |
+| 무리를 떠난 늑대 | Lone Wolf | — | 2차 | 울프가드 이야기 |
+| 전달자의 편지 | Letter from a Messenger | — | 2차 | 질베르타 이야기 |
+| 러브, 스크림 & 프로토 타입 | Love, Scream & The Prototype | — | 2차 | 이본 이야기 |
+| 적기사 / 로시: 영웅의 발자취를 따라서 | The Red Knight | — | 2차 | 로시 이야기. 뒤의 이름은 유지보수자 확인 |
+| 주먹, 부딪치는 마음 | A Fistful of Reflections | — | 2차 | 미브 이야기 |
+| 망자의 춤 | Danse Macabre | — | 2차 | 카뮤 이야기 |
+| 경계를 넘어가는 유성 | Like a Star Streaking Through the Boundaries | — | 2차 | 리노 이야기 |
+| 안개에 잠긴 겨울꾼의 숲 | A Winter Dream Fogged Deep in the Woods | 冬の夢は霧の中に | 2차 | 티프로스 이야기 |
+| 정적 핵심 | Stasis Core | — | 미확인 | 제강호의 시설. ko는 나무위키 요약 |
+| 지나 | Ginny | — | 미확인 | 레바테인의 것이 아닌 기억 속 인물 |
+| 토마소 | Tommaso | — | 미확인 | 울프가드의 친구. 고인 |
+| 지오반니 | Giovanni | — | 미확인 | 토마소를 죽인 울프팀 배신자 |
+| 알파리온 / 새 무리 | the Alpharion / the New Pack | — | 미확인 | 지오반니가 따른 존재와 집단 |
+| 칼리 | Carly | — | 미확인 | 작업자 숙소의 소녀 |
+| 롭 | Ropp | — | 미확인 | 의무실의 과학자. 나무위키 요약은 '롭' |
+| 매시 | Maisie | — | 미확인 | 롭이 말하는 이름. 금고 비밀번호의 단서 |
+| 알리아 | Alia | — | 미확인 | 광산 캠프의 인물 |
+| 블록 왕국 | Brickyland | — | 미확인 | 로시 이야기 속 아이들의 아지트 |
+| 논노 로잔 | Nonno Rozzan | — | 미확인 | 로시에게 늑대 새끼 이야기를 해 준 사람 |
+| — | Duchess of Windbell / Duke of Clockwork | — | 미확인 | 로시 이야기의 성검·방패를 가진 아이들 |
+| — | Bonekrusher Siegeknuckles | — | 미확인 | 로시 이야기의 보스 |
+| 주기둥 관청 | Main Pillar Office | — | 미확인 | 미브가 관리자를 부른 곳. ko는 나무위키 요약 |
+| 사부 / 선배 사부 / 대사부 | Master / Senior Master / Grand Master | — | 미확인 | 미브의 청파채 스승 셋 |
+| 필립 | Philip | — | 미확인 | 혈액 표본 운송 인원 |
+| 판탈로시안 엔터테인먼트 | Pan-Talosian Entertainment | — | 미확인 | 리노가 있던 기획사 |
+| 브래디 마이닝 그룹 | Brady Mining Group | — | 미확인 | 판탈로시안 엔터테인먼트의 모회사 |
+| 암마 | Amma | — | 미확인 | 사미 전승의 짐승의 군주 |
+| 사미의 제사장 | Snowpriestess | — | 미확인 | 티프로스 이야기. 세쉬카 기록의 Snowpriest와 같은 ko를 썼다 |
+
 ## 종족
 
 [종족](world/races.md). 오퍼레이터 인물 정보에 나오는 종족은 오퍼레이터 표에 있다. 아래 ko는 엔드필드 게임 텍스트에서 확인하지 못했다.
@@ -1248,6 +1285,7 @@ updated: 2026-11-19
 
 ## 히스토리
 
+- 2026-11-20: 오퍼레이터 이벤트 스토리 제목과 인물 표기 추가.
 - 2026-11-19: 명하 재능 한국어 표기 추가.
 - 2026-11-09: Mr. Krad를 게임 텍스트의 '크래드'로 확정. 공식 만화 <약속>, 무기고 징표 en·ja 표기 추가.
 - 2026-11-08: 도치(Lil' Dodge), Mr. Krad, 극점 원정 추가.
