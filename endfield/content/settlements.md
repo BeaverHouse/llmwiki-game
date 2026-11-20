@@ -8,7 +8,7 @@ sources:
   - "user-feedback (Austin): 관리권 = Stock Bill, Regional Development = 지역 건설 레벨, Prosperity의 한국어 표기는 특정 못 함 (2026-10-21). 포장 운송은 점프·전투·프로토콜 전송을 하면 내구도가 깎이니 하지 말라고만 적을 것 (2026-10-30)"
   - https://gall.dcinside.com/mgallery/board/view/?id=endfield&no=133155 (커뮤니티 용어 '지역 건설치', 거점 레벨업이 건설치를 가장 많이 준다는 글)
 created: 2026-10-20
-updated: 2026-11-03
+updated: 2026-11-21
 ---
 
 # 거점과 지역 개발
@@ -136,12 +136,12 @@ updated: 2026-11-03
 | 청파채 | Photo: Bamboo Water Chimes | 동굴 안 계단 모양 바위와 대나무 물 풍경 |
 | 청파채 | Photo: Mysterious Cryptid Graffiti | 스케치하는 사람이 괴생물의 증거라고 한 낙서 |
 | 청파채 | Photo: Withered Branches | 원일이 만든 마른 가지와 그 주변 |
-| 수돈 | Photo: Water Temperature Controller | Urban Development Hall 근처 수온 조절기. 의뢰 문서 제목 아래 지역은 Unknown Region이다 |
+| 수돈 | Photo: Water Temperature Controller | 도시 건설관(Urban Development Hall) 근처 수온 조절기. 의뢰 문서 제목 아래 지역은 Unknown Region이다 |
 | 수돈 | Photo: Flora Observation Point | Reservoir Station 사람들이 만든 식물 관찰소 |
 | 수돈 | Photo: Peach Tree at Babbles's Home | Babbles네 집 복숭아나무 |
 | 수돈 | Photo: Rainbow | 무지개 |
 | 수돈 | Photo: "Tree of the Old Courtyard" | 10년 전 북쪽 금지 구역에서 옮겨 심은 나무 |
-| 수돈 | Photo: Serenity Garden Tianshi Pillar | 고장 난 Serenity Garden의 천사장 |
+| 수돈 | Photo: Serenity Garden Tianshi Pillar | 고장 난 안사원(Serenity Garden)의 천사장 |
 | 수돈 | Photo: Hanging Vines | Reservoir Station 위의 덩굴 |
 | 수돈 | Photo: Cloudrest Eco-Site | Cloudrest Woods 생태 구역 |
 | 수돈 | Photo: Feranmut Heart | [베헤모스 심장](../world/behemoth.md#베헤모스-심장) |

@@ -1,5 +1,7 @@
 # Arknights: Endfield — 변경 기록 (append-only, 최신이 위)
 
+- 2026-11-21 | ai | world/event_stories.md·world/wuling.md·content/exploration.md·content/settlements.md·glossary.md·index.md·backlog.md | 티프로스 후속 임무 두 편과 무릉 부가 임무 두 편의 줄거리를 쓰고 임무·장소 이름을 한국어 게임 표기로 바꾸며 안사원의 영어 짝을 Serenity Garden으로 바로잡음 | 정기 성장 작업, warfarin.wiki 한국어·영어 임무 목록과 대사, endfield.wiki.gg 임무 문서, 나무위키 스토리 문서
+
 - 2026-11-20 | ai | world/event_stories.md·operators/(laevatain·wulfgard·gilberta·yvonne·rossi·mi_fu·camille·liino·typhoeus).md·content/exploration.md·glossary.md·index.md·backlog.md | 오퍼레이터 이벤트 스토리 아홉 편의 줄거리 문서를 새로 쓰고 각 오퍼레이터 배경 절에서 링크함 | 정기 성장 작업, 나무위키 스토리 문서, endfield.wiki.gg 이벤트·하위 임무 문서, 영어 대사·공략
 
 - 2026-11-19 | ai | operators/argent_flow.md·parties/argent_flow_party.md·parties/synergy.md·glossary.md·backlog.md | 명하 출시 2주 재검증으로 동료의 강타도 우레를 터뜨리고 질주하는 천둥 감전 레벨이 강제 감전 레벨 1에 소모 스택을 더한 값임을 카드에 반영하고 물리 파티 판정을 채움 | 나무위키 명하 문서 2026-11-18 수정본, endfield.wiki.gg Argent_Flow, Icy Veins argent-flow-teams

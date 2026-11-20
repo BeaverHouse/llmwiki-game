@@ -1,7 +1,7 @@
 ---
 title: 무릉 (Wuling)
 type: guide
-aliases: [무릉, Wuling, 武陵, 무릉 과학 개발 구역, 무릉성, 무릉 대균열, 청파채, 수돈, 응룡 관문, 응룡 특수부대, Yinglung Special Task Force, 봉, Summit, 언, Phrase, 북쪽 금지 구역, North Wuling Exclusion Zone, 담검당, Tanjian Hall, 축 교관, Instructor Zhu, 진뢰, Blitzcrash, 창적, Cangzei Pirates, 이당가, Ruan Lin, 장검 골짜기, Sword Vault Dale, Deep Vaulted Steel, 침식 안개, Blight Miasma, 메인 스토리 2장, 수명, Suiming, 遂明, 여소귀, Yu Shigui, Bell of Recollection, Waking Bell, 선조의 샘, Ancestral Spring, Patron of the Spring, Du Ming, Marker Stone, 首礎, 수돈 내부, Marker Stone Interiors, 잔영, Æthillu, 원 천사, Tianshi Ruan, 무릉성 순찰대, Wuling Watchguards, 가반, Jia Ban, 철묘, Iron Boatswain, 수구, Rusty Hook, 안사원, Urban Development Hall, 영수벽, Eternal Wall, Serenity Garden]
+aliases: [무릉, Wuling, 武陵, 무릉 과학 개발 구역, 무릉성, 무릉 대균열, 청파채, 수돈, 응룡 관문, 응룡 특수부대, Yinglung Special Task Force, 봉, Summit, 언, Phrase, 북쪽 금지 구역, North Wuling Exclusion Zone, 담검당, Tanjian Hall, 축 교관, Instructor Zhu, 진뢰, Blitzcrash, 창적, Cangzei Pirates, 이당가, Ruan Lin, 장검 골짜기, Sword Vault Dale, Deep Vaulted Steel, 침식 안개, Blight Miasma, 메인 스토리 2장, 수명, Suiming, 遂明, 여소귀, Yu Shigui, Bell of Recollection, Waking Bell, 선조의 샘, Ancestral Spring, Patron of the Spring, Du Ming, Marker Stone, 首礎, 수돈 내부, Marker Stone Interiors, 잔영, Æthillu, 원 천사, Tianshi Ruan, 무릉성 순찰대, Wuling Watchguards, 가반, Jia Ban, 철묘, Iron Boatswain, 수구, Rusty Hook, 도시 건설관, Urban Development Hall, 영수벽, Eternal Wall, 안사원, Serenity Garden, 공적비, Merit Stones, 귀환의 종소리, 기억의 종소리, 상진, Shang Jin, 알림종, 삼도종, Bell of Three Presences, 검이 숨겨진 골짜기, 연효무, Lian Xiaowu, 월턴, Walton, 유적 검 기둥, Ancient Sword Stele, 샘의 나그네, 두명, Du Ming, 슬픔은 늘 소리 없이 찾아온다, 침묵 속에 울려 퍼지는 슬픔, 무명검록, 무명의 칼날, Nameless Blades, 돌아갈 길이 없다, 닿을 수 없는 고향, Home Beyond Reach]
 sources:
   - https://namu.wiki/w/명일방주:%20엔드필드/지역 (수명·장검 골짜기·수돈 문단 포함, 2026-11-03 수정본, 2026-11-04 열람, CC BY-NC-SA 2.0 KR)
   - https://namu.wiki/w/명일방주:%20엔드필드/등장인물%20및%20세력 (청파채·봉·수구와 철묘 문단 포함, 2026-10-25 수정본, 2026-11-05 열람, CC BY-NC-SA 2.0 KR)
@@ -24,6 +24,8 @@ sources:
   - https://endfield.wiki.gg/wiki/Wuling_Watchguards (2026-09-01 수정본) · Iron_Boatswain (2026-09-21 수정본) · Jia_Ban (2026-08-01 수정본) · Lifeng/Story (2026-07-27 수정본), 2026-11-05 열람
   - https://endfield.wiki.gg/wiki/Suiming (2026-09-27 수정본)
   - https://endfield.wiki.gg/wiki/Bell_of_Recollection (2026-10-14 수정본)
+  - https://warfarin.wiki/kr/missions · https://warfarin.wiki/en/missions (한국어·영어 임무 목록과 설명, v1.6 데이터, 2026-11-21 열람)
+  - https://warfarin.wiki/kr/missions/sm2l8m1 (달이 가고 해가 오리라) · sm2l7m1 (슬픔은 늘 소리 없이 찾아온다) · sm2l6m1 (검이 숨겨진 골짜기) 한국어 대사, 2026-11-21 열람
   - https://endfield.wiki.gg/wiki/North_Wuling_Exclusion_Zone (2026-10-19 수정본)
   - https://endfield.wiki.gg/wiki/Nexus_Files:_North_Wuling_Exclusion_Zone
   - https://endfield.wiki.gg/wiki/Blight (구획별 침식 심도)
@@ -40,7 +42,7 @@ sources:
   - https://gamewith.net/akendfield/73207 (영문 챕터명)
   - https://appmedia.jp/?p=79690247 (일본어 지명)
 created: 2026-10-18
-updated: 2026-11-06
+updated: 2026-11-21
 ---
 
 # 무릉 (Wuling)
@@ -122,9 +124,9 @@ updated: 2026-11-06
 |---|---|---|
 | 가반 | Jia Ban | 2장 Ⅴ에서 네파리스가 무릉성을 공격할 때 위기에 빠졌고, 수구가 가반의 순찰대 옷을 대신 입고 청파채 복수파를 유인하다 전사했다 |
 | 철묘 | Iron Boatswain | 수구의 동생. 본명 강정무. 형이 죽은 뒤 무릉으로 돌아와 순찰대에 입대했다. endfield.wiki.gg의 직급 표기는 수습 대원(Trainee Watchguard) |
-| 봉의 동생 | — | [봉](#대원)이 입양한 동생. 이름은 확인하지 못함 |
+| 남현 | — | [봉](#대원)이 십 년 전 구해 입양한 동생. 이야기 속 대협을 동경해 순찰대원이 되었다(「슬픔은 늘 소리 없이 찾아온다」) |
 
-수구(본명 강정구)와 철묘 형제는 공부가 싫어 무릉을 떠나 청파채에 들어갔었다. 관리자, 미브, 철묘가 실종된 수구를 찾다가 사정을 알게 되었고, 미브는 수구의 이름을 [안사원의 영수벽](#안사원과-serenity-garden)에 새겨 무릉의 영웅으로 남겼다. 새긴 이름을 나무위키는 본명과 별호로, endfield.wiki.gg는 본명 강정구로 적는다.
+수구(본명 강정구)와 철묘 형제는 공부가 싫어 무릉을 떠나 청파채에 들어갔었다. 관리자, 미브, 철묘가 실종된 수구를 찾다가 사정을 알게 되었고, 미브는 수구의 이름을 [영수벽](#도시-건설관과-안사원)에 새겨 무릉의 영웅으로 남겼다. 새긴 이름을 나무위키는 본명과 별호로, endfield.wiki.gg는 본명 강정구로 적는다.
 
 endfield.wiki.gg 명단에는 여풍도 수습 대원으로 올라 있고, 그 밖에 Huang Di, Ji Bing, Lan Shan, Li Liangliang, Li Zhui, Liu, Ren Zhenyun, Yan Lin, Yu Shi, Zuo Guyan이 대원으로 적혀 있다. 여풍이 순찰대 소속이라는 게임 안 기록은 확인하지 못했다.
 
@@ -142,7 +144,7 @@ endfield.wiki.gg 명단에는 여풍도 수습 대원으로 올라 있고, 그 �
 
 #### 선조의 샘
 
-선조의 샘(Ancestral Spring)은 청파채 안의 천연 수원이다. 침식을 정화하고 바깥의 위협을 물리친다는 소문이 있다. 중추 파일 '선조의 샘'(영어 텍스트, 사이드 임무 Patron of the Spring 시리즈 진행으로 열림)의 내용은 다음과 같다.
+선조의 샘(Ancestral Spring)은 청파채 안의 천연 수원이다. 침식을 정화하고 바깥의 위협을 물리친다는 소문이 있다. 중추 파일 '선조의 샘'(영어 텍스트, 사이드 임무 「샘의 나그네」(Patron of the Spring) 시리즈 진행으로 열림)의 내용은 다음과 같다.
 
 - 청파채 사람들의 전승으로는 청파채를 세운 이들이 이곳으로 피난했을 때 샘을 처음 찾았다. 침식을 정화하는 샘의 힘이 청파채 공동체의 바탕이 되었다. 사람들은 오랫동안 샘에서 의식과 축제를 열었고, 물을 긷는 수차와 죽은 이를 기리는 대나무 물풍경을 달았다. 샘을 둘러싼 신화와 전설이 쌓여 샘은 청파채 사람들이 믿는 대상이 되었다.
 - 샘의 정화는 기적이 아니었다. 샘 바닥에 백여 년 전 염국 천사들이 설치한 관개 기계가 있고, 이 기계가 흐르는 지하수에서 침식을 분리해 물을 깨끗하게 지켰다. 이 사실을 아는 사람은 거의 없었다.
@@ -151,11 +153,11 @@ endfield.wiki.gg 명단에는 여풍도 수습 대원으로 올라 있고, 그 �
 
 임무 흐름은 다음과 같다(영어 텍스트).
 
-1. Patron of the Spring I: 선조의 샘 근처에서 도와 달라는 소리를 듣고 Waterlamp를 쓰러뜨려 갇힌 청년 Du Ming을 구한다. 사정을 듣고 그를 샘까지 호위하다 랜드브레이커를 쓰러뜨리고, 좋은 술을 찾아 샘으로 돌아온다. Du Ming이 갑자기 사라져 흔적을 쫓아 동굴에 뛰어든다.
-2. Patron of the Spring II: 청파채의 탕탕에게 도움을 청해 Du Ming의 흔적을 찾고, 샘 근처에서 Rakerbeast들에게서 그를 지킨다. 샘 깊숙이 들어가 웅덩이를 건너 샘의 근원을 살핀다.
-3. Patron of the Spring III: 일이 끝나고 지상으로 돌아와 Du Ming, 탕탕과 이야기한다.
+1. 샘의 나그네(1): 선조의 샘 근처에서 도와 달라는 소리를 듣고 Waterlamp를 쓰러뜨려 갇힌 청년 두명(Du Ming)을 구한다. 사정을 듣고 그를 샘까지 호위하다 랜드브레이커를 쓰러뜨리고, 좋은 술을 찾아 샘으로 돌아온다. 두명이 갑자기 사라져 흔적을 쫓아 동굴에 뛰어든다.
+2. 샘의 나그네(2): 청파채의 탕탕에게 도움을 청해 두명의 흔적을 찾고, 샘 근처에서 Rakerbeast들에게서 그를 지킨다. 샘 깊숙이 들어가 웅덩이를 건너 샘의 근원을 살핀다.
+3. 샘의 나그네(3): 일이 끝나고 지상으로 돌아와 두명, 탕탕과 이야기한다.
 
-펠리카는 BAKER 통신 "Ancestral Spring and Qingbo"(영어 텍스트)에서 샘의 근원에 염국 천사가 남긴 장치가 있을 줄은 몰랐다고 말한다. 관리자는 거의 물의 운동 에너지만으로 돌아가는 설계라며 감탄하고, 펠리카는 백여 년 전에 이미 이런 설계가 있었다는 데 놀란다. 펠리카는 홍산 과학원과 고요한 수도회라면 152년도 더 된 테라 기술 유물을 아직 꽤 가지고 있을 것이라고 말한다. 청파채 사람들이 스스로와 마음속의 선조의 샘에 기대게 되기까지 Du Ming이 애썼다며, 청파채가 샘에 기대지 않고 사는 데 곧 익숙해지기를 바란다고 말한다.
+펠리카는 BAKER 통신 "Ancestral Spring and Qingbo"(영어 텍스트)에서 샘의 근원에 염국 천사가 남긴 장치가 있을 줄은 몰랐다고 말한다. 관리자는 거의 물의 운동 에너지만으로 돌아가는 설계라며 감탄하고, 펠리카는 백여 년 전에 이미 이런 설계가 있었다는 데 놀란다. 펠리카는 홍산 과학원과 고요한 수도회라면 152년도 더 된 테라 기술 유물을 아직 꽤 가지고 있을 것이라고 말한다. 청파채 사람들이 스스로와 마음속의 선조의 샘에 기대게 되기까지 두명이 애썼다며, 청파채가 샘에 기대지 않고 사는 데 곧 익숙해지기를 바란다고 말한다.
 
 #### 창적
 
@@ -206,15 +208,15 @@ endfield.wiki.gg 명단에는 여풍도 수습 대원으로 올라 있고, 그 �
 
 수돈(영어 Marker Stone, 일본어 首礎)은 143년에 세운 첫 천사장이자 무릉성의 근간이 되는 가장 큰 천사장이고, 이를 둘러싼 지역이 1.2 버전(봄날의 새벽)에 무릉의 네 번째 지역으로 열렸다. 북쪽으로 무릉성, 동쪽으로 경옥 골짜기와 이어지고, 처음에는 무릉성 남쪽 능수길로 들어간다. 메인 스토리 2장 Ⅳ 대부분이 여기서 벌어진다. 거점은 심장 수복실이고([거점과 지역 개발](../content/settlements.md)), 안쪽의 베헤모스 심장은 [베헤모스와 쉐이](behemoth.md#베헤모스-심장)에 있다. 중앙 섬의 위아래는 메인 스토리를 진행해 다리가 복구되면 들어간다. 과활성 침식과 수집 요소 수는 [탐색 컨텐츠](../content/exploration.md)에 있다.
 
-endfield.wiki.gg에 실린 장소는 Watchtower Reservoir Station, Restricted Area, Cloudrest Woods, Lake Islet, Serenity Garden, Urban Development Hall이다. 안사원(Urban Development Hall)과 Serenity Garden은 [아래](#안사원과-serenity-garden)에 있고, 나머지는 설명이 비어 있다. 감시 의뢰에는 Reservoir Station 사람들이 만든 식물 관찰소, 고장 난 Serenity Garden의 천사장, Cloudrest Woods 생태 구역, Urban Development Hall 근처의 수온 조절기, Security Section 근처 연못이 나온다([거점과 지역 개발](../content/settlements.md#의뢰-목록)).
+endfield.wiki.gg에 실린 장소는 Watchtower Reservoir Station, Restricted Area, Cloudrest Woods, Lake Islet, Serenity Garden, Urban Development Hall이다. 도시 건설관(Urban Development Hall)과 안사원(Serenity Garden)은 [아래](#도시-건설관과-안사원)에 있고, 나머지는 설명이 비어 있다. 감시 의뢰에는 Reservoir Station 사람들이 만든 식물 관찰소, 고장 난 안사원의 천사장, Cloudrest Woods 생태 구역, 도시 건설관 근처의 수온 조절기, Security Section 근처 연못이 나온다([거점과 지역 개발](../content/settlements.md#의뢰-목록)).
 
-### 안사원과 Serenity Garden
+### 도시 건설관과 안사원
 
 공식 X 계정의 「탈로스 II 여행 가이드」 수돈 편(무릉 여행사 발행, 2026-03-06 게시, 영어 텍스트)이 수돈 북쪽과 남쪽의 기념 장소를 소개한다.
 
-- 안사원(Urban Development Hall): 수돈 북쪽. 무릉을 세운 일과 무릉성을 위해 목숨을 바친 영웅을 기리려고 지었다. 무릉을 세울 때는 북쪽 금지 구역, 대균열, 아겔로스, 무릉 연구 기지가 실패할 위험과 맞서야 했다. 안에는 무릉 건설기의 역사 문서와 기념품이 있고, 바깥벽에는 첫 천사장 수돈이 올라가는 단계별 사진(수돈 건설 기록)이 걸려 있다. 학생 단체 견학이 잦다.
-- 영수벽(Eternal Wall): 안사원의 기념비. 수돈 기초에 쓰고 남은 식양 재료로 만들었고, 출신을 가리지 않고 무릉성에 기여한 모든 사람의 이름을 새긴다. 미브가 수구의 이름을 새긴 곳이다([무릉성 순찰대](#무릉성-순찰대)). 임무 Comrades: Remembrance가 영수벽으로 가는 임무다.
-- Serenity Garden: 수돈 남쪽의 작은 땅에 천사장 하나와 Merit Stones라 부르는 석판들이 있다. 석판에는 큰 공을 세운 사람의 이름과 생애를 새기며, 무릉 연구 기지·무릉성·수돈을 지은 사람과 식양 연구자의 이름이 올라 있다. 사람들은 꽃을 두고 가며 오래 머물지 않는다. 감시 의뢰의 고장 난 천사장이 이곳에 있다.
+- 도시 건설관(Urban Development Hall): 수돈 북쪽. 무릉을 세운 일과 무릉성을 위해 목숨을 바친 영웅을 기리려고 지었다. 무릉을 세울 때는 북쪽 금지 구역, 대균열, 아겔로스, 무릉 연구 기지가 실패할 위험과 맞서야 했다. 안에는 무릉 건설기의 역사 문서와 기념품이 있고, 바깥벽에는 첫 천사장 수돈이 올라가는 단계별 사진(수돈 건설 기록)이 걸려 있다. 학생 단체 견학이 잦다. 「전우 · 무명」(Comrades: The Nameless)은 미브가 도시 건설관의 지하 공간으로 관리자를 부르며 시작하고, 「전우 · 내일」(Comrades: For Tomorrow)에서는 도시 건설관에서 천사장을 고친다.
+- 영수벽(Eternal Wall): 여행 가이드는 도시 건설관의 기념비로 소개한다. 수돈 기초에 쓰고 남은 식양 재료로 만들었고, 출신을 가리지 않고 무릉성에 기여한 모든 사람의 이름을 새긴다. 미브가 수구의 이름을 새긴 곳이다([무릉성 순찰대](#무릉성-순찰대)). 「전우 · 기념」(Comrades: Remembrance)에서 철묘와 영수벽에서 만나 추도식에 간다.
+- 안사원(Serenity Garden): 수돈 남쪽의 작은 땅에 천사장 하나와 공적비(Merit Stones)라 부르는 석판들이 있다. 석판에는 큰 공을 세운 사람의 이름과 생애를 새기며, 무릉 연구 기지·무릉성·수돈을 지은 사람과 식양 연구자의 이름이 올라 있다. 사람들은 꽃을 두고 가며 오래 머물지 않는다. 감시 의뢰의 고장 난 천사장이 이곳에 있다. 「전우 · 추억」(Comrades: Commemoration)에서 미브와 이곳을 조사한다. [여풍](../operators/lifeng.md)은 해마다 안사원에서 부모를 추모했고, 공적비에 두 사람 이름이 새겨져 있어도 두 사람이 그곳에 잠들어 있지는 않다고 말한다(「달이 가고 해가 오리라」).
 
 ### 수돈 내부
 
@@ -226,16 +228,16 @@ endfield.wiki.gg에 실린 장소는 Watchtower Reservoir Station, Restricted Ar
 
 ## 장검 골짜기
 
-장검 골짜기(Sword Vault Dale)는 청파채 남동쪽 골짜기로, 1.3 버전(과거를 찾아서)에 열린 선택 지역이다. 같은 버전에 청파채에서 남동쪽으로 내려가는 길이 생겼고, 사이드 임무 Deep Vaulted Steel을 진행하면 들어간다. 골짜기 아래에는 100여 년 전 염국의 천사들이 여러 문화유산을 보존하려고 만든 대형 지하 방호 시설이 있다. 금고의 내력과 문명 보존 협정은 [염국](yan.md#장검-골짜기의-비밀-금고)에 있다.
+장검 골짜기(Sword Vault Dale)는 청파채 남동쪽 골짜기로, 1.3 버전(과거를 찾아서)에 열린 선택 지역이다. 같은 버전에 청파채에서 남동쪽으로 내려가는 길이 생겼고, 사이드 임무 「검이 숨겨진 골짜기」(Deep Vaulted Steel)를 진행하면 들어간다. 골짜기 아래에는 100여 년 전 염국의 천사들이 여러 문화유산을 보존하려고 만든 대형 지하 방호 시설이 있다. 금고의 내력과 문명 보존 협정은 [염국](yan.md#장검-골짜기의-비밀-금고)에 있다.
 
 지형은 골짜기 아래로 반시계 방향으로 감겨 내려가는 한 줄기 나선이다. 고저차가 크지만 위아래로 곧장 오가기는 거의 어려워 크게 돌아가야 하고, 집라인 상한은 30개까지 오른다. 적은 대부분 거대한 록하울러(Craghowler)와 Armored Manglerbeast 같은 야생 동물이다. 거대한 록하울러는 바나나 껍질을 바닥에 던지고, 이것을 밟으면 미끄러진다. 거대한 록하울러의 위기 파편은 [프로토콜 공간](../content/protocol_space.md), 지역의 전투 시설 선검 연무는 [전투 컨텐츠](../content/combat_content.md#선검-연무)에 있다.
 
-Deep Vaulted Steel의 흐름은 다음과 같다(영어 텍스트).
+검이 숨겨진 골짜기의 흐름은 다음과 같다.
 
-1. Lian Xiaowu가 무릉성의 [선검국](factions.md#선검국)으로 관리자를 부른다. 관리자와 [진천우](../operators/chen_qianyu.md)는 묻힌 염국 유물과 기술을 찾는 일을 돕기로 하고 장검 골짜기로 간다.
-2. 골짜기에 숨은 옛 유적을 둘러본 뒤 첫 번째 Ancient Sword Stele로 가는 길에서 길을 막은 청파채 사람들을 쓰러뜨린다. 청파채 복수파 일부가 새 거점으로 삼으려고 골짜기에 들어와 있었다.
-3. Ancient Sword Stele 세 곳의 장치를 차례로 푼다. 가는 길에 무리에게 괴롭힘당하던 작은 붉은 록하울러를 구해 Smartie라 부르며 함께 가고, 숨어 있던 Walton을 찾아 사정을 묻는다.
-4. 골짜기 바닥의 염국 금고 앞을 막은 커다란 록하울러(영어 giant Rockhowler)를 쓰러뜨리고 금고에 들어가, 테라 사람들이 탈로스2 사람들에게 남긴 유물을 본다. "Chi Xiao"를 검색한 결과를 확인하고 나와 Lian Xiaowu와 Walton에게 발견한 것을 전한다.
+1. 천사 연효무(Lian Xiaowu)가 무릉성의 [선검국](factions.md#선검국)으로 관리자를 부른다. 관리자와 [진천우](../operators/chen_qianyu.md)는 묻힌 염국 유물과 기술을 찾는 일을 돕기로 하고 장검 골짜기로 간다. 입구는 천사 제자 림호가 지킨다.
+2. 골짜기에 숨은 옛 유적을 둘러본 뒤 첫 번째 유적 검 기둥(Ancient Sword Stele)으로 가는 길에서 길을 막은 청파채 사람들을 쓰러뜨린다. 청파채 복수파 일부가 새 거점으로 삼으려고 골짜기에 들어와 있었다.
+3. 유적 검 기둥 세 곳의 장치를 차례로 푼다. 가는 길에 무리에게 괴롭힘당하던 작은 붉은 록하울러 똘똘이(Smartie)를 구해 함께 가고, 숨어 있던 월턴(Walton)을 찾아 사정을 묻는다. 월턴은 자신을 탈로스 II 상업연합회에 등록된 고고학자 헨리 월턴이라 소개하고, [문명 보존 협정](yan.md#장검-골짜기의-비밀-금고)의 컬럼비아 전권 대표 인디 월턴 박사의 증손자라고 말한다.
+4. 골짜기 바닥의 염국 금고 앞을 막은 거대한 록하울러를 쓰러뜨리고 금고에 들어가, 테라 사람들이 탈로스2 사람들에게 남긴 유물을 본다. '적소'(Chi Xiao)를 검색한 결과를 확인하고 나와 연효무와 월턴에게 발견한 것을 전한다.
 
 ## 북쪽 금지 구역
 
@@ -246,12 +248,14 @@ Deep Vaulted Steel의 흐름은 다음과 같다(영어 텍스트).
 ### 탐색
 
 - 지도 상당 부분이 침식 안개(Blight Miasma)로 덮여 있다. 장비 없이 들어가면 몇 초 만에 쓰러진다. 중추 식양 장치와 그 확장형은 [개인 장치](../systems/personal_device.md)에 있다. 맵 곳곳의 응룡장 주변은 안개가 닿지 않는다.
-- 2장 Ⅶ을 진행하면 안개 대부분이 걷힌다. 나머지는 탐색 임무로 연다. Quelltide Levee 남쪽의 Cliffside Courtyard는 「Blightshade Watch」, 담검당 서쪽의 Waterworks Hub와 Celestial Column 북쪽의 Ghost Mesa Test Site는 「Fissure Filling and Land Grouting」을 해야 들어간다. 이 두 곳은 안개가 더 짙고 식양 기체 간헐천이 있다.
+- 2장 Ⅶ을 진행하면 안개 대부분이 걷힌다. 나머지는 탐색 임무로 연다. Quelltide Levee 남쪽의 Cliffside Courtyard는 「침식의 그림자 관찰 일지」(Blightshade Watch), 담검당 서쪽의 Waterworks Hub와 Celestial Column 북쪽의 Ghost Mesa Test Site는 「균열 봉합 지대」(Fissure Filling and Land Grouting)를 해야 들어간다. 이 두 곳은 안개가 더 짙고 식양 기체 간헐천이 있다.
 - 식양 기체를 기체 분산기에 넣으면 응룡장처럼 침식 수치를 되돌린다. 간헐천의 식양 기체는 나중에 거점으로 끌어와 고체·기체 전환기에 쓴다. 간헐천 5개를 모두 끌어오면 분당 100이다.
 - 무릉 지역 건설 레벨 1에서 이 구역의 프로토콜 용량 130, 집라인 18, 전술 시설 9이다. 레벨 5에서 150·20·11, 레벨 8에서 180·24·13, 레벨 14에서 250·30·15가 되고, 레벨 21에서 광석 순도가 오른다. 수집 요소 수와 전송 지점은 [탐색 컨텐츠](../content/exploration.md)에 있다.
 - 자원: 적동 광맥, 식양 기체·비활성 기체 간헐천. 희귀 채집물은 크리소덴드라, 붉은 창 잎, 일반 흑암석(Auronyx), 프로토콜 문양석이다. 붉은 창 잎과 프로토콜 문양석은 1.4 기준 이곳에만 있었다([육성 재료](../systems/materials.md)).
 - 전투: 에너지 응집점, 알레이크레오스 재도전(RE-Crisis), 그림자에 물든 진뢰 위기 파편([프로토콜 공간](../content/protocol_space.md)).
-- 부가 임무 「Long Night Breaking into Day」 「Sorrow Sings in Silence」, 탐색 임무 「Blightshade Watch」 「Fissure Filling and Land Grouting」 「Nameless Blades」 Ⅰ~Ⅲ 「Treasures of the Past」가 있다.
+- 부가 임무 「달이 가고 해가 오리라」(Long Night Breaking into Day) 「슬픔은 늘 소리 없이 찾아온다」(Sorrow Sings in Silence), 탐색 임무 「침식의 그림자 관찰 일지」 「균열 봉합 지대」 「무명검록」(1)~(3)(Nameless Blades I~III) 「과거의 보물」(Treasures of the Past)이 있다.
+- 달이 가고 해가 오리라: 대균열이 닫힌 뒤 결의 부탁으로 여풍을 도와, 142년 재앙에서 함께 살아남은 친구 백상·연이·생이의 가족 유품과 여풍 부모(여현, 제이)의 흔적을 찾는다. 여풍 부모는 마지막 철수 대열에 여풍을 맡기고 담검당 북쪽 폐기 설비 적치장의 균열을 막으러 갔고, 유품은 남지 않았다. 그 자리의 천사들이 여풍 부모를 기억하는 일을 들려주고, 여풍은 '여풍'이라는 이름에 부끄럽지 않게 살겠다고 한다.
+- 슬픔은 늘 소리 없이 찾아온다: 응룡 대원 량이 유품을 반환하다 찾은 악기에 재앙으로 흩어진 남쪽 홍산 유랑 극단의 이름이 새겨져 있다. 극단은 부모 없는 아이들을 거두어 각지를 돌며 공연하고 사람을 도왔고, 아이가 자라면 극단에 남을지 악기를 들고 떠날지 고르게 했다. 악기는 다른 사람을 돕겠다는 책임의 표시였다. 관리자는 결, 펠리카와 함께 옛 단원인 요리사 심바다와 순찰대원 이랑에게 악기를 돌려주고, 마지막 피리는 옛 단원이던 봉이 동생 남현에게 물려준다.
 
 ### 구획
 
@@ -292,11 +296,13 @@ Deep Vaulted Steel의 흐름은 다음과 같다(영어 텍스트).
 
 ### 들어가는 임무
 
-탐색 임무 「Bell of Recollection」을 마치면 열린다. 선행 조건은 메인 임무 2장 VII 완료다.
+탐색 임무 「귀환의 종소리」(Bell of Recollection)를 마치면 열린다. 선행 조건은 메인 임무 2장 VII 완료다.
 
-1. 천사 Shang Jin이 도움을 청한다. 관리자는 무릉성 Citizen Square에서 사정을 듣고, 그와 함께 그의 스승 여소귀(Yu Shigui)를 찾아간다.
-2. Shang Jin이 시험을 치르는 동안 여소귀가 수명 이야기를 들려준다. 노인이 이야기를 이어 가자 관리자는 주변이 그 도시로 바뀌는 것을 느끼고, 진상을 알아보기로 한다.
-3. 수명성에서 종 공방의 제자가 Waking Bell을 고치려 한다. 관리자는 종을 공공 경보 장치로 쓸 수 있도록 기동 장치를 구하고 교체 부품 4개를 모아 고친다. 도중에 「Repair Log: Waking Bell」을 얻는다.
+1. 천사 상진(Shang Jin)이 도움을 청한다. 관리자는 무릉성 Citizen Square에서 사정을 듣는다. 상진은 삼도종(Bell of Three Presences)을 고칠 핵심 교체 부품을 구하려고 관리자와 함께 스승 여소귀(Yu Shigui)를 찾아간다.
+2. 상진이 시험을 치르는 동안 여소귀가 수명 이야기를 들려준다. 노인이 이야기를 이어 가자 관리자는 주변이 그 도시로 바뀌는 것을 느끼고, 진상을 알아보기로 한다.
+3. 수명성에서 종 공방의 제자가 알림종(Waking Bell)을 고치려 한다. 관리자는 종을 공공 경보 장치로 쓸 수 있도록 기동 장치를 구하고 교체 부품 4개를 모아 고친다. 도중에 「Repair Log: Waking Bell」을 얻는다. 부품마다 「귀환의 종소리 · 팔괘 '손'」 「'감'」 「'진'」 「'건'」(Xun of Gale, Kan of Water, Zhen of Thunder, Qian of Heavens) 임무가 하나씩 있다.
+
+임무 「종이 세 번 울릴 때」(The Bell Tolls)에서는 삼도종 표면의 룬 부품 세 개에 식양을 넣는다.
 
 ### 구역의 특징
 
@@ -333,23 +339,23 @@ Deep Vaulted Steel의 흐름은 다음과 같다(영어 텍스트).
 - 140년 식양 개발에 힘을 보탠 베헤모스 대리인이 누구인지([베헤모스와 쉐이](behemoth.md)).
 - 장방이 직함의 공식 한국어 표기 (나무위키 '대리 책임자', 영문 Viceroy).
 - 아다시르가 봉인된 뒤의 경과.
-- 북쪽 금지 구역의 구획 이름(담검당 제외), 탐색·부가 임무 이름, Pale Blightshade의 한국어 표기. Pale Blightshade가 축 교관의 그림자라는 말은 영어 위키 갤러리 설명에만 있다.
+- 북쪽 금지 구역의 구획 이름(담검당 제외)과 Pale Blightshade의 한국어 표기. 「돌아갈 길이 없다」(Home Beyond Reach)가 북쪽 금지 구역 임무인지. Pale Blightshade가 축 교관의 그림자라는 말은 영어 위키 갤러리 설명에만 있다.
 - 진뢰가 담검당에 맡겨진 까닭과 시기. 적 설명문은 담검당에 맡겨져 지냈다고만 하고, 결의 신뢰 대화 1은 자기가 길렀다고 한다.
 - 창적 적 9종의 영어 이름 짝(영어 목록은 Highway Reaver, Road Plunderer, Grove Archer, Sweeping Wind, Hill Smasher, Cloud Obliterator, Cloud Stalker, Nimbus Razor, Breaking Gust). 창적이 청파채 무법자 전체를 가리키는지 강경파만 가리키는지도 출처마다 다르다.
 - 홍산 환형산에서 자란 진천우가 언제 무릉 연구 기지 옆 담검당에 다녔는지. 사의 훈련 일지 8은 장소를 '홍산 과학원 본부, 담검당'(영어 Tanjian Hall, HAS)으로 적어, 홍산에 따로 담검당이 있는지도 확인하지 못했다.
 - 봉의 직위. 이 문서는 부대장(본명 심교아)으로 적지만, 결 파일 자료 1의 서명은 '응룡 특수부대 대원 봉'이고 영어 텍스트도 trooper다.
 - 진천우가 선발에서 떨어진 이유. 한 출처는 진천우의 이타적인 성정이 응룡의 특성과 맞지 않는다고 판단되었고, 탈락시킨 교관도 속으로는 진천우가 옳다고 여겨 최고의 제자로 생각했다고 적지만, 근거가 된 게임 안 기록을 확인하지 못했다.
 - 응룡 특수부대 중추 파일과 장방이 BAKER 통신 2, 진천우의 예비대원 대사, 결을 소개하는 장방이 대사의 한국어 텍스트. 결의 계급(Major), Xiranflow Cloudseeder Station의 한국어 표기. 영어 이름만 확인한 대원(Overflow, Hillock, Mansion, Wrought, Shore, Stern, Benefit, Macro, Amber)의 한국어 이름과 기록 이름(Yinglung Combat Record, Audio Log: Damaged, Letter: Looks Like a Will)의 한국어 표기.
-- 수명 임무 「Bell of Recollection」, 의뢰인 Shang Jin, 종 Waking Bell, Citizen Square의 한국어 표기. 수명성 이야기(누가 왜 종을 고치려 했는지, 도시가 어떻게 잠겼는지)의 게임 안 대사.
+- Citizen Square의 한국어 표기. 삼도종과 알림종이 같은 종인지(영어 임무 설명은 Bell of Three Presences, 임무 목표는 Waking Bell로 적는다). 수명성 이야기(누가 왜 종을 고치려 했는지, 도시가 어떻게 잠겼는지)의 게임 안 대사.
 - 중추 파일 '청파채'의 한국어 텍스트. 반항 이야기의 블랙홀 프로토콜이 무엇인지는 그 이야기 안에서도 밝혀지지 않는다. 원 천사가 탕탕 파일 자료의 Ruan Lin이나 원일의 집안과 이어지는지도 기록이 없다.
-- 중추 파일 '선조의 샘', Patron of the Spring 임무, Du Ming의 한국어 표기와 임무 대사. 기계 봉인을 청한 주민이 Du Ming인지는 중추 파일에 이름이 없다.
-- 수돈 장소(Watchtower Reservoir Station, Restricted Area, Cloudrest Woods, Lake Islet, Serenity Garden, Security Section)의 한국어 표기와 설명. Merit Stones와 임무 Comrades: Remembrance의 한국어 표기.
-- 안사원 = Urban Development Hall, 영수벽 = Eternal Wall은 수구의 이름을 새긴 곳을 나무위키와 endfield.wiki.gg가 같은 일로 적어 짝지었다. 게임 안 한국어 표기로는 확인하지 못했다. 감시 의뢰의 Reservoir Station이 Watchtower Reservoir Station과 같은 곳인지.
+- 중추 파일 '선조의 샘'의 한국어 텍스트와 샘의 나그네 임무 대사. 기계 봉인을 청한 주민이 두명인지는 중추 파일에 이름이 없다.
+- 수돈 장소(Watchtower Reservoir Station, Restricted Area, Cloudrest Woods, Lake Islet, Security Section)의 한국어 표기와 설명. 감시 의뢰의 Reservoir Station이 Watchtower Reservoir Station과 같은 곳인지.
+- 영수벽이 도시 건설관에 있다는 것은 영어 여행 가이드로만 확인했다. 공적비와 Merit Stones의 짝은 안사원의 공적비를 말하는 여풍 대사로 맞췄다.
 - 잔영의 한국어 설명문과 감시 의뢰 문구.
-- Deep Vaulted Steel, Lian Xiaowu, Walton, Ancient Sword Stele, Chi Xiao의 한국어 표기. 이 Walton이 [문명 보존 협정](yan.md#장검-골짜기의-비밀-금고)의 Columbia 대표 Dr. Indy Walton과 어떤 관계인지.
 
 ## 히스토리
 
+- 2026-11-21: 부가·탐색 임무와 수명·장검 골짜기·선조의 샘 인물의 한국어 게임 표기를 넣음. 안사원의 영어 짝을 Serenity Garden으로 바로잡고 Urban Development Hall을 도시 건설관으로 고침. 북쪽 금지 구역에 달이 가고 해가 오리라·슬픔은 늘 소리 없이 찾아온다 줄거리 추가.
 - 2026-11-06: 수돈 절에 안사원·영수벽·Serenity Garden 추가.
 - 2026-11-05: 무릉성 절에 무릉성 순찰대(하는 일, 확인된 대원, 수구의 희생과 철묘의 입대) 추가.
 - 2026-11-04: 청파채 절에 선조의 샘(중추 파일, 임무, 펠리카 통신), 수돈 절(장소, 수돈 내부, 잔영) 추가. 반항 이야기를 한국어 텍스트로 다시 옮기고 Hongshan Swordmancers·Bureau of Swordmancers를 선검국으로 고침.

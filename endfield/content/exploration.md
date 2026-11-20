@@ -1,15 +1,16 @@
 ---
 title: 탐색 컨텐츠 (Exploration)
 type: guide
-aliases: [탐색, 탐색 컨텐츠, 필드 탐색, 수집 요소, 오리렌, 상자, 연구 포인트, 장비 템플릿, 오리지늄 회로 영감, 탈로사이트, Talosite, 탈로사이트 거래소, Talosite Exchange, 프로토콜 용량, 집라인 제한, 전술 시설 제한, 에너지 응집점, 고위 에너지 응집점, Energy Alluvium, Severe Energy Alluvium, 탐색 레벨, Exploration Level, 월드 레벨, World Level, 침식된 유산을 찾아서, Etchspace Salvage, 탐색 의뢰, Aberrant Exploration, 탐색 지원 기술, Exploration Support Tech, 집중 의뢰, Focus Commission, 작전 지표, Operation Metrics, 숨겨진 구역의 여행자, Delver of the Cryptic, 수명, 간편 도구, Easy Tools, 스캔, 담기, 분사, 분사 드론, Jet Drone, 궁술, 수리, Typhoeus's Archery Range, ティフォロスの射場, Cliffbottom Archery Range, Trial of the Bow, 弓の試練, Archer's Epiphany]
+aliases: [탐색, 탐색 컨텐츠, 필드 탐색, 수집 요소, 오리렌, 상자, 연구 포인트, 장비 템플릿, 오리지늄 회로 영감, 탈로사이트, Talosite, 탈로사이트 거래소, Talosite Exchange, 프로토콜 용량, 집라인 제한, 전술 시설 제한, 에너지 응집점, 고위 에너지 응집점, Energy Alluvium, Severe Energy Alluvium, 탐색 레벨, Exploration Level, 월드 레벨, World Level, 침식된 유산을 찾아서, Etchspace Salvage, 탐색 의뢰, Aberrant Exploration, 탐색 지원 기술, Exploration Support Tech, 집중 의뢰, Focus Commission, 작전 지표, Operation Metrics, 숨겨진 구역의 여행자, Delver of the Cryptic, 수명, 간편 도구, Easy Tools, 스캔, 담기, 분사, 분사 드론, Jet Drone, 궁술, 수리, Typhoeus's Archery Range, ティフォロスの射場, Cliffbottom Archery Range, 절벽 아래 활터, 다시 출발, The Mission Continues, 우주의 심연을 넘어, Beyond the Worlds' Expanse, Trial of the Bow, 弓の試練, Archer's Epiphany]
 sources:
   - https://namu.wiki/w/명일방주:%20엔드필드/지역 (2026-10-22 수정본, 지역별 제한·수집 요소, CC BY-NC-SA 2.0 KR)
   - https://namu.wiki/w/명일방주:%20엔드필드/설비 (성형기·충진기 문단의 담기·드론 분사, 2026-10-25 수정본, CC BY-NC-SA 2.0 KR)
   - https://endfield.wiki.gg/wiki/Energy_Alluvium · Etchspace_Salvage(wikitext, 변경 기록) · Etchspace_Salvage/Commissions (2026-07-27 수정본) · Delver_of_the_Cryptic · Exploration_Level (02/05 최적화 공지 변경점) · Talosite_Exchange (2026-07~10 수정본) · Easy_Tools (2026-09-11 수정본)
   - https://endfield.wiki.gg/wiki/Typhoeus%27s_Archery_Range (2026-09-17 수정본) · Trial_of_the_Bow (2026-09-12 수정본) · Cliffbottom_Archery_Range (2026-09-09 수정본) · A_Dreamscape_Shattered_by_Her_Arrow (2026-09-06 수정본) · Dreamscape_of_Wind_and_Snow (2026-10-29 수정본) · A_Winter_Dream_Fogged_Deep_in_the_Woods (하위 임무 목록, 2026-11-20 열람)
   - https://game8.jp/arknights-endfield/814895 (2026-10-16 갱신) · https://game8.jp/arknights-endfield/814620 (2026-09-14 갱신)
+  - https://warfarin.wiki/kr/missions · https://warfarin.wiki/en/missions (임무 이름의 한국어·영어 게임 텍스트, v1.6 데이터, 2026-11-21 열람)
 created: 2026-10-23
-updated: 2026-11-20
+updated: 2026-11-21
 ---
 
 # 탐색 컨텐츠
@@ -76,11 +77,11 @@ updated: 2026-11-20
 
 ### 올리는 방법
 
-메인 스토리 진행으로 오르고, 레벨 3 이후에는 Beyond the Worlds' Expanse I·II·III·IV를 클리어하면 각각 4·5·6·7이 된다(공간과 위치는 [프로토콜 공간](protocol_space.md)의 '탐색 레벨 공간').
+메인 스토리 진행으로 오르고, 레벨 3 이후에는 「우주의 심연을 넘어」(Beyond the Worlds' Expanse) 1·2·3·4를 클리어하면 각각 4·5·6·7이 된다(공간과 위치는 [프로토콜 공간](protocol_space.md)의 '탐색 레벨 공간').
 
 ### 단계별로 열리는 것
 
-- 레벨 2: 임무 The Mission Continues의 2단계를 마치면 열린다. 다른 사람이 공유한 설비가 자기 세계에 나타나기 시작한다.
+- 레벨 2: 메인 임무 1장 Ⅲ의 첫 임무 「다시 출발」(The Mission Continues)의 2단계를 마치면 열린다. 다른 사람이 공유한 설비가 자기 세계에 나타나기 시작한다.
 - 레벨 3: [권한 등급](../systems/protocol_pass.md) 25에 이르면 열린다. 프로토콜 공간 3단계가 열린다.
 - 레벨 4: 에너지 응집점이 고위 에너지 응집점으로 바뀐다(아래 [에너지 응집점](#에너지-응집점)).
 - 레벨 5: 고위험 재료 프로토콜 공간(Crisis Drills, 4차 정예화 등에 드는 고급 육성 재료), 보스 재도전 공간의 심층 모드, 프로토콜 공간 4단계가 열린다.
@@ -150,7 +151,7 @@ Protosync 메뉴에서 낮출 수 있다. 원래 레벨로는 언제든 돌아�
 
 | 의뢰 | 열리는 조건 | 열쇠 | 보상 | 여는 것 |
 |---|---|---|---|---|
-| I | 모드 개방과 같음(임무 The Mission Continues 완료, 권한 등급 22) | 4개 | 작전 경력 300, 오로베릴 150, 중급 작전 기록 14, 탈로시안 화폐 10,000 | 2구역 |
+| I | 모드 개방과 같음(임무 「다시 출발」 완료, 권한 등급 22) | 4개 | 작전 경력 300, 오로베릴 150, 중급 작전 기록 14, 탈로시안 화폐 10,000 | 2구역 |
 | II | I 완료 | 5개 | 작전 경력 300, 오로베릴 150, 중급 작전 기록 14, 탈로시안 화폐 10,400 | 3구역 |
 | III | II 완료 | 5개 | 작전 경력 300, 오로베릴 150, 중급 작전 기록 16, 탈로시안 화폐 11,100 / 오로베릴 300, 탈로시안 화폐 24,000, 초급 인지 매개체 14, 작전 경력 600 | 4구역, 집중 의뢰 |
 | IV | III 완료, 권한 등급 40 | 5개 | 작전 경력 300, 오로베릴 150, 초급 인지 매개체 9, 탈로시안 화폐 16,000 / 오로베릴 300, 탈로시안 화폐 32,000, 고급 인지 매개체 2, 작전 경력 600 | 5구역 |
@@ -255,7 +256,7 @@ Manifest Containment는 그 구역의 정해진 색 보관함에서 나오는 �
 
 ### 개방
 
-부가 임무 Cliffbottom Archery Range(일본어 崖の下の射場)에서 기계를 고치고 잠금을 풀면 열린다. 기계 수리는 오리지늄 회로 퍼즐이고, 잠금 해제 비용은 없다. 임무는 단말기로 온 티프로스의 메시지를 읽고 답하면 시작된다. 임무의 단계는 기계 수리, 잠금 해제, 안드레의 칩 시험 두 번, Daily Exercise 한 번, 시설 강화, 최대 레벨 달성 순이다.
+부가 임무 「절벽 아래 활터」(Cliffbottom Archery Range, 일본어 崖の下の射場)에서 기계를 고치고 잠금을 풀면 열린다. 기계 수리는 오리지늄 회로 퍼즐이고, 잠금 해제 비용은 없다. 임무는 단말기로 온 티프로스의 메시지를 읽고 답하면 시작된다. 임무의 단계는 기계 수리, 잠금 해제, 안드레의 칩 시험 두 번, Daily Exercise 한 번, 시설 강화, 최대 레벨 달성 순이다.
 
 이 임무는 티프로스 이야기 A Winter Dream Fogged Deep in the Woods(일본어 冬の夢は霧の中に)를 마치면 열린다. endfield.wiki.gg 시설 문서가 조건으로 드는 A Dreamscape Shattered by Her Arrow는 이 이야기의 마지막 하위 임무다([오퍼레이터 이벤트 스토리](../world/event_stories.md#안개에-잠긴-겨울꾼의-숲)).
 
@@ -294,9 +295,8 @@ Basic Training과 Advanced Training을 처음 깨면 오로베릴을 준다. 단
 
 ## 확인하지 못한 것
 
-- 탐색 레벨, 희귀 채집 지점, Protosync, 임무 The Mission Continues, Beyond the Worlds' Expanse, 혼란 수치, 결절, 격리 컨테이너, 작전 지표, Aurylene Crystal, 침전 결정의 게임 안 한국어 표기.
+- 탐색 레벨, 희귀 채집 지점, Protosync, 혼란 수치, 결절, 격리 컨테이너, 작전 지표, Aurylene Crystal, 침전 결정의 게임 안 한국어 표기.
 - 탐색 레벨 단계별 값, 고위 에너지 응집점의 이성 소모와 기질 수, 거래소 품목은 영어 자료 하나에만 있다. 장식품·카메라 포즈 품목 이름은 아이콘이 깨져 모른다.
-- 탐색 레벨 2를 여는 The Mission Continues가 어느 임무인지.
 - 침식된 유산을 찾아서의 의뢰·연구 이름, 구역 이름(Aberrant of …), Aberrant Core, Control Center, Aquito, 수집 물품(Classified·Gold Statuette·Specimen·Fragment)의 한국어 게임 표기. 보상의 기초 헤드헌팅 허가증(Basic HH Permit)은 뜻으로 맞춘 이름이다.
 - 탐색 의뢰 III·IV·VI의 보상이 두 묶음으로 나뉜 이유(첫 클리어 보상과 추가 보상인지).
 - Nodule Refining 2의 선행 조건. 의뢰 표에는 'Nodule Refining 2와 탐색 의뢰 VI 완료'로 적혀 있어 자기 자신을 가리킨다.
@@ -304,7 +304,7 @@ Basic Training과 Advanced Training을 처음 깨면 오로베릴을 준다. 단
 - '숨겨진 구역의 여행자' 각 시리즈와 공간의 한국어 이름.
 - 지역 표의 빈 프로토콜 용량·집라인 단계값, 4번 협곡 지역의 탈로사이트 수.
 - 간편 도구 동작 이름(스캔, 카메라, 폭발물, 담기, 분사, 수리, 궁술), 분사 드론, Flow Control Node·Xiranite Flow Control Node의 게임 안 한국어 표기. 담기·분사는 나무위키 설비 서술을 따랐다.
-- Typhoeus's Archery Range와 그 단계·임무·이벤트·메달(Cliffbottom Archery Range, Basic Training, Advanced Training, Daily Exercise, Trial of the Bow, Archer's Epiphany)의 한국어 게임 표기. 커뮤니티 영상 제목에 '티프로스의 활터', '궁술 시련'이 보이지만 본문으로 확인하지 못했다.
+- Typhoeus's Archery Range와 그 단계·이벤트·메달(Basic Training, Advanced Training, Daily Exercise, Trial of the Bow, Archer's Epiphany)의 한국어 게임 표기. 커뮤니티 영상 제목에 '티프로스의 활터', '궁술 시련'이 보이지만 본문으로 확인하지 못했다.
 - 첫 클리어 보상의 두 번째 품목, 눈 덮인 소나무 숲 안의 정확한 위치.
 - 영어 업데이트명과 버전의 대응. Zeroth Directive를 1.0(미션 제로), Old Deep Water Dies, by Rising Tide It is Denied를 1.1, At the Wake of Spring을 1.2(봄날의 새벽)로 본 것은 한국어 버전 이름과 뜻으로 맞춘 것이다.
 
