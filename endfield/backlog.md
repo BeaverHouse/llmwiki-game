@@ -4,13 +4,21 @@
 
 ## 다음 작업
 
-- 재검증 | operators/argent_flow.md 카드·확인하지 못한 것 절, parties/argent_flow_party.md 물리 파티 | 2026-11-19. 2026-11-06 질문의 답을 찾았다. 우레는 다른 오퍼레이터의 강타로도 터진다(재능 원문이 강타의 주어를 정하지 않고, 운용 절과 파티 가이드가 미브·판·관리자의 강타를 우레와 묶는다). 연계 부착 1스택 뒤 질주하는 천둥은 감전 II다(원문은 소모 스택마다 강제 감전 레벨 +1, 파티 가이드는 1스택 감전 II·2스택 감전 III). 카드의 해석 표시와 물리 파티의 보류 판정을 이 답으로 고친다. 우레 폭발이 누구의 공격력으로 계산되는지는 찾지 못했다 | 나무위키 명하 문서, endfield.wiki.gg Argent_Flow, Icy Veins argent-flow-teams, Game8 Argent Flow Best Team Comps
+- 명하 이벤트 스토리 Back to the Rustics | world/event_stories.md | 이벤트 스토리 문서에 1.6 이야기만 빠짐. 하위 임무 Parting Grass → Kindling the Fire → Seeking the Branch, Pan'an 마을과 Mu Xing, 사가 명하를 미션 제로에 끌어들인 경위. 이벤트가 끝난 뒤(11-26) 영어 줄거리가 채워지면 쓴다 | 나무위키 스토리 문서, endfield.wiki.gg Argent_Flow/Story·각 하위 임무 문서
+- 티프로스 후속 임무 「운명의 빛」 → 「일생일대의 분투」 | world/event_stories.md 또는 world/behemoth.md | 사미의 제사장과 사의 옛 꿈을 다루는 후속 이야기. 영어 임무 이름부터 찾아야 함 | 나무위키 스토리 문서 연표, endfield.wiki.gg
+- 무릉 부가·탐색 임무의 한국어 이름 | world/wuling.md·glossary.md | 나무위키 연표가 「기억의 종소리」(Bell of Recollection, 의뢰인 상진), 「침묵 속에 울려 퍼지는 슬픔」(Sorrow Sings in Silence), 「무명의 칼날 Ⅰ~Ⅲ」(Nameless Blades), 「닿을 수 없는 고향」을 적음. 무릉 문서는 영어 이름만 둠 | 나무위키 스토리 문서, endfield.wiki.gg
 
 ## 확인 필요
 
 [AGENTS.md](../AGENTS.md) 6절에 맞는 질문만 둔다.
 
+- 명하 우레 폭발의 계산 주체 | operators/argent_flow.md 확인하지 못한 것, parties/argent_flow_party.md 물리 파티 | 미브 추형 같은 동료의 강타로 우레가 터질 때 폭발 피해가 명하의 공격력·아츠 강도로 계산되는지, 강타를 넣은 오퍼레이터의 것으로 계산되는지. 원문과 공략 사이트 어디에도 없다. 답 기한 2026-11-21, 답이 없으면 확인하지 못한 것으로 둔다
+
 ## 완료
+
+- 2026-11-20: 다음 작업이 비어 index와 나무위키 스토리 문서를 대조해 빠진 주제를 찾음. world/event_stories.md(오퍼레이터 이벤트 스토리 아홉 편. 나무위키 요약을 endfield.wiki.gg 하위 임무 문서·영어 대사·공략과 대조해 다른 대목은 양쪽을 적음), 아홉 오퍼레이터 문서 배경 절에 링크, 로시 문서의 「로시: 영웅의 발자취를 따라서」 문단을 같은 이야기 「적기사」로 정리, content/exploration.md 사격장 개방 조건의 출처 차이를 닫음(A Dreamscape Shattered by Her Arrow는 티프로스 이야기의 마지막 하위 임무). 명하 이야기는 줄거리 출처가 모자라 다음 작업으로. 명하 우레 질문은 기한(2026-11-21) 전이라 남김. 케이는 11-25 배너 예정이라 아직 쓰지 않음
+
+- 2026-11-19: 명하 재검증. operators/argent_flow.md 카드(동료의 강타도 우레를 터뜨림, 질주하는 천둥 감전 레벨은 강제 감전 레벨 1 + 소모 스택), 나무위키 2026-11-18 수정본의 재능·잠재능력·인프라 스킬 한국어 이름, 궁극기 쿨타임 15초, 능력치 재능 맹세(의지). 방어불능 +1이 전기 부착을 소모했을 때만 붙는다는 것도 한국어 설명이 영어와 같아져 닫음. parties/argent_flow_party.md 물리 파티를 미브 메인으로 보고 사이클과 판정 근거를 채우고 2딜 편성 한 줄 추가. 실제 클리어 기록과 대조하지 못해 두 파티 모두 구상으로 둠. Game8 팀 가이드는 열리지 않아 쓰지 않음. 새로 문서가 필요한 주제는 없음
 
 - 2026-11-12: 공식 만화 <약속>의 해 질문은 답 기한(2026-11-11)이 지나 기본값대로 닫음. operators/perlica.md와 world/timeline.md 극점 원정 절이 이미 출처마다 다른 서술을 함께 적고 있어 고치지 않음. 명하 재검증은 기한(2026-11-19) 전이라 남김. 명하 뒤로 새로 나온 오퍼레이터는 없음
 

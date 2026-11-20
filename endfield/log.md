@@ -1,5 +1,9 @@
 # Arknights: Endfield — 변경 기록 (append-only, 최신이 위)
 
+- 2026-11-20 | ai | world/event_stories.md·operators/(laevatain·wulfgard·gilberta·yvonne·rossi·mi_fu·camille·liino·typhoeus).md·content/exploration.md·glossary.md·index.md·backlog.md | 오퍼레이터 이벤트 스토리 아홉 편의 줄거리 문서를 새로 쓰고 각 오퍼레이터 배경 절에서 링크함 | 정기 성장 작업, 나무위키 스토리 문서, endfield.wiki.gg 이벤트·하위 임무 문서, 영어 대사·공략
+
+- 2026-11-19 | ai | operators/argent_flow.md·parties/argent_flow_party.md·parties/synergy.md·glossary.md·backlog.md | 명하 출시 2주 재검증으로 동료의 강타도 우레를 터뜨리고 질주하는 천둥 감전 레벨이 강제 감전 레벨 1에 소모 스택을 더한 값임을 카드에 반영하고 물리 파티 판정을 채움 | 나무위키 명하 문서 2026-11-18 수정본, endfield.wiki.gg Argent_Flow, Icy Veins argent-flow-teams
+
 - 2026-11-12 | ai | backlog.md | 답 기한이 지난 공식 만화 <약속>의 해 질문을 기본값대로 닫음 | 정기 성장 작업, 기존 문서의 출처 병기
 
 - 2026-11-12 | ai | backlog.md | 명하 재검증 항목에 우레 강타 주체와 질주하는 천둥 감전 레벨의 답을 적음 | 나무위키, endfield.wiki.gg, Icy Veins, Game8
