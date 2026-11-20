@@ -16,9 +16,11 @@ sources:
   - http://niwacame.com/meikyou/ (niwacame 「冥峡界」, 2021-05 갱신. 클리어 보상과 「混沌の子」 교환)
   - http://niwacame.com/future-garlea/ (niwacame 「未来ガルレア大陸」, 2021-05 갱신. 클리어 보상과 교환)
   - https://anothereden.game-info.wiki/d/%A5%C8%A5%D3%A5%CE%A5%AA%A5%B5%A5%DE (Seesaa Wiki 「トビノオサマ」, 2026-10-30 수정본. 刻唄の力<杖> 보상)
+  - https://anothereden.game-info.wiki/d/%C9%F5%A4%B8%A4%E9%A4%EC%A4%B7%B2%D2%A4%C4%F2%B3%F2%B4%A4%CE%BB%EE%CE%FD (Seesaa Wiki 「封じられし禍つ魍魎の試練」, 2022-08-27 수정본. 炎ノ猛打 미션)
+  - https://altema.jp/anaden/kakotonohatashiai (altema 「廻生「過去との果し合い」攻略」, 2026-01-05 수정본. 搦手ノ撃 미션)
   - 사이트 데이터 ae_translation_all (용어 표기)
 created: 2026-10-22
-updated: 2026-11-16
+updated: 2026-11-20
 ---
 
 # 자주 쓰는 글래스터와 입수처
@@ -45,7 +47,7 @@ updated: 2026-11-16
 
 | 글래스터 | 효과 (통상 → 潜在錬成) | 입수처 | 쓰는 곳 |
 |---|---|---|---|
-| 搦手ノ撃 | 약점 공격 시 피해 +30% → +50% | 「冥王神」 격파 드롭, 廻生 「時の歪を糺せし者の試練」 EX4 미션, 廻生 「虚ろなる真実を抱擁せし者の試練」 EX1 미션 | 약점을 찌르는 어태커. [세스타(AS)](../characters/sesta_as.md), [알마(AS)](../characters/alma_as.md), [세리에스(AS)](../characters/cerius_as.md), [베레토(AS)](../characters/velette_as.md), [번개 파티](thunder_party.md) |
+| 搦手ノ撃 | 약점 공격 시 피해 +30% → +50% | 「冥王神」 격파 드롭, [廻生](kaisei.md) 「時の歪を糺せし者の試練」 미션(「グラスタ一覧」은 EX4, altema는 EX3 전부 달성), 廻生 「虚ろなる真実を抱擁せし者の試練」 EX1 미션 | 약점을 찌르는 어태커. [세스타(AS)](../characters/sesta_as.md), [알마(AS)](../characters/alma_as.md), [세리에스(AS)](../characters/cerius_as.md), [베레토(AS)](../characters/velette_as.md), [번개 파티](thunder_party.md) |
 | 撃陣の力<晶>·<雷> | 해당 ZONE(<晶>은 Seesaa 표기 「煌晶陣」) 전개 시 피해 +15% → +15%【P】 | 廻生 「虚ろなる真実を抱擁せし者の試練」 EX5 미션 | 후위 담당. [결정 파티](crystal_party.md)(<晶>), [번개 파티](thunder_party.md)(<雷>) |
 | 撃陣の力<星海> | 星海陣 전개 시 피해 +15% → +15%【P】 | [カプトニク](../raids/kaputoniku.md) 격파 보상 | [星海陣 파티](seikai_party.md) |
 | 極・撃陣の力<打> | 極・轟打陣 전개 시 피해 +15% + 全属性攻撃 +20% → 둘 다 【P】 | 「マークヴァヴ」 격파 보상(재전 불가) → [マークヴァヴ](../raids/maakuvavu.md) | [타격 파티](blunt_party.md), [하보크](../characters/havoc.md) |
@@ -105,7 +107,7 @@ updated: 2026-11-16
 - 「グラスタ一覧」의 狂星の力 표는 <斧>이 두 번 실리고 <弓>이 없다. <弓>도 같은 교환처로 보이지만 확인하지 못했다.
 ## 기타
 
-- 「炎ノ猛打」(마리엘): 스킬 「ファイアラッシュ」(威力 40%×5, HP 최대 시 피해 2배). 廻生 「封じられし禍つ魍魎の試練」 Stage3 클리어 보상. 「刻唄の力」은 [ZONE](zone.md)의 歌唱 항목에 효과가 있다. 「刻唄の力<杖>」은 [トビノオサマ](../raids/tobinoosama.md), 「刻唄の力<火>」은 [ムル・ナブズ](../raids/muru_nabuzu.md) 보상이고, 나머지 입수처는 확인하지 못했다.
+- 「炎ノ猛打」(마리엘): 스킬 「ファイアラッシュ」. 「グラスタ一覧」은 威力 40%×5에 HP 최대 시 피해 2배, 「封じられし禍つ魍魎の試練」 페이지는 40~80%×5에 HP 80% 이상이면 위력 2배로 적는다. [廻生](kaisei.md) 「封じられし禍つ魍魎の試練」 노멀 Stage3 10턴 미션 보상. 「刻唄の力」은 [ZONE](zone.md)의 歌唱 항목에 효과가 있다. 「刻唄の力<杖>」은 [トビノオサマ](../raids/tobinoosama.md), 「刻唄の力<火>」은 [ムル・ナブズ](../raids/muru_nabuzu.md) 보상이고, 나머지 입수처는 확인하지 못했다.
 - 증표 글래스터(「〜の証」)는 각 동료 문서에 있다. 「お焚き上げ」(猫神神社)에서 ☆5 職書 10권, 詩篇 10권, 이절·개전 5권, 경전록 3권으로 1개를 얻는다.
 - 赫耀 무기의 狙い撃つ처럼 장비가 같은 항목을 가지면 글래스터 칸을 아낀다 → [환경 장비](meta_equipment.md).
 
