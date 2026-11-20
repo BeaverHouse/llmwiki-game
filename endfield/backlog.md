@@ -4,17 +4,22 @@
 
 ## 다음 작업
 
-- 명하 이벤트 스토리 Back to the Rustics | world/event_stories.md | 이벤트 스토리 문서에 1.6 이야기만 빠짐. 하위 임무 Parting Grass → Kindling the Fire → Seeking the Branch, Pan'an 마을과 Mu Xing, 사가 명하를 미션 제로에 끌어들인 경위. 이벤트가 끝난 뒤(11-26) 영어 줄거리가 채워지면 쓴다 | 나무위키 스토리 문서, endfield.wiki.gg Argent_Flow/Story·각 하위 임무 문서
-- 티프로스 후속 임무 「운명의 빛」 → 「일생일대의 분투」 | world/event_stories.md 또는 world/behemoth.md | 사미의 제사장과 사의 옛 꿈을 다루는 후속 이야기. 영어 임무 이름부터 찾아야 함 | 나무위키 스토리 문서 연표, endfield.wiki.gg
-- 무릉 부가·탐색 임무의 한국어 이름 | world/wuling.md·glossary.md | 나무위키 연표가 「기억의 종소리」(Bell of Recollection, 의뢰인 상진), 「침묵 속에 울려 퍼지는 슬픔」(Sorrow Sings in Silence), 「무명의 칼날 Ⅰ~Ⅲ」(Nameless Blades), 「닿을 수 없는 고향」을 적음. 무릉 문서는 영어 이름만 둠 | 나무위키 스토리 문서, endfield.wiki.gg
+- 명하 이벤트 스토리 Back to the Rustics | world/event_stories.md | 이벤트 스토리 문서에 1.6 이야기만 빠짐. 하위 임무 풀숲을 헤치며(Parting Grass) → 불을 지피리라(Kindling the Fire) → 가지를 찾아서(Seeking the Branch), Pan'an 마을과 Mu Xing, 사가 명하를 미션 제로에 끌어들인 경위. 이야기 전체의 한국어 제목은 아직 못 찾음. 이벤트가 끝난 뒤(11-26) 대사가 채워지면 쓴다 | 나무위키 스토리 문서, endfield.wiki.gg Argent_Flow/Story·각 하위 임무 문서, warfarin.wiki 한국어 스토리 리더
+- 운명의 계시 대사 | world/event_stories.md | 동굴에서 알게 되는 제사장의 선택이 빠져 임무 목표만 적음. 임무 대사 문서 번호를 찾아야 함 | warfarin.wiki 한국어 스토리 리더, endfield.wiki.gg Illumination_of_Fate
+- 미브 수돈 임무 「전우」 네 편 줄거리 | world/wuling.md | 도시 건설관 지하, 안사원, 영수벽 추도식, 천사장 수리로 이어지는 수구 이야기. 무릉성 순찰대 절이 결과만 적음 | warfarin.wiki 한국어 스토리 리더, endfield.wiki.gg Comrades 문서
+- 「무명검록」(1)~(3)·「돌아갈 길이 없다」 줄거리와 위치 | world/wuling.md | 북쪽 금지 구역 임무 목록에 이름만 있음. 돌아갈 길이 없다가 어느 지역 임무인지도 모름 | warfarin.wiki 한국어 스토리 리더, endfield.wiki.gg
 
 ## 확인 필요
 
 [AGENTS.md](../AGENTS.md) 6절에 맞는 질문만 둔다.
 
 - 명하 우레 폭발의 계산 주체 | operators/argent_flow.md 확인하지 못한 것, parties/argent_flow_party.md 물리 파티 | 미브 추형 같은 동료의 강타로 우레가 터질 때 폭발 피해가 명하의 공격력·아츠 강도로 계산되는지, 강타를 넣은 오퍼레이터의 것으로 계산되는지. 원문과 공략 사이트 어디에도 없다. 답 기한 2026-11-21, 답이 없으면 확인하지 못한 것으로 둔다
+- 영수벽의 위치 | world/wuling.md 도시 건설관과 안사원 | 영어 여행 가이드는 영수벽을 수돈 북쪽 도시 건설관의 기념비로 적고, 한국어 게임 텍스트로는 안사원이 남쪽 Serenity Garden이다. 게임 안에서 영수벽이 도시 건설관 쪽인지 안사원 쪽인지. 답 기한 2026-11-23, 답이 없으면 영어 가이드대로 도시 건설관에 둔다
+- 삼도종과 알림종 | world/wuling.md 수명 | 상진이 고치려는 삼도종(Bell of Three Presences)과 수명성의 알림종(Waking Bell)이 같은 종인지. 답 기한 2026-11-23, 답이 없으면 두 이름을 따로 적어 둔다
 
 ## 완료
+
+- 2026-11-21: world/event_stories.md 티프로스 후속 임무 운명의 계시·생의 마지막까지(영어 이름은 Illumination of Fate·Endeavor of a Lifetime, 대사는 한국어 게임 텍스트)와 아홉 편 하위 임무의 한국어 이름, world/wuling.md·glossary.md 무릉 부가·탐색 임무와 인물의 한국어 이름, 달이 가고 해가 오리라·슬픔은 늘 소리 없이 찾아온다 줄거리, content/exploration.md 절벽 아래 활터·다시 출발·우주의 심연을 넘어. 나무위키 연표의 임무 이름(운명의 빛, 일생일대의 분투, 기억의 종소리, 무명의 칼날 등)은 같은 문서 안에서도 미브 이야기를 「한줌의 회상」으로 적는 등 게임 표기가 아니어서 aliases에만 둠. 한국어 임무 설명으로 안사원 = Serenity Garden, Urban Development Hall = 도시 건설관임을 확인해 2026-11-06의 짝을 바로잡음. 명하 이야기는 이벤트가 끝나기 전이라 남김. 명하 우레 질문은 오늘이 기한이라 다음 회차에 닫음
 
 - 2026-11-20: 다음 작업이 비어 index와 나무위키 스토리 문서를 대조해 빠진 주제를 찾음. world/event_stories.md(오퍼레이터 이벤트 스토리 아홉 편. 나무위키 요약을 endfield.wiki.gg 하위 임무 문서·영어 대사·공략과 대조해 다른 대목은 양쪽을 적음), 아홉 오퍼레이터 문서 배경 절에 링크, 로시 문서의 「로시: 영웅의 발자취를 따라서」 문단을 같은 이야기 「적기사」로 정리, content/exploration.md 사격장 개방 조건의 출처 차이를 닫음(A Dreamscape Shattered by Her Arrow는 티프로스 이야기의 마지막 하위 임무). 명하 이야기는 줄거리 출처가 모자라 다음 작업으로. 명하 우레 질문은 기한(2026-11-21) 전이라 남김. 케이는 11-25 배너 예정이라 아직 쓰지 않음
 
