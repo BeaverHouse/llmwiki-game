@@ -1,7 +1,7 @@
 ---
 title: 무릉 (Wuling)
 type: guide
-aliases: [무릉, Wuling, 武陵, 무릉 과학 개발 구역, 무릉성, 무릉 대균열, 청파채, 수돈, 응룡 관문, 응룡 특수부대, Yinglung Special Task Force, 봉, Summit, 언, Phrase, 북쪽 금지 구역, North Wuling Exclusion Zone, 담검당, Tanjian Hall, 축 교관, Instructor Zhu, 진뢰, Blitzcrash, 창적, Cangzei Pirates, 이당가, Ruan Lin, 장검 골짜기, Sword Vault Dale, Deep Vaulted Steel, 침식 안개, Blight Miasma, 메인 스토리 2장, 수명, Suiming, 遂明, 여소귀, Yu Shigui, Bell of Recollection, Waking Bell, 선조의 샘, Ancestral Spring, Patron of the Spring, Du Ming, Marker Stone, 首礎, 수돈 내부, Marker Stone Interiors, 잔영, Æthillu, 원 천사, Tianshi Ruan, 무릉성 순찰대, Wuling Watchguards, 가반, Jia Ban, 철묘, Iron Boatswain, 수구, Rusty Hook, 도시 건설관, Urban Development Hall, 영수벽, Eternal Wall, 안사원, Serenity Garden, 공적비, Merit Stones, 귀환의 종소리, 기억의 종소리, 상진, Shang Jin, 알림종, 삼도종, Bell of Three Presences, 검이 숨겨진 골짜기, 연효무, Lian Xiaowu, 월턴, Walton, 유적 검 기둥, Ancient Sword Stele, 샘의 나그네, 두명, Du Ming, 슬픔은 늘 소리 없이 찾아온다, 침묵 속에 울려 퍼지는 슬픔, 무명검록, 무명의 칼날, Nameless Blades, 돌아갈 길이 없다, 닿을 수 없는 고향, Home Beyond Reach]
+aliases: [무릉, Wuling, 武陵, 무릉 과학 개발 구역, 무릉성, 무릉 대균열, 청파채, 수돈, 응룡 관문, 응룡 특수부대, Yinglung Special Task Force, 봉, Summit, 언, Phrase, 북쪽 금지 구역, North Wuling Exclusion Zone, 담검당, Tanjian Hall, 축 교관, Instructor Zhu, 진뢰, Blitzcrash, 창적, Cangzei Pirates, 이당가, Ruan Lin, 장검 골짜기, Sword Vault Dale, Deep Vaulted Steel, 침식 안개, Blight Miasma, 메인 스토리 2장, 수명, Suiming, 遂明, 여소귀, Yu Shigui, Bell of Recollection, Waking Bell, 선조의 샘, Ancestral Spring, Patron of the Spring, Du Ming, Marker Stone, 首礎, 수돈 내부, Marker Stone Interiors, 잔영, Æthillu, 원 천사, Tianshi Ruan, 무릉성 순찰대, Wuling Watchguards, 가반, Jia Ban, 철묘, Iron Boatswain, 수구, Rusty Hook, 도시 건설관, Urban Development Hall, 영수벽, Eternal Wall, 안사원, Serenity Garden, 공적비, Merit Stones, 귀환의 종소리, 기억의 종소리, 상진, Shang Jin, 알림종, 삼도종, Bell of Three Presences, 검이 숨겨진 골짜기, 연효무, Lian Xiaowu, 월턴, Walton, 유적 검 기둥, Ancient Sword Stele, 샘의 나그네, 두명, Du Ming, 슬픔은 늘 소리 없이 찾아온다, 침묵 속에 울려 퍼지는 슬픔, 무명검록, 무명의 칼날, Nameless Blades, 돌아갈 길이 없다, 닿을 수 없는 고향, Home Beyond Reach, 전우, Comrades, 강정구, 강정무, 강 천사, 능월]
 sources:
   - https://namu.wiki/w/명일방주:%20엔드필드/지역 (수명·장검 골짜기·수돈 문단 포함, 2026-11-03 수정본, 2026-11-04 열람, CC BY-NC-SA 2.0 KR)
   - https://namu.wiki/w/명일방주:%20엔드필드/등장인물%20및%20세력 (청파채·봉·수구와 철묘 문단 포함, 2026-10-25 수정본, 2026-11-05 열람, CC BY-NC-SA 2.0 KR)
@@ -25,7 +25,8 @@ sources:
   - https://endfield.wiki.gg/wiki/Suiming (2026-09-27 수정본)
   - https://endfield.wiki.gg/wiki/Bell_of_Recollection (2026-10-14 수정본)
   - https://warfarin.wiki/kr/missions · https://warfarin.wiki/en/missions (한국어·영어 임무 목록과 설명, v1.6 데이터, 2026-11-21 열람)
-  - https://warfarin.wiki/kr/missions/sm2l8m1 (달이 가고 해가 오리라) · sm2l7m1 (슬픔은 늘 소리 없이 찾아온다) · sm2l6m1 (검이 숨겨진 골짜기) 한국어 대사, 2026-11-21 열람
+  - https://warfarin.wiki/kr/missions/sm2l8m1 (달이 가고 해가 오리라) · sm2l7m1 (슬픔은 늘 소리 없이 찾아온다) · sm2l6m1 (검이 숨겨진 골짜기) 한국어 대사, 2026-11-21 열람 · sm2l4m1~sm2l4m4 (전우 · 무명/추억/기념/내일) 한국어 대사와 목표, 2026-11-22 열람
+  - https://endfield.wiki.gg/wiki/Home_Beyond_Reach (2026-08-30 수정본) · Nameless_Blades_I · Nameless_Blades_II · Nameless_Blades_III (2026-09-05 수정본), 영어 임무 목표, 2026-11-22 열람
   - https://endfield.wiki.gg/wiki/North_Wuling_Exclusion_Zone (2026-10-19 수정본)
   - https://endfield.wiki.gg/wiki/Nexus_Files:_North_Wuling_Exclusion_Zone
   - https://endfield.wiki.gg/wiki/Blight (구획별 침식 심도)
@@ -42,7 +43,7 @@ sources:
   - https://gamewith.net/akendfield/73207 (영문 챕터명)
   - https://appmedia.jp/?p=79690247 (일본어 지명)
 created: 2026-10-18
-updated: 2026-11-21
+updated: 2026-11-22
 ---
 
 # 무릉 (Wuling)
@@ -94,6 +95,8 @@ updated: 2026-11-21
 | Mansion, Wrought (고인) | 2장 Ⅶ 「A Past Shared by the Swordmancers」에 나온다 |
 | Shore, Stern, Macro, Amber, Benefit (고인) | 2년 전 금지 구역 감시 작전에 나선 다섯 팀과 그 팀장의 이름. Shore 팀이 알레이크레오스의 검을 처음 찾았고, 다섯 팀 모두 돌아오지 못했다([파운데이션](foundation.md#알레이크레오스의-검)) |
 
+응룡 관문에는 부가 임무 「돌아갈 길이 없다」(Home Beyond Reach)가 있다. 2장 Ⅶ을 마치면 열리고, 한국어 설명은 "한 응룡 대원이 무언가 고민에 빠진 듯하다"이다. 영어 임무 목표로는 폐허에서 공 모양 오리지늄 슬러그(Globular Originium Slug) 다섯 마리를 슬러그 굴에 차 넣고, 굴에서 자꾸 튀어나오는 슬러그 한 마리를 Frigid에게 가져가 살핀 뒤, Brightfire에게 슬러그의 이동을 묻는다.
+
 #### 암실의 유품 상자
 
 특수부대에는 경비가 극도로 삼엄한 암실이 하나 있고, 응룡 대원들의 유품을 보관한다. 정식 대원이 되는 순간 저마다 작은 상자를 받고, 무엇을 넣을지는 본인이 정한다. 임무에서 돌아오지 못하면 그 상자 안의 물건이 그 사람이 존재했다는 유일한 증거가 된다. 임무 목표에 '살아서 돌아간다'는 문구가 없을 때 대원들은 그것이 무엇을 뜻하는지 안다.
@@ -122,11 +125,20 @@ updated: 2026-11-21
 
 | 대원 | 영어 | 기록 |
 |---|---|---|
-| 가반 | Jia Ban | 2장 Ⅴ에서 네파리스가 무릉성을 공격할 때 위기에 빠졌고, 수구가 가반의 순찰대 옷을 대신 입고 청파채 복수파를 유인하다 전사했다 |
-| 철묘 | Iron Boatswain | 수구의 동생. 본명 강정무. 형이 죽은 뒤 무릉으로 돌아와 순찰대에 입대했다. endfield.wiki.gg의 직급 표기는 수습 대원(Trainee Watchguard) |
+| 가반 | Jia Ban | 2장 Ⅴ에서 네파리스가 무릉성을 공격할 때 수구와 함께 아겔로스에게 몰렸다. 수구가 가반의 순찰대 제복을 입고 죽었고, 가반은 셔츠 차림으로 살아 돌아왔다([전우](#전우)) |
+| 철묘 | Iron Boatswain | 수구의 동생. 본명 강정무. 형이 죽은 뒤 수습 순찰대원이 되려고 진천우와 훈련하고, 가반을 스승님이라 부른다. endfield.wiki.gg의 직급 표기는 수습 대원(Trainee Watchguard) |
 | 남현 | — | [봉](#대원)이 십 년 전 구해 입양한 동생. 이야기 속 대협을 동경해 순찰대원이 되었다(「슬픔은 늘 소리 없이 찾아온다」) |
 
-수구(본명 강정구)와 철묘 형제는 공부가 싫어 무릉을 떠나 청파채에 들어갔었다. 관리자, 미브, 철묘가 실종된 수구를 찾다가 사정을 알게 되었고, 미브는 수구의 이름을 [영수벽](#도시-건설관과-안사원)에 새겨 무릉의 영웅으로 남겼다. 새긴 이름을 나무위키는 본명과 별호로, endfield.wiki.gg는 본명 강정구로 적는다.
+수구(본명 강정구)와 철묘 형제는 원래 무릉성 주민으로, 공부가 싫어 집을 나가 청파채에 들어갔고 몇 년 동안 실종 상태였다. 할아버지는 [안사원](#도시-건설관과-안사원)에 공적비가 있는 강 천사다. 철묘는 형을 '아구', 수구는 동생을 '아무'라고 부른다. 수구의 이름은 [영수벽](#도시-건설관과-안사원)에 '강정구' 뒤에 '수구'를 붙여 새겨졌다.
+
+#### 전우
+
+미브와 함께하는 수돈의 탐색 임무 네 편으로, 2장 Ⅴ 전투가 끝난 뒤의 이야기다.
+
+1. 전우 · 무명: 이번 전투에서 실종된 순찰대원은 일곱 명이고, 찾아낸 순찰대 제복 차림의 시신도 일곱 구다. 그중 세 구가 침식으로 알아볼 수 없어 미브가 도시 건설관 지하의 의료 선실(돌아가신 분을 임시로 모셔 두는 곳)로 관리자를 부른다. 스캔으로 다리의 식양 의수를 찾아 한 시신이 이 선생으로 밝혀지고, 완전히 침식된 시신은 소거법으로 견행원으로 확인된다. 남은 시신은 왼쪽 가슴에 오리지늄 결정이 있는 감염자인데, 순찰대원 가운데 광석병 환자는 없었고 도심 의료소가 홍산 과학원 전체 파일과 대조해도 맞는 사람이 없다. 가반의 근무지로 가는 길에 형을 찾는 철묘를 만난다. 수구는 큰 수화자를 끌고 가며 철묘를 먼저 보냈고, 둘만 아는 도화 제방에서 만나자고 했지만 오지 않았다. 일행은 폭주한 아츠 유닛의 흔적과 가반의 아츠 유닛을 찾고, 그사이 가반이 셔츠 차림으로 안사원 근처에서 살아서 발견된다.
+2. 전우 · 추억: 꽃 파는 소녀 능월은 셔츠 차림의 가반이 옷을 끌어안고 와서 강 천사의 공적비를 찾았고, 안사원에 들어갔다 빈손으로 나와 쓰러졌다고 말한다. 철묘가 강 천사는 자기 할아버지라고 밝힌다. 고장 난 천사장을 고치고 들어간 공적비 앞 식양 덩어리 아래에서 수구의 옷이 나오고, 철묘는 시신의 오리지늄 결정이 형과 같은 자리임을 확인한다. 의료소에서 깨어난 가반은 아겔로스 수십 마리에게 쫓기던 수구를 구하려 싸우다 궁지에 몰렸는데, 이미 벗어났던 수구가 돌아와 함께 싸웠다고 말한다. 쓰러진 가반을 수구는 청파채를 배신한 녀석들이 곧 몰려온다며 깨웠고, 가반이 마지막으로 본 것은 가반의 겉옷을 입고 웃는 수구와 '안사원, 강 천사, 공적비'라는 말이다. 미브는 그 무리에게 무릉 사람으로 걸리면 목숨만 잃고 끝나지 않았을 거라며, 수구가 옷을 바꿔 입어 가반을 살렸다고 본다. 옷에서 나온 녹음기에서 수구는 철묘에게 그동안 들려준 모험담은 할아버지 이야기를 고친 거짓말이었다고 사과하고, 이제 자기만의 여정을 떠나 자기 이야기를 만들겠다고 한다.
+3. 전우 · 기념: 철묘는 청파채 주민인 자신이 부탁할 수 없다며 형의 이름을 영수벽에 몰래 새기려 하지만, 벽에는 이미 '강정구'와 '수구'가 새로 새겨져 있다. 진천우는 수구의 본명을 아는 미브가 새겼다고 짐작한다. 추도식에서 미브는 이곳에 잠든 이들이 진정한 승리자라며 애도한다.
+4. 전우 · 내일: 도시 건설관의 고장 난 천사장을 고친다. 철묘는 다음 주 수습 순찰대원이 되면 사고가 잦은 수돈 쪽 근무를 신청해 할아버지와 형을 지키겠다고 말한다.
 
 endfield.wiki.gg 명단에는 여풍도 수습 대원으로 올라 있고, 그 밖에 Huang Di, Ji Bing, Lan Shan, Li Liangliang, Li Zhui, Liu, Ren Zhenyun, Yan Lin, Yu Shi, Zuo Guyan이 대원으로 적혀 있다. 여풍이 순찰대 소속이라는 게임 안 기록은 확인하지 못했다.
 
@@ -214,9 +226,9 @@ endfield.wiki.gg에 실린 장소는 Watchtower Reservoir Station, Restricted Ar
 
 공식 X 계정의 「탈로스 II 여행 가이드」 수돈 편(무릉 여행사 발행, 2026-03-06 게시, 영어 텍스트)이 수돈 북쪽과 남쪽의 기념 장소를 소개한다.
 
-- 도시 건설관(Urban Development Hall): 수돈 북쪽. 무릉을 세운 일과 무릉성을 위해 목숨을 바친 영웅을 기리려고 지었다. 무릉을 세울 때는 북쪽 금지 구역, 대균열, 아겔로스, 무릉 연구 기지가 실패할 위험과 맞서야 했다. 안에는 무릉 건설기의 역사 문서와 기념품이 있고, 바깥벽에는 첫 천사장 수돈이 올라가는 단계별 사진(수돈 건설 기록)이 걸려 있다. 학생 단체 견학이 잦다. 「전우 · 무명」(Comrades: The Nameless)은 미브가 도시 건설관의 지하 공간으로 관리자를 부르며 시작하고, 「전우 · 내일」(Comrades: For Tomorrow)에서는 도시 건설관에서 천사장을 고친다.
-- 영수벽(Eternal Wall): 여행 가이드는 도시 건설관의 기념비로 소개한다. 수돈 기초에 쓰고 남은 식양 재료로 만들었고, 출신을 가리지 않고 무릉성에 기여한 모든 사람의 이름을 새긴다. 미브가 수구의 이름을 새긴 곳이다([무릉성 순찰대](#무릉성-순찰대)). 「전우 · 기념」(Comrades: Remembrance)에서 철묘와 영수벽에서 만나 추도식에 간다.
-- 안사원(Serenity Garden): 수돈 남쪽의 작은 땅에 천사장 하나와 공적비(Merit Stones)라 부르는 석판들이 있다. 석판에는 큰 공을 세운 사람의 이름과 생애를 새기며, 무릉 연구 기지·무릉성·수돈을 지은 사람과 식양 연구자의 이름이 올라 있다. 사람들은 꽃을 두고 가며 오래 머물지 않는다. 감시 의뢰의 고장 난 천사장이 이곳에 있다. 「전우 · 추억」(Comrades: Commemoration)에서 미브와 이곳을 조사한다. [여풍](../operators/lifeng.md)은 해마다 안사원에서 부모를 추모했고, 공적비에 두 사람 이름이 새겨져 있어도 두 사람이 그곳에 잠들어 있지는 않다고 말한다(「달이 가고 해가 오리라」).
+- 도시 건설관(Urban Development Hall): 수돈 북쪽. 무릉을 세운 일과 무릉성을 위해 목숨을 바친 영웅을 기리려고 지었다. 무릉을 세울 때는 북쪽 금지 구역, 대균열, 아겔로스, 무릉 연구 기지가 실패할 위험과 맞서야 했다. 안에는 무릉 건설기의 역사 문서와 기념품이 있고, 바깥벽에는 첫 천사장 수돈이 올라가는 단계별 사진(수돈 건설 기록)이 걸려 있다. 학생 단체 견학이 잦다. 지하에는 돌아가신 분을 임시로 모셔 두는 의료 선실이 있다. 「전우 · 무명」(Comrades: The Nameless)과 「전우 · 내일」(Comrades: For Tomorrow)의 무대다([전우](#전우)).
+- 영수벽(Eternal Wall): 도시 건설관의 기념비다. 한국어 임무 목표도 '도시 건설관의 영수벽'이라고 적는다. 수돈 기초에 쓰고 남은 식양 재료로 만들었고, 출신을 가리지 않고 무릉성에 기여한 모든 사람의 이름을 새긴다(여행 가이드). 특별한 도구가 있어야 글자를 새길 수 있다. 전투 희생자의 추도식은 영수벽 아래에서 열고, 이때 희생자의 이름을 벽면에 새긴다(「전우 · 기념」, Comrades: Remembrance). 새겨진 수구의 이름은 [무릉성 순찰대](#무릉성-순찰대)에 있다.
+- 안사원(Serenity Garden): 수돈 남쪽의 작은 땅에 천사장 하나와 공적비(Merit Stones)라 부르는 석판들이 있다. 석판에는 큰 공을 세운 사람의 이름과 생애를 새기며, 무릉 연구 기지·무릉성·수돈을 지은 사람과 식양 연구자의 이름이 올라 있다. 사람들은 꽃을 두고 가며 오래 머물지 않는다. 감시 의뢰의 고장 난 천사장이 이곳에 있다. 수구·철묘 형제의 할아버지 강 천사의 공적비도 있고, 「전우 · 추억」(Comrades: Commemoration)에서 그 앞에서 수구의 옷을 찾는다. [여풍](../operators/lifeng.md)은 해마다 안사원에서 부모를 추모했고, 공적비에 두 사람 이름이 새겨져 있어도 두 사람이 그곳에 잠들어 있지는 않다고 말한다(「달이 가고 해가 오리라」).
 
 ### 수돈 내부
 
@@ -254,6 +266,7 @@ endfield.wiki.gg에 실린 장소는 Watchtower Reservoir Station, Restricted Ar
 - 자원: 적동 광맥, 식양 기체·비활성 기체 간헐천. 희귀 채집물은 크리소덴드라, 붉은 창 잎, 일반 흑암석(Auronyx), 프로토콜 문양석이다. 붉은 창 잎과 프로토콜 문양석은 1.4 기준 이곳에만 있었다([육성 재료](../systems/materials.md)).
 - 전투: 에너지 응집점, 알레이크레오스 재도전(RE-Crisis), 그림자에 물든 진뢰 위기 파편([프로토콜 공간](../content/protocol_space.md)).
 - 부가 임무 「달이 가고 해가 오리라」(Long Night Breaking into Day) 「슬픔은 늘 소리 없이 찾아온다」(Sorrow Sings in Silence), 탐색 임무 「침식의 그림자 관찰 일지」 「균열 봉합 지대」 「무명검록」(1)~(3)(Nameless Blades I~III) 「과거의 보물」(Treasures of the Past)이 있다.
+- 무명검록(1)~(3)(영어 임무 목표만 확인): (1) 고민하는 응룡 대원 [언](#대원)의 부탁으로 표시된 곳을 스캔해 잃어버린 물건을 찾고, Yinglung War Case에서 나온 데이터를 언에게 알린다. (2) Yan Ning의 메시지를 받고 표시된 곳에서 Yinglung War Case와 부서진 응룡장(Yinglung Pillar)을 찾으며, 부유식 회수기 II를 만든다. (3) 언과 단서를 맞춰 칼자국이 남은 보급품과 Yinglung War Case를 찾고 부유식 회수기 III을 만든다. 정보 문서 보관소에서 정보 부서가 제4차 대규모 감시 작전(Major Surveillance Op 4)의 전 과정을 분석·재현한 보고서를 연다. 임무 설명은 이 정보가 응룡에게 아주 뜻깊다고 적고, 관리자는 사본을 언에게 보낸다. 이 작전은 Shore 등 [다섯 팀의 감시 작전](foundation.md#알레이크레오스의-검)과 기록 이름이 같다. 부유식 회수기는 [개인 장치](../systems/personal_device.md)에 있다.
 - 달이 가고 해가 오리라: 대균열이 닫힌 뒤 결의 부탁으로 여풍을 도와, 142년 재앙에서 함께 살아남은 친구 백상·연이·생이의 가족 유품과 여풍 부모(여현, 제이)의 흔적을 찾는다. 여풍 부모는 마지막 철수 대열에 여풍을 맡기고 담검당 북쪽 폐기 설비 적치장의 균열을 막으러 갔고, 유품은 남지 않았다. 그 자리의 천사들이 여풍 부모를 기억하는 일을 들려주고, 여풍은 '여풍'이라는 이름에 부끄럽지 않게 살겠다고 한다.
 - 슬픔은 늘 소리 없이 찾아온다: 응룡 대원 량이 유품을 반환하다 찾은 악기에 재앙으로 흩어진 남쪽 홍산 유랑 극단의 이름이 새겨져 있다. 극단은 부모 없는 아이들을 거두어 각지를 돌며 공연하고 사람을 도왔고, 아이가 자라면 극단에 남을지 악기를 들고 떠날지 고르게 했다. 악기는 다른 사람을 돕겠다는 책임의 표시였다. 관리자는 결, 펠리카와 함께 옛 단원인 요리사 심바다와 순찰대원 이랑에게 악기를 돌려주고, 마지막 피리는 옛 단원이던 봉이 동생 남현에게 물려준다.
 
@@ -339,7 +352,7 @@ endfield.wiki.gg에 실린 장소는 Watchtower Reservoir Station, Restricted Ar
 - 140년 식양 개발에 힘을 보탠 베헤모스 대리인이 누구인지([베헤모스와 쉐이](behemoth.md)).
 - 장방이 직함의 공식 한국어 표기 (나무위키 '대리 책임자', 영문 Viceroy).
 - 아다시르가 봉인된 뒤의 경과.
-- 북쪽 금지 구역의 구획 이름(담검당 제외)과 Pale Blightshade의 한국어 표기. 「돌아갈 길이 없다」(Home Beyond Reach)가 북쪽 금지 구역 임무인지. Pale Blightshade가 축 교관의 그림자라는 말은 영어 위키 갤러리 설명에만 있다.
+- 북쪽 금지 구역의 구획 이름(담검당 제외)과 Pale Blightshade의 한국어 표기. 무명검록이 북쪽 금지 구역 임무인지(endfield.wiki.gg는 지역을 Unknown Region으로 적는다)와 한국어 대사, Yan Ning이 언과 같은 사람인지. 돌아갈 길이 없다의 한국어 대사. Pale Blightshade가 축 교관의 그림자라는 말은 영어 위키 갤러리 설명에만 있다.
 - 진뢰가 담검당에 맡겨진 까닭과 시기. 적 설명문은 담검당에 맡겨져 지냈다고만 하고, 결의 신뢰 대화 1은 자기가 길렀다고 한다.
 - 창적 적 9종의 영어 이름 짝(영어 목록은 Highway Reaver, Road Plunderer, Grove Archer, Sweeping Wind, Hill Smasher, Cloud Obliterator, Cloud Stalker, Nimbus Razor, Breaking Gust). 창적이 청파채 무법자 전체를 가리키는지 강경파만 가리키는지도 출처마다 다르다.
 - 홍산 환형산에서 자란 진천우가 언제 무릉 연구 기지 옆 담검당에 다녔는지. 사의 훈련 일지 8은 장소를 '홍산 과학원 본부, 담검당'(영어 Tanjian Hall, HAS)으로 적어, 홍산에 따로 담검당이 있는지도 확인하지 못했다.
@@ -350,11 +363,13 @@ endfield.wiki.gg에 실린 장소는 Watchtower Reservoir Station, Restricted Ar
 - 중추 파일 '청파채'의 한국어 텍스트. 반항 이야기의 블랙홀 프로토콜이 무엇인지는 그 이야기 안에서도 밝혀지지 않는다. 원 천사가 탕탕 파일 자료의 Ruan Lin이나 원일의 집안과 이어지는지도 기록이 없다.
 - 중추 파일 '선조의 샘'의 한국어 텍스트와 샘의 나그네 임무 대사. 기계 봉인을 청한 주민이 두명인지는 중추 파일에 이름이 없다.
 - 수돈 장소(Watchtower Reservoir Station, Restricted Area, Cloudrest Woods, Lake Islet, Security Section)의 한국어 표기와 설명. 감시 의뢰의 Reservoir Station이 Watchtower Reservoir Station과 같은 곳인지.
-- 영수벽이 도시 건설관에 있다는 것은 영어 여행 가이드로만 확인했다. 공적비와 Merit Stones의 짝은 안사원의 공적비를 말하는 여풍 대사로 맞췄다.
+- 공적비와 Merit Stones의 짝은 안사원의 공적비를 말하는 여풍 대사로 맞췄다.
+- 영수벽에 수구의 이름을 새긴 사람. 「전우 · 기념」에서는 진천우의 짐작으로만 미브다.
 - 잔영의 한국어 설명문과 감시 의뢰 문구.
 
 ## 히스토리
 
+- 2026-11-22: 무릉성 순찰대 절에 「전우」 네 편 줄거리 추가. 영수벽 위치를 한국어 임무 목표로 확정. 북쪽 금지 구역에 무명검록, 응룡 특수부대 절에 응룡 관문 임무 돌아갈 길이 없다 추가.
 - 2026-11-21: 부가·탐색 임무와 수명·장검 골짜기·선조의 샘 인물의 한국어 게임 표기를 넣음. 안사원의 영어 짝을 Serenity Garden으로 바로잡고 Urban Development Hall을 도시 건설관으로 고침. 북쪽 금지 구역에 달이 가고 해가 오리라·슬픔은 늘 소리 없이 찾아온다 줄거리 추가.
 - 2026-11-06: 수돈 절에 안사원·영수벽·Serenity Garden 추가.
 - 2026-11-05: 무릉성 절에 무릉성 순찰대(하는 일, 확인된 대원, 수구의 희생과 철묘의 입대) 추가.
