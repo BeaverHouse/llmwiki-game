@@ -69,7 +69,8 @@ sources:
   - https://endfield.wiki.gg/wiki/Si
   - https://endfield.wiki.gg/wiki/Argent_Flow (2026-11-05 수정본) · Argent_Flow/File · Argent_Flow/Dialogue · Lunar_Calling · Complexed_Industry · Home_Longing (언어 칸)
   - https://www.gametoc.co.kr/news/articleView.html?idxno=112808 (우레 표기, 2026-11-06)
-  - https://endfield.wiki.gg/wiki/The_Traveler's_Guide_to_Talos-II/Marker_Stone (안사원·영수벽·Serenity Garden 영어 표기)
+  - https://endfield.wiki.gg/wiki/The_Traveler's_Guide_to_Talos-II/Marker_Stone (도시 건설관·영수벽·안사원 영어 표기)
+  - https://warfarin.wiki/kr/missions · https://warfarin.wiki/en/missions (임무 이름과 설명의 한국어·영어 게임 텍스트, v1.6 데이터) · /kr/missions/sm2l9m1 · sm2l8m1 · sm2l7m1 · sm2l6m1 (한국어 대사), 2026-11-21 열람
   - https://namu.wiki/w/명일방주:%20엔드필드/장비
   - https://endfield.wiki.gg/wiki/Gear
   - https://namu.wiki/w/명일방주:%20엔드필드/무기
@@ -126,7 +127,7 @@ sources:
   - https://endfield.gryphline.com/ko-kr/news/0753 (공식 만화 <약속> 공지)
   - https://namu.wiki/w/명일방주:%20엔드필드/스토리 (이벤트 스토리 제목, 2026-11-03 수정본, CC BY-NC-SA 2.0 KR) · 이벤트별 endfield.wiki.gg 문서는 world/event_stories.md sources 참고
 created: 2026-10-12
-updated: 2026-11-20
+updated: 2026-11-21
 ---
 
 # 엔드필드 고유명사 표기 (ko/en/ja)
@@ -288,7 +289,8 @@ updated: 2026-11-20
 | 그림자 해골 | Shadowskulls | — | 2차 | 랜드브레이커 집단 |
 | 랜드브레이커 살인사건 | — | — | 미확인 | 4번 협곡 서브 퀘스트 |
 | 사미 | Sámi | サーミ | 미확인 | 티프로스의 부족 |
-| 사미베르그 | Samifjod* / Samivegr* | — | 미확인 | '사미베르그의 아이'(티프로스)에 나오는 말. 티프로스 이벤트 스토리 끝의 영어는 Samivegr |
+| 사미베르그 | Samivegr | — | 2차 | '사미베르그의 아이'(티프로스)에 나오는 땅 이름. ko는 생의 마지막까지 대사 '사미베르그의 협곡' |
+| 사미인 | Samifjod | — | 2차 | 사미 부족 사람. ko는 생의 마지막까지 대사 |
 | 베헤모스 사미 | — | — | 미확인 | 사미인과 함께 탈로스2에 와 제1차 아겔로스 전쟁 때 희생한 존재 |
 
 ## 베헤모스
@@ -343,16 +345,31 @@ updated: 2026-11-20
 | 수돈 | Marker Stone | 首礎 | 2차 | zh 首础. 첫 천사장 |
 | 천사장 배열 | Tianshi Pillar Array | — | 2차 | 식양 입자로 침식 조류를 다스리는 시설 |
 | 수명 | Suiming | 遂明 | 2차 | 옛 수몰 도시를 재구성한 공간 |
-| — | Ancient Sword Stele | — | 미확인 | 장검 골짜기의 장치 세 곳 |
 | 수돈 내부 | Marker Stone Interiors | 首礎内部 | 2차 | 수돈 안의 특수 구역. ko는 wiki.gg 언어 칸 |
 | — | Monitoring Center / Reservoir Station / Cloudrest Woods / Field Logistics Depot | — | 미확인 | 감시 의뢰에 나오는 무릉성·수돈의 장소 |
 | — | Watchtower Reservoir Station / Restricted Area / Lake Islet / Security Section | — | 미확인 | 수돈의 장소 |
-| 안사원 | Urban Development Hall | — | 미확인 | 수돈 북쪽의 기념관. ko는 나무위키의 수구 기록 |
-| 영수벽 | Eternal Wall | — | 미확인 | 안사원의 기념비. ko는 나무위키의 수구 기록 |
-| — | Serenity Garden / Merit Stones | — | 미확인 | 수돈 남쪽의 정원과 공적비 |
-| — | Patron of the Spring I~III | — | 미확인 | 선조의 샘 사이드 임무 |
+| 도시 건설관 | Urban Development Hall | — | 2차 | 수돈 북쪽의 기념관. ko는 임무 「전우 · 무명」 설명 |
+| 영수벽 | Eternal Wall | — | 2차 | 도시 건설관의 기념비(영어 여행 가이드). ko는 임무 「전우 · 기념」 설명 |
+| 안사원 | Serenity Garden | — | 2차 | 수돈 남쪽의 정원. ko는 임무 「전우 · 추억」 설명. 2026-11-06에 Urban Development Hall로 잘못 짝지었던 것을 고침 |
+| 공적비 | Merit Stones | — | 미확인 | 안사원의 석판. ko는 여풍 대사 |
+| 전우 · 무명 / 추억 / 기념 / 내일 | Comrades: The Nameless / Commemoration / Remembrance / For Tomorrow | — | 2차 | 미브의 수돈 임무 네 편 |
+| 샘의 나그네(1)~(3) | Patron of the Spring I~III | — | 2차 | 선조의 샘 사이드 임무 |
+| 검이 숨겨진 골짜기 | Deep Vaulted Steel | — | 2차 | 장검 골짜기 사이드 임무 |
+| 유적 검 기둥 | Ancient Sword Stele | — | 2차 | 장검 골짜기의 장치 세 곳 |
 | 천사장 문서 기록관 / 천사장 연구소 | — | — | 미확인 | 수명의 구역 |
-| Waking Bell | Waking Bell | — | 미확인 | 수명성의 공공 경보 종. ko 미확인 |
+| 귀환의 종소리 | Bell of Recollection | — | 2차 | 수명을 여는 탐색 임무. 나무위키 연표의 「기억의 종소리」 |
+| 알림종 | Waking Bell | — | 2차 | 수명성의 공공 경보 종 |
+| 삼도종 | Bell of Three Presences | — | 2차 | 상진이 고치려는 종. 알림종과 같은 종인지 미확인 |
+| 종이 세 번 울릴 때 | The Bell Tolls | — | 2차 | 삼도종의 룬 부품에 식양을 넣는 임무 |
+| 달이 가고 해가 오리라 | Long Night Breaking into Day | — | 2차 | 북쪽 금지 구역 부가 임무. 여풍 부모의 유품 |
+| 슬픔은 늘 소리 없이 찾아온다 | Sorrow Sings in Silence | — | 2차 | 북쪽 금지 구역 부가 임무. 나무위키 연표의 「침묵 속에 울려 퍼지는 슬픔」 |
+| 남쪽 홍산 유랑 극단 | — | — | 미확인 | 142년 재앙으로 흩어진 극단 |
+| 침식의 그림자 관찰 일지 | Blightshade Watch | — | 2차 | 북쪽 금지 구역 탐색 임무 |
+| 균열 봉합 지대 | Fissure Filling and Land Grouting | — | 2차 | 북쪽 금지 구역 탐색 임무 |
+| 무명검록(1)~(3) | Nameless Blades I~III | — | 2차 | 나무위키 연표의 「무명의 칼날」 |
+| 과거의 보물 | Treasures of the Past | — | 2차 | 북쪽 금지 구역 탐색 임무 |
+| 돌아갈 길이 없다 | Home Beyond Reach | — | 2차 | 응룡 대원이 의뢰하는 임무. 나무위키 연표의 「닿을 수 없는 고향」 |
+| 절벽 아래 활터 | Cliffbottom Archery Range | 崖の下の射場 | 2차 | 티프로스 궁술 훈련 시설을 여는 임무 |
 | 사의 그림 | Si's Painting | — | 2차 | [사의 그림](content/si_painting.md) |
 | 식양 | Xiranite | 息壌 | 2차 | zh 息壤. 장방이가 이끄는 신재료 |
 
@@ -417,15 +434,16 @@ updated: 2026-11-20
 | 원일 | Ruan Yi | ルアン・イー | 2차 | 탕탕의 양오빠. 청파채 복수파 |
 | 원 천사 | Tianshi Ruan | — | 공식(ko) | 무기 반항 이야기에서 홍산을 먼저 떠난 천사. ko는 무기 이야기 한국어 텍스트 |
 | 유 선생 | Old Liu | — | 공식(ko) | 무기 반항 이야기의 천사. 원 천사의 동창 |
-| — | Du Ming | — | 미확인 | 선조의 샘 임무의 청파채 청년 |
+| 두명 | Du Ming | — | 2차 | 샘의 나그네 임무의 청파채 청년 |
 | 수구 | Rusty Hook | — | 2차 | 청파채 인물. 철묘의 형 |
 | 봉 | Summit | — | 미확인 | 응룡 특수부대 부대장. 본명 심교아. 결 파일 자료 1의 서명은 '대원' |
 | 언 | Phrase | — | 미확인 | 응룡 특수부대 대원 |
 | 축 / 축 교관 | Zhu / Instructor Zhu | — | 2차 | 담검당을 세운 응룡 특수부대 교관. 결·진천우의 스승. 고인 |
 | 담 천사 | Tianshi Tan | — | 미확인 | 홍산 과학원의 최고참 천사. 사를 돌보고 금위군을 임명. [세력](world/factions.md#담-천사) |
 | 라시교 | — | — | 미확인 | 판의 홍산 과학원 스승 |
-| 여소귀 | Yu Shigui | — | 미확인 | 무릉성 NPC. 수명으로 가는 포탈. Shang Jin의 스승 |
-| Shang Jin | Shang Jin | — | 미확인 | 무릉성의 천사. 임무 Bell of Recollection의 의뢰인. ko 미확인 |
+| 여소귀 | Yu Shigui | — | 2차 | 무릉성 NPC. 수명으로 가는 포탈. 상진의 스승 |
+| 상진 | Shang Jin | — | 2차 | 무릉성의 천사. 임무 귀환의 종소리의 의뢰인 |
+| 남현 | — | — | 2차 | 봉이 입양한 동생. 무릉성 순찰대원 |
 | 오리사 사자 | — | — | 미확인 | 아크라이트를 추천한 인물 |
 | 갈매기 | — | — | 미확인 | 알레쉬를 추천한 전 연맹 공단 안전국 연락인 |
 | 안개의 카산드라 | — | — | 미확인 | 카치르의 누나 카산드라의 별칭 |
@@ -1021,6 +1039,8 @@ updated: 2026-11-20
 | 에너지 응집점 | Energy Alluvium | — | 2차 | 이성을 써서 기질을 얻는 필드 지점 |
 | 고위 에너지 응집점 | Severe Energy Alluvium | — | 미확인 | |
 | 탐색 레벨 | Exploration Level (World Level) | — | 미확인 | ko는 영어에서 옮김. 통칭 World Level |
+| 다시 출발 | The Mission Continues | — | 2차 | 메인 임무 1장 Ⅲ의 첫 임무. 탐색 레벨 2를 연다 |
+| 우주의 심연을 넘어 · 1~4 | Beyond the Worlds' Expanse I~IV | — | 2차 | 탐색 레벨 4~7 승급 임무 |
 | 오리지늄 회로 영감 / 장비 템플릿 / 연구 포인트 / 탈로사이트 | — / — / — / Talosite | — | 미확인 | 지역 수집 요소 |
 | 탈로사이트 거래소 | Talosite Exchange | — | 미확인 | ko는 영어에서 옮김 |
 | 침식된 유산을 찾아서 | Etchspace Salvage | — | 미확인 | 수차 구역 1~6. en은 구역 번호로만 짝지음 |
@@ -1242,26 +1262,29 @@ updated: 2026-11-20
 | 망자의 춤 | Danse Macabre | — | 2차 | 카뮤 이야기 |
 | 경계를 넘어가는 유성 | Like a Star Streaking Through the Boundaries | — | 2차 | 리노 이야기 |
 | 안개에 잠긴 겨울꾼의 숲 | A Winter Dream Fogged Deep in the Woods | 冬の夢は霧の中に | 2차 | 티프로스 이야기 |
-| 정적 핵심 | Stasis Core | — | 미확인 | 제강호의 시설. ko는 나무위키 요약 |
+| 운명의 계시 | Illumination of Fate | — | 2차 | 티프로스 후속 임무. 나무위키 연표의 「운명의 빛」 |
+| 생의 마지막까지 | Endeavor of a Lifetime | — | 2차 | 티프로스 후속 임무. 나무위키 연표의 「일생일대의 분투」 |
+| 정적 핵심 | Stasis Core | — | 2차 | 제강호의 시설 |
 | 지나 | Ginny | — | 미확인 | 레바테인의 것이 아닌 기억 속 인물 |
 | 토마소 | Tommaso | — | 미확인 | 울프가드의 친구. 고인 |
 | 지오반니 | Giovanni | — | 미확인 | 토마소를 죽인 울프팀 배신자 |
 | 알파리온 / 새 무리 | the Alpharion / the New Pack | — | 미확인 | 지오반니가 따른 존재와 집단 |
-| 칼리 | Carly | — | 미확인 | 작업자 숙소의 소녀 |
+| 칼리 | Carly | — | 2차 | 작업자 숙소의 소녀 |
 | 롭 | Ropp | — | 미확인 | 의무실의 과학자. 나무위키 요약은 '롭' |
 | 매시 | Maisie | — | 미확인 | 롭이 말하는 이름. 금고 비밀번호의 단서 |
 | 알리아 | Alia | — | 미확인 | 광산 캠프의 인물 |
-| 블록 왕국 | Brickyland | — | 미확인 | 로시 이야기 속 아이들의 아지트 |
+| 블록 왕국 | Brickyland | — | 2차 | 로시 이야기 속 아이들의 아지트 |
 | 논노 로잔 | Nonno Rozzan | — | 미확인 | 로시에게 늑대 새끼 이야기를 해 준 사람 |
-| — | Duchess of Windbell / Duke of Clockwork | — | 미확인 | 로시 이야기의 성검·방패를 가진 아이들 |
+| 풍령 공작 | Duchess of Windbell | — | 2차 | 로시 이야기의 성검을 가진 아이 |
+| — | Duke of Clockwork | — | 미확인 | 로시 이야기의 방패를 가진 아이 |
 | — | Bonekrusher Siegeknuckles | — | 미확인 | 로시 이야기의 보스 |
-| 주기둥 관청 | Main Pillar Office | — | 미확인 | 미브가 관리자를 부른 곳. ko는 나무위키 요약 |
+| 주 기둥 사무실 | Main Pillar Office | — | 2차 | 미브가 관리자를 부른 곳. 나무위키 요약은 '주기둥 관청' |
 | 사부 / 선배 사부 / 대사부 | Master / Senior Master / Grand Master | — | 미확인 | 미브의 청파채 스승 셋 |
 | 필립 | Philip | — | 미확인 | 혈액 표본 운송 인원 |
 | 판탈로시안 엔터테인먼트 | Pan-Talosian Entertainment | — | 미확인 | 리노가 있던 기획사 |
 | 브래디 마이닝 그룹 | Brady Mining Group | — | 미확인 | 판탈로시안 엔터테인먼트의 모회사 |
 | 암마 | Amma | — | 미확인 | 사미 전승의 짐승의 군주 |
-| 사미의 제사장 | Snowpriestess | — | 미확인 | 티프로스 이야기. 세쉬카 기록의 Snowpriest와 같은 ko를 썼다 |
+| 사미의 제사장 / 옛 제사장 | Snowpriestess / Old Snowpriestess | — | 2차 | 티프로스 이야기. 대사는 '제사장', 화자 이름은 '옛 제사장' |
 
 ## 종족
 
@@ -1278,13 +1301,14 @@ updated: 2026-11-20
 | 위치킹 | Witch King | — | 미확인 | 전설의 카프리니 |
 | — | Lei Fa | — | 미확인 | 키린이 만든 오리지늄 아츠 |
 | — | Ruan Lin | — | 미확인 | 원일의 친아버지이자 탕탕의 양아버지 |
-| — | Lian Xiaowu / Walton | — | 미확인 | Deep Vaulted Steel의 의뢰인과 장검 골짜기에서 만나는 인물 |
+| 연효무 / 월턴(헨리 월턴) | Lian Xiaowu / Walton | — | 2차 | 검이 숨겨진 골짜기의 의뢰인 천사와 장검 골짜기에서 만나는 고고학자. 월턴은 인디 월턴 박사의 증손자라고 말한다 |
 | 해묵 | — | — | 미확인 | 베헤모스 심장 수복을 맡은 천사. ko는 나무위키 |
 | — | Songseeker / Pan'an / Luoyi / Aldertone | — | 미확인 | 명하 파일 자료에 나오는 인물·마을·도시·종족 이름 |
 | — | Fulei, the Lurking Thunder | — | 미확인 | 명하가 오래 쓴 검(대사 '무기에 관하여'). 환월과 다른 무기 |
 
 ## 히스토리
 
+- 2026-11-21: 무릉 부가·탐색 임무, 티프로스 후속 임무, 이벤트 스토리 장소·인물의 한국어 게임 표기 추가. 안사원의 짝을 Serenity Garden으로 고치고 Urban Development Hall을 도시 건설관으로 넣음. 사미베르그를 Samivegr로 확정.
 - 2026-11-20: 오퍼레이터 이벤트 스토리 제목과 인물 표기 추가.
 - 2026-11-19: 명하 재능 한국어 표기 추가.
 - 2026-11-09: Mr. Krad를 게임 텍스트의 '크래드'로 확정. 공식 만화 <약속>, 무기고 징표 en·ja 표기 추가.
