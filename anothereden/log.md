@@ -1,5 +1,7 @@
 # Another Eden — 변경 기록 (append-only, 최신이 위)
 
+- 2026-11-22 | ai | characters/myunfa_alter.md·guides/fire_party.md 신규, guides/earth_party.md·staff_party.md·thunder_party.md·crystal_party.md·meta_characters.md, characters/ewan.md·minalca_as.md·renri_alter.md·meryt.md·red_clad_flame_user_as.md, glossary.md·index.md·backlog.md | 백자의 마인 밍화 카드와 불 파티 문서를 쓰고 흩어진 밍화(AS) 스킬과 불 편성을 새 문서로 옮김 | Seesaa 「白磁の魔人」·「白磁の魔人(アナザースタイル)」·「ミナルカ(アナザースタイル)」·「ユーイン」·「韜晦の討手」·「メリト」·「赤套の炎使い(アナザースタイル)」
+
 - 2026-11-21 | ai | guides/staff_party.md 신규, guides/meta_equipment.md·manifest_weapons.md·status_effects.md, characters/xianhua.md·yakumo_as.md, glossary.md·index.md·backlog.md | 지팡이 파티 문서를 쓰고 ルーナ 무기 제작·강화 절과 이벨라 結実 무기를 더하고 バフリバーサル·あべこべ 공존 시점을 정함 | Seesaa 「シェンファ」·「シェンファ(アナザースタイル)」·「ヤクモ(アナザースタイル)」·「イウェラ」·「顕現武器」, altema 「runasoubi」·「ketuzituiwera」
 
 - 2026-11-20 | ai | guides/earth_party.md·kaisei.md·score_attack.md, characters/violet_lancer_as.md 신규, guides/buddies.md·status_effects.md·grasta.md·hoshiyomi_no_shoka.md·stellar_awakening_priority.md, characters/kuchinawa.md·cerius.md·yakumo_as.md·minalca_as.md·red_clad_flame_user_as.md, glossary.md·index.md·backlog.md | 땅 파티·보라 의상의 창술사(AS)·廻生·스코어 어택 문서를 쓰고 버디 10종과 毒·ペイン 사양을 더하고 廻生 보상과 어긋난 입수처를 고침 | Seesaa 「白磁の魔人」·「白磁の魔人(アナザースタイル)」·「紫装の槍使い」·「紫装の槍使い(アナザースタイル)」·「クチナワ」·「クチナワ(アナザースタイル)」·「星導覚醒おすすめキャラ」·「バディ一覧」과 버디 10종 페이지·「状態効果まとめ」·「廻生について」과 試練 5종·「星詠み_CHALLENGE攻略」·「スコアアタック記録集」·「メリト」·「シェンファ」·「シェンファ(アナザースタイル)」, altema 「kakotonohatashiai」
