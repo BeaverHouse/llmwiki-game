@@ -10,7 +10,7 @@ sources:
   - https://anothereden.game-info.wiki/d/%C0%D6%C5%E5%A4%CE%B1%EA%BB%C8%A4%A4%28%A5%A2%A5%CA%A5%B6%A1%BC%A5%B9%A5%BF%A5%A4%A5%EB%29 (Seesaa Wiki 「赤套の炎使い(アナザースタイル)」, 2025-08-04 수정본)
   - 사이트 데이터 ae_character·ae_translation_all (동료 표기, 2026-11-22)
 created: 2026-11-22
-updated: 2026-11-22
+updated: 2026-11-23
 ---
 
 # 불 파티 (烈火陣 편성)
@@ -112,7 +112,7 @@ updated: 2026-11-22
 - 렌리·애니·파리사(AS)·미나르카(AS) 주회 편성은 [도회의 자객 렌리](../characters/renri_alter.md#파티에서).
 - 가리유가 드는 명·불 파티(렌리·메릿·유인)와 AF 회수 불 파티는 [가리유](../characters/gariyu.md).
 - 아나벨(ES)의 천 불·명 불 편성은 [아나벨(ES)](../characters/anabel_es.md#파티에서).
-- 리나리아·세티의 불 베기·찌르기 편성은 [리나리아](../characters/linaria.md#파티에서).
+- 리나리아·세티의 불 베기·찌르기 편성은 [COA 파티](coa_party.md).
 
 ## 배포 동료 파티
 
