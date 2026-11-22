@@ -12,7 +12,7 @@ sources:
   - https://anothereden.game-info.wiki/d/%A5%A2%A5%F3%A1%A6%A5%AD%A1%A6%A5%C7%A5%A3%A5%B0%A5%DE (Seesaa Wiki 「アン・キ・ディグマ」, 2026-04-02 수정본)
   - 사이트 데이터 ae_translation_all (용어 표기)
 created: 2026-10-20
-updated: 2026-11-16
+updated: 2026-11-22
 ---
 
 # 결정 파티 (輝晶陣 편성)
@@ -80,7 +80,7 @@ updated: 2026-11-16
 
 ### 알마(AS) 2턴 결착형 (알마(AS) 문서, 순수 결정 아님)
 
-전위 빨간 외투의 화염술사 · 백자의 마인 밍화 · 알마(AS) · 서브 어태커(마리엘(ES)), 후위 미스트레아(AS)(글래스터 담당) · 자유. 받기는 알마(AS) 혼자 맡는다.
+전위 빨간 외투의 화염술사 · [백자의 마인 밍화](../characters/myunfa_alter.md) · 알마(AS) · 서브 어태커(마리엘(ES)), 후위 미스트레아(AS)(글래스터 담당) · 자유. 받기는 알마(AS) 혼자 맡는다.
 
 틸릴(ES) 한 명에 명 검 어태커를 모은 편성은 결정 동료가 하나뿐이라 [틸릴(ES)](../characters/thillelille_es.md#파티에서)에 둔다.
 

@@ -9,9 +9,10 @@ sources:
   - https://anothereden.game-info.wiki/d/Innocence (Seesaa Wiki 「Innocence」, 2026-03-02 수정본. 結実 보스 약점 규칙)
   - https://anothereden.game-info.wiki/d/%A5%E9%A5%C7%A5%A3%A5%AB (Seesaa Wiki 「ラディカ」, 2026-10-22 수정본. オルゴナイトワンド)
   - https://anothereden.game-info.wiki/d/%A5%E9%A5%AF%A5%EC%A5%A2 (Seesaa Wiki 「ラクレア」, 2026-11-07 수정본)
+  - https://altema.jp/anaden/ketuzituiwera (altema 「結実イウェラの攻略と倒し方」, 2026-10-01 갱신본. 이벨라 結実 무기·보상)
   - 사이트 데이터 ae_translation_all (용어 표기)
 created: 2026-10-23
-updated: 2026-11-18
+updated: 2026-11-21
 ---
 
 # 현현 무기와 結実 무기
@@ -79,7 +80,7 @@ Lv10은 물리 무기가 腕力·速度 +30, 마법 무기가 知性·速度 +30
 | 가리유 | 焔角・ヴァシュタル | HP最大時ダメージ+30% | 薄紅 / 紅輝 |
 | 라디카 | オルゴナイトワンド | 확인하지 못함 | 확인하지 못함 |
 | 라클레어 | 확인하지 못함 | 九死一生 | 확인하지 못함 |
-| 이벨라 | 확인하지 못함 | 확인하지 못함 | 확인하지 못함 |
+| 이벨라 | アモル・ウィンクルム | コンボ倍率強化 | 확인하지 못함 (보상 才珠는 薄黄·薄鉛, VERY HARD부터 橙輝) |
 
 - 라디카는 全属性攻撃 +50%·知性 +20·幸運 +20으로 꾸민 オルゴナイトワンド가 최상급 무기다. 이 무기의 結実 CHALLENGE 보스는 極・幻魔陣을 펴고 시작한다.
 - 동료별 추천 才珠는 출처 본문에 없다.
