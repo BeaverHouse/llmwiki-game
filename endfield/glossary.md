@@ -70,7 +70,8 @@ sources:
   - https://endfield.wiki.gg/wiki/Argent_Flow (2026-11-05 수정본) · Argent_Flow/File · Argent_Flow/Dialogue · Lunar_Calling · Complexed_Industry · Home_Longing (언어 칸)
   - https://www.gametoc.co.kr/news/articleView.html?idxno=112808 (우레 표기, 2026-11-06)
   - https://endfield.wiki.gg/wiki/The_Traveler's_Guide_to_Talos-II/Marker_Stone (도시 건설관·영수벽·안사원 영어 표기)
-  - https://warfarin.wiki/kr/missions · https://warfarin.wiki/en/missions (임무 이름과 설명의 한국어·영어 게임 텍스트, v1.6 데이터) · /kr/missions/sm2l9m1 · sm2l8m1 · sm2l7m1 · sm2l6m1 (한국어 대사), 2026-11-21 열람
+  - https://warfarin.wiki/kr/missions · https://warfarin.wiki/en/missions (임무 이름과 설명의 한국어·영어 게임 텍스트, v1.6 데이터) · /kr/missions/sm2l9m1 · sm2l8m1 · sm2l7m1 · sm2l6m1 (한국어 대사), 2026-11-21 열람 · sm2l4m1~sm2l4m4 (전우 네 편 한국어 대사와 목표), 2026-11-22 열람
+  - https://endfield.wiki.gg/wiki/Home_Beyond_Reach · Nameless_Blades_I · Nameless_Blades_II · Nameless_Blades_III (영어 임무 목표, 2026-11-22 열람)
   - https://namu.wiki/w/명일방주:%20엔드필드/장비
   - https://endfield.wiki.gg/wiki/Gear
   - https://namu.wiki/w/명일방주:%20엔드필드/무기
@@ -127,7 +128,7 @@ sources:
   - https://endfield.gryphline.com/ko-kr/news/0753 (공식 만화 <약속> 공지)
   - https://namu.wiki/w/명일방주:%20엔드필드/스토리 (이벤트 스토리 제목, 2026-11-03 수정본, CC BY-NC-SA 2.0 KR) · 이벤트별 endfield.wiki.gg 문서는 world/event_stories.md sources 참고
 created: 2026-10-12
-updated: 2026-11-21
+updated: 2026-11-22
 ---
 
 # 엔드필드 고유명사 표기 (ko/en/ja)
@@ -349,10 +350,12 @@ updated: 2026-11-21
 | — | Monitoring Center / Reservoir Station / Cloudrest Woods / Field Logistics Depot | — | 미확인 | 감시 의뢰에 나오는 무릉성·수돈의 장소 |
 | — | Watchtower Reservoir Station / Restricted Area / Lake Islet / Security Section | — | 미확인 | 수돈의 장소 |
 | 도시 건설관 | Urban Development Hall | — | 2차 | 수돈 북쪽의 기념관. ko는 임무 「전우 · 무명」 설명 |
-| 영수벽 | Eternal Wall | — | 2차 | 도시 건설관의 기념비(영어 여행 가이드). ko는 임무 「전우 · 기념」 설명 |
+| 영수벽 | Eternal Wall | — | 2차 | 도시 건설관의 기념비. ko는 임무 「전우 · 기념」 설명과 목표 '도시 건설관의 영수벽으로 이동하기' |
 | 안사원 | Serenity Garden | — | 2차 | 수돈 남쪽의 정원. ko는 임무 「전우 · 추억」 설명. 2026-11-06에 Urban Development Hall로 잘못 짝지었던 것을 고침 |
 | 공적비 | Merit Stones | — | 미확인 | 안사원의 석판. ko는 여풍 대사 |
 | 전우 · 무명 / 추억 / 기념 / 내일 | Comrades: The Nameless / Commemoration / Remembrance / For Tomorrow | — | 2차 | 미브의 수돈 임무 네 편 |
+| 강 천사 | — | — | 미확인 | 수구·철묘의 할아버지. 안사원에 공적비가 있다. ko는 「전우 · 추억」 대사 |
+| 능월 | — | — | 미확인 | 안사원 근처의 꽃 파는 소녀. ko는 「전우 · 추억」 대사 |
 | 샘의 나그네(1)~(3) | Patron of the Spring I~III | — | 2차 | 선조의 샘 사이드 임무 |
 | 검이 숨겨진 골짜기 | Deep Vaulted Steel | — | 2차 | 장검 골짜기 사이드 임무 |
 | 유적 검 기둥 | Ancient Sword Stele | — | 2차 | 장검 골짜기의 장치 세 곳 |
@@ -368,7 +371,9 @@ updated: 2026-11-21
 | 균열 봉합 지대 | Fissure Filling and Land Grouting | — | 2차 | 북쪽 금지 구역 탐색 임무 |
 | 무명검록(1)~(3) | Nameless Blades I~III | — | 2차 | 나무위키 연표의 「무명의 칼날」 |
 | 과거의 보물 | Treasures of the Past | — | 2차 | 북쪽 금지 구역 탐색 임무 |
-| 돌아갈 길이 없다 | Home Beyond Reach | — | 2차 | 응룡 대원이 의뢰하는 임무. 나무위키 연표의 「닿을 수 없는 고향」 |
+| 돌아갈 길이 없다 | Home Beyond Reach | — | 2차 | 응룡 관문에서 응룡 대원이 의뢰하는 임무. 나무위키 연표의 「닿을 수 없는 고향」 |
+| — | Frigid / Brightfire | — | 미확인 | 「돌아갈 길이 없다」에 나오는 인물 |
+| — | Yinglung War Case | — | 미확인 | 「무명검록」에서 찾는 응룡의 상자 |
 | 절벽 아래 활터 | Cliffbottom Archery Range | 崖の下の射場 | 2차 | 티프로스 궁술 훈련 시설을 여는 임무 |
 | 사의 그림 | Si's Painting | — | 2차 | [사의 그림](content/si_painting.md) |
 | 식양 | Xiranite | 息壌 | 2차 | zh 息壤. 장방이가 이끄는 신재료 |
@@ -1308,6 +1313,7 @@ updated: 2026-11-21
 
 ## 히스토리
 
+- 2026-11-22: 강 천사·능월, 돌아갈 길이 없다·무명검록의 영어 이름 추가. 영수벽 위치를 한국어 임무 목표로 확정.
 - 2026-11-21: 무릉 부가·탐색 임무, 티프로스 후속 임무, 이벤트 스토리 장소·인물의 한국어 게임 표기 추가. 안사원의 짝을 Serenity Garden으로 고치고 Urban Development Hall을 도시 건설관으로 넣음. 사미베르그를 Samivegr로 확정.
 - 2026-11-20: 오퍼레이터 이벤트 스토리 제목과 인물 표기 추가.
 - 2026-11-19: 명하 재능 한국어 표기 추가.
