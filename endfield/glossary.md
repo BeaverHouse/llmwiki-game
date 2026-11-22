@@ -70,7 +70,7 @@ sources:
   - https://endfield.wiki.gg/wiki/Argent_Flow (2026-11-05 수정본) · Argent_Flow/File · Argent_Flow/Dialogue · Lunar_Calling · Complexed_Industry · Home_Longing (언어 칸)
   - https://www.gametoc.co.kr/news/articleView.html?idxno=112808 (우레 표기, 2026-11-06)
   - https://endfield.wiki.gg/wiki/The_Traveler's_Guide_to_Talos-II/Marker_Stone (도시 건설관·영수벽·안사원 영어 표기)
-  - https://warfarin.wiki/kr/missions · https://warfarin.wiki/en/missions (임무 이름과 설명의 한국어·영어 게임 텍스트, v1.6 데이터) · /kr/missions/sm2l9m1 · sm2l8m1 · sm2l7m1 · sm2l6m1 (한국어 대사), 2026-11-21 열람 · sm2l4m1~sm2l4m4 (전우 네 편 한국어 대사와 목표), 2026-11-22 열람
+  - https://warfarin.wiki/kr/missions · https://warfarin.wiki/en/missions (임무 이름과 설명의 한국어·영어 게임 텍스트, v1.6 데이터) · /kr/missions/sm2l9m1 · sm2l8m1 · sm2l7m1 · sm2l6m1 (한국어 대사), 2026-11-21 열람 · sm2l4m1~sm2l4m4 (전우 네 편 한국어 대사와 목표), 2026-11-22 열람 · /kr·/en/missions/sm2l4m5 · sm2l4m6 · sm2l5m1~sm2l5m3 (옛 인연과의 재회·다시 찾아온 봄 한국어·영어 대사와 목표), 2026-11-23 열람
   - https://endfield.wiki.gg/wiki/Home_Beyond_Reach · Nameless_Blades_I · Nameless_Blades_II · Nameless_Blades_III (영어 임무 목표, 2026-11-22 열람)
   - https://namu.wiki/w/명일방주:%20엔드필드/장비
   - https://endfield.wiki.gg/wiki/Gear
@@ -120,7 +120,6 @@ sources:
   - https://game8.jp/arknights-endfield/814895 (ティフォロスの射場·弓の試練)
   - https://namu.wiki/w/라스트%20라이트(명일방주:%20엔드필드) · https://namu.wiki/w/이본(명일방주:%20엔드필드) (2026-10-31 열람, CC BY-NC-SA 2.0 KR)
   - https://endfield.wiki.gg/wiki/Nexus_Files:_Feranmut_Sui · Deep_Vaulted_Steel · Environment_Monitoring · Qingbo_Stockade (2026-11-03 열람)
-  - https://namu.wiki/w/명일방주:%20엔드필드/등장인물%20및%20세력 (해묵, 2026-10-25 수정본, CC BY-NC-SA 2.0 KR)
   - https://namu.wiki/w/명일방주:%20엔드필드/무기/권총 (반항·향수 설명문과 반항 이야기 한국어 텍스트, 2026-10-06 수정본, 2026-11-04 열람, CC BY-NC-SA 2.0 KR)
   - https://endfield.wiki.gg/wiki/Bureau_of_Swordmancers · Marker_Stone · Marker_Stone_Interiors · Æthillu · Patron_of_the_Spring_I · Du_Ming (2026-11-04 열람)
   - https://endfield.wiki.gg/wiki/Wuling_Watchguards · Iron_Boatswain · Jia_Ban · Hongshan_Crater (2026-11-05 열람)
@@ -128,7 +127,7 @@ sources:
   - https://endfield.gryphline.com/ko-kr/news/0753 (공식 만화 <약속> 공지)
   - https://namu.wiki/w/명일방주:%20엔드필드/스토리 (이벤트 스토리 제목, 2026-11-03 수정본, CC BY-NC-SA 2.0 KR) · 이벤트별 endfield.wiki.gg 문서는 world/event_stories.md sources 참고
 created: 2026-10-12
-updated: 2026-11-22
+updated: 2026-11-23
 ---
 
 # 엔드필드 고유명사 표기 (ko/en/ja)
@@ -242,7 +241,7 @@ updated: 2026-11-22
 | 천사 | Tianshi | — | 2차 | zh 天师. 홍산 과학원의 직함 |
 | 천사부 | — | — | 미확인 | 염국의 천사 기관 |
 | 선진 과학 연구자 | — | — | 미확인 | 홍산 과학원이 주는 칭호. 상징은 보온병 |
-| 사세대 | Sui Regulator | — | 미확인 | 쉐이 대응 조직. 홍산 과학원의 베헤모스 응용 기술 기관 |
+| 사세대 | Sui Regulator | — | 2차 | 쉐이 대응 조직. 홍산 과학원의 베헤모스 응용 기술 기관 |
 | 지촉인 | Candleholder | — | 미확인 | 사세대 산하에서 열두 대리인을 감시한 부대 |
 | 사사대 | — | — | 미확인 | 담 천사가 제안했다 거둔 사세대의 새 이름 |
 | 응룡 특수부대 | Yinglung Special Task Force (YSTF) | — | 2차 | 홍산 과학원 소속 부대 |
@@ -354,6 +353,17 @@ updated: 2026-11-22
 | 안사원 | Serenity Garden | — | 2차 | 수돈 남쪽의 정원. ko는 임무 「전우 · 추억」 설명. 2026-11-06에 Urban Development Hall로 잘못 짝지었던 것을 고침 |
 | 공적비 | Merit Stones | — | 미확인 | 안사원의 석판. ko는 여풍 대사 |
 | 전우 · 무명 / 추억 / 기념 / 내일 | Comrades: The Nameless / Commemoration / Remembrance / For Tomorrow | — | 2차 | 미브의 수돈 임무 네 편 |
+| 옛 인연과의 재회(1)(2) | Old Acquaintance I·II | — | 2차 | 해묵·봉의 수돈 탐색 임무 |
+| 수돈 하층 | Marker Stone Lower Floor | — | 2차 | 「옛 인연과의 재회」 임무 목표 |
+| 판테일비스트 | pantailbeast | — | 2차 | 무릉에서 흔한 동물. 「옛 인연과의 재회」에서 심장 에너지가 이 모양으로 실체화한다 |
+| 양심옥 | Xirancore Jade | — | 2차 | 수돈의 부품. 「옛 인연과의 재회」(1) 해묵 대사 |
+| 재료 연구소 | Institute of Materials Science | — | 2차 | 무릉성의 연구소. ko·en은 「옛 인연과의 재회」(1) 임무 목표 |
+| 다시 찾아온 봄(1)~(3) | Spring's Return I~III | — | 2차 | 실험 구역 임무 |
+| C형 천사장 / C형 보조 기둥 | Type-C Tianshi Pillar / Type-C Auxiliary Pillar | — | 2차 | 실험 구역의 천사장과 보조 기둥 |
+| 기계 핵심 모듈 | core module | — | 2차 | C형 보조 기둥에 연결되는 순찰 모듈 |
+| 덤벙이 / 겁쟁이 / 우울이 | Blockhead / Scaredy-pants / Sniffles | — | 2차 | 육령향이 이름 붙인 기계 핵심 모듈 셋 |
+| 경위 논밭 | Meridian Grids | — | 2차 | 실험 구역의 수생 식물 재배 시뮬레이션 구역 |
+| 오염수 처리 구역 | Water Treatment Sector | — | 2차 | 실험 구역. 정수 노드가 있다 |
 | 강 천사 | — | — | 미확인 | 수구·철묘의 할아버지. 안사원에 공적비가 있다. ko는 「전우 · 추억」 대사 |
 | 능월 | — | — | 미확인 | 안사원 근처의 꽃 파는 소녀. ko는 「전우 · 추억」 대사 |
 | 샘의 나그네(1)~(3) | Patron of the Spring I~III | — | 2차 | 선조의 샘 사이드 임무 |
@@ -441,7 +451,7 @@ updated: 2026-11-22
 | 유 선생 | Old Liu | — | 공식(ko) | 무기 반항 이야기의 천사. 원 천사의 동창 |
 | 두명 | Du Ming | — | 2차 | 샘의 나그네 임무의 청파채 청년 |
 | 수구 | Rusty Hook | — | 2차 | 청파채 인물. 철묘의 형 |
-| 봉 | Summit | — | 미확인 | 응룡 특수부대 부대장. 본명 심교아. 결 파일 자료 1의 서명은 '대원' |
+| 봉 | Summit | — | 미확인 | 응룡 특수부대 부대장. 본명 심교아(Shen Jiao'e, 「옛 인연과의 재회」(2) 대사). 결 파일 자료 1의 서명은 '대원' |
 | 언 | Phrase | — | 미확인 | 응룡 특수부대 대원 |
 | 축 / 축 교관 | Zhu / Instructor Zhu | — | 2차 | 담검당을 세운 응룡 특수부대 교관. 결·진천우의 스승. 고인 |
 | 담 천사 | Tianshi Tan | — | 미확인 | 홍산 과학원의 최고참 천사. 사를 돌보고 금위군을 임명. [세력](world/factions.md#담-천사) |
@@ -677,7 +687,7 @@ updated: 2026-11-22
 | 말썽 피우면 안 돼! | — | — | 미확인 | 푸치나 궁극기 |
 | 홍보대사의 특수 선물 | — | — | 미확인 | 푸치나 궁극기의 확률 효과 |
 | 사 | Si | スー | 2차 | zh 祀. [사](operators/si.md) |
-| 묵량 | — | — | 미확인 | 사의 나비 모양 먹물 사역마 |
+| 묵량 | Ink Spirit | — | 2차 | 사의 나비 모양 먹물 사역마. en은 「옛 인연과의 재회」(2) 임무 목표 |
 | 흥에 겨운 붓놀림 | Artistic Urge | — | 2차 | 사 기본 공격 |
 | 강산을 한 폭에 | Brushwork Realm | — | 2차 | 사 배틀 스킬 |
 | 붓을 들리라 | Initial Stroke | — | 2차 | 사 배틀 스킬 뒤 바뀌는 스킬 |
@@ -1105,7 +1115,7 @@ updated: 2026-11-22
 | 천화로 | Forge of the Sky | — | 2차 | 식양·중식양 생산 |
 | 정제기 / 분해기 | Purification Unit / Separating Unit | — | 2차 | |
 | 오염수 처리기 | Water Treatment Unit | — | 2차 | |
-| 정수 노드 | — | — | 미확인 | 실험 구역의 오염수 처리 시설 |
+| 정수 노드 | Purification Node | — | 2차 | 실험 구역의 오염수 처리 시설. 「다시 찾아온 봄」(3) 임무 목표 |
 | 자수정 / 페리움 / 적동 / 혁동 / 작동 | — | — | 미확인 | 광물·금속 자원 |
 | 양정 / 중식양 / 액화 식양 / 액화 중식양 | — | — | 미확인 | 무릉 식양 계열 생산품. 액화 중식양은 과활성 침식을 없앰 |
 | 거점 | Outpost | — | 2차 | 서브 코어 구역 |
@@ -1307,12 +1317,14 @@ updated: 2026-11-22
 | — | Lei Fa | — | 미확인 | 키린이 만든 오리지늄 아츠 |
 | — | Ruan Lin | — | 미확인 | 원일의 친아버지이자 탕탕의 양아버지 |
 | 연효무 / 월턴(헨리 월턴) | Lian Xiaowu / Walton | — | 2차 | 검이 숨겨진 골짜기의 의뢰인 천사와 장검 골짜기에서 만나는 고고학자. 월턴은 인디 월턴 박사의 증손자라고 말한다 |
-| 해묵 | — | — | 미확인 | 베헤모스 심장 수복을 맡은 천사. ko는 나무위키 |
+| 해묵 | Xi Mo | — | 2차 | 수돈 복구를 맡은 천사. ko·en은 「옛 인연과의 재회」 대사 |
+| 육령향 | Lu Lingxiang | — | 2차 | 기계 핵심 모듈을 연구하는 천사 제자. 「다시 찾아온 봄」 |
 | — | Songseeker / Pan'an / Luoyi / Aldertone | — | 미확인 | 명하 파일 자료에 나오는 인물·마을·도시·종족 이름 |
 | — | Fulei, the Lurking Thunder | — | 미확인 | 명하가 오래 쓴 검(대사 '무기에 관하여'). 환월과 다른 무기 |
 
 ## 히스토리
 
+- 2026-11-23: 「옛 인연과의 재회」·「다시 찾아온 봄」의 임무·인물·장소 표기 추가. 해묵·묵량·정수 노드·사세대의 영어 짝을 임무 대사로 확인.
 - 2026-11-22: 강 천사·능월, 돌아갈 길이 없다·무명검록의 영어 이름 추가. 영수벽 위치를 한국어 임무 목표로 확정.
 - 2026-11-21: 무릉 부가·탐색 임무, 티프로스 후속 임무, 이벤트 스토리 장소·인물의 한국어 게임 표기 추가. 안사원의 짝을 Serenity Garden으로 고치고 Urban Development Hall을 도시 건설관으로 넣음. 사미베르그를 Samivegr로 확정.
 - 2026-11-20: 오퍼레이터 이벤트 스토리 제목과 인물 표기 추가.

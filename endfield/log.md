@@ -1,5 +1,7 @@
 # Arknights: Endfield — 변경 기록 (append-only, 최신이 위)
 
+- 2026-11-23 | ai | world/wuling.md·world/behemoth.md·glossary.md·index.md·backlog.md | 「옛 인연과의 재회」 두 편과 실험 구역의 「다시 찾아온 봄」 세 편 줄거리를 쓰고 정수 노드 위치와 해묵이 수복을 맡은 계기를 대사대로 바로잡음 | 정기 성장 작업, warfarin.wiki 한국어·영어 대사(sm2l4m5~m6, sm2l5m1~m3)
+
 - 2026-11-22 | ai | world/wuling.md·glossary.md·index.md·backlog.md | 「전우」 네 편과 무명검록·돌아갈 길이 없다의 내용을 쓰고 영수벽이 도시 건설관에 있음을 한국어 임무 목표로 확정함 | 정기 성장 작업, warfarin.wiki 한국어 대사(sm2l4m1~m4), endfield.wiki.gg 임무 문서
 
 - 2026-11-21 | ai | world/event_stories.md·world/wuling.md·content/exploration.md·content/settlements.md·glossary.md·index.md·backlog.md | 티프로스 후속 임무 두 편과 무릉 부가 임무 두 편의 줄거리를 쓰고 임무·장소 이름을 한국어 게임 표기로 바꾸며 안사원의 영어 짝을 Serenity Garden으로 바로잡음 | 정기 성장 작업, warfarin.wiki 한국어·영어 임무 목록과 대사, endfield.wiki.gg 임무 문서, 나무위키 스토리 문서
