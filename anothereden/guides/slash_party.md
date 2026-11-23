@@ -12,7 +12,7 @@ sources:
   - https://anothereden.game-info.wiki/d/ZONE%A1%A6%B1%FE%B1%E7%B8%FA%B2%CC%A4%DE%A4%C8%A4%E1 (Seesaa Wiki 「ZONE・応援効果まとめ」, 2026-11-13 수정본. 煌斬陣 배율)
   - 사이트 데이터 ae_translation_all (동료·퍼스널리티 표기)
 created: 2026-11-19
-updated: 2026-11-19
+updated: 2026-11-24
 ---
 
 # 베기 파티 (煌斬陣 편성)
@@ -86,7 +86,7 @@ updated: 2026-11-19
 ### 다른 문서의 편성
 
 - 바람 도형(멜로디(AS) · 세스타 · 멜리사 · 시구레(ES), Seesaa 「シグレ(エクストラスタイル)」)과 세스타(AS) 베기 편성은 [바람 파티](wind_party.md), [세스타(AS)](../characters/sesta_as.md).
-- 보현 출장(시온(ES) · 히스메나(ES) · 시구레(ES) · 이스카)은 [히스메나(ES)](../characters/hismena_es.md), 베기 위주 双撃陣・斬魔는 [플람라피스(ES)](../characters/flammelapis_es.md), 베기·찌르기 혼성은 [엘레노아](../characters/eleanor.md)·[리나리아](../characters/linaria.md).
+- 보현 출장(시온(ES) · 히스메나(ES) · 시구레(ES) · 이스카)과 베기 위주 双撃陣・斬魔는 [双撃陣 혼성 파티](sougekijin_party.md), 엘레노아의 베기·찌르기 혼성은 [엘레노아](../characters/eleanor.md)·[리나리아](../characters/linaria.md).
 - 물 베기는 [베르단타](../characters/verdanta.md), 星海陣 베기는 [뮬루스(ES)](../characters/myrus_es.md), 슈타이너 받기 편성은 [슈타이너](../characters/steiner.md).
 
 ## 배포 동료 파티
