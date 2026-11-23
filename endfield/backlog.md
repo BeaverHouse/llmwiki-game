@@ -5,10 +5,9 @@
 ## 다음 작업
 
 - 명하 이벤트 스토리 Back to the Rustics | world/event_stories.md | 이벤트 스토리 문서에 1.6 이야기만 빠짐. 하위 임무 풀숲을 헤치며(Parting Grass) → 불을 지피리라(Kindling the Fire) → 가지를 찾아서(Seeking the Branch), Pan'an 마을과 Mu Xing, 사가 명하를 미션 제로에 끌어들인 경위. 이야기 전체의 한국어 제목은 아직 못 찾음. 이벤트가 끝난 뒤(11-26) 대사가 채워지면 쓴다 | 나무위키 스토리 문서, endfield.wiki.gg Argent_Flow/Story·각 하위 임무 문서, warfarin.wiki 한국어 스토리 리더
-- 운명의 계시 대사 | world/event_stories.md | 동굴에서 알게 되는 제사장의 선택이 빠져 임무 목표만 적음. 임무 대사 문서 번호를 찾아야 함 | warfarin.wiki 한국어 스토리 리더, endfield.wiki.gg Illumination_of_Fate
-- 「무명검록」(1)~(3)·「돌아갈 길이 없다」 한국어 대사 | world/wuling.md | 영어 임무 목표로만 적음. 무명검록의 지역, Yan Ning과 언의 관계, Frigid·Brightfire의 한국어 이름이 대사에 있을 것. 와파린 스토리 리더의 임무 번호를 아직 찾지 못함(sm2l1~sm2l10은 다른 탐색 임무) | warfarin.wiki 한국어 스토리 리더, endfield.wiki.gg
-- 「옛 인연과의 재회」(1)(2) 줄거리 | world/wuling.md 수돈, world/behemoth.md 베헤모스 심장 | 해묵·봉과 베헤모스 심장, 묵량이 여는 그림 속 통로. 봉이 잃은 친구와의 약속(십 년 전 연구 기지 사고 뒤 지원 부대). 수돈 절에 없음 | warfarin.wiki/kr/missions/sm2l4m5 (2편 번호는 미확인)
-- 「다시 찾아온 봄」(1)~(3) 줄거리 | world/wuling.md 하위 지역(실험 구역) | 육령향과 기계 핵심 모듈, C형 보조 기둥·C형 천사장, 경위 논밭, 관리자가 느끼는 낯익음. 실험 구역은 표에 이름만 있음 | warfarin.wiki/kr/missions/sm2l5m1~
+- 운명의 계시 대사 | world/event_stories.md | 동굴에서 알게 되는 제사장의 선택이 빠져 임무 목표만 적음. 임무 대사 문서 번호를 찾아야 함. sm2l9m1~m3은 생의 마지막까지, sm2l9m0·m4·sm2l11m1은 없는 문서, sm2l10m1은 이루어지지 못한 사랑 | warfarin.wiki 한국어 스토리 리더, endfield.wiki.gg Illumination_of_Fate(대사 없음)
+- 「무명검록」(1)~(3)·「돌아갈 길이 없다」 한국어 대사 | world/wuling.md | 영어 임무 목표로만 적음. 무명검록의 지역, Yan Ning과 언의 관계, Frigid·Brightfire의 한국어 이름이 대사에 있을 것. 스토리 리더 목록에서 Secondary 분류라 sm2l 번호 체계가 아닐 수 있음 | warfarin.wiki 한국어 스토리 리더, endfield.wiki.gg
+- 「이루어지지 못한 사랑」 줄거리 | content/si_painting.md 또는 world/wuling.md 선검국 | 인연 마을에서 시작해 선검국 원혼 소동을 쫓는 임무. 사의 찻주전자가 사람 모습이 된 치창 명천이 천사장에 반한 이야기. 같은 인연 마을 임무 「다시 이어지는 인연」 「기념일」도 확인 | warfarin.wiki/kr/missions/sm2l10m1 (2026-11-23에 끝까지 읽음)
 
 ## 확인 필요
 
@@ -17,6 +16,8 @@
 - 삼도종과 알림종 | world/wuling.md 수명 | 상진이 고치려는 삼도종(Bell of Three Presences)과 수명성의 알림종(Waking Bell)이 같은 종인지. 답 기한 2026-11-23, 답이 없으면 두 이름을 따로 적어 둔다
 
 ## 완료
+
+- 2026-11-23: world/wuling.md 「옛 인연과의 재회」(1)(2)(sm2l4m5·m6)와 실험 구역 절(「다시 찾아온 봄」(1)~(3), sm2l5m1~m3), world/behemoth.md 베헤모스 심장의 에너지 누출. 해묵이 수복을 맡은 계기는 대사대로 아다시르로, 정수 노드는 수돈이 아닌 실험 구역 설비로 고침. 봉의 본명 심교아는 게임 대사로 확인. 운명의 계시와 무명검록은 임무 번호를 못 찾아 남김. 명하 이야기는 이벤트가 11-26에 끝나 남김. 삼도종 질문은 오늘이 기한이라 다음 회차에 닫음
 
 - 2026-11-22: world/wuling.md 「전우」 네 편 줄거리(한국어 대사), 무명검록(1)~(3)과 응룡 관문 임무 돌아갈 길이 없다(영어 임무 목표). 돌아갈 길이 없다는 북쪽 금지 구역이 아니라 응룡 관문 임무. 영수벽 질문은 한국어 임무 목표 '도시 건설관의 영수벽으로 이동하기'로 닫음. 수구 이름을 새긴 사람은 진천우의 짐작이라 확인하지 못한 것으로 둠. 명하 우레 질문은 기한(11-21)이 지나 확인하지 못한 것으로 닫음(문서에 이미 있음). 운명의 계시 대사는 와파린 임무 번호를 못 찾아 남김. 명하 이야기는 이벤트가 11-26에 끝나 남김
 
