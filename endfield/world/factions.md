@@ -38,10 +38,11 @@ sources:
   - https://endfield.wiki.gg/wiki/Yvonne/File (2026-09-02 수정본) · Yvonne/Dialogue (2026-09-08 수정본)
   - https://wiki.biligame.com/zmd/伊冯 (중국어 인사 요약서, 2026-05-15 수정본)
   - https://endfield.wiki.gg/wiki/Bureau_of_Swordmancers (중추 파일 '선검국' 영어 텍스트와 제품 목록, 2026-06-16 수정본, 2026-11-04 열람)
+  - https://warfarin.wiki/kr/missions/sm2l10m1 (「이루어지지 못한 사랑」 한국어 대사, 무릉성 선검국의 시설, 2026-11-24 열람)
   - https://namu.wiki/w/명일방주:%20엔드필드/무기/권총 (반항·향수 설명문 한국어 텍스트, 2026-10-06 수정본, 2026-11-04 열람, CC BY-NC-SA 2.0 KR)
   - https://endfield.wiki.gg/wiki/Argent_Flow/File · Argent_Flow/Dialogue (2026-11-05 수정본, 2026-11-07 열람. 담 천사 기록) · Si/File (2026-10-15 수정본, 파일 자료 3)
 created: 2026-10-21
-updated: 2026-11-07
+updated: 2026-11-24
 ---
 
 # 세력 (Factions)
@@ -132,7 +133,7 @@ TA-TA 개발에 크로가 맡은 몫은 출처마다 다르다([TA-TA 프로토�
 - 탈로스2의 스타게이트를 잃은 뒤 제1차 아겔로스 전쟁에서 인류가 크게 밀리자, 이를 메우려고 세웠다. 아겔로스에 맞설 무기와 장비 연구에 힘을 쏟았고, 테라 여러 나라에서 온 군인들의 요구에 맞춰 여러 규격의 장비를 만들었다. 전쟁 때 만든 낡은 장비 상당수에 지금도 'Manufactured by the Bureau of Swordmancers'가 새겨져 있다.
 - 지금도 홍산 과학원 인원이 가장 먼저 고르는 무기와 장비이고, 문명 밴드 시장에서도 평이 좋다.
 
-무릉성에도 선검국이 있어, 사이드 임무 Deep Vaulted Steel의 의뢰가 여기서 나온다([무릉](wuling.md#장검-골짜기)). 응룡 선발의 아츠 정밀도 평가에 쓰는 식양 부품 아츠 유닛도 선검국이 무릉용으로 개발했다([무릉](wuling.md#선발)).
+무릉성에도 선검국이 있어, 사이드 임무 Deep Vaulted Steel의 의뢰가 여기서 나온다([무릉](wuling.md#장검-골짜기)). 무릉성 선검국에는 제자가 수련하는 검 기둥과 1층의 홍산 행운 보관함이 있고, 제자가 천사가 되려면 출사의 세 검을 통과해야 한다. 일반인에게 문을 여는 날도 있다(「이루어지지 못한 사랑」, [사의 그림](../content/si_painting.md#이루어지지-못한-사랑)). 응룡 선발의 아츠 정밀도 평가에 쓰는 식양 부품 아츠 유닛도 선검국이 무릉용으로 개발했다([무릉](wuling.md#선발)).
 
 설명문이 선검국 제품으로 적는 무기와 장비는 아래와 같다. 성능은 [무기](../systems/weapons.md)와 [장비 세트](../systems/gear_sets.md)에 있다.
 

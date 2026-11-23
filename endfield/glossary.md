@@ -70,7 +70,7 @@ sources:
   - https://endfield.wiki.gg/wiki/Argent_Flow (2026-11-05 수정본) · Argent_Flow/File · Argent_Flow/Dialogue · Lunar_Calling · Complexed_Industry · Home_Longing (언어 칸)
   - https://www.gametoc.co.kr/news/articleView.html?idxno=112808 (우레 표기, 2026-11-06)
   - https://endfield.wiki.gg/wiki/The_Traveler's_Guide_to_Talos-II/Marker_Stone (도시 건설관·영수벽·안사원 영어 표기)
-  - https://warfarin.wiki/kr/missions · https://warfarin.wiki/en/missions (임무 이름과 설명의 한국어·영어 게임 텍스트, v1.6 데이터) · /kr/missions/sm2l9m1 · sm2l8m1 · sm2l7m1 · sm2l6m1 (한국어 대사), 2026-11-21 열람 · sm2l4m1~sm2l4m4 (전우 네 편 한국어 대사와 목표), 2026-11-22 열람 · /kr·/en/missions/sm2l4m5 · sm2l4m6 · sm2l5m1~sm2l5m3 (옛 인연과의 재회·다시 찾아온 봄 한국어·영어 대사와 목표), 2026-11-23 열람
+  - https://warfarin.wiki/kr/missions · https://warfarin.wiki/en/missions (임무 이름과 설명의 한국어·영어 게임 텍스트, v1.6 데이터) · /kr/missions/sm2l9m1 · sm2l8m1 · sm2l7m1 · sm2l6m1 (한국어 대사), 2026-11-21 열람 · sm2l4m1~sm2l4m4 (전우 네 편 한국어 대사와 목표), 2026-11-22 열람 · /kr·/en/missions/sm2l4m5 · sm2l4m6 · sm2l5m1~sm2l5m3 (옛 인연과의 재회·다시 찾아온 봄 한국어·영어 대사와 목표), 2026-11-23 열람 · /kr·/en/missions/sm2l10m1~sm2l10m3 (인연 마을 임무 세 편 한국어·영어 대사와 목표), 2026-11-24 열람
   - https://endfield.wiki.gg/wiki/Home_Beyond_Reach · Nameless_Blades_I · Nameless_Blades_II · Nameless_Blades_III (영어 임무 목표, 2026-11-22 열람)
   - https://namu.wiki/w/명일방주:%20엔드필드/장비
   - https://endfield.wiki.gg/wiki/Gear
@@ -127,7 +127,7 @@ sources:
   - https://endfield.gryphline.com/ko-kr/news/0753 (공식 만화 <약속> 공지)
   - https://namu.wiki/w/명일방주:%20엔드필드/스토리 (이벤트 스토리 제목, 2026-11-03 수정본, CC BY-NC-SA 2.0 KR) · 이벤트별 endfield.wiki.gg 문서는 world/event_stories.md sources 참고
 created: 2026-10-12
-updated: 2026-11-23
+updated: 2026-11-24
 ---
 
 # 엔드필드 고유명사 표기 (ko/en/ja)
@@ -306,7 +306,7 @@ updated: 2026-11-23
 | 대사냥 | Great Hunt | — | 미확인 | 염국이 베헤모스와 벌인 전쟁. ko는 사 파일 자료 3 |
 | 베헤모스 심장 | Feranmut Heart | — | 미확인 | 수돈 안에서 대균열을 누르는 장치. 나무위키는 '베히모스의 심장' |
 | — | Ennoblement of the Gods | — | 미확인 | 대사냥이 끝나 이룬 일 |
-| 드래곤 버블 | Chubby Lung* | — | 미확인 | 무릉의 마스코트 인형·장식. en은 아이템 '드래곤 버블 채소 젤리'(Chubby Lung Jellied Greens)·'드래곤 버블 · 방흥 에디션'(Chubby Lung: Fangxing Memorabilia)에서 짝지음 |
+| 드래곤 버블 | Chubby Lung | — | 2차 | 무릉의 마스코트 인형·장식. 「이루어지지 못한 사랑」의 한국어·영어 대사와 아이템 '드래곤 버블 채소 젤리'(Chubby Lung Jellied Greens)·'드래곤 버블 · 방흥 에디션'(Chubby Lung: Fangxing Memorabilia)에서 짝지음 |
 
 ## 4번 협곡
 
@@ -1222,10 +1222,28 @@ updated: 2026-11-23
 | 한국어 | English | 日本語 | 확인 | 메모 |
 |---|---|---|---|---|
 | 인연 마을 | Yuanyuan Manor (Inn) | — | 미확인 | 사가 그림 속에서 운영하는 객잔. 나무위키 스토리 문서는 '연원객잔' |
-| 소하장 | Xiaohe Manor | — | 미확인 | 그림 속 마을. 나무위키 연표는 '소하 장원' |
+| 소화 마을 | Xiaohe Manor | — | 2차 | 그림 속 마을. ko는 「기념일」 대사. 나무위키는 '소하장'·'소하 장원' |
 | 이별의 정자 | Chess Pavilion | — | 미확인 | 그림 속 장소 |
-| 위티 | Witty | — | 미확인 | 사의 붓을 가지고 달아난 잉크 정령 |
+| 꾸러기 | Witty | — | 2차 | 사의 붓을 가지고 달아난 묵량. ko는 「기념일」 대사. 영어 줄거리를 옮긴 이름은 '위티' |
 | 열일이 | Job Rusher | — | 2차 | 인연 마을 식료품 창고지기 |
+| 괄괄이 / 쌩쌩이 | Loud Speaker / Speed Dasher | — | 2차 | 인연 마을 일꾼. 쌩쌩이는 요리를 맡는다 |
+| 까막이 | Cant Reador | — | 2차 | 객잔에서 기르는 파울비스트 |
+| 한입의 유람 | Spoon Swimmer | — | 2차 | 까막이의 알로 만드는 객잔 간판 요리(달걀찜) |
+| 완청 연못 | Cleansing Pool | — | 2차 | 그림 속 연못 |
+| 융미초 / 임중황 | Flufftail Herb / Amberstalk | — | 2차 | 한입의 유람 양념 재료 |
+| 잠룡 계곡 | Deeplung Gorge | — | 2차 | 사의 무협 소설 속 결전 장소. 그림 속에 있다 |
+| — | Chivalric Tales of the Mystic Flow | — | 미확인 | 사가 쓰다 만 무협 소설. 한국어 대사에서 제목이 빠져 보인다 |
+| 연비 / 강자혁 / 청우 | Yan Mingfei / Jiang Ziliu / Qing Yu | — | 2차 | 소설의 정파 대협·마교 교주·둘의 친구 |
+| 사보연 / 학동혁 | Xie Buchu / Hao Tongku | — | 2차 | 소설의 결말을 조르다 잠룡 계곡에 갇힌 독자 둘 |
+| 치창 | waregeist | — | 2차 | 사람 모습이 된 사의 물건 |
+| 명천 | Ming Quan | — | 2차 | 천사장에 반한 치창. 「이루어지지 못한 사랑」 |
+| 정 천사 | Tianshi Zhang | — | 2차 | 무릉성 선검국의 천사 |
+| 매윤 / 적가예 | Mei Yun / Zhai Jiali | — | 2차 | 「이루어지지 못한 사랑」의 용의자 |
+| 출사의 세 검 | Three Swords of Mastery | — | 2차 | 선검국 제자가 천사가 되려고 통과하는 시험 |
+| 검 기둥 | sword pell | — | 2차 | 선검국 안의 수련 기둥 |
+| 홍산 행운 보관함 | Hongyun Express Station | — | 2차 | 선검국 1층의 소포 보관함 |
+| 대박 행운권 | Fortune Connect-and-Win | — | 2차 | 무릉의 긁는 복권 |
+| 무릉 러닝 코스 | Jogging Trail | — | 2차 | 무릉성의 달리기 코스 |
 | 심연을 떠나며 | Sanctuary from the Rift | — | 미확인 | 메인 스토리 2장 VIII |
 | — | Spirit Money | — | 미확인 | 객잔 재화 |
 | — | Inn Rating / Inn Stars | — | 미확인 | 객잔 평가·별 |
@@ -1324,6 +1342,7 @@ updated: 2026-11-23
 
 ## 히스토리
 
+- 2026-11-24: 인연 마을 임무 세 편의 인물·장소·요리 표기 추가. 소하장을 소화 마을로, 위티를 꾸러기로 바로잡고 드래곤 버블의 영어 짝 Chubby Lung을 대사로 확인.
 - 2026-11-23: 「옛 인연과의 재회」·「다시 찾아온 봄」의 임무·인물·장소 표기 추가. 해묵·묵량·정수 노드·사세대의 영어 짝을 임무 대사로 확인.
 - 2026-11-22: 강 천사·능월, 돌아갈 길이 없다·무명검록의 영어 이름 추가. 영수벽 위치를 한국어 임무 목표로 확정.
 - 2026-11-21: 무릉 부가·탐색 임무, 티프로스 후속 임무, 이벤트 스토리 장소·인물의 한국어 게임 표기 추가. 안사원의 짝을 Serenity Garden으로 고치고 Urban Development Hall을 도시 건설관으로 넣음. 사미베르그를 Samivegr로 확정.
