@@ -11,7 +11,7 @@ sources:
   - "https://bluearchive.wiki/wiki/Shop (Eligma·Eleph, 2026-10-21)"
   - "https://bluearchive.wiki/wiki/Gregorius (荘厳なる聖歌隊·苦難のオルガン, Choir·Organ, 2026-10-23)"
   - "https://namu.wiki/w/그레고리오(블루%20아카이브) (설거지 용례, 2026-10-25)"
-  - "https://namu.wiki/w/블루%20아카이브/총력전 (침수 용례, 2026-10-25)"
+  - "https://namu.wiki/w/블루%20아카이브/총력전 (침수·페스캐 용례, 서버별 플래티넘·골드 순위, 2026-11-23 열람)"
   - "user-feedback: 걍클고 뜻 (2026-10-22)"
   - "https://schaledb.com/data/kr/raids.min.json (악몽 열차 한국어 스킬 텍스트, 2026-11-13)"
   - https://kamigame.jp/bluearchive/page/446318009699559077.html
@@ -23,7 +23,7 @@ sources:
   - "https://forum.nexon.com/bluearchive/board_view?board=1071&thread=2719463 (모집 스택·특별 스택·모집 마일리지)"
   - "https://namu.wiki/w/블루%20아카이브/대결전 (토토인·토인인, 택틱·일섭 용례, 2026-11-21 열람)"
 created: 2026-07-06
-updated: 2026-11-21
+updated: 2026-11-23
 ---
 
 # 용어집 (Glossary)
@@ -129,7 +129,9 @@ updated: 2026-11-21
 | 빛만튀   | 빛나는 페로로 1-2마리만 때리고 퇴각하는 전략 | [perorodzilla.md](raids/perorodzilla.md) |
 | 민초택틱 | 무적 자리 탱커와 아이리 EX 이속 감소로 쿠로에게 자해 데미지를 입히는 전략 | [shiro_kuro.md](raids/shiro_kuro.md) |
 | 미래시   | 먼저 서비스한 일본 서버의 업데이트·시즌 기록으로 다른 서버의 앞날을 미리 보는 것. "미래시의 ○○ 총력전"은 일본 서버에서 이미 열린 시즌 | [beginner.md](guides/beginner.md) |
-| 플레 / 플레컷 / 플레택틱 | 플래티넘(총력전·대결전 20,000위 이내 등급), 그 커트라인 점수, 플래티넘에 드는 편성. 난이도 이름이 아님 | [beginner.md](guides/beginner.md) |
+| 플레 / 플레컷 / 플레택틱 / 플레권 | 플래티넘(총력전·대결전 최상위 등급. 총력전은 일본 서버 20,000위, 한국 서버 12,000위 이내), 그 커트라인 점수, 플래티넘에 드는 편성, 플래티넘 순위 구간. 난이도 이름도 선택권도 아님. "플레권 목표"는 플래티넘 안에 들겠다는 말 | [beginner.md](guides/beginner.md) |
+| 골드 | 플래티넘 다음 등급. 총력전은 일본 서버 20,001~120,000위, 한국 서버 12,001~55,000위. "총력전에서 골드를 생각한다"는 이 등급을 노린다는 말이고 재화 골드가 아님 | [beginner.md](guides/beginner.md) |
+| 페스 / 페스캐 | 페스 모집에서만 얻는 학생. 히나(드레스)·호시노(수영복) 등. 의상 이름 드레스와 같은 말이 아님 | [recruitment.md](guides/recruitment.md) |
 | 익스 | 난이도 EXTREME. 순서는 EXTREME → INSANE → TORMENT → LUNATIC | [beginner.md](guides/beginner.md) |
 | 걍클 / 걍클고 | "그냥 클리어 (가자)". 점수·순위와 상관없이 클리어만 하면 됨. 학생 이름이 아님 | user-feedback (2026-10-22) |
 | 설거지 / 설거지 파티 | 앞 파티가 남긴 보스 체력을 다음 파티로 마저 처리하는 것, 또는 그 파티. "루나틱 설거지에서 ○○ 안 쓰는 파티"는 뒤쪽 파티 구성을 묻는 말 | [gregorius.md](raids/gregorius.md) |
