@@ -1,5 +1,6 @@
 # Arknights: Endfield — 변경 기록 (append-only, 최신이 위)
 
+- 2026-11-25 | ai | world/wuling.md·world/event_stories.md·world/factions.md·world/foundation.md·content/si_painting.md·glossary.md·index.md·backlog.md | 무릉 탐색 임무 여덟 편(무명검록, 돌아갈 길이 없다, 운명의 계시, 기이한 이야기, 세 자루의 검, 골짜기의 검 기둥, 귀환의 종소리, 종이 세 번 울릴 때)을 한국어 대사로 쓰고 영어로만 적던 인물 이름을 게임 표기로 바꿈 | 정기 성장 작업, warfarin.wiki 한국어·영어 대사(gm02m7·m8·m15·m17~m19·m21·m22·m24·m27)
 - 2026-11-24 | ai | content/si_painting.md·world/factions.md·glossary.md·index.md·backlog.md | 인연 마을 임무 세 편의 줄거리를 쓰고 2장 VIII의 소하장·위티·잉크 정령을 게임 표기 소화 마을·꾸러기·묵량으로 바로잡음 | 정기 성장 작업, warfarin.wiki 한국어·영어 대사(sm2l10m1~m3)
 
 - 2026-11-23 | ai | world/wuling.md·world/behemoth.md·glossary.md·index.md·backlog.md | 「옛 인연과의 재회」 두 편과 실험 구역의 「다시 찾아온 봄」 세 편 줄거리를 쓰고 정수 노드 위치와 해묵이 수복을 맡은 계기를 대사대로 바로잡음 | 정기 성장 작업, warfarin.wiki 한국어·영어 대사(sm2l4m5~m6, sm2l5m1~m3)
