@@ -5,17 +5,18 @@
 ## 다음 작업
 
 - 명하 이벤트 스토리 Back to the Rustics | world/event_stories.md | 이벤트 스토리 문서에 1.6 이야기만 빠짐. 하위 임무 풀숲을 헤치며(Parting Grass) → 불을 지피리라(Kindling the Fire) → 가지를 찾아서(Seeking the Branch), Pan'an 마을과 Mu Xing, 사가 명하를 미션 제로에 끌어들인 경위. 이야기 전체의 한국어 제목은 아직 못 찾음. 이벤트가 끝난 뒤(11-26) 대사가 채워지면 쓴다 | 나무위키 스토리 문서, endfield.wiki.gg Argent_Flow/Story·각 하위 임무 문서, warfarin.wiki 한국어 스토리 리더
-- 운명의 계시 대사 | world/event_stories.md | 동굴에서 알게 되는 제사장의 선택이 빠져 임무 목표만 적음. 임무 대사 문서 번호를 찾아야 함. sm2l9m1~m3은 생의 마지막까지, sm2l9m0·m4·sm2l11m1은 없는 문서, sm2l10m1은 이루어지지 못한 사랑 | warfarin.wiki 한국어 스토리 리더, endfield.wiki.gg Illumination_of_Fate(대사 없음)
-- 「무명검록」(1)~(3)·「돌아갈 길이 없다」 한국어 대사 | world/wuling.md | 영어 임무 목표로만 적음. 무명검록의 지역, Yan Ning과 언의 관계, Frigid·Brightfire의 한국어 이름이 대사에 있을 것. 스토리 리더 목록에서 Secondary 분류라 sm2l 번호 체계가 아닐 수 있음 | warfarin.wiki 한국어 스토리 리더, endfield.wiki.gg
-- 「이루어지지 못한 사랑」 줄거리 | content/si_painting.md 또는 world/wuling.md 선검국 | 인연 마을에서 시작해 선검국 원혼 소동을 쫓는 임무. 사의 찻주전자가 사람 모습이 된 치창 명천이 천사장에 반한 이야기. 같은 인연 마을 임무 「다시 이어지는 인연」 「기념일」도 확인 | warfarin.wiki/kr/missions/sm2l10m1 (2026-11-23에 끝까지 읽음)
+- 운명의 계시 대사 | world/event_stories.md | 동굴에서 알게 되는 제사장의 선택이 빠져 임무 목표만 적음. 임무 대사 문서 번호를 찾아야 함. sm2l9m1~m3은 생의 마지막까지, sm2l9m0·m4·sm2l11m1·sm2l4m7은 없는 문서, sm2l10m1~m3은 인연 마을 임무. 한국어 스토리 리더 목록에는 이름만 있고 설명이 비어 있다 | warfarin.wiki 한국어 스토리 리더, endfield.wiki.gg Illumination_of_Fate(대사 없음)
+- 「무명검록」(1)~(3)·「돌아갈 길이 없다」 한국어 대사 | world/wuling.md | 영어 임무 목표로만 적음. 무명검록의 지역, Yan Ning과 언의 관계, Frigid·Brightfire의 한국어 이름이 대사에 있을 것. 스토리 리더 목록에서 Secondary 분류라 sm2l 번호 체계가 아닐 수 있고, 무명검록은 목록에 설명이 비어 있다 | warfarin.wiki 한국어 스토리 리더, endfield.wiki.gg
+- 「곳곳에 숨은 기이한 이야기」 줄거리 | content/si_painting.md 인연 마을 임무 | 사가 모은 기이한 이야기 책이 상자에서 달아나 괄괄이가 되찾아 달라고 하는 임무. 인연 마을 일꾼이 나오는 남은 임무 | warfarin.wiki 한국어 스토리 리더(Secondary 분류, 대사 문서 번호는 아직 모름)
+- 「스승을 떠나는 세 자루의 검」 줄거리 | world/factions.md 선검국 | 선검국 제자 석정이 검 기둥을 세워 수료식을 마치는 임무. 「이루어지지 못한 사랑」에 나온 출사의 세 검과 이어진다 | warfarin.wiki 한국어 스토리 리더(Secondary 분류)
 
 ## 확인 필요
 
 [AGENTS.md](../AGENTS.md) 6절에 맞는 질문만 둔다.
 
-- 삼도종과 알림종 | world/wuling.md 수명 | 상진이 고치려는 삼도종(Bell of Three Presences)과 수명성의 알림종(Waking Bell)이 같은 종인지. 답 기한 2026-11-23, 답이 없으면 두 이름을 따로 적어 둔다
-
 ## 완료
+
+- 2026-11-24: content/si_painting.md 인연 마을 임무 세 편(「이루어지지 못한 사랑」 「다시 이어지는 인연」 「기념일」, sm2l10m1~m3 한국어·영어 대사), world/factions.md 무릉성 선검국 시설, glossary.md 인물·장소·요리 표기. 2장 VIII의 소하장·위티·잉크 정령을 대사의 짝(Xiaohe Manor = 소화 마을, Witty = 꾸러기, Ink Spirit = 묵량)으로 고침. 찻주전자와 명천이 같다는 것은 대사가 밝히지 않아 확인하지 못한 것으로 둠. 소설의 한국어 제목은 대사에서 빠져 있어 영어로만 적음. 삼도종 질문은 기한(11-23)이 지나 기본값대로 두 이름을 따로 적어 둔 채 닫음. 운명의 계시·무명검록은 대사 문서 번호를 못 찾아 남김. 명하 이야기는 이벤트가 11-26에 끝나 남김
 
 - 2026-11-23: world/wuling.md 「옛 인연과의 재회」(1)(2)(sm2l4m5·m6)와 실험 구역 절(「다시 찾아온 봄」(1)~(3), sm2l5m1~m3), world/behemoth.md 베헤모스 심장의 에너지 누출. 해묵이 수복을 맡은 계기는 대사대로 아다시르로, 정수 노드는 수돈이 아닌 실험 구역 설비로 고침. 봉의 본명 심교아는 게임 대사로 확인. 운명의 계시와 무명검록은 임무 번호를 못 찾아 남김. 명하 이야기는 이벤트가 11-26에 끝나 남김. 삼도종 질문은 오늘이 기한이라 다음 회차에 닫음
 
