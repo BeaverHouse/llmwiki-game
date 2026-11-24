@@ -1,5 +1,9 @@
 # Another Eden — 변경 기록 (append-only, 최신이 위)
 
+- 2026-11-24 | ai | guides/sougekijin_party.md 신규, guides/staff_party.md·slash_party.md, characters/hismena_es.md·flammelapis_es.md·necoco_alter.md·linaria.md, index.md·backlog.md | 双撃陣 혼성 파티 문서를 쓰고 지팡이 파티에 고답의 요묘 네코코의 臨機応変<魔> 편성과 斬魔 출장을 더함 | Seesaa 「ヒスメナ(エクストラスタイル)」·「フラムラピス(エクストラスタイル)」·「リナリア」·「高踏の妖猫」
+
+- 2026-11-23 | ai | characters/silver_striker_as.md·guides/coa_party.md 신규, guides/weapon_reforging.md·meta_characters.md·pierce_party.md·thunder_party.md·fire_party.md, characters/velette_as.md·linaria.md·anabel_es.md, glossary.md·index.md·backlog.md | 은빛을 휘감은 번개술사(AS) 카드와 COA 파티 문서를 쓰고 打ち直し 무기 桜雲·桜月·幻読·幻抉·匠俊을 더함 | Seesaa 「銀織の雷使い(アナザースタイル)」·「リナリア」·「セティー」·「レンリ」·「武器打ち直し」
+
 - 2026-11-22 | ai | characters/myunfa_alter.md·guides/fire_party.md 신규, guides/earth_party.md·staff_party.md·thunder_party.md·crystal_party.md·meta_characters.md, characters/ewan.md·minalca_as.md·renri_alter.md·meryt.md·red_clad_flame_user_as.md, glossary.md·index.md·backlog.md | 백자의 마인 밍화 카드와 불 파티 문서를 쓰고 흩어진 밍화(AS) 스킬과 불 편성을 새 문서로 옮김 | Seesaa 「白磁の魔人」·「白磁の魔人(アナザースタイル)」·「ミナルカ(アナザースタイル)」·「ユーイン」·「韜晦の討手」·「メリト」·「赤套の炎使い(アナザースタイル)」
 
 - 2026-11-21 | ai | guides/staff_party.md 신규, guides/meta_equipment.md·manifest_weapons.md·status_effects.md, characters/xianhua.md·yakumo_as.md, glossary.md·index.md·backlog.md | 지팡이 파티 문서를 쓰고 ルーナ 무기 제작·강화 절과 이벨라 結実 무기를 더하고 バフリバーサル·あべこべ 공존 시점을 정함 | Seesaa 「シェンファ」·「シェンファ(アナザースタイル)」·「ヤクモ(アナザースタイル)」·「イウェラ」·「顕現武器」, altema 「runasoubi」·「ketuzituiwera」

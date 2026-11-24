@@ -28,7 +28,7 @@ sources:
   - "user-feedback (Austin): 메타 명단은 Seesaa·anothertier 교집합만 쓴다(일본·글로벌 유저층이 달라 기준이 다름), 두 사이트가 스타일을 다르게 고른 동료는 두 스타일 모두 적는다, 배포는 스토리 동료 전원 + 성능 좋은 배포, 교집합 밖은 파티·강적 문서가 멤버로 소개할 때만 문서를 만든다 (2026-10-29)"
   - 사이트 데이터 ae_translation_all (용어 표기)
 created: 2026-10-17
-updated: 2026-11-22
+updated: 2026-11-23
 ---
 
 # 고난이도 동료 명단
@@ -81,7 +81,7 @@ Seesaa 랭크 순(같은 랭크는 Seesaa 표 순서)이다.
 | セリエス(AS) / セリエス | [세리에스(AS)](../characters/cerius_as.md) / [세리에스](../characters/cerius.md) | AS (SA)·NS (SA) 둘 다 | 땅·활 | 땅·찌르기 어태커. AS는 鎧通·射切 모드 전환, SA 후 SB 「白貫閃」으로 적 전체 弱点看破<突>(アン・キ・ディグマ의 속성 무관 어태커). NS는 자기 버프를 모두 갖춰 땅 파티 어태커 | SS (AS) | NS S(SA), AS A(SA) |
 | 烏夜の隠密 ツバメ | [까마귀 밤의 밀정 츠바메](../characters/tsubame_alter.md) | 異時層 (SA) | 바람·권갑 | 바람 서포터 겸 어태커. 風王陣, 心技一体. SB 「燕雀猫乱舞」 30연격 | SS | SS(SA) |
 | 黒衣の刀使い(AS) | [검은 옷의 칼잡이(AS)](../characters/black_clad_swordsman_as.md) | 異時層 AS (SA) | 그림자·땅·도 | [그림자 파티](shade_party.md) 어태커. 絶・刻陰陣 | SS | S(SA) |
-| 銀織の雷使い(AS) | 은빛을 휘감은 번개술사(AS) | 異時層 AS (SA) | 번개·물·활 | 받기형 서포터 겸 어태커. SA 후 매 턴 「セキュアプロテクト」, 장기전용 | SS | S(SA) |
+| 銀織の雷使い(AS) | [은빛을 휘감은 번개술사(AS)](../characters/silver_striker_as.md) | 異時層 AS (SA) | 번개·물·활 | 받기형 서포터 겸 어태커. SA 후 매 턴 「セキュアプロテクト」, 장기전용 | SS | S(SA) |
 | ヴィクト | [빅트](../characters/victor.md) | NS (SA) | 번개·바람·도 | 번개·베기 단기전 어태커. 歴戦 상태에서 최대 16연격 | SS | SS(SA) |
 | ジルバー(AS) | [질버(AS)](../characters/zilva_as.md) | AS (SA) | 땅·무·도끼 | 「残香」으로 공격 속성을 적의 약점에 맞추는 어태커(アン・キ・ディグマ의 속성 무관 어태커). SA 「死出の途」 腕知 70% 디버프로 闇のアルターフォース 장기전 | S | S(SA) |
 | メルピピア / メルピピア(AS) | [멜피피아](../characters/melpiphia.md) / 멜피피아(AS) | NS (SA)·AS (SA) 둘 다 | 바람·검 | [바람 파티](wind_party.md) 서포터. 「未来予知・ピンチ」와 ANOTHER ZONE 시 腕知 60% 디버프로 받고, 「未来予知・チャンス」로 화력. 祈祷. SA 후 회복도 맡는다 | S (NS) | AS S(SA), NS A(SA) |

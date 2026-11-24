@@ -13,7 +13,7 @@ sources:
   - https://anothereden.game-info.wiki/d/%C8%F3%B8%F8%BC%B0%B1%A3%A4%B7%A5%DC%A5%B9%C6%F1%B0%D7%C5%D9%C9%BD (Seesaa Wiki 「非公式隠しボス難易度表」, 2026-08-11 수정본. 번개 무효·흡수 사례)
   - 사이트 데이터 ae_translation_all (용어 표기)
 created: 2026-10-21
-updated: 2026-11-22
+updated: 2026-11-23
 ---
 
 # 번개 파티 (招雷陣 편성)
@@ -97,7 +97,7 @@ SA 오보로의 天 SB는 ANOTHER ZONE을 3턴 늘리므로 3턴 안에 SB를 �
 
 ### 다른 속성에서 번개를 빌리는 편성 (베레토(AS) 문서)
 
-- 베레토(AS) · 네코코(ES) · [알마(AS)](../characters/alma_as.md) · 은빛을 휘감은 번개술사(AS): 네코코(ES)가 알마(AS)를 번개화하고, 알마(AS)의 複写 迎撃이 베레토(AS)의 「イレクトリ」를 최대 횟수로 터뜨린다. Seesaa는 "2025년 환경을 부순 원흉"이라 불렀다.
+- 베레토(AS) · 네코코(ES) · [알마(AS)](../characters/alma_as.md) · [은빛을 휘감은 번개술사(AS)](../characters/silver_striker_as.md): 네코코(ES)가 알마(AS)를 번개화하고, 알마(AS)의 複写 迎撃이 베레토(AS)의 「イレクトリ」를 최대 횟수로 터뜨린다. Seesaa는 "2025년 환경을 부순 원흉"이라 불렀다.
 - 베레토(AS) · 네코코(ES) · 이스카 · 시구레(ES): 바람 혼합.
 
 ## 버디와 장비
