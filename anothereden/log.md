@@ -1,5 +1,7 @@
 # Another Eden — 변경 기록 (append-only, 최신이 위)
 
+- 2026-11-25 | ai | characters/eva.md·raids/ketsujitsu_rakurea.md 신규, guides/manifest_weapons.md·meta_characters.md·staff_party.md, glossary.md·index.md·backlog.md | 에바 카드와 結実ラクレア 강적 문서를 쓰고 라클레어 結実 무기 이름과 보상 才珠를 채움 | Seesaa 「エヴァ」, altema 「ketuziturakurea」
+
 - 2026-11-24 | ai | guides/sougekijin_party.md 신규, guides/staff_party.md·slash_party.md, characters/hismena_es.md·flammelapis_es.md·necoco_alter.md·linaria.md, index.md·backlog.md | 双撃陣 혼성 파티 문서를 쓰고 지팡이 파티에 고답의 요묘 네코코의 臨機応変<魔> 편성과 斬魔 출장을 더함 | Seesaa 「ヒスメナ(エクストラスタイル)」·「フラムラピス(エクストラスタイル)」·「リナリア」·「高踏の妖猫」
 
 - 2026-11-23 | ai | characters/silver_striker_as.md·guides/coa_party.md 신규, guides/weapon_reforging.md·meta_characters.md·pierce_party.md·thunder_party.md·fire_party.md, characters/velette_as.md·linaria.md·anabel_es.md, glossary.md·index.md·backlog.md | 은빛을 휘감은 번개술사(AS) 카드와 COA 파티 문서를 쓰고 打ち直し 무기 桜雲·桜月·幻読·幻抉·匠俊을 더함 | Seesaa 「銀織の雷使い(アナザースタイル)」·「リナリア」·「セティー」·「レンリ」·「武器打ち直し」
