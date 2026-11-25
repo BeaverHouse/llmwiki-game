@@ -1,7 +1,7 @@
 ---
 title: 문명 밴드의 도시 (Cities of the Civilization Band)
 type: guide
-aliases: [문명 밴드의 도시, 도시, 오보르니스크, Aubornisk, 라반도르마, La Fantoma, Lavandorma, ラヴァンドマ, 라 판토마, 탈로스 성, Talos City, タロスシティ, 맛 고로도프, Mat' Gorodov, 공업 모선, Industrial Mothership, Simonch, 트리글라바, Triglava, トリグラフ, 홍산 환형산, 환형산, 홍산 크레이터, Hongshan Crater, 홍산성, 매스 드라이버, 홍산 1번 질량 가속기, Hongshan-1 Mass Driver, 대수도원, Monasterium, Great Monastery, 大修道院, 부서진 분, Shatterus, 옐시, Kjersch, イェルシェ, Morospolis]
+aliases: [문명 밴드의 도시, 도시, 오보르니스크, Aubornisk, 라반도르마, La Fantoma, Lavandorma, ラヴァンドマ, 라 판토마, 탈로스 성, Talos City, タロスシティ, 맛 고로도프, Mat' Gorodov, 공업 모선, Industrial Mothership, Simonch, 트리글라바, Triglava, トリグラフ, 홍산 환형산, 환형산, 홍산 크레이터, Hongshan Crater, 홍산성, 매스 드라이버, 홍산 1번 질량 가속기, Hongshan-1 Mass Driver, 대수도원, Monasterium, Great Monastery, 大修道院, 부서진 분, Shatterus, 옐시, Kjersch, イェルシェ, 마르스폴리스, Morospolis]
 sources:
   - https://namu.wiki/w/명일방주:%20엔드필드/등장인물%20및%20세력 (2026-10-18 수정본, CC BY-NC-SA 2.0 KR)
   - https://endfield.wiki.gg/wiki/Talos_City (2026-04-25 수정본, 한국어·일본어 표기 포함)
@@ -17,8 +17,9 @@ sources:
   - https://namu.wiki/w/스노우샤인 (파일 자료 3, 잠재능력 일러스트 설명 인용, 2026-09-29 수정본, CC BY-NC-SA 2.0 KR)
   - https://endfield.wiki.gg/wiki/Kjersch (한국어·일본어 표기, 영어 대사, 2026-04-25 수정본)
   - https://endfield.wiki.gg/wiki/Morospolis (메모 영어 텍스트, 2026-04-25 수정본)
+  - https://namu.wiki/w/케르 (파일 자료 3 한국어 텍스트, 2026-11-25 수정본, 2026-11-26 열람, CC BY-NC-SA 2.0 KR) · https://endfield.wiki.gg/wiki/Kay/File (같은 기록의 영어 텍스트, 2026-11-25 수정본)
 created: 2026-10-22
-updated: 2026-11-05
+updated: 2026-11-26
 ---
 
 # 문명 밴드의 도시
@@ -126,9 +127,9 @@ updated: 2026-11-05
 
 이 도시가 지하에 있는지는 확정되지 않았다.
 
-## Morospolis
+## 마르스폴리스
 
-영어 기록으로만 알려진 도시다. 메모 'Unfinished Review Draft'를 쓴 사람은 이곳이 고향으로, 메뉴에서 'Morospolis-style Picked Greens'를 보고 장난인 줄 알았지만 요리가 나오자 요리사가 고향 음식의 정수를 익혔음을 알았다고 쓴다. 그 요리사 '판 씨(Mr. Pan)'는 실제로 Morospolis에 가 본 적이 있었고, 둘은 그곳의 웅장한 건축과 사람들의 따뜻함을 이야기했다. 이 판 씨가 오퍼레이터 [판](../operators/da_pan.md)인지는 기록에 드러나지 않는다.
+영어 표기는 Morospolis다. 한국어 표기는 [케르](../operators/kay.md) 파일 자료 3의 무기 수리 의뢰서(에너지 진동 해머, 제조사 미에슈코 공업(마르스폴리스))에서 나왔다. 메모 'Unfinished Review Draft'를 쓴 사람은 이곳이 고향으로, 메뉴에서 'Morospolis-style Picked Greens'를 보고 장난인 줄 알았지만 요리가 나오자 요리사가 고향 음식의 정수를 익혔음을 알았다고 쓴다. 그 요리사 '판 씨(Mr. Pan)'는 실제로 Morospolis에 가 본 적이 있었고, 둘은 그곳의 웅장한 건축과 사람들의 따뜻함을 이야기했다. 이 판 씨가 오퍼레이터 [판](../operators/da_pan.md)인지는 기록에 드러나지 않는다.
 
 ## 상업연합회의 다른 자유시
 
@@ -142,7 +143,7 @@ updated: 2026-11-05
 - 알레쉬·포그라니치니크·레바테인·질베르타 기록, 장방이 컷신 대사, 중추 파일 '홍산 과학원'·'고요한 수도회'의 한국어 원문. 이 문서의 해당 인용은 영어 텍스트를 옮긴 것이다.
 - 홍산성이 환형산 안의 한 도시인지 환형산 전체를 부르는 이름인지.
 - 부서진 분을 사로잡은 원장이 플론다인지 다른 원장(영어 Mumu)인지. 한국어 대사는 '원장님'이라고만 한다.
-- Simonch, Lake Angara, Durin, Great Southern Ocean, Morospolis, Karja, 매스 드라이버, Hetonite Solution의 한국어 게임 표기.
+- Simonch, Lake Angara, Durin, Great Southern Ocean, Karja, 매스 드라이버, Hetonite Solution의 한국어 게임 표기.
 
 ## 히스토리
 
