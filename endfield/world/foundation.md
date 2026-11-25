@@ -14,7 +14,7 @@ sources:
   - https://namu.wiki/w/카뮤(명일방주:%20엔드필드) (인사 요약서 인용, 2026-10-02 수정본, CC BY-NC-SA 2.0 KR)
   - https://endfield.wiki.gg/wiki/Camille/File (인사 요약서 영어 텍스트, 2026-06-26 수정본)
 created: 2026-10-21
-updated: 2026-11-02
+updated: 2026-11-25
 ---
 
 # 파운데이션 (The Foundation)
@@ -107,7 +107,7 @@ M3는 파운데이션이 여러 분파로 나뉘어 있으며, 백여 년 전 �
 - 알레이크레오스, 엘 아이그니스, 천부장, 정체불명의 소녀의 게임 안 한국어 표기. 영어 위키는 Alleikhreos, Mysterious Girl로 적는다.
 - 중추 파일 '파운데이션'의 열람 조건.
 - 파운데이션의 '진정한 창조물'이 무엇인지. 영어 명칭 Foundite만 알려져 있고 설명은 없다.
-- Yinglung Combat Record와 그 기록 일곱 편의 한국어 제목과 본문, Shore·Stern·Macro·Amber·Benefit의 한국어 이름, 기록마다 얻는 위치. 2년 전 감시 작전의 연도는 기록에 없다.
+- Yinglung Combat Record와 그 기록 일곱 편의 한국어 제목과 본문, Macro·Amber의 한국어 이름(Shore·Stern·Benefit은 「무명검록」 대사에서 안·숙·익이다, [무릉](wuling.md#탐색)), 기록마다 얻는 위치. 2년 전 감시 작전의 연도는 기록에 없다.
 - 테라 연합 과학 탐사단이 언제 탈로스2에 왔고 어떤 단체였는지, 홍산 과학원 설립에 함께한 '연합 과학 탐사단'과 132년의 '과학 탐사단'이 같은 단체인지.
 
 ## 히스토리

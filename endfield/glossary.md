@@ -70,8 +70,7 @@ sources:
   - https://endfield.wiki.gg/wiki/Argent_Flow (2026-11-05 수정본) · Argent_Flow/File · Argent_Flow/Dialogue · Lunar_Calling · Complexed_Industry · Home_Longing (언어 칸)
   - https://www.gametoc.co.kr/news/articleView.html?idxno=112808 (우레 표기, 2026-11-06)
   - https://endfield.wiki.gg/wiki/The_Traveler's_Guide_to_Talos-II/Marker_Stone (도시 건설관·영수벽·안사원 영어 표기)
-  - https://warfarin.wiki/kr/missions · https://warfarin.wiki/en/missions (임무 이름과 설명의 한국어·영어 게임 텍스트, v1.6 데이터) · /kr/missions/sm2l9m1 · sm2l8m1 · sm2l7m1 · sm2l6m1 (한국어 대사), 2026-11-21 열람 · sm2l4m1~sm2l4m4 (전우 네 편 한국어 대사와 목표), 2026-11-22 열람 · /kr·/en/missions/sm2l4m5 · sm2l4m6 · sm2l5m1~sm2l5m3 (옛 인연과의 재회·다시 찾아온 봄 한국어·영어 대사와 목표), 2026-11-23 열람 · /kr·/en/missions/sm2l10m1~sm2l10m3 (인연 마을 임무 세 편 한국어·영어 대사와 목표), 2026-11-24 열람
-  - https://endfield.wiki.gg/wiki/Home_Beyond_Reach · Nameless_Blades_I · Nameless_Blades_II · Nameless_Blades_III (영어 임무 목표, 2026-11-22 열람)
+  - https://warfarin.wiki/kr/missions · https://warfarin.wiki/en/missions (임무 이름과 설명의 한국어·영어 게임 텍스트, v1.6 데이터) · /kr/missions/sm2l9m1 · sm2l8m1 · sm2l7m1 · sm2l6m1 (한국어 대사), 2026-11-21 열람 · sm2l4m1~sm2l4m4 (전우 네 편 한국어 대사와 목표), 2026-11-22 열람 · /kr·/en/missions/sm2l4m5 · sm2l4m6 · sm2l5m1~sm2l5m3 (옛 인연과의 재회·다시 찾아온 봄 한국어·영어 대사와 목표), 2026-11-23 열람 · /kr·/en/missions/sm2l10m1~sm2l10m3 (인연 마을 임무 세 편 한국어·영어 대사와 목표), 2026-11-24 열람 · /kr·/en/missions/gm02m7 · gm02m15 · gm02m18 · gm02m19 · gm02m21 · gm02m22 · gm02m24 · /kr/missions/gm02m8 · gm02m17 · gm02m27 (탐색 임무 한국어·영어 대사와 목표), 2026-11-25 열람
   - https://namu.wiki/w/명일방주:%20엔드필드/장비
   - https://endfield.wiki.gg/wiki/Gear
   - https://namu.wiki/w/명일방주:%20엔드필드/무기
@@ -127,7 +126,7 @@ sources:
   - https://endfield.gryphline.com/ko-kr/news/0753 (공식 만화 <약속> 공지)
   - https://namu.wiki/w/명일방주:%20엔드필드/스토리 (이벤트 스토리 제목, 2026-11-03 수정본, CC BY-NC-SA 2.0 KR) · 이벤트별 endfield.wiki.gg 문서는 world/event_stories.md sources 참고
 created: 2026-10-12
-updated: 2026-11-24
+updated: 2026-11-25
 ---
 
 # 엔드필드 고유명사 표기 (ko/en/ja)
@@ -369,10 +368,14 @@ updated: 2026-11-24
 | 샘의 나그네(1)~(3) | Patron of the Spring I~III | — | 2차 | 선조의 샘 사이드 임무 |
 | 검이 숨겨진 골짜기 | Deep Vaulted Steel | — | 2차 | 장검 골짜기 사이드 임무 |
 | 유적 검 기둥 | Ancient Sword Stele | — | 2차 | 장검 골짜기의 장치 세 곳 |
+| 골짜기의 검 기둥 | Cliffside Riddles of Steel | — | 2차 | 장검 골짜기 절벽 위 유적을 조사하는 탐색 임무 |
+| 경 / 세 / 인 | Strength / Momentum / Resilience | — | 2차 | 선검국의 세 가지 훈계. 「골짜기의 검 기둥」 |
 | 천사장 문서 기록관 / 천사장 연구소 | — | — | 미확인 | 수명의 구역 |
 | 귀환의 종소리 | Bell of Recollection | — | 2차 | 수명을 여는 탐색 임무. 나무위키 연표의 「기억의 종소리」 |
 | 알림종 | Waking Bell | — | 2차 | 수명성의 공공 경보 종 |
-| 삼도종 | Bell of Three Presences | — | 2차 | 상진이 고치려는 종. 알림종과 같은 종인지 미확인 |
+| 삼도종 | Bell of Three Presences | — | 2차 | 상진이 지키는 무릉성의 고대 종. 알림종은 여소귀 이야기 속 수명성의 종(「귀환의 종소리」 대사) |
+| 시민 광장 | Citizen Square | — | 2차 | 무릉성의 광장. ko는 「귀환의 종소리」 임무 목표 |
+| 모서 | — | — | 미확인 | 삼도종에 식양을 공급하는 천사. 「종이 세 번 울릴 때」 |
 | 종이 세 번 울릴 때 | The Bell Tolls | — | 2차 | 삼도종의 룬 부품에 식양을 넣는 임무 |
 | 달이 가고 해가 오리라 | Long Night Breaking into Day | — | 2차 | 북쪽 금지 구역 부가 임무. 여풍 부모의 유품 |
 | 슬픔은 늘 소리 없이 찾아온다 | Sorrow Sings in Silence | — | 2차 | 북쪽 금지 구역 부가 임무. 나무위키 연표의 「침묵 속에 울려 퍼지는 슬픔」 |
@@ -382,8 +385,13 @@ updated: 2026-11-24
 | 무명검록(1)~(3) | Nameless Blades I~III | — | 2차 | 나무위키 연표의 「무명의 칼날」 |
 | 과거의 보물 | Treasures of the Past | — | 2차 | 북쪽 금지 구역 탐색 임무 |
 | 돌아갈 길이 없다 | Home Beyond Reach | — | 2차 | 응룡 관문에서 응룡 대원이 의뢰하는 임무. 나무위키 연표의 「닿을 수 없는 고향」 |
-| — | Frigid / Brightfire | — | 미확인 | 「돌아갈 길이 없다」에 나오는 인물 |
-| — | Yinglung War Case | — | 미확인 | 「무명검록」에서 찾는 응룡의 상자 |
+| 령 / 조 | Frigid / Brightfire | — | 2차 | 응룡 대원. 령은 벌레굴 담당, 조는 탐사 담당. 「돌아갈 길이 없다」 |
+| 구체원석충 / 벌레굴 | Globular Originium Slug / slug tunnel | — | 2차 | 응룡 관문의 원석충과 그 굴 |
+| 봉수장 | Balepyre Tower | — | 2차 | 응룡 관문의 시설. 「돌아갈 길이 없다」 |
+| 응룡 전갑 | Yinglung War Case | — | 2차 | 생체 정보·이동 경로를 기록하는 응룡 장비. 「무명검록」 |
+| 응룡장 | Yinglung Pillar | — | 2차 | 주변에 침식 안개가 닿지 않게 하는 응룡의 기둥 |
+| 언녕 | Yan Ning | — | 2차 | 「무명검록」(2)·「내 손안의 구세주」의 인물. 언(Phrase)과 다른 사람 |
+| 안 / 숙 / 익 | Shore / Stern / Benefit | — | 2차 | 2년 전 감시 작전의 응룡 팀장. ko는 「무명검록」 대사 |
 | 절벽 아래 활터 | Cliffbottom Archery Range | 崖の下の射場 | 2차 | 티프로스 궁술 훈련 시설을 여는 임무 |
 | 사의 그림 | Si's Painting | — | 2차 | [사의 그림](content/si_painting.md) |
 | 식양 | Xiranite | 息壌 | 2차 | zh 息壤. 장방이가 이끄는 신재료 |
@@ -1231,6 +1239,10 @@ updated: 2026-11-24
 | 한입의 유람 | Spoon Swimmer | — | 2차 | 까막이의 알로 만드는 객잔 간판 요리(달걀찜) |
 | 완청 연못 | Cleansing Pool | — | 2차 | 그림 속 연못 |
 | 융미초 / 임중황 | Flufftail Herb / Amberstalk | — | 2차 | 한입의 유람 양념 재료 |
+| 곳곳에 숨은 기이한 이야기 | Miscellanies on Rampage | — | 2차 | 사의 기이한 이야기 책(miscellany)을 되찾는 탐색 임무 |
+| 영롱굴 / 고필 봉우리 | Linglong Grotto / Drybrush Peak | — | 2차 | 그림 속 장소 |
+| 술 호리병 | Kohlabash | — | 2차 | 열두 시진 축배를 읊는 호리병 |
+| 적 천사 / 청 천사 | Tianshi Cinnabar / Tianshi Cyan | — | 2차 | 그림에 물건을 남긴 천사 자매 |
 | 잠룡 계곡 | Deeplung Gorge | — | 2차 | 사의 무협 소설 속 결전 장소. 그림 속에 있다 |
 | — | Chivalric Tales of the Mystic Flow | — | 미확인 | 사가 쓰다 만 무협 소설. 한국어 대사에서 제목이 빠져 보인다 |
 | 연비 / 강자혁 / 청우 | Yan Mingfei / Jiang Ziliu / Qing Yu | — | 2차 | 소설의 정파 대협·마교 교주·둘의 친구 |
@@ -1239,7 +1251,9 @@ updated: 2026-11-24
 | 명천 | Ming Quan | — | 2차 | 천사장에 반한 치창. 「이루어지지 못한 사랑」 |
 | 정 천사 | Tianshi Zhang | — | 2차 | 무릉성 선검국의 천사 |
 | 매윤 / 적가예 | Mei Yun / Zhai Jiali | — | 2차 | 「이루어지지 못한 사랑」의 용의자 |
-| 출사의 세 검 | Three Swords of Mastery | — | 2차 | 선검국 제자가 천사가 되려고 통과하는 시험 |
+| 스승을 떠나는 세 자루의 검 / 출사의 세 검 | Three Swords of Mastery | — | 2차 | 선검국 수료식이자 같은 이름의 탐색 임무. 뒤의 이름은 「이루어지지 못한 사랑」 대사 |
+| 힘 / 형세 / 인내 / 의지 | Jin / Shi / Ren / Yi | — | 2차 | 수료식의 네 단계가 상징하는 것 |
+| 석정 | Tin Ingot | — | 2차 | 수료식을 치르는 선검국 제자 |
 | 검 기둥 | sword pell | — | 2차 | 선검국 안의 수련 기둥 |
 | 홍산 행운 보관함 | Hongyun Express Station | — | 2차 | 선검국 1층의 소포 보관함 |
 | 대박 행운권 | Fortune Connect-and-Win | — | 2차 | 무릉의 긁는 복권 |
@@ -1342,6 +1356,7 @@ updated: 2026-11-24
 
 ## 히스토리
 
+- 2026-11-25: 무명검록·돌아갈 길이 없다·골짜기의 검 기둥·세 자루의 검·기이한 이야기 임무의 인물·장소 표기 추가. Frigid·Brightfire·Yinglung War Case의 한국어 짝을 대사로 확인하고 언녕과 언을 다른 사람으로 정리.
 - 2026-11-24: 인연 마을 임무 세 편의 인물·장소·요리 표기 추가. 소하장을 소화 마을로, 위티를 꾸러기로 바로잡고 드래곤 버블의 영어 짝 Chubby Lung을 대사로 확인.
 - 2026-11-23: 「옛 인연과의 재회」·「다시 찾아온 봄」의 임무·인물·장소 표기 추가. 해묵·묵량·정수 노드·사세대의 영어 짝을 임무 대사로 확인.
 - 2026-11-22: 강 천사·능월, 돌아갈 길이 없다·무명검록의 영어 이름 추가. 영수벽 위치를 한국어 임무 목표로 확정.
