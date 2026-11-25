@@ -4,17 +4,18 @@
 
 ## 다음 작업
 
+- 케이(Kay) 오퍼레이터 문서 | operators/kay.md | 1.7 신규 한정 6성(자연 속성 뱅가드, 장병기, 전용 무기 Sweet Deal). 11-26 배너 시작. 슬러그는 출시 뒤 나무위키·endfield.wiki.gg 표기를 보고 정한다. 스킬 배율이 채워진 뒤 쓴다 | 나무위키, endfield.wiki.gg, Prydwen 배너 일정
 - 명하 이벤트 스토리 Back to the Rustics | world/event_stories.md | 이벤트 스토리 문서에 1.6 이야기만 빠짐. 하위 임무 풀숲을 헤치며(Parting Grass) → 불을 지피리라(Kindling the Fire) → 가지를 찾아서(Seeking the Branch), Pan'an 마을과 Mu Xing, 사가 명하를 미션 제로에 끌어들인 경위. 이야기 전체의 한국어 제목은 아직 못 찾음. 이벤트가 끝난 뒤(11-26) 대사가 채워지면 쓴다 | 나무위키 스토리 문서, endfield.wiki.gg Argent_Flow/Story·각 하위 임무 문서, warfarin.wiki 한국어 스토리 리더
-- 운명의 계시 대사 | world/event_stories.md | 동굴에서 알게 되는 제사장의 선택이 빠져 임무 목표만 적음. 임무 대사 문서 번호를 찾아야 함. sm2l9m1~m3은 생의 마지막까지, sm2l9m0·m4·sm2l11m1·sm2l4m7은 없는 문서, sm2l10m1~m3은 인연 마을 임무. 한국어 스토리 리더 목록에는 이름만 있고 설명이 비어 있다 | warfarin.wiki 한국어 스토리 리더, endfield.wiki.gg Illumination_of_Fate(대사 없음)
-- 「무명검록」(1)~(3)·「돌아갈 길이 없다」 한국어 대사 | world/wuling.md | 영어 임무 목표로만 적음. 무명검록의 지역, Yan Ning과 언의 관계, Frigid·Brightfire의 한국어 이름이 대사에 있을 것. 스토리 리더 목록에서 Secondary 분류라 sm2l 번호 체계가 아닐 수 있고, 무명검록은 목록에 설명이 비어 있다 | warfarin.wiki 한국어 스토리 리더, endfield.wiki.gg
-- 「곳곳에 숨은 기이한 이야기」 줄거리 | content/si_painting.md 인연 마을 임무 | 사가 모은 기이한 이야기 책이 상자에서 달아나 괄괄이가 되찾아 달라고 하는 임무. 인연 마을 일꾼이 나오는 남은 임무 | warfarin.wiki 한국어 스토리 리더(Secondary 분류, 대사 문서 번호는 아직 모름)
-- 「스승을 떠나는 세 자루의 검」 줄거리 | world/factions.md 선검국 | 선검국 제자 석정이 검 기둥을 세워 수료식을 마치는 임무. 「이루어지지 못한 사랑」에 나온 출사의 세 검과 이어진다 | warfarin.wiki 한국어 스토리 리더(Secondary 분류)
+- 「침식의 그림자 관찰 일지」·「과거의 보물」 줄거리 | world/wuling.md 북쪽 금지 구역 | 탐색 절에 이름만 있음. 천사 하지가 협동하는 침식의 그림자를 관찰하는 임무와, 낙안이 대균열 실험팀의 10년 전 원시 데이터 백업 세 개를 찾는 임무. 둘 다 낙안의 점괘가 이어진다 | warfarin.wiki/kr·en/missions/gm02m20 · gm02m23
+- 「내 손안의 구세주」(1)~(3) 줄거리와 언녕 | world/wuling.md | 무명검록(2)의 언녕이 천사부 학원에서 의뢰하는 임무. 언녕의 소속을 밝힐 수 있을지 확인 | warfarin.wiki 한국어 스토리 리더(무릉 탐색·서브 임무 대사는 gm02m{N} 번호. 사이트맵 /sitemap/kr.xml에 전체 목록이 있고, 이 임무 번호는 아직 열어 보지 않음)
 
 ## 확인 필요
 
 [AGENTS.md](../AGENTS.md) 6절에 맞는 질문만 둔다.
 
 ## 완료
+
+- 2026-11-25: world/event_stories.md 운명의 계시(gm02m22 한국어·영어 대사), world/wuling.md 무명검록(1)~(3)(gm02m17~m19)·돌아갈 길이 없다(gm02m21)를 한국어 대사로 다시 쓰고 골짜기의 검 기둥(gm02m15)·귀환의 종소리 대사(gm02m27)·종이 세 번 울릴 때(gm02m8) 추가, content/si_painting.md 「곳곳에 숨은 기이한 이야기」(gm02m24), world/factions.md 수료식 「스승을 떠나는 세 자루의 검」(gm02m7)과 세 훈계, glossary.md 표기. 무릉 탐색·서브 임무 대사 문서가 sm2l이 아닌 gm02m{N} 번호임을 사이트맵에서 찾음. 언녕(Yan Ning)과 언(Phrase)은 다른 사람이고, Shore·Stern·Benefit의 한국어 이름은 안·숙·익, Frigid·Brightfire는 령·조. 삼도종은 무릉성의 종, 알림종은 이야기 속 수명성의 종으로 정리하고 Citizen Square를 시민 광장으로 확정. 경·세·인(Strength, Momentum, Resilience)과 수료식의 힘·형세·인내(Jin, Shi, Ren)는 영어가 달라 같은 말로 묶지 않음. 명하 이야기는 이벤트가 11-26에 끝나 남김. 케이(1.7, 11-26 출시)는 아직 나오지 않아 쓰지 않음
 
 - 2026-11-24: content/si_painting.md 인연 마을 임무 세 편(「이루어지지 못한 사랑」 「다시 이어지는 인연」 「기념일」, sm2l10m1~m3 한국어·영어 대사), world/factions.md 무릉성 선검국 시설, glossary.md 인물·장소·요리 표기. 2장 VIII의 소하장·위티·잉크 정령을 대사의 짝(Xiaohe Manor = 소화 마을, Witty = 꾸러기, Ink Spirit = 묵량)으로 고침. 찻주전자와 명천이 같다는 것은 대사가 밝히지 않아 확인하지 못한 것으로 둠. 소설의 한국어 제목은 대사에서 빠져 있어 영어로만 적음. 삼도종 질문은 기한(11-23)이 지나 기본값대로 두 이름을 따로 적어 둔 채 닫음. 운명의 계시·무명검록은 대사 문서 번호를 못 찾아 남김. 명하 이야기는 이벤트가 11-26에 끝나 남김
 

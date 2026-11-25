@@ -1,7 +1,7 @@
 ---
 title: 무릉 (Wuling)
 type: guide
-aliases: [무릉, Wuling, 武陵, 무릉 과학 개발 구역, 무릉성, 무릉 대균열, 청파채, 수돈, 응룡 관문, 응룡 특수부대, Yinglung Special Task Force, 봉, Summit, 언, Phrase, 북쪽 금지 구역, North Wuling Exclusion Zone, 담검당, Tanjian Hall, 축 교관, Instructor Zhu, 진뢰, Blitzcrash, 창적, Cangzei Pirates, 이당가, Ruan Lin, 장검 골짜기, Sword Vault Dale, Deep Vaulted Steel, 침식 안개, Blight Miasma, 메인 스토리 2장, 수명, Suiming, 遂明, 여소귀, Yu Shigui, Bell of Recollection, Waking Bell, 선조의 샘, Ancestral Spring, Patron of the Spring, Du Ming, Marker Stone, 首礎, 수돈 내부, Marker Stone Interiors, 잔영, Æthillu, 원 천사, Tianshi Ruan, 무릉성 순찰대, Wuling Watchguards, 가반, Jia Ban, 철묘, Iron Boatswain, 수구, Rusty Hook, 도시 건설관, Urban Development Hall, 영수벽, Eternal Wall, 안사원, Serenity Garden, 공적비, Merit Stones, 귀환의 종소리, 기억의 종소리, 상진, Shang Jin, 알림종, 삼도종, Bell of Three Presences, 검이 숨겨진 골짜기, 연효무, Lian Xiaowu, 월턴, Walton, 유적 검 기둥, Ancient Sword Stele, 샘의 나그네, 두명, Du Ming, 슬픔은 늘 소리 없이 찾아온다, 침묵 속에 울려 퍼지는 슬픔, 무명검록, 무명의 칼날, Nameless Blades, 돌아갈 길이 없다, 닿을 수 없는 고향, Home Beyond Reach, 전우, Comrades, 강정구, 강정무, 강 천사, 능월, 옛 인연과의 재회, Old Acquaintance, 해묵, Xi Mo, 심교아, Shen Jiao'e, 실험 구역, Test Area, 다시 찾아온 봄, Spring's Return, 육령향, Lu Lingxiang, C형 천사장, Type-C Tianshi Pillar, C형 보조 기둥, Type-C Auxiliary Pillar, 기계 핵심 모듈, 경위 논밭, Meridian Grids, 정수 노드, Purification Node]
+aliases: [무릉, Wuling, 武陵, 무릉 과학 개발 구역, 무릉성, 무릉 대균열, 청파채, 수돈, 응룡 관문, 응룡 특수부대, Yinglung Special Task Force, 봉, Summit, 언, Phrase, 북쪽 금지 구역, North Wuling Exclusion Zone, 담검당, Tanjian Hall, 축 교관, Instructor Zhu, 진뢰, Blitzcrash, 창적, Cangzei Pirates, 이당가, Ruan Lin, 장검 골짜기, Sword Vault Dale, Deep Vaulted Steel, 침식 안개, Blight Miasma, 메인 스토리 2장, 수명, Suiming, 遂明, 여소귀, Yu Shigui, Bell of Recollection, Waking Bell, 선조의 샘, Ancestral Spring, Patron of the Spring, Du Ming, Marker Stone, 首礎, 수돈 내부, Marker Stone Interiors, 잔영, Æthillu, 원 천사, Tianshi Ruan, 무릉성 순찰대, Wuling Watchguards, 가반, Jia Ban, 철묘, Iron Boatswain, 수구, Rusty Hook, 도시 건설관, Urban Development Hall, 영수벽, Eternal Wall, 안사원, Serenity Garden, 공적비, Merit Stones, 귀환의 종소리, 기억의 종소리, 상진, Shang Jin, 알림종, 삼도종, Bell of Three Presences, 검이 숨겨진 골짜기, 연효무, Lian Xiaowu, 월턴, Walton, 유적 검 기둥, Ancient Sword Stele, 샘의 나그네, 두명, Du Ming, 슬픔은 늘 소리 없이 찾아온다, 침묵 속에 울려 퍼지는 슬픔, 무명검록, 무명의 칼날, Nameless Blades, 돌아갈 길이 없다, 닿을 수 없는 고향, Home Beyond Reach, 전우, Comrades, 강정구, 강정무, 강 천사, 능월, 옛 인연과의 재회, Old Acquaintance, 해묵, Xi Mo, 심교아, Shen Jiao'e, 실험 구역, Test Area, 다시 찾아온 봄, Spring's Return, 육령향, Lu Lingxiang, C형 천사장, Type-C Tianshi Pillar, C형 보조 기둥, Type-C Auxiliary Pillar, 기계 핵심 모듈, 경위 논밭, Meridian Grids, 정수 노드, Purification Node, 언녕, Yan Ning, 응룡 전갑, Yinglung War Case, 조, Brightfire, 령, Frigid, 구체원석충, 봉수장, Balepyre Tower, 골짜기의 검 기둥, Cliffside Riddles of Steel, 모서, 시민 광장, Citizen Square]
 sources:
   - https://namu.wiki/w/명일방주:%20엔드필드/지역 (수명·장검 골짜기·수돈 문단 포함, 2026-11-03 수정본, 2026-11-04 열람, CC BY-NC-SA 2.0 KR)
   - https://namu.wiki/w/명일방주:%20엔드필드/등장인물%20및%20세력 (청파채·봉·수구와 철묘 문단 포함, 2026-10-25 수정본, 2026-11-05 열람, CC BY-NC-SA 2.0 KR)
@@ -27,7 +27,8 @@ sources:
   - https://warfarin.wiki/kr/missions · https://warfarin.wiki/en/missions (한국어·영어 임무 목록과 설명, v1.6 데이터, 2026-11-21 열람)
   - https://warfarin.wiki/kr/missions/sm2l8m1 (달이 가고 해가 오리라) · sm2l7m1 (슬픔은 늘 소리 없이 찾아온다) · sm2l6m1 (검이 숨겨진 골짜기) 한국어 대사, 2026-11-21 열람 · sm2l4m1~sm2l4m4 (전우 · 무명/추억/기념/내일) 한국어 대사와 목표, 2026-11-22 열람 · sm2l4m5·sm2l4m6 (옛 인연과의 재회(1)(2)) · sm2l5m1~sm2l5m3 (다시 찾아온 봄(1)~(3)) 한국어 대사와 목표, 2026-11-23 열람
   - https://warfarin.wiki/en/missions/sm2l4m5 · sm2l4m6 · sm2l5m1 · sm2l5m3 (같은 임무의 영어 이름과 대사, 2026-11-23 열람)
-  - https://endfield.wiki.gg/wiki/Home_Beyond_Reach (2026-08-30 수정본) · Nameless_Blades_I · Nameless_Blades_II · Nameless_Blades_III (2026-09-05 수정본), 영어 임무 목표, 2026-11-22 열람
+  - https://warfarin.wiki/kr/missions/gm02m17 · gm02m18 · gm02m19 (무명검록(1)~(3)) · gm02m21 (돌아갈 길이 없다) · gm02m15 (골짜기의 검 기둥) · gm02m27 (귀환의 종소리) · gm02m8 (종이 세 번 울릴 때) 한국어 대사와 목표, /en/missions/gm02m15 · gm02m18 · gm02m19 · gm02m21 영어 대사, v1.6 데이터, 2026-11-25 열람
+  - https://endfield.wiki.gg/wiki/Nameless_Blades_III (2026-09-05 수정본, 영어 임무 목표와 감시 작전 보고서, 2026-11-22 열람)
   - https://endfield.wiki.gg/wiki/North_Wuling_Exclusion_Zone (2026-10-19 수정본)
   - https://endfield.wiki.gg/wiki/Nexus_Files:_North_Wuling_Exclusion_Zone
   - https://endfield.wiki.gg/wiki/Blight (구획별 침식 심도)
@@ -44,7 +45,7 @@ sources:
   - https://gamewith.net/akendfield/73207 (영문 챕터명)
   - https://appmedia.jp/?p=79690247 (일본어 지명)
 created: 2026-10-18
-updated: 2026-11-23
+updated: 2026-11-25
 ---
 
 # 무릉 (Wuling)
@@ -83,7 +84,7 @@ updated: 2026-11-23
 |---|---|---|
 | 결 | Arcane | 행동 대장. 장방이는 결을 지금 무릉에서 복무하는 최연소 Major이자 응룡의 최연소 행동 대장으로 소개한다(영어 텍스트) |
 | 봉 | Summit | 결 휘하 대원. 결은 봉의 장점으로 지휘력을 꼽는다. 본명 심교아는 「옛 인연과의 재회」(2)에서 직접 밝힌다([옛 인연과의 재회](#옛-인연과의-재회)) |
-| 언 | Phrase | 대원. 결이 중포를 쓰게 된 내력을 이야기한다([결](../operators/arcane.md#배경)). 결은 언의 장점으로 전투력을 꼽는다. 대균열 봉쇄 작전에 참가했다 |
+| 언 | Phrase | 결 대장의 직속 대원. 결이 중포를 쓰게 된 내력을 이야기한다([결](../operators/arcane.md#배경)). 결은 언의 장점으로 전투력을 꼽는다. 대균열 봉쇄 작전에 참가했다. 2년 전에는 안 대장의 소대원이었지만 대규모 탐사 작전 직전 중상으로 빠졌다([무명검록](#탐색)) |
 
 결은 봉과 언이 서로 부족한 점을 채워 줄 수 있으니 언젠가 둘 중 하나가 자기 자리를 이어받을지도 모른다고 말한다(신뢰 대화 2).
 
@@ -94,9 +95,15 @@ updated: 2026-11-23
 | Overflow | Xiranflow Cloudseeder Station 지원에 배치된 대원 |
 | Hillock (고인) | 북쪽 금지 구역에 안전 구역을 만들다 죽었다. 쓰러지기 전에 좌표를 축 교관에게 보냈고, 진천우가 무릉을 떠나고 두 달 뒤였다(2장 Ⅶ 결의 대사) |
 | Mansion, Wrought (고인) | 2장 Ⅶ 「A Past Shared by the Swordmancers」에 나온다 |
-| Shore, Stern, Macro, Amber, Benefit (고인) | 2년 전 금지 구역 감시 작전에 나선 다섯 팀과 그 팀장의 이름. Shore 팀이 알레이크레오스의 검을 처음 찾았고, 다섯 팀 모두 돌아오지 못했다([파운데이션](foundation.md#알레이크레오스의-검)) |
+| Shore, Stern, Macro, Amber, Benefit (고인) | 2년 전 금지 구역 감시 작전에 나선 다섯 팀과 그 팀장의 이름. Shore 팀이 알레이크레오스의 검을 처음 찾았고, 다섯 팀 모두 돌아오지 못했다([파운데이션](foundation.md#알레이크레오스의-검)). 「무명검록」 한국어 대사는 Shore를 안 대장, Stern을 숙, Benefit을 익으로 적는다 |
 
-응룡 관문에는 부가 임무 「돌아갈 길이 없다」(Home Beyond Reach)가 있다. 2장 Ⅶ을 마치면 열리고, 한국어 설명은 "한 응룡 대원이 무언가 고민에 빠진 듯하다"이다. 영어 임무 목표로는 폐허에서 공 모양 오리지늄 슬러그(Globular Originium Slug) 다섯 마리를 슬러그 굴에 차 넣고, 굴에서 자꾸 튀어나오는 슬러그 한 마리를 Frigid에게 가져가 살핀 뒤, Brightfire에게 슬러그의 이동을 묻는다.
+응룡 관문에는 부가 임무 「돌아갈 길이 없다」(Home Beyond Reach)가 있다. 2장 Ⅶ을 마치면 열린다.
+
+- 북쪽 금지 구역의 안개 때문에 응룡 관문에서는 생물이 살기 힘들지만, 관문을 세운 뒤 금지 구역 가장자리에서 버티던 구체원석충(Globular Originium Slug) 몇 마리가 관문 안으로 들어왔다. 원석충이 아무 데나 굴을 파면 봉수장(Balepyre Tower) 작동에 지장이 생길 수 있어, 응룡은 벌레굴 몇 곳을 만들고 담당자를 두어 10년 동안 함께 지내 왔다. 원석충이 지나가면 그 지역 생물의 활력이 오른다는 말도 있어, 대원들은 원석충을 다른 생물이 금지 구역으로 돌아오게 할 희망으로 여긴다.
+- 탐사 임무를 주로 맡는 대원 조(Brightfire)가 길 잃은 원석충을 벌레굴로 차 넣어 달라고 부탁한다. 원석충은 차여서 구르는 것을 좋아하고, 굴러야 껍데기 구멍에 낀 흙과 자갈이 빠진다. 다섯 번째 원석충이 굴에서 비축물과 함께 튕겨 나오자, 조는 벌레굴 담당인 대원 령(Frigid)에게 데려가 보라고 한다.
+- 령은 표식을 보고 그 원석충이 응룡 관문 반대편 무리의 것이라고 알아본다. 원석충 무리는 영역이 있어 서로 겹치는 것을 싫어하고, 구체원석충은 혼자서는 먼 거리를 움직이기 힘들다.
+- 조는 아침에 원석충이 동료를 찾는 줄 알고 여러 무리의 원석충을 한데 모았다. 원석충은 구르고 부딪히며 페로몬을 퍼뜨려 길과 먹이를 찾고, 다른 생물이 물을 찾고 오리지늄 덩이를 피하도록 돕는다. 무리가 섞이자 페로몬이 뒤엉켜 모두 집을 잃었다. 조는 령의 원석충 교육 날 금지 구역 탐사 계획서를 쓰느라 그 대목을 놓쳤다.
+- 원석충은 구르면서 길에 있는 것을 쓸어 담았다가 벌레굴에서 필요 없는 것을 밀어낸다. 령은 이것을 '자연의 보답'이라 부르고, 구체원석충을 만나면 움직이도록 도와주라고 한다.
 
 #### 암실의 유품 상자
 
@@ -275,6 +282,17 @@ C형 천사장(Type-C Tianshi Pillar)과 그것을 보조하는 C형 보조 기�
 3. 유적 검 기둥 세 곳의 장치를 차례로 푼다. 가는 길에 무리에게 괴롭힘당하던 작은 붉은 록하울러 똘똘이(Smartie)를 구해 함께 가고, 숨어 있던 월턴(Walton)을 찾아 사정을 묻는다. 월턴은 자신을 탈로스 II 상업연합회에 등록된 고고학자 헨리 월턴이라 소개하고, [문명 보존 협정](yan.md#장검-골짜기의-비밀-금고)의 컬럼비아 전권 대표 인디 월턴 박사의 증손자라고 말한다.
 4. 골짜기 바닥의 염국 금고 앞을 막은 거대한 록하울러를 쓰러뜨리고 금고에 들어가, 테라 사람들이 탈로스2 사람들에게 남긴 유물을 본다. '적소'(Chi Xiao)를 검색한 결과를 확인하고 나와 연효무와 월턴에게 발견한 것을 전한다.
 
+### 골짜기의 검 기둥
+
+탐색 임무 「골짜기의 검 기둥」(Cliffside Riddles of Steel)에서는 다친 데가 아직 낫지 않은 월턴이 관리자와 진천우에게 근처 절벽 위의 검 관련 유적을 조사하고 사진을 찍어 달라고 부탁한다. 연효무도 관심을 보였지만 일 때문에 자리를 비운 곳이다. 똘똘이가 먼저 올라가 로프를 내려 준다.
+
+- 첫 비석에는 비밀 창고를 지을 때 현자 세 사람이 이곳에서 검을 두고 토론했고 후세가 보도록 기록을 남겼다고 적혀 있다.
+- 검 기둥 세 곳에 세 사람의 말이 있다. 염국 병부의 선배는 '경'(Strength)이 검의 혼이며 검의 위력을 정한다고 했다. 사세대의 지촉인은 검을 쓰는 비법이 '세'(Momentum)에 있다고 했다. 한 천사는 '인'(Resilience), 곧 강인함을 강조했다.
+- 진천우는 경·세·인이 선검국에서 검을 만들 때의 비법과 똑같다며, 백 년 전에도 이런 이야기가 오갔다는 것을 연효무도 몰랐을 거라고 말한다. 똘똘이가 있던 높은 곳에서 검 기둥 셋과 똘똘이를 한 장에 찍는다.
+- 월턴은 이곳이 선검국의 세 가지 훈계 경·세·인의 출처일 거라고 하고, 성과를 정리해 발표하며 관리자와 진천우를 제2·제3 저자로 올리겠다고 한다. 연효무에게는 무료로 넘기겠다고 한다. 할아버지에게서 컬럼비아라는 '고향' 이야기를 듣고 자라 컬럼비아가 마음속 소원이 됐고, 염국이 이 골짜기에 남긴 것 덕분에 컬럼비아와 테라가 더 생생해졌다고 말한다. 이 성과로 홍산 과학원과 협력하면 고고학 작업 허가도 받기 쉬워진다고 덧붙이고, 비밀 창고에서 랭크우드 옛 영화에 실린 트리마운츠 파울비스트 튀김 조리법을 찾았다며 기뻐한다.
+
+선검국의 수료식과 세 훈계는 [세력](factions.md#선검국)에 있다.
+
 ## 북쪽 금지 구역
 
 북쪽 금지 구역(North Wuling Exclusion Zone)은 옛 무릉 연구 기지 자리다. 연구 기지 주변에는 학교, 병원, 담검당이 있는 작은 마을이 있었다. 142년 대재앙 뒤 홍산 과학원이 수색·구조에 인력과 자원을 쏟았지만 살아남은 사람은 몇 명뿐이었다. 과학원은 응급 대응 전력을 모두 동원해 재앙을 응룡 관문 안쪽에 가두고 연구 기지 전역을 봉쇄했으며, 응룡 특수부대를 응룡 관문에 장기 주둔시켰다. 무릉성이 완성된 뒤에는 천사장 배열 같은 식양 기술 시설로 이곳의 침식 이상 현상을 억누르는 체계를 새로 세웠다. 봉쇄 초기 문명 밴드에서는 홍산 과학원이 무릉을 통째로 포기하지 않을까 하는 의문이 나왔고, 과학원 안에도 그쪽으로 기운 목소리가 있었다.
@@ -290,7 +308,11 @@ C형 천사장(Type-C Tianshi Pillar)과 그것을 보조하는 C형 보조 기�
 - 자원: 적동 광맥, 식양 기체·비활성 기체 간헐천. 희귀 채집물은 크리소덴드라, 붉은 창 잎, 일반 흑암석(Auronyx), 프로토콜 문양석이다. 붉은 창 잎과 프로토콜 문양석은 1.4 기준 이곳에만 있었다([육성 재료](../systems/materials.md)).
 - 전투: 에너지 응집점, 알레이크레오스 재도전(RE-Crisis), 그림자에 물든 진뢰 위기 파편([프로토콜 공간](../content/protocol_space.md)).
 - 부가 임무 「달이 가고 해가 오리라」(Long Night Breaking into Day) 「슬픔은 늘 소리 없이 찾아온다」(Sorrow Sings in Silence), 탐색 임무 「침식의 그림자 관찰 일지」 「균열 봉합 지대」 「무명검록」(1)~(3)(Nameless Blades I~III) 「과거의 보물」(Treasures of the Past)이 있다.
-- 무명검록(1)~(3)(영어 임무 목표만 확인): (1) 고민하는 응룡 대원 [언](#대원)의 부탁으로 표시된 곳을 스캔해 잃어버린 물건을 찾고, Yinglung War Case에서 나온 데이터를 언에게 알린다. (2) Yan Ning의 메시지를 받고 표시된 곳에서 Yinglung War Case와 부서진 응룡장(Yinglung Pillar)을 찾으며, 부유식 회수기 II를 만든다. (3) 언과 단서를 맞춰 칼자국이 남은 보급품과 Yinglung War Case를 찾고 부유식 회수기 III을 만든다. 정보 문서 보관소에서 정보 부서가 제4차 대규모 감시 작전(Major Surveillance Op 4)의 전 과정을 분석·재현한 보고서를 연다. 임무 설명은 이 정보가 응룡에게 아주 뜻깊다고 적고, 관리자는 사본을 언에게 보낸다. 이 작전은 Shore 등 [다섯 팀의 감시 작전](foundation.md#알레이크레오스의-검)과 기록 이름이 같다. 부유식 회수기는 [개인 장치](../systems/personal_device.md)에 있다.
+- 무명검록(1)~(3): 금지 구역에 남은 응룡 선배들의 유품을 찾는 임무다. 부유식 회수기는 [개인 장치](../systems/personal_device.md)에 있다.
+  - (1) 표정이 굳은 대원 [언](#대원)이 선배들의 유품 응룡 전갑(Yinglung War Case)을 회수하는 임무를 받았지만, 금지 구역이 아직 위험하고 인력이 모자라 미뤄 두고 있다. 응룡 전갑에는 생체 정보, 이동 경로, 당시 겪은 위기가 기록된다. 금지 구역의 물건은 침식 안개에 조금씩 오염돼 있어 전문 팀과 장비가 있어야 회수할 수 있다. 관리자가 부유식 회수기로 돕겠다고 하고, 전갑의 저장 칩에서 응룡의 작전 기록과 편지가 나온다. 언은 수많은 동료를 잃은 금지 구역 작전의 기록이라며, 실종된 선배들의 행방을 밝힐 진실이 있을지 모른다고 말한다.
+  - (2) 언녕(Yan Ning)이 관리자를 부른다. 응룡의 탐사 임무는 보통 담검당 근처에서 끝났는데, 응룡도 좀처럼 들어가지 못하던 더 깊은 곳까지 응룡장(Yinglung Pillar)이 늘어서 있다. 응룡장들은 당분간 그대로 두고, 관리자는 부서진 응룡장과 전갑을 부유식 회수기 II로 회수한다. 칩에서 나온 이름은 2년 전 대규모 탐사 작전의 대장이던 숙(Stern)과 안(Shore)이다. 그들이 더 깊은 안개 속으로 들어가며 이 응룡장들을 세웠고, 부서진 응룡장이 기록상의 마지막 지점이다. 언녕은 안에 관한 단서를 언에게 전하겠다고 한다.
+  - (3) 언은 자기도 그 탐사 작전에 들어가야 했지만 중상으로 반년 동안 일어나지 못했다고 털어놓는다. 직속 상관이던 안 대장은 작전 전날 오후 찾아와, 작전 규모 때문에 소대 인원을 다 채워야 해서 언을 소대에서 빼고 회복하면 새 부대로 보내겠다고 했다. 그날 오후가 마지막 만남이었다. 응룡은 선배들이 2년 전에 이미 [알레이크레오스의 검](foundation.md#알레이크레오스의-검)을 찾아냈다는 것을 알았지만, 좌표를 조사할 수 있게 됐을 때는 안개가 훨씬 심해져 선배들이 전하려던 정보를 찾지 못했다. 관리자는 익(Benefit)이 봉인해 둔 것으로 보이는 상자와 안 대장의 전갑을 부유식 회수기 III으로 회수하고, 정보실이 분석한다. 언은 안 대장이 지키려던 책무를 가슴에 새기고 상처가 아물지 않은 이 땅에서 살겠다고 약속한다.
+  - 영어 임무 목표로는 정보 문서 보관소에서 정보 부서가 제4차 대규모 감시 작전(Major Surveillance Op 4)의 전 과정을 분석·재현한 보고서를 열고, 관리자가 사본을 언에게 보낸다.
 - 달이 가고 해가 오리라: 대균열이 닫힌 뒤 결의 부탁으로 여풍을 도와, 142년 재앙에서 함께 살아남은 친구 백상·연이·생이의 가족 유품과 여풍 부모(여현, 제이)의 흔적을 찾는다. 여풍 부모는 마지막 철수 대열에 여풍을 맡기고 담검당 북쪽 폐기 설비 적치장의 균열을 막으러 갔고, 유품은 남지 않았다. 그 자리의 천사들이 여풍 부모를 기억하는 일을 들려주고, 여풍은 '여풍'이라는 이름에 부끄럽지 않게 살겠다고 한다.
 - 슬픔은 늘 소리 없이 찾아온다: 응룡 대원 량이 유품을 반환하다 찾은 악기에 재앙으로 흩어진 남쪽 홍산 유랑 극단의 이름이 새겨져 있다. 극단은 부모 없는 아이들을 거두어 각지를 돌며 공연하고 사람을 도왔고, 아이가 자라면 극단에 남을지 악기를 들고 떠날지 고르게 했다. 악기는 다른 사람을 돕겠다는 책임의 표시였다. 관리자는 결, 펠리카와 함께 옛 단원인 요리사 심바다와 순찰대원 이랑에게 악기를 돌려주고, 마지막 피리는 옛 단원이던 봉이 동생 남현에게 물려준다.
 
@@ -335,11 +357,15 @@ C형 천사장(Type-C Tianshi Pillar)과 그것을 보조하는 C형 보조 기�
 
 탐색 임무 「귀환의 종소리」(Bell of Recollection)를 마치면 열린다. 선행 조건은 메인 임무 2장 VII 완료다.
 
-1. 천사 상진(Shang Jin)이 도움을 청한다. 관리자는 무릉성 Citizen Square에서 사정을 듣는다. 상진은 삼도종(Bell of Three Presences)을 고칠 핵심 교체 부품을 구하려고 관리자와 함께 스승 여소귀(Yu Shigui)를 찾아간다.
-2. 상진이 시험을 치르는 동안 여소귀가 수명 이야기를 들려준다. 노인이 이야기를 이어 가자 관리자는 주변이 그 도시로 바뀌는 것을 느끼고, 진상을 알아보기로 한다.
-3. 수명성에서 종 공방의 제자가 알림종(Waking Bell)을 고치려 한다. 관리자는 종을 공공 경보 장치로 쓸 수 있도록 기동 장치를 구하고 교체 부품 4개를 모아 고친다. 도중에 「Repair Log: Waking Bell」을 얻는다. 부품마다 「귀환의 종소리 · 팔괘 '손'」 「'감'」 「'진'」 「'건'」(Xun of Gale, Kan of Water, Zhen of Thunder, Qian of Heavens) 임무가 하나씩 있다.
+1. 천사 상진(Shang Jin)이 무릉성 시민 광장(Citizen Square)에서 도움을 청한다. 삼도종(Bell of Three Presences) 전면 점검에서 종 안의 룬 부품 하나가 낡은 것을 찾았는데, 성 안에 예비 부품이 없고 다른 곳에서 구하기도 어렵다. 고대 종의 부품을 많이 직접 만든 스승 여소귀(Yu Shigui)에게 부탁하려 하지만 사문을 떠날 때 크게 다퉈서, 스승이 존경하는 관리자에게 같이 가 달라고 한다.
+2. 이미 마중 나와 있던 여소귀는 상진에게 한 시진 안에 조립 문제를 풀라고 하고, 그동안 관리자에게 수명 이야기를 들려준다. 외진 산맥 너머 천사들이 천사장 연구를 위해 세운 도시 수명이 침식 조류에 잠겼고, 그 재앙에는 전조가 있었다는 이야기다. 노인이 이야기를 이어 가자 관리자는 주변이 그 도시로 바뀌는 것을 느낀다.
+3. 이야기 속에서 젊은 주종장 제자 '귀'는 침식 조류가 심상치 않으니 알림종(Waking Bell)을 서둘러 고쳐야 한다고 하고, 나이 든 주종장은 더 돕지 못한다며 기동 장치를 맡기고 손상된 부품 넷을 바꾸라고 한다. 관리자는 작업 일지(「Repair Log: Waking Bell」)를 따라 교체 부품 4개를 모은다. 부품마다 「귀환의 종소리 · 팔괘 '손'」 「'감'」 「'진'」 「'건'」(Xun of Gale, Kan of Water, Zhen of Thunder, Qian of Heavens) 임무가 하나씩 있다. 침식 조류가 차오르며 알림종에 오류가 나자 예비 재료나 천사장 부품으로 차단층을 만들어 막고, 수리를 마쳐 종을 울린다.
+4. 관리자가 이야기 속 제자의 이름에 '귀' 자가 있다고 묻자, 여소귀는 그런 사람이 있었을지도 모른다며 그 사람은 아무리 애써도 되돌릴 수 없는 일이 있다는 것을 누구보다 잘 알았을 거라고 답한다. 이야기를 기록한 사람이 더 나은 결말을 그려 본 것은 후세가 같은 실수를 되풀이하지 않기를 바라서였을 거라고 한다. 과거에 정말 수명이 있었냐는 물음에는 이야기란 그랬을지도 모를 무언가일 뿐이라고 하고, 지난날을 후회하기보다 오늘을 소중히 여기라고 말한다.
+5. 상진이 푼 조립 문제는 삼도종의 교체 부품이었다. 여소귀는 상진이 낡은 룬 부품을 찾고도 곧바로 연락하지 않았을 때 불합격시키고 다른 사람에게 제작법을 전하려 했지만, 관리자가 도왔으니 이번만 눈감아 준다며 앞으로 사사로운 감정으로 삼도종 정비를 미루지 말라고 한다.
 
-임무 「종이 세 번 울릴 때」(The Bell Tolls)에서는 삼도종 표면의 룬 부품 세 개에 식양을 넣는다.
+대사에서 삼도종은 상진이 지키는 무릉성의 종이고, 알림종은 이야기 속 수명성의 종이다.
+
+임무 「종이 세 번 울릴 때」(The Bell Tolls)에서는 삼도종 표면의 룬 부품 세 개에 식양을 넣는다. 천사 모서는 정해진 시간마다 삼도종에 식양을 공급하는 일을 맡는다. 홍산 과학원이 개조한 이 염국의 고대 종은 식양으로 룬 부품을 작동시켜 침식을 미리 알리는 경보 역할을 하고, 무릉성의 다른 지역에도 비슷하게 개조한 고대 종이 있다. 식양 비축량이 모자란 데다 삼도종은 무릉성 내곽에 있어 배분 우선순위가 낮아, 상진과 모서는 보급을 기다릴지를 두고 다툰다. 관리자가 식양 1,000개를 대 준다.
 
 ### 구역의 특징
 
@@ -376,14 +402,13 @@ C형 천사장(Type-C Tianshi Pillar)과 그것을 보조하는 C형 보조 기�
 - 140년 식양 개발에 힘을 보탠 베헤모스 대리인이 누구인지([베헤모스와 쉐이](behemoth.md)).
 - 장방이 직함의 공식 한국어 표기 (나무위키 '대리 책임자', 영문 Viceroy).
 - 아다시르가 봉인된 뒤의 경과.
-- 북쪽 금지 구역의 구획 이름(담검당 제외)과 Pale Blightshade의 한국어 표기. 무명검록이 북쪽 금지 구역 임무인지(endfield.wiki.gg는 지역을 Unknown Region으로 적는다)와 한국어 대사, Yan Ning이 언과 같은 사람인지. 돌아갈 길이 없다의 한국어 대사. Pale Blightshade가 축 교관의 그림자라는 말은 영어 위키 갤러리 설명에만 있다.
+- 북쪽 금지 구역의 구획 이름(담검당 제외)과 Pale Blightshade의 한국어 표기. 무명검록(2)의 언녕이 응룡 대원인지(대사는 소속을 밝히지 않는다). Pale Blightshade가 축 교관의 그림자라는 말은 영어 위키 갤러리 설명에만 있다.
 - 진뢰가 담검당에 맡겨진 까닭과 시기. 적 설명문은 담검당에 맡겨져 지냈다고만 하고, 결의 신뢰 대화 1은 자기가 길렀다고 한다.
 - 창적 적 9종의 영어 이름 짝(영어 목록은 Highway Reaver, Road Plunderer, Grove Archer, Sweeping Wind, Hill Smasher, Cloud Obliterator, Cloud Stalker, Nimbus Razor, Breaking Gust). 창적이 청파채 무법자 전체를 가리키는지 강경파만 가리키는지도 출처마다 다르다.
 - 홍산 환형산에서 자란 진천우가 언제 무릉 연구 기지 옆 담검당에 다녔는지. 사의 훈련 일지 8은 장소를 '홍산 과학원 본부, 담검당'(영어 Tanjian Hall, HAS)으로 적어, 홍산에 따로 담검당이 있는지도 확인하지 못했다.
 - 봉의 직위. 이 문서는 부대장(본명 심교아)으로 적지만, 결 파일 자료 1의 서명은 '응룡 특수부대 대원 봉'이고 영어 텍스트도 trooper다.
 - 진천우가 선발에서 떨어진 이유. 한 출처는 진천우의 이타적인 성정이 응룡의 특성과 맞지 않는다고 판단되었고, 탈락시킨 교관도 속으로는 진천우가 옳다고 여겨 최고의 제자로 생각했다고 적지만, 근거가 된 게임 안 기록을 확인하지 못했다.
-- 응룡 특수부대 중추 파일과 장방이 BAKER 통신 2, 진천우의 예비대원 대사, 결을 소개하는 장방이 대사의 한국어 텍스트. 결의 계급(Major), Xiranflow Cloudseeder Station의 한국어 표기. 영어 이름만 확인한 대원(Overflow, Hillock, Mansion, Wrought, Shore, Stern, Benefit, Macro, Amber)의 한국어 이름과 기록 이름(Yinglung Combat Record, Audio Log: Damaged, Letter: Looks Like a Will)의 한국어 표기.
-- Citizen Square의 한국어 표기. 삼도종과 알림종이 같은 종인지(영어 임무 설명은 Bell of Three Presences, 임무 목표는 Waking Bell로 적는다). 수명성 이야기(누가 왜 종을 고치려 했는지, 도시가 어떻게 잠겼는지)의 게임 안 대사.
+- 응룡 특수부대 중추 파일과 장방이 BAKER 통신 2, 진천우의 예비대원 대사, 결을 소개하는 장방이 대사의 한국어 텍스트. 결의 계급(Major), Xiranflow Cloudseeder Station의 한국어 표기. 영어 이름만 확인한 대원(Overflow, Hillock, Mansion, Wrought, Macro, Amber)의 한국어 이름과 기록 이름(Yinglung Combat Record, Audio Log: Damaged, Letter: Looks Like a Will)의 한국어 표기.
 - 중추 파일 '청파채'의 한국어 텍스트. 반항 이야기의 블랙홀 프로토콜이 무엇인지는 그 이야기 안에서도 밝혀지지 않는다. 원 천사가 탕탕 파일 자료의 Ruan Lin이나 원일의 집안과 이어지는지도 기록이 없다.
 - 중추 파일 '선조의 샘'의 한국어 텍스트와 샘의 나그네 임무 대사. 기계 봉인을 청한 주민이 두명인지는 중추 파일에 이름이 없다.
 - 수돈 장소(Watchtower Reservoir Station, Restricted Area, Cloudrest Woods, Lake Islet, Security Section)의 한국어 표기와 설명. 감시 의뢰의 Reservoir Station이 Watchtower Reservoir Station과 같은 곳인지.
@@ -394,6 +419,7 @@ C형 천사장(Type-C Tianshi Pillar)과 그것을 보조하는 C형 보조 기�
 
 ## 히스토리
 
+- 2026-11-25: 무명검록 세 편과 돌아갈 길이 없다를 한국어 대사로 다시 씀(언녕과 언은 다른 사람, Shore·Stern·Benefit의 한국어 이름 안·숙·익). 장검 골짜기에 골짜기의 검 기둥 추가. 수명 절에 귀환의 종소리 대사와 종이 세 번 울릴 때 추가, 삼도종은 무릉성의 종이고 알림종은 이야기 속 종으로 정리.
 - 2026-11-23: 수돈 절에 「옛 인연과의 재회」 두 편, 실험 구역 절(C형 천사장, 「다시 찾아온 봄」 세 편, 정수 노드) 추가. 정수 노드를 수돈 설비에서 실험 구역 설비로 고침.
 - 2026-11-22: 무릉성 순찰대 절에 「전우」 네 편 줄거리 추가. 영수벽 위치를 한국어 임무 목표로 확정. 북쪽 금지 구역에 무명검록, 응룡 특수부대 절에 응룡 관문 임무 돌아갈 길이 없다 추가.
 - 2026-11-21: 부가·탐색 임무와 수명·장검 골짜기·선조의 샘 인물의 한국어 게임 표기를 넣음. 안사원의 영어 짝을 Serenity Garden으로 바로잡고 Urban Development Hall을 도시 건설관으로 고침. 북쪽 금지 구역에 달이 가고 해가 오리라·슬픔은 늘 소리 없이 찾아온다 줄거리 추가.
