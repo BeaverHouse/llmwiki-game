@@ -1,5 +1,7 @@
 # Another Eden — 변경 기록 (append-only, 최신이 위)
 
+- 2026-11-26 | ai | guides/armor.md·grasta.md·meta_equipment.md·status_effects.md, characters/guildna.md·meryt.md, raids/pikkii.md, glossary.md·index.md·backlog.md | 흡수·年代機 방어구, 흡수 글래스터, ムジマ·料理 무기와 リブラ・マアト를 장비 문서에 넣고 真鍮の懐中時計·渡り花의 효과 서술을 바로잡음 | Seesaa 「武器一覧」·「防具一覧」·「グラスタ一覧」
+
 - 2026-11-25 | ai | characters/eva.md·raids/ketsujitsu_rakurea.md 신규, guides/manifest_weapons.md·meta_characters.md·staff_party.md, glossary.md·index.md·backlog.md | 에바 카드와 結実ラクレア 강적 문서를 쓰고 라클레어 結実 무기 이름과 보상 才珠를 채움 | Seesaa 「エヴァ」, altema 「ketuziturakurea」
 
 - 2026-11-24 | ai | guides/sougekijin_party.md 신규, guides/staff_party.md·slash_party.md, characters/hismena_es.md·flammelapis_es.md·necoco_alter.md·linaria.md, index.md·backlog.md | 双撃陣 혼성 파티 문서를 쓰고 지팡이 파티에 고답의 요묘 네코코의 臨機応変<魔> 편성과 斬魔 출장을 더함 | Seesaa 「ヒスメナ(エクストラスタイル)」·「フラムラピス(エクストラスタイル)」·「リナリア」·「高踏の妖猫」
