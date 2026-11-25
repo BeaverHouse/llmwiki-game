@@ -22,8 +22,12 @@ sources:
   - "https://forum.nexon.com/bluearchive/board_view?board=1071&thread=2719471 (한국 서버 표기 전술 대회)"
   - "https://forum.nexon.com/bluearchive/board_view?board=1071&thread=2719463 (모집 스택·특별 스택·모집 마일리지)"
   - "https://namu.wiki/w/블루%20아카이브/대결전 (토토인·토인인, 택틱·일섭 용례, 2026-11-21 열람)"
+  - "https://namu.wiki/w/블루%20아카이브/종합전술시험 (Joint Firing Drill, 종전시 용례, 2026-11-25 열람)"
+  - "https://namu.wiki/w/블루%20아카이브/업무 (特別依頼·Commissions, 특임·경던 용례, 2026-11-25 열람)"
+  - "https://namu.wiki/w/블루%20아카이브/현상수배 (指名手配·Bounty, 2026-11-25 열람)"
+  - "https://namu.wiki/w/블루%20아카이브/학원교류회 (学園交流会·Scrimmage, 2026-11-25 열람)"
 created: 2026-07-06
-updated: 2026-11-23
+updated: 2026-11-25
 ---
 
 # 용어집 (Glossary)
@@ -32,13 +36,16 @@ updated: 2026-11-23
 
 | 한국어              | 일본어       | 영어 | 비고         |
 | ------------------- | ------------ | ---- | ------------ |
-| 종합전술시험        | 合同火力演習 |      | 별칭 4-4-4   |
+| 종합전술시험        | 合同火力演習 | Joint Firing Drill | 줄여서 종전시. 4-4-4는 4단계 세 번 클리어 |
 | 종합전술시험 - 사격 | 射撃演習     |      |              |
 | 종합전술시험 - 돌파 | 突破演習     |      |              |
 | 종합전술시험 - 방어 | 防御演習     |      |              |
 | 종합전술시험 - 호위 | 護衛演習     |      |              |
 | 제약해제결전        | 制約解除決戦 |      |              |
 | 전술대항전          | 戦術対抗戦   | Tactical Challenge | PvP. 한국 서버 게임 내 표기는 전술 대회 |
+| 현상수배 | 指名手配 | Bounty | 지역 고가도로·사막 기찻길·교실 |
+| 특별의뢰 | 特別依頼 | Commissions | 줄여서 특임. 거점 방어·물건 회수 |
+| 학원교류회 | 学園交流会 | Scrimmage | 트리니티·게헨나·밀레니엄, 단계 A~D |
 | 총력전              | 総力戦       | Total Assault | 중국어 总力战 |
 | 대결전              | 大決戦       | Grand Assault | 중국어 大决战 |
 
@@ -140,4 +147,6 @@ updated: 2026-11-23
 | 토토인 / 토인인 | 대결전 세 장갑의 최고 난이도 구성. 토토인은 TORMENT 둘·INSANE 하나(일본 서버 S27부터), 토인인은 TORMENT 하나·INSANE 둘(그 전). "토인인"은 학생·보스 이름이 아님 | [beginner.md](guides/beginner.md) |
 | 일섭 / 한섭 | 일본 서버 / 한국 서버. 사이트 시즌 기록은 일섭 기준 | [beginner.md](guides/beginner.md) |
 | 택틱 | 편성과 운영 방식. "고즈 인세인 택틱"은 그 난이도를 깨는 파티를 묻는 말 | [beginner.md](guides/beginner.md) |
+| 종전시 | 종합전술시험. "이번 종전시 조합"은 지금 열린 종합전술시험 회차의 편성을 묻는 말이고 대결전이 아님 | [content_guide.md](guides/content_guide.md) |
+| 특임 / 경던 | 특별의뢰 / 그중 활동 보고서가 나오는 거점 방어 | [bounty_commission_scrimmage.md](guides/bounty_commission_scrimmage.md) |
 | 전N (전무 N성) | 전용무기 N성. "노조미 전3" = 노조미 전용무기 3성. "N성"만 쓰면 학생 성급, "N파티"는 파티 수 | [beginner.md](guides/beginner.md) |
