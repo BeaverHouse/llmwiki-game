@@ -6,11 +6,12 @@ sources:
   - https://anothereden.game-info.wiki/d/%B4%C4%B6%AD%A5%AD%A5%E3%A5%E9%A1%A6%C1%F5%C8%F7%A4%DE%A4%C8%A4%E1 (Seesaa Wiki 「環境キャラ・装備まとめ」 環境装備一覧, 2025-07-09 수정본, Ver3.12.0 기준, CC BY-NC-SA 4.0)
   - https://anothereden.game-info.wiki/d/%C2%E83%C9%F4%C3%E6%CA%D4_%A5%B5%A5%D6%A5%A4%A5%D9%A5%F3%A5%C8 (Seesaa Wiki 「第3部中編_サブイベント」, 2023-09-18 수정본. 千年樹 무기 입수처와 공통 효과)
   - https://anothereden.game-info.wiki/d/%C9%F0%B4%EF%B0%EC%CD%F7 (Seesaa Wiki 「武器一覧」, 2026-01-24 수정본과 댓글. ムジマ·料理 무기·リブラ・マアト 효과와 입수처, +10 수치)
+  - https://anothereden.game-info.wiki/d/%A5%DF%A5%CA%A5%EB%A5%AB%28%A5%A2%A5%CA%A5%B6%A1%BC%A5%B9%A5%BF%A5%A4%A5%EB%29 (Seesaa Wiki 「ミナルカ(アナザースタイル)」 관리자 답변(2025-02-23). 精霊 무기의 통상 공격 덮어쓰기)
   - https://altema.jp/anaden/runasoubi (altema 「ルーナ装備の作成方法と性能」, 2026-04-20 갱신본. ルーナ 무기 제작·강화 소재와 失楽の都 드롭)
   - ルーナ 무기를 쓰는 동료는 이 위키의 각 동료 카드와 [氷原のヌシ](../raids/hyougen_no_nushi.md)·[月光陣 혼성 파티](gekkou_party.md)
   - 사이트 데이터 ae_translation (失楽の都), ae_translation_all (용어 표기)
 created: 2026-10-17
-updated: 2026-11-26
+updated: 2026-11-27
 ---
 
 # 환경 장비와 입수처
@@ -34,6 +35,8 @@ updated: 2026-11-26
 千年樹 무기 입수처: 杖 [氷原のヌシ](../raids/hyougen_no_nushi.md), 剣 災厄の大蛇, 刀 [坑道のヌシ](../raids/koudou_no_nushi.md), 斧 [暁の塔のヌシ](../raids/akatsuki_no_tou_no_nushi.md), 槍 アボモス大陸 보물 상자, 弓 [湿地帯のヌシ](../raids/shicchitai_no_nushi.md), 拳 ニャインズ・オブ・バトル(NOB) ファラオ, 槌 時間帝国発掘拠点 ヴェレット 빚 갚기 이벤트 5000만 도달.
 
 그 밖에는 쓰지 않는다: 機械仕掛け, アダマス, ウィズダム, 食器, 禍時.
+
+精霊 무기(火精霊の剣 등)는 통상 공격을 그 속성의 무기 공격으로 덮어쓴다. 통상 공격 변화 스킬이 있는 동료에게 들리면 변화 스킬이 나가지 않는다(미나르카(AS)는 「アウトレイジ」 대신 불 속성 검 공격이 나감).
 
 ## ルーナ 무기
 

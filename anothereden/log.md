@@ -1,5 +1,7 @@
 # Another Eden — 변경 기록 (append-only, 최신이 위)
 
+- 2026-11-27 | ai | raids/arekuto.md 신규, guides/wind_party.md·zone.md·meta_equipment.md·superbosses.md·rasen_no_kioku.md·thunder_party.md, characters/tsubame_alter.md·cyan_scyther_as.md·zidane.md·guildna.md, glossary.md·index.md·backlog.md | 憂う死神のアレクト 강적 문서를 쓰고 바람 파티에 Ver3.12.10 이후 편성을 모으며 ZONE 어빌리티 표의 출처 차이와 새 어빌리티 셋, 精霊 무기 주의를 넣음 | Seesaa 「憂う死神のアレクト」·「碧光の鎌使い(アナザースタイル)」·「烏夜の隠密」·「ジタン」·「ZONE・応援効果まとめ」·「ミナルカ(アナザースタイル)」
+
 - 2026-11-26 | ai | guides/armor.md·grasta.md·meta_equipment.md·status_effects.md, characters/guildna.md·meryt.md, raids/pikkii.md, glossary.md·index.md·backlog.md | 흡수·年代機 방어구, 흡수 글래스터, ムジマ·料理 무기와 リブラ・マアト를 장비 문서에 넣고 真鍮の懐中時計·渡り花의 효과 서술을 바로잡음 | Seesaa 「武器一覧」·「防具一覧」·「グラスタ一覧」
 
 - 2026-11-25 | ai | characters/eva.md·raids/ketsujitsu_rakurea.md 신규, guides/manifest_weapons.md·meta_characters.md·staff_party.md, glossary.md·index.md·backlog.md | 에바 카드와 結実ラクレア 강적 문서를 쓰고 라클레어 結実 무기 이름과 보상 才珠를 채움 | Seesaa 「エヴァ」, altema 「ketuziturakurea」
