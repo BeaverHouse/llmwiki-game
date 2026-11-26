@@ -1,15 +1,16 @@
 ---
 title: 사의 그림 (Si's Painting)
 type: guide
-aliases: [사의 그림, Si's Painting, 그림 세계, 인연 마을, 인연 마을 객잔, 연원객잔, Yuanyuan Manor, Yuanyuan Manor Inn, 객잔, 객잔 운영, Innkeeping, Spirit Money, 소화 마을, 소하장, Xiaohe Manor, 인연 마을 임무, 이루어지지 못한 사랑, Unrequited Love, 다시 이어지는 인연, The Story Continues, 기념일, A Day to Remember, 치창, 잠룡 계곡, 한입의 유람, 2장 VIII, 심연을 떠나며, Sanctuary from the Rift, 새 먹으로 그리다, Paint with Fresh Ink, 단청도, Sanctuary of Ink]
+aliases: [사의 그림, Si's Painting, 그림 세계, 인연 마을, 인연 마을 객잔, 연원객잔, Yuanyuan Manor, Yuanyuan Manor Inn, 객잔, 객잔 운영, Innkeeping, Spirit Money, 소화 마을, 소하장, Xiaohe Manor, 인연 마을 임무, 이루어지지 못한 사랑, Unrequited Love, 다시 이어지는 인연, The Story Continues, 기념일, A Day to Remember, 치창, 잠룡 계곡, 한입의 유람, 2장 VIII, 심연을 떠나며, Sanctuary from the Rift, 새 먹으로 그리다, Paint with Fresh Ink, 단청도, Sanctuary of Ink, 곳곳에 숨은 기이한 이야기, Miscellanies on Rampage, 기이한 이야기 책, 영롱굴, Linglong Grotto, 고필 봉우리, Drybrush Peak]
 sources:
   - https://namu.wiki/w/명일방주:%20엔드필드/지역 (사의 그림 문단과 각주, 2026-10-25) · /스토리 (연표와 5.8 프로세스 VIII, 2026-10-19) · /업데이트 (1.6 「단청도」, 2026-10-15) (CC BY-NC-SA 2.0 KR)
   - https://endfield.wiki.gg/wiki/Si's_Painting (2026-10-19) · Yuanyuan_Manor_Inn (2026-10-24) · Spirit_Money (2026-10-20) · Innkeeping (2026-10-23) · Innkeeping/Theme (2026-10-24) · Innkeeping/Recipe (2026-10-28 수정본, 2026-11-02 열람. 목록의 최고급 린수말이 재료 중복과 린수 만두의 태그 'Taste'는 각 요리 문서를 따름) · Ranching (2026-10-22) · Yummy_Feed, Double-Yummy_Feed, Meat, Milk, Egg, Fin_Fillet와 각 (A) 문서 · Ballpea · Cabbage · Matoberry · Matoberry_Seeds · Sourberry · Whitemelon · Relishroom · Pingtuber · Crunchcane · Oilseed_Bloom · Oilseeds · Seed_Oil (2026-10-15, 한국어 표기 포함) · 객잔 요리 문서 44개(Fin-Mato_Soup 등, 2026-10-20 무렵, 재료와 한국어 표기)
   - https://endfield.wiki.gg/wiki/Enter_the_Painted_World (2026-10-20 수정본) · Learn_of_Rise_and_Fall · Witness_the_Game_Unfold · See_Through_the_Self · Paint_with_Fresh_Ink (2장 Ⅷ 임무 목표 영어 텍스트, 2026-11-03 수정본, 2026-11-08 열람)
   - https://endfield.wiki.gg/wiki/Starch · Flour · Sugar · Ground_Pepper · Spice_Mix_130 (한국어 칸과 설명문) · Module:Recipe/Shredding_Unit · Module:Recipe/Reactor_Crucible (가공 공식), 2026-11-02 열람
   - https://warfarin.wiki/kr/missions/sm2l10m1 · sm2l10m2 · sm2l10m3와 /en/missions의 같은 문서 (인연 마을 임무 세 편 한국어·영어 대사와 목표, v1.6 데이터, 2026-11-24 열람)
+  - https://warfarin.wiki/kr/missions/gm02m24 · https://warfarin.wiki/en/missions/gm02m24 (「곳곳에 숨은 기이한 이야기」 한국어·영어 대사와 목표, v1.6 데이터, 2026-11-25 열람)
 created: 2026-10-22
-updated: 2026-11-24
+updated: 2026-11-25
 ---
 
 # 사의 그림 (Si's Painting)
@@ -231,7 +232,7 @@ updated: 2026-11-24
 
 ## 인연 마을 임무
 
-세 임무 모두 인연 마을에서 시작한다. 「이루어지지 못한 사랑」만 무릉성이 무대다.
+네 임무 모두 인연 마을에서 시작한다. 「이루어지지 못한 사랑」만 무릉성이 무대다.
 
 ### 이루어지지 못한 사랑
 
@@ -265,6 +266,15 @@ updated: 2026-11-24
 4. 사에 따르면 과거의 관리자는 객잔에 묵으며 이렇게 좋은 곳이 한산하면 아깝다고 객잔을 키우자고 했고, 메뉴까지 고쳤다. 까막이를 털이 반들반들하게 길러 그 알로 한입의 유람을 만들었고, 이것이 객잔의 간판 요리가 됐다.
 5. 객잔을 열어 한입의 유람을 팔고 단체 사진을 찍은 뒤 자리를 뜬 사를 찾아간다. 과거의 관리자는 한입의 유람보다 맛있는 요리가 생기고 손님이 더 많아지면 자기가 오래 사라져도 인연 마을은 활기찰 거라고 말했다. 관리자가 잠든 십 년 동안 사는 공적인 일로 온 몇몇 말고는 아무도 인연 마을에 들이지 않았다. 사는 자기를 잊은 관리자를 원망하면서 정작 자기도 약속을 지키지 못했다고 털어놓는다. 관리자는 일꾼들이 이곳을 집으로 여기고 손님들도 사에게 이끌려 온 묵량일 뿐이라고 생각하지 않는다며, 사가 약속을 지킨 것이라고 말한다. 사는 묵량을 그려 냈을 뿐 조종한 적은 없다고 답한다. 관리자는 그때 인연 마을이 늘 활기차길 바란 것은 사가 외롭지 않길 바랐기 때문일 거라고 말한다.
 
+### 곳곳에 숨은 기이한 이야기
+
+영어 제목 Miscellanies on Rampage. 탐색 임무다.
+
+1. 괄괄이가 열린 상자 앞에서 걱정하고 있다. 사가 모은 기이한 이야기 책들이 어느 날 상자에서 모두 뛰쳐나갔다. 사는 실컷 놀면 알아서 돌아올 거라며 내버려 두라고 했지만, 상자는 다 채워야 닫힌다. 관리자는 소화 마을, 영롱굴(Linglong Grotto)의 골짜기와 전망대, 고필 봉우리(Drybrush Peak)를 돌며 책을 찾는다.
+2. 책은 곳곳에서 다른 일과 함께 나온다. 갓 차린 밥상을 다 먹으면 쟁반 밑에서, 비문에 무공 비급이 있다며 필사하러 왔다가 묵량 소굴이 된 동굴 앞에서 망설이는 자신 없는 협객을 도우면, 말하는 술 호리병(Kohlabash)의 열두 시진 축배에 구절을 이어 주면 책이 나온다. 하늘에서 내려앉았다 날아간 종이를 두고 불타는 종이 뭉치였다, 수묵 화선지였다 싸우는 등산객 둘도 있다. 둘 다 있었다고 알려 주면 이번에는 적 천사(Tianshi Cinnabar)와 청 천사(Tianshi Cyan) 중 누가 더 뛰어난지로 다시 싸운다. 그림 속에는 적 천사가 남긴 무기와 청 천사가 남긴 붓·벼루가 있다. 관리자는 무기의 글씨를 동생이 썼는지, 귀한 재료로 만든 붓과 벼루를 언니가 만들어 줬는지 궁금해하며 자매 사이가 좋은 모양이라고 혼잣말한다.
+3. 책을 다 모아도 상자가 닫히지 않는다. 사가 나타나 마지막 한 권을 건넨다. 사는 상자 안이 답답하니 바람 쐬는 것도 좋다고 하고, 엔드필드 절차대로라면 분석 부서가 결론을 낼 테지만 자기가 모은 이야기라 직접 정리했다며 보고서를 넣어 둔다. 분석원들에게 맡기면 내년에도 결과를 못 받을 거라고 한다.
+4. 사는 상자만 가져가고, 책들이 관리자를 꽤 좋아하는 것 같다며 엔드필드에 남겨 둔다. 누가 보관하든 상관없다고 하면서, 책이 닳으면 가만두지 않겠다고, 종이 뭉치들 때문에 엔드필드가 뒤집히지 않게 자주 바람을 쐬어 주라고 당부한다.
+
 ## 확인하지 못한 것
 
 - 한국어 게임 표기: 객잔 이름(인연 마을, 연원객잔, 여원원), Spirit Money, Pink Bolete, 객잔 평가·테마·개조·보조 역할·취미·레시피·요리 태그·Full Blaze, 목장의 짐승·부지·포만도·행복도. 사료와 생산물 이름은 영어 아이템 문서의 한국어 칸을 따랐다.
@@ -277,11 +287,12 @@ updated: 2026-11-24
 - 마일스톤 단계 보상과 상점 품목(영어 표 아이콘이 깨짐).
 - 「새 먹으로 그리다」가 Paint with Fresh Ink의 한국어 제목인지, 2장 VIII 제목이 게임 안 표기와 같은지. 영어 객잔 문서는 객잔을 여는 메인 임무를 Chapter II Process VII: Paint with Fresh Ink로 적어 임무 문서의 VIII과 어긋난다.
 - 이별의 정자(Chess Pavilion)와 기적의 붓의 게임 안 표기.
-- 인연 마을 임무 세 편이 열리는 조건과 순서. 사의 무협 소설의 한국어 제목(한국어 대사에서 제목 자리가 비어 나온다).
+- 인연 마을 임무가 열리는 조건과 순서. 적 천사·청 천사 자매가 누구인지(대사는 그림에 물건을 남겼다고만 한다). 사의 무협 소설의 한국어 제목(한국어 대사에서 제목 자리가 비어 나온다).
 - 「이루어지지 못한 사랑」에서 영상에 비친 찻주전자와 명천의 관계, 일행이 쫓은 기묘한 동물의 정체. 대사는 둘을 밝히지 않는다.
 
 ## 히스토리
 
+- 2026-11-25: 인연 마을 임무에 「곳곳에 숨은 기이한 이야기」 줄거리 추가.
 - 2026-11-24: 인연 마을 임무 세 편(이루어지지 못한 사랑, 다시 이어지는 인연, 기념일) 줄거리 추가. 2장 VIII의 소하장·위티·잉크 정령을 게임 표기 소화 마을·꾸러기·묵량으로 고침.
 - 2026-11-02: 요리 44종 표와 가공 재료 절 추가. 작물 표의 요리별 개수는 요리 표로 옮김.
 - 2026-10-28: 테마, 요리 태그, Full Blaze, 목장 절 추가. 상점 주인 표기를 열일이로 채움.
