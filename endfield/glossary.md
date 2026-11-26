@@ -69,6 +69,7 @@ sources:
   - https://endfield.wiki.gg/wiki/Si
   - https://endfield.wiki.gg/wiki/Argent_Flow (2026-11-05 수정본) · Argent_Flow/File · Argent_Flow/Dialogue · Lunar_Calling · Complexed_Industry · Home_Longing (언어 칸)
   - https://www.gametoc.co.kr/news/articleView.html?idxno=112808 (우레 표기, 2026-11-06)
+  - https://namu.wiki/w/케르 (2026-11-25 수정본, 2026-11-26 열람, CC BY-NC-SA 2.0 KR) · https://endfield.wiki.gg/wiki/Kay · Kay/File · Sweet_Deal · Raid_Comet (2026-11-25 수정본, 언어 칸) · Mimino (2026-11-25 수정본)
   - https://endfield.wiki.gg/wiki/The_Traveler's_Guide_to_Talos-II/Marker_Stone (도시 건설관·영수벽·안사원 영어 표기)
   - https://warfarin.wiki/kr/missions · https://warfarin.wiki/en/missions (임무 이름과 설명의 한국어·영어 게임 텍스트, v1.6 데이터) · /kr/missions/sm2l9m1 · sm2l8m1 · sm2l7m1 · sm2l6m1 (한국어 대사), 2026-11-21 열람 · sm2l4m1~sm2l4m4 (전우 네 편 한국어 대사와 목표), 2026-11-22 열람 · /kr·/en/missions/sm2l4m5 · sm2l4m6 · sm2l5m1~sm2l5m3 (옛 인연과의 재회·다시 찾아온 봄 한국어·영어 대사와 목표), 2026-11-23 열람 · /kr·/en/missions/sm2l10m1~sm2l10m3 (인연 마을 임무 세 편 한국어·영어 대사와 목표), 2026-11-24 열람 · /kr·/en/missions/gm02m7 · gm02m15 · gm02m18 · gm02m19 · gm02m21 · gm02m22 · gm02m24 · /kr/missions/gm02m8 · gm02m17 · gm02m27 (탐색 임무 한국어·영어 대사와 목표), 2026-11-25 열람
   - https://namu.wiki/w/명일방주:%20엔드필드/장비
@@ -126,7 +127,7 @@ sources:
   - https://endfield.gryphline.com/ko-kr/news/0753 (공식 만화 <약속> 공지)
   - https://namu.wiki/w/명일방주:%20엔드필드/스토리 (이벤트 스토리 제목, 2026-11-03 수정본, CC BY-NC-SA 2.0 KR) · 이벤트별 endfield.wiki.gg 문서는 world/event_stories.md sources 참고
 created: 2026-10-12
-updated: 2026-11-25
+updated: 2026-11-26
 ---
 
 # 엔드필드 고유명사 표기 (ko/en/ja)
@@ -421,6 +422,8 @@ updated: 2026-11-25
 | 대수도원 | Monasterium / Great Monastery | 大修道院 | 2차 | 고요한 수도회의 본거지인 이동 도시 |
 | 대성당 | Sanctilamina Cathedralis Tranquillae | — | 미확인 | 대수도원의 중심 성당. zh 寂语大教堂. en은 뜻으로 짝지음 |
 | 오로라 밴드 | — | — | 미확인 | 철의 서약군 방어선이 있는 북쪽 지역 |
+| 마르스폴리스 | Morospolis | — | 2차 | 미에슈코 공업이 있는 도시. ko는 케르 파일 자료 3 |
+| 용광로 요새 | Fort Forgefane | — | 2차 | 제식 장창 제조처. 케르 파일 자료 3 |
 | 라테라노 | Laterano | ラテラーノ | 미확인 | 테라의 나라. 고요한 수도회가 온 곳 |
 | 카즈델 | Kazdel | カズデル | 미확인 | 테라의 살카즈 고향 |
 | 시에스타 | Siesta | シエスタ | 미확인 | 테라의 화산 도시 |
@@ -728,6 +731,17 @@ updated: 2026-11-25
 | 우레 | Sunderization | — | 미확인 | 명하가 감전과 함께 거는 표식. ko는 공식 콘텐츠 크리에이터 기사 |
 | 하늘을 가르는 번개 | Zenith of Voltmancy | — | 미확인 | 명하 재능(우레) |
 | 번개의 향연 | Springvolt Galore | — | 미확인 | 명하 재능(팀 오리지늄 아츠 강도) |
+| 케르 | Kay | ケーちゃん | 2차 | zh 小刻. 본명 케르베(Cerube). 6성 자연 장병기 뱅가드 |
+| 야성의 일격 | Wild Wacky-Whack | — | 2차 | 케르 일반 공격 |
+| '엄청 묵직한' 한 방 | "Really Heavy Bash" | — | 2차 | 케르 배틀 스킬 |
+| '엄청 빠른' 내려치기 | "Really Kwik Smash" | — | 2차 | 케르 연계 스킬 |
+| '엄청 달콤한' 합체 망치! | "Really Sweet Combi-Bonker!" | — | 2차 | 케르 궁극기 |
+| 뜨겁고 날카로운 천성 | Hot Edgy Naives | — | 2차 | 케르가 무기를 회수할 때 쌓는 스택 |
+| 소풍 간식 / 소풍 벌꿀 와플 | Picnic Snack / Picnic Waffle | — | 2차 | 케르 궁극기·재능이 떨어뜨리는 회복 아이템 |
+| 무한의 무기고 | Bottomless Arsenal | — | 2차 | 케르 재능 |
+| 벌꿀 와플 한 입 할래? | Have a Waffle! | — | 2차 | 케르 재능 |
+| 단련 | Forged | — | 2차 | 힘 상승 재능 |
+| 미미노 | Mimino | — | 미확인 | 5성 물리 권총 서포터. 1.7 버전 로그인 보상, 출시 전 |
 
 ## 전투
 
@@ -872,6 +886,8 @@ updated: 2026-11-25
 | 중심력 | Cohesive Traction* | — | 미확인 | 5성 장병기. 아비웨나 전용 |
 | O.B.J. 스파이크 | OBJ Razorhorn | — | 2차 | 5성 장병기. 에스텔라 전용 |
 | 키메라의 정의 | Chimeric Justice | — | 2차 | 5성 장병기 |
+| 달콤한 거래 | Sweet Deal | スウィートディール | 2차 | 6성 장병기. 케르 전용 |
+| 유성 돌격 | Raid Comet | アサルトメテオ | 2차 | 6성 장병기. 프로토콜 통행증 |
 | 아겔로스 사냥꾼 / 개척자의 이정표 | Aggeloslayer / Pathfinder's Beacon | — | 2차 | 4성 장병기 |
 | 오페로 77 | Opero 77 | — | 2차 | 3성 장병기 |
 | 클래니벌 | Clannibal | — | 2차 | 6성 권총 |
@@ -1343,7 +1359,7 @@ updated: 2026-11-25
 | 에기르 / 아슬란 / 엘라피아 / 포르테 / 자라크 | Ægir / Aslan / Elafia / Forte / Zalak | エーギル / アスラン / エラフィア / フォルテ / ザラック | 미확인 | 에인션츠 |
 | 아누라 / 세라토 / 이트라 / 맨티코어 / 페트람 / 필로사 / 리프로바 | Anura / Cerato / Itra / Manticore / Petram / Pilosa / Reproba | アヌーラ / セラト / イトラ / マンティコア / ペートラム / ピロサ / レプロバ | 미확인 | 드문 종족 |
 | 드라코 / 히포그리프 / 구미호 불포 | Draco / Hippogryph / Nine-tailed Vulpo | ドラコ / — / — | 미확인 | 엘더즈 |
-| — | Cerberus | — | 미확인 | 엘더즈로 보는 페로 하위 집단 |
+| — | Cerberus | — | 미확인 | 엘더즈로 보는 페로 하위 집단. endfield.wiki.gg는 케르를 알려진 유일한 Cerberus로 적음 |
 | 두린 / 뱀파이어 | Durin / Vampire | ドゥリン / — | 미확인 | 살카즈 계통 |
 | 위치킹 | Witch King | — | 미확인 | 전설의 카프리니 |
 | — | Lei Fa | — | 미확인 | 키린이 만든 오리지늄 아츠 |
@@ -1356,6 +1372,7 @@ updated: 2026-11-25
 
 ## 히스토리
 
+- 2026-11-26: 케르 스킬·재능, 달콤한 거래·유성 돌격, 미미노, 마르스폴리스(Morospolis)·용광로 요새 추가.
 - 2026-11-25: 무명검록·돌아갈 길이 없다·골짜기의 검 기둥·세 자루의 검·기이한 이야기 임무의 인물·장소 표기 추가. Frigid·Brightfire·Yinglung War Case의 한국어 짝을 대사로 확인하고 언녕과 언을 다른 사람으로 정리.
 - 2026-11-24: 인연 마을 임무 세 편의 인물·장소·요리 표기 추가. 소하장을 소화 마을로, 위티를 꾸러기로 바로잡고 드래곤 버블의 영어 짝 Chubby Lung을 대사로 확인.
 - 2026-11-23: 「옛 인연과의 재회」·「다시 찾아온 봄」의 임무·인물·장소 표기 추가. 해묵·묵량·정수 노드·사세대의 영어 짝을 임무 대사로 확인.

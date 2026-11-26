@@ -7,8 +7,9 @@ sources:
   - https://endfield.wiki.gg/wiki/Arts_Infliction · Arts_Burst(변경 기록) · Arts_Reaction · Combustion · Electrification · Solidification · Corrosion · Physical_Status · Breach · Vulnerability · Damage_calculation · Stagger (2026-07~10 수정본)
   - https://gameranbu.jp/endfield/8975cfdb2d0f32ced3b9 · https://appmedia.jp/?p=79682585 · https://appmedia.jp/?p=79683638 (일본어 용어)
   - "user-feedback (Austin): 동결 지속 6~9초, 부착 1회 1스택, 모든 강제 아츠 이상은 부착을 소모하지 않음(펠리카·아델리아로 확인), 강제 띄우기·넘어뜨리기 스택 수 사례(질베르타·에스텔라 1스택), 아츠 이상끼리 공존, 장방이 연계 감전 레벨, 보스에게 걸린 동결은 움직임 제어 없음 (2026-10-19~27)"
+  - https://endfield.wiki.gg/wiki/Kay (케르 배틀 스킬 강제 연소·연계 스킬 강제 자연 폭발, 2026-11-25 수정본)
 created: 2026-10-27
-updated: 2026-10-29
+updated: 2026-11-26
 ---
 
 # 상호작용 규칙 (사건과 반응)
@@ -38,7 +39,7 @@ updated: 2026-10-29
 | `증폭(종류, 값, 초)` | 주는 피해 증가(증폭 묶음) | 각 스킬 | 없음 | 아츠 증폭 ⊃ 속성 증폭 |
 | `연타` | 다음 배틀 스킬·궁극기 피해 증가 | 각 스킬 | 다음 배틀 스킬·궁극기 | 강타 피해에는 적용되지 않음. 수치는 [전투 기본](combat.md#피해-관련-효과-분류) |
 | `자원(이름) +n / 소모` | 오퍼레이터 고유 자원(와류, 청뢰검, 녹아내린 불꽃 등) | 해당 오퍼레이터 | 해당 오퍼레이터 | 각 오퍼레이터 카드에 |
-| `강제폭발(속성)` | 같은 속성 부착이 없는 적에게도 일어나는 아츠 폭발 | [티프로스](../operators/typhoeus.md) 강력한 사격·배틀 스킬(자연 폭발) | 없음 | 피해는 `폭발`과 같은 160%로 봄. 스택 증가 여부는 모름 |
+| `강제폭발(속성)` | 같은 속성 부착이 없는 적에게도 일어나는 아츠 폭발 | [티프로스](../operators/typhoeus.md) 강력한 사격·배틀 스킬(자연 폭발), [케르](../operators/kay.md) 연계 스킬(자연 폭발) | 없음 | 피해는 `폭발`과 같은 160%로 봄. 스택 증가 여부는 모름 |
 | `이상 소모(종류)` | 적에게 걸린 아츠 이상이 다른 효과로 소모됨 | `쇄빙`(동결), [아델리아](../operators/ardelia.md) 배틀 스킬(부식), [장방이](../operators/zhuang_fangyi.md) 배틀 스킬(감전), [이본](../operators/yvonne.md) 궁극기 마지막 일격(동결) | 해당 아츠 이상 | [알레쉬](../operators/alesh.md) 연계 조건("아츠 이상이 소모될 때") |
 | `방어불능 소모(n)` | 강타·갑옷 파괴가 방어 불능 n스택을 모두 소모함 | `물리이상(강타\|갑옷파괴)` | 방어 불능 전부 | [포그라니치니크](../operators/pogranichnik.md) 연계 조건, 고검의 잔향 세트. n이 효과 크기를 정함 |
 | `받는 피해 증가(종류, 값, 초)` | 취약과 다른 받는 피해 증가 묶음 | 감전(아츠), 갑옷 파괴(물리), [자이히](../operators/xaihi.md) 재능(받는 냉기 피해) | 없음 | 취약 묶음과 곱해짐 |
@@ -120,7 +121,7 @@ updated: 2026-10-29
 
 | 강제 이상 | 오퍼레이터와 스킬 |
 |---|---|
-| 강제 연소 | [레바테인](../operators/laevatain.md) 배틀 스킬(5초), [울프가드](../operators/wulfgard.md) 궁극기 |
+| 강제 연소 | [레바테인](../operators/laevatain.md) 배틀 스킬(5초), [울프가드](../operators/wulfgard.md) 궁극기, [케르](../operators/kay.md) 배틀 스킬(천성 3스택, 5초. 자연 오퍼레이터가 거는 연소) |
 | 강제 감전 | [펠리카](../operators/perlica.md) 연계 스킬(5초), [리노](../operators/liino.md) 궁극기 |
 | 강제 동결 | [알레쉬](../operators/alesh.md) 배틀 스킬(냉기 부착 소모), [이본](../operators/yvonne.md) 배틀 스킬(냉기·자연 부착 모두 소모)과 연계 스킬, [스노우샤인](../operators/snowshine.md) 궁극기(부착 소모 없음). 알레쉬·이본 배틀 스킬은 소모한 스택 수를 피해나 게이지·에너지 회복에 쓴다 |
 | 강제 부식 | [아델리아](../operators/ardelia.md) 연계 스킬(7초), [결](../operators/arcane.md) 진결·지혜(15초) |

@@ -4,16 +4,22 @@
 
 ## 다음 작업
 
-- 케이(Kay) 오퍼레이터 문서 | operators/kay.md | 1.7 신규 한정 6성(자연 속성 뱅가드, 장병기, 전용 무기 Sweet Deal). 11-26 배너 시작. 슬러그는 출시 뒤 나무위키·endfield.wiki.gg 표기를 보고 정한다. 스킬 배율이 채워진 뒤 쓴다 | 나무위키, endfield.wiki.gg, Prydwen 배너 일정
-- 명하 이벤트 스토리 Back to the Rustics | world/event_stories.md | 이벤트 스토리 문서에 1.6 이야기만 빠짐. 하위 임무 풀숲을 헤치며(Parting Grass) → 불을 지피리라(Kindling the Fire) → 가지를 찾아서(Seeking the Branch), Pan'an 마을과 Mu Xing, 사가 명하를 미션 제로에 끌어들인 경위. 이야기 전체의 한국어 제목은 아직 못 찾음. 이벤트가 끝난 뒤(11-26) 대사가 채워지면 쓴다 | 나무위키 스토리 문서, endfield.wiki.gg Argent_Flow/Story·각 하위 임무 문서, warfarin.wiki 한국어 스토리 리더
+- 명하 이벤트 스토리 Back to the Rustics | world/event_stories.md | 이벤트 스토리 문서에 1.6 이야기만 빠짐. 하위 임무 풀숲을 헤치며(Parting Grass) → 불을 지피리라(Kindling the Fire) → 가지를 찾아서(Seeking the Branch), Pan'an 마을과 Mu Xing, 사가 명하를 미션 제로에 끌어들인 경위. 이야기 전체의 한국어 제목은 아직 못 찾음. 이벤트는 11-26에 끝났으니 대사가 채워졌는지부터 본다 | 나무위키 스토리 문서, endfield.wiki.gg Argent_Flow/Story·각 하위 임무 문서, warfarin.wiki 한국어 스토리 리더
 - 「침식의 그림자 관찰 일지」·「과거의 보물」 줄거리 | world/wuling.md 북쪽 금지 구역 | 탐색 절에 이름만 있음. 천사 하지가 협동하는 침식의 그림자를 관찰하는 임무와, 낙안이 대균열 실험팀의 10년 전 원시 데이터 백업 세 개를 찾는 임무. 둘 다 낙안의 점괘가 이어진다 | warfarin.wiki/kr·en/missions/gm02m20 · gm02m23
 - 「내 손안의 구세주」(1)~(3) 줄거리와 언녕 | world/wuling.md | 무명검록(2)의 언녕이 천사부 학원에서 의뢰하는 임무. 언녕의 소속을 밝힐 수 있을지 확인 | warfarin.wiki 한국어 스토리 리더(무릉 탐색·서브 임무 대사는 gm02m{N} 번호. 사이트맵 /sitemap/kr.xml에 전체 목록이 있고, 이 임무 번호는 아직 열어 보지 않음)
+- 1.7 이벤트 「뜻밖의 만남, 버섯 동산 대모험」(Meeting You in the World o'Shrooms)과 오퍼레이터 스토리 「케르: 새로운 여정」 줄거리 | world/event_stories.md, operators/kay.md 배경 절에 링크 | 케르가 관리자를 만난 무릉 외곽 이야기와 '소중한 선물'의 내용. 무릉의 버섯 지역에서 와플을 아츠로 쓰는 장면이 나온다는 나무위키 서술을 대사로 확인 | 나무위키 스토리 문서, endfield.wiki.gg 이벤트·임무 문서, warfarin.wiki 한국어 스토리 리더
+- 미미노(Mimino) 오퍼레이터 문서 | operators/mimino.md | 1.7 버전 5성 물리 권총 서포터, 로그인 보상(Workers' Guards: Roll Call). 연맹 공단 소속, 4번 협곡 출신. 휴대 장치를 던져 배틀·연계 스킬로 터뜨려 방어 불능과 버프 장판을 만든다. 2026-11-25 기준 출시 전이라 스킬 배율이 채워진 뒤 쓴다 | 나무위키, endfield.wiki.gg Mimino
+- 재검증 | parties/typhoeus_party.md 케르 편성 구상(티프로스·케르·결·리노) | 2026-12-09. 실제 편성·클리어 영상과 대조해 정석으로 올리거나 고친다. 나무위키의 다른 추천 편성 케르·결·탕탕·리노(결 메인)도 이때 결 파티 문서에 판정해 넣는다 | 나무위키 케르 추천 편성, 커뮤니티 공략·영상
 
 ## 확인 필요
 
 [AGENTS.md](../AGENTS.md) 6절에 맞는 질문만 둔다.
 
+- 케르 연계 스킬의 강제 자연 폭발이 적의 자연 부착 스택을 하나 올리는지 | operators/kay.md, parties/typhoeus_party.md, systems/interactions.md | 올리면 티프로스가 흡수할 부착이 바퀴마다 1스택 늘어 에너지 +12가 붙는다. 텍스트는 정하지 않는다 | 답 기한 2026-11-28. 없으면 지금처럼 확인하지 못한 것으로 둔다
+
 ## 완료
+
+- 2026-11-26: operators/kay.md(케르. 출시 뒤 한국어 표기가 '케르'로 나와 슬러그는 영어 이름 kay, 나무위키 2026-11-25 수정본의 한국어 스킬 이름과 기록, endfield.wiki.gg 수치), parties/typhoeus_party.md 케르 편성 구상, parties/synergy.md·systems/interactions.md·systems/weapons.md·systems/operators.md에 케르 반영, world/civilization_band.md Morospolis의 한국어 표기 마르스폴리스(케르 파일 자료 3). 파일 자료 2 개방 조건은 나무위키 50%, endfield.wiki.gg 100%로 달라 양쪽을 적음. 키메라의 정의 등급은 나무위키 운용 절이 4성으로 적지만 endfield.wiki.gg와 무기 문서대로 5성으로 둠. 명하 이야기와 무릉 임무 세 건은 케르 문서에 회차를 써서 남김
 
 - 2026-11-25: world/event_stories.md 운명의 계시(gm02m22 한국어·영어 대사), world/wuling.md 무명검록(1)~(3)(gm02m17~m19)·돌아갈 길이 없다(gm02m21)를 한국어 대사로 다시 쓰고 골짜기의 검 기둥(gm02m15)·귀환의 종소리 대사(gm02m27)·종이 세 번 울릴 때(gm02m8) 추가, content/si_painting.md 「곳곳에 숨은 기이한 이야기」(gm02m24), world/factions.md 수료식 「스승을 떠나는 세 자루의 검」(gm02m7)과 세 훈계, glossary.md 표기. 무릉 탐색·서브 임무 대사 문서가 sm2l이 아닌 gm02m{N} 번호임을 사이트맵에서 찾음. 언녕(Yan Ning)과 언(Phrase)은 다른 사람이고, Shore·Stern·Benefit의 한국어 이름은 안·숙·익, Frigid·Brightfire는 령·조. 삼도종은 무릉성의 종, 알림종은 이야기 속 수명성의 종으로 정리하고 Citizen Square를 시민 광장으로 확정. 경·세·인(Strength, Momentum, Resilience)과 수료식의 힘·형세·인내(Jin, Shi, Ren)는 영어가 달라 같은 말로 묶지 않음. 명하 이야기는 이벤트가 11-26에 끝나 남김. 케이(1.7, 11-26 출시)는 아직 나오지 않아 쓰지 않음
 
