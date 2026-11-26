@@ -17,7 +17,7 @@
 
 ## systems/ — 전투 규칙·육성·아이템
 
-- [systems/operators.md](systems/operators.md) — 오퍼레이터 개요 (등급, 능력치 효과, 직군 역할, 무기·장비, 전체 34명의 속성·무기·직군 명단)
+- [systems/operators.md](systems/operators.md) — 오퍼레이터 개요 (등급, 능력치 효과, 직군 역할, 무기·장비, 전체 35명의 속성·무기·직군 명단)
 - [systems/interactions.md](systems/interactions.md) — 상호작용 규칙 (사건 어휘, 아츠 부착·폭발·이상, 방어 불능·물리 이상, 상태가 겹칠 때의 결과와 순서, 아군이 받는 이상. 사이클을 짤 때의 규칙 엔진)
 - [systems/combat.md](systems/combat.md) — 전투 기본 (4인 편성과 교대, 강력한 일격·처형·극한 회피, 공유 스킬 게이지와 반환, 연계 스킬 조건 유형과 자리 우선순위, 궁극기 에너지 충전 규칙, 불균형·차지, 증폭·취약·허약·비호 분류와 피해 배율 공식, 순환 구성의 기초)
 - [systems/weapons.md](systems/weapons.md) — 무기 (종류·등급, 무기 스킬, 돌파·잠재능력·기질·기질 식각, 획득처, 종류별 6~3성 무기 목록과 전용 대상·효과)
@@ -59,7 +59,7 @@
 - [world/lycia.md](world/lycia.md) — 리시아 (펠리카와 자매처럼 자란 엔드필드 출신 랜드브레이커. 펠리카 파일 자료 1 권한 기록, 나무위키 서술, 1장 Ⅳ 등장 장면, 139년 구출)
 - [world/m3.md](world/m3.md) — M3 (엔드필드 공업의 정예 오퍼레이터이자 미션 제로 집행자. 자기소개, 펠리카 파일 자료 1·4의 역할, 창립자와 원점, 리컨비너 묵인, 메인 스토리의 발언)
 - [world/zeroth_directive.md](world/zeroth_directive.md) — 미션 제로 (과거의 관리자가 남긴 의뢰. 언어별 표기, 프롤로그·1장·2장 Ⅷ의 언급, 펠리카 파일 자료 4의 서명인 임명, 생명 재가동, 관련 인물)
-- [world/civilization_band.md](world/civilization_band.md) — 문명 밴드의 도시 (라반도르마(La Fantoma), 탈로스 성, 맛 고로도프, 홍산 환형산(매스 드라이버와 홍산 1번 질량 가속기), 고요한 수도회의 대수도원과 부서진 분, 옐시, 오보르니스크, 트리글라바, Morospolis의 설정과 관련 오퍼레이터 기록, 출처마다 다른 이름)
+- [world/civilization_band.md](world/civilization_band.md) — 문명 밴드의 도시 (라반도르마(La Fantoma), 탈로스 성, 맛 고로도프, 홍산 환형산(매스 드라이버와 홍산 1번 질량 가속기), 고요한 수도회의 대수도원과 부서진 분, 옐시, 오보르니스크, 트리글라바, 마르스폴리스(Morospolis)의 설정과 관련 오퍼레이터 기록, 출처마다 다른 이름)
 - [world/yan.md](world/yan.md) — 염국 (테라 동쪽의 제국. 중추 파일 '염국'의 황제·여섯 부·사세대·금위군, 스스로를 염국의 기관으로 여기는 홍산 과학원과 천사부 학원, 담 천사가 임명한 탈로스2 금위군 열세 명과 명하, 장검 골짜기의 비밀 금고와 문명 보존 협정, 선조의 샘의 염국 장치)
 - [world/behemoth.md](world/behemoth.md) — 베헤모스와 쉐이 (베헤모스와 베헤모스 대리인의 정의·권능, 탈로스2의 베헤모스 사미·세쉬카의 유골·식양 개발, 중추 파일의 대사냥과 쉐이·열두 대리인·쉐이수, 사의 탄생, 사세대와 응룡 특수부대, 수돈의 베헤모스 심장과 쉐이의 열세 번째 대리인·심장 에너지 누출, 무릉의 드래곤 버블)
 - [world/founder.md](world/founder.md) — 창립자와 원점 (이름 없이 '창립자'로만 나오는 엔드필드 공업 창립자, 관리자·M3·창립자·정예 오퍼레이터의 의사 결정층 '원점'과 3대 중추, 위기 대책팀 지휘, 펠리카 파일 자료 4, 감독관 직위)
@@ -73,7 +73,7 @@
 - [parties/zhuang_fangyi_party.md](parties/zhuang_fangyi_party.md) — 장방이 파티 (리노·장방이·펠리카·결 정석, 22단계 사이클과 단계별 이유, 천리의 경지 딜 구간, 아크라이트·알레쉬 변형. 풀이 예제)
 - [parties/yvonne_party.md](parties/yvonne_party.md) — 이본 파티 (이본·자이히·탕탕·질베르타 정석, 부착 → 동결 → 연계 사이클과 궁극기 순서의 이유, 에너지·충전 효율. 풀이 예제)
 - [parties/laevatain_party.md](parties/laevatain_party.md) — 레바테인 파티 (레바테인·울프가드·아델리아·카뮤 정석, 흡수 → 열화 → 4스택 배틀 스킬 사이클과 황혼 딜 구간, 레바테인·사·결·카뮤 사 편성, 질베르타·결·네 번째 자리 변형)
-- [parties/typhoeus_party.md](parties/typhoeus_party.md) — 티프로스 파티 (티프로스·결·리노·펠리카 정석, 자연 부착 → 계시 → 사냥 화살 사이클과 딜 구간, 에너지·SP 수지, 보급형·서포터 교체 변형)
+- [parties/typhoeus_party.md](parties/typhoeus_party.md) — 티프로스 파티 (티프로스·결·리노·펠리카 정석, 자연 부착 → 계시 → 사냥 화살 사이클과 딜 구간, 에너지·SP 수지, 케르·결·리노 구상, 보급형·서포터 교체 변형)
 - [parties/arcane_party.md](parties/arcane_party.md) — 결 파티 (진결·지혜 결·리노·사·질베르타 정석, 연계 → 배틀 반환 사이클, 궁극기 → 집중 공격 딜 구간, 에너지·SP 수지)
 - [parties/pogranichnik_party.md](parties/pogranichnik_party.md) — 포그라니치니크 파티 (방어 불능 파티. 포그라니치니크·진천우·여풍·판 정석, 4스택 갑옷 파괴 → 다시 4스택 강타 사이클, 철의 서약 딜 구간, 미브·관리자·디펜더 변형)
 - [parties/mi_fu_party.md](parties/mi_fu_party.md) — 미브 파티 (쇄빙 파티. 미브·에스텔라·알레쉬·진천우 정석, 동결 → 쇄빙 → 방어 불능 → 추형·개천 사이클, 에너지·SP, 포그라니치니크·냉기 쇄빙 변형)
@@ -119,6 +119,7 @@
 - [operators/si.md](operators/si.md) — 사 (6성 냉기 양손검 서포터. 베헤모스 대리인. 필의로 받은 피해를 고정 피해로 터뜨리고 냉기·열기 부착이 소모·흡수되면 연계 스킬을 쓰며 궁극기로 팀 냉기·열기 증폭을 건다)
 - [operators/argent_flow.md](operators/argent_flow.md) — 명하 (6성 한정 전기 한손검 가드. 홍산 과학원 정천도위, 본명 야명하. 연계 뒤 질주하는 천둥으로 전기 부착을 소모해 받는 모든 피해를 늘리는 감전과 우레를 걸고, 궁극기 강타로 우레를 터뜨린다. 배경에 인사 요약서·파일 자료 1~4·대사)
 - [operators/avywenna.md](operators/avywenna.md) — 아비웨나 (5성 전기 장병기 스트라이커. 탈로스 II 상업연합회 전달자. 썬더랜스를 쌓았다가 배틀 스킬로 한꺼번에 회수한다)
+- [operators/kay.md](operators/kay.md) — 케르 (6성 한정 자연 장병기 뱅가드. 로도스 아일랜드의 리컨비너, 본명 케르베. 연계 스킬로 무기를 던져 강제 자연 폭발과 SP 회복을 일으키고, 던진 무기 3개를 배틀 스킬로 거두면 강제 연소를 건다. 배경에 인사 요약서·파일 자료 1~4·대사)
 
 ## notes/
 
