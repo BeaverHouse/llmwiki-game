@@ -1,7 +1,7 @@
 ---
 title: 무릉 (Wuling)
 type: guide
-aliases: [무릉, Wuling, 武陵, 무릉 과학 개발 구역, 무릉성, 무릉 대균열, 청파채, 수돈, 응룡 관문, 응룡 특수부대, Yinglung Special Task Force, 봉, Summit, 언, Phrase, 북쪽 금지 구역, North Wuling Exclusion Zone, 담검당, Tanjian Hall, 축 교관, Instructor Zhu, 진뢰, Blitzcrash, 창적, Cangzei Pirates, 이당가, Ruan Lin, 장검 골짜기, Sword Vault Dale, Deep Vaulted Steel, 침식 안개, Blight Miasma, 메인 스토리 2장, 수명, Suiming, 遂明, 여소귀, Yu Shigui, Bell of Recollection, Waking Bell, 선조의 샘, Ancestral Spring, Patron of the Spring, Du Ming, Marker Stone, 首礎, 수돈 내부, Marker Stone Interiors, 잔영, Æthillu, 원 천사, Tianshi Ruan, 무릉성 순찰대, Wuling Watchguards, 가반, Jia Ban, 철묘, Iron Boatswain, 수구, Rusty Hook, 도시 건설관, Urban Development Hall, 영수벽, Eternal Wall, 안사원, Serenity Garden, 공적비, Merit Stones, 귀환의 종소리, 기억의 종소리, 상진, Shang Jin, 알림종, 삼도종, Bell of Three Presences, 검이 숨겨진 골짜기, 연효무, Lian Xiaowu, 월턴, Walton, 유적 검 기둥, Ancient Sword Stele, 샘의 나그네, 두명, Du Ming, 슬픔은 늘 소리 없이 찾아온다, 침묵 속에 울려 퍼지는 슬픔, 무명검록, 무명의 칼날, Nameless Blades, 돌아갈 길이 없다, 닿을 수 없는 고향, Home Beyond Reach, 전우, Comrades, 강정구, 강정무, 강 천사, 능월, 옛 인연과의 재회, Old Acquaintance, 해묵, Xi Mo, 심교아, Shen Jiao'e, 실험 구역, Test Area, 다시 찾아온 봄, Spring's Return, 육령향, Lu Lingxiang, C형 천사장, Type-C Tianshi Pillar, C형 보조 기둥, Type-C Auxiliary Pillar, 기계 핵심 모듈, 경위 논밭, Meridian Grids, 정수 노드, Purification Node, 언녕, Yan Ning, 응룡 전갑, Yinglung War Case, 조, Brightfire, 령, Frigid, 구체원석충, 봉수장, Balepyre Tower, 골짜기의 검 기둥, Cliffside Riddles of Steel, 모서, 시민 광장, Citizen Square]
+aliases: [무릉, Wuling, 武陵, 무릉 과학 개발 구역, 무릉성, 무릉 대균열, 청파채, 수돈, 응룡 관문, 응룡 특수부대, Yinglung Special Task Force, 봉, Summit, 언, Phrase, 북쪽 금지 구역, North Wuling Exclusion Zone, 담검당, Tanjian Hall, 축 교관, Instructor Zhu, 진뢰, Blitzcrash, 창적, Cangzei Pirates, 이당가, Ruan Lin, 장검 골짜기, Sword Vault Dale, Deep Vaulted Steel, 침식 안개, Blight Miasma, 메인 스토리 2장, 수명, Suiming, 遂明, 여소귀, Yu Shigui, Bell of Recollection, Waking Bell, 선조의 샘, Ancestral Spring, Patron of the Spring, Du Ming, Marker Stone, 首礎, 수돈 내부, Marker Stone Interiors, 잔영, Æthillu, 원 천사, Tianshi Ruan, 무릉성 순찰대, Wuling Watchguards, 가반, Jia Ban, 철묘, Iron Boatswain, 수구, Rusty Hook, 도시 건설관, Urban Development Hall, 영수벽, Eternal Wall, 안사원, Serenity Garden, 공적비, Merit Stones, 귀환의 종소리, 기억의 종소리, 상진, Shang Jin, 알림종, 삼도종, Bell of Three Presences, 검이 숨겨진 골짜기, 연효무, Lian Xiaowu, 월턴, Walton, 유적 검 기둥, Ancient Sword Stele, 샘의 나그네, 두명, Du Ming, 슬픔은 늘 소리 없이 찾아온다, 침묵 속에 울려 퍼지는 슬픔, 무명검록, 무명의 칼날, Nameless Blades, 돌아갈 길이 없다, 닿을 수 없는 고향, Home Beyond Reach, 전우, Comrades, 강정구, 강정무, 강 천사, 능월, 옛 인연과의 재회, Old Acquaintance, 해묵, Xi Mo, 심교아, Shen Jiao'e, 실험 구역, Test Area, 다시 찾아온 봄, Spring's Return, 육령향, Lu Lingxiang, C형 천사장, Type-C Tianshi Pillar, C형 보조 기둥, Type-C Auxiliary Pillar, 기계 핵심 모듈, 경위 논밭, Meridian Grids, 정수 노드, Purification Node, 언녕, Yan Ning, 응룡 전갑, Yinglung War Case, 조, Brightfire, 령, Frigid, 구체원석충, 봉수장, Balepyre Tower, 골짜기의 검 기둥, Cliffside Riddles of Steel, 모서, 시민 광장, Citizen Square, 침식의 그림자 관찰 일지, Blightshade Watch, 하지, 과거의 보물, Treasures of the Past, 낙안, 순조부]
 sources:
   - https://namu.wiki/w/명일방주:%20엔드필드/지역 (수명·장검 골짜기·수돈 문단 포함, 2026-11-03 수정본, 2026-11-04 열람, CC BY-NC-SA 2.0 KR)
   - https://namu.wiki/w/명일방주:%20엔드필드/등장인물%20및%20세력 (청파채·봉·수구와 철묘 문단 포함, 2026-10-25 수정본, 2026-11-05 열람, CC BY-NC-SA 2.0 KR)
@@ -27,7 +27,7 @@ sources:
   - https://warfarin.wiki/kr/missions · https://warfarin.wiki/en/missions (한국어·영어 임무 목록과 설명, v1.6 데이터, 2026-11-21 열람)
   - https://warfarin.wiki/kr/missions/sm2l8m1 (달이 가고 해가 오리라) · sm2l7m1 (슬픔은 늘 소리 없이 찾아온다) · sm2l6m1 (검이 숨겨진 골짜기) 한국어 대사, 2026-11-21 열람 · sm2l4m1~sm2l4m4 (전우 · 무명/추억/기념/내일) 한국어 대사와 목표, 2026-11-22 열람 · sm2l4m5·sm2l4m6 (옛 인연과의 재회(1)(2)) · sm2l5m1~sm2l5m3 (다시 찾아온 봄(1)~(3)) 한국어 대사와 목표, 2026-11-23 열람
   - https://warfarin.wiki/en/missions/sm2l4m5 · sm2l4m6 · sm2l5m1 · sm2l5m3 (같은 임무의 영어 이름과 대사, 2026-11-23 열람)
-  - https://warfarin.wiki/kr/missions/gm02m17 · gm02m18 · gm02m19 (무명검록(1)~(3)) · gm02m21 (돌아갈 길이 없다) · gm02m15 (골짜기의 검 기둥) · gm02m27 (귀환의 종소리) · gm02m8 (종이 세 번 울릴 때) 한국어 대사와 목표, /en/missions/gm02m15 · gm02m18 · gm02m19 · gm02m21 영어 대사, v1.6 데이터, 2026-11-25 열람
+  - https://warfarin.wiki/kr/missions/gm02m17 · gm02m18 · gm02m19 (무명검록(1)~(3)) · gm02m21 (돌아갈 길이 없다) · gm02m15 (골짜기의 검 기둥) · gm02m27 (귀환의 종소리) · gm02m8 (종이 세 번 울릴 때) 한국어 대사와 목표, /en/missions/gm02m15 · gm02m18 · gm02m19 · gm02m21 영어 대사, v1.6 데이터, 2026-11-25 열람 · gm02m20 (침식의 그림자 관찰 일지) · gm02m23 (과거의 보물) 한국어 대사와 목표, v1.7 데이터, 2026-11-27 열람
   - https://endfield.wiki.gg/wiki/Nameless_Blades_III (2026-09-05 수정본, 영어 임무 목표와 감시 작전 보고서, 2026-11-22 열람)
   - https://endfield.wiki.gg/wiki/North_Wuling_Exclusion_Zone (2026-10-19 수정본)
   - https://endfield.wiki.gg/wiki/Nexus_Files:_North_Wuling_Exclusion_Zone
@@ -45,7 +45,7 @@ sources:
   - https://gamewith.net/akendfield/73207 (영문 챕터명)
   - https://appmedia.jp/?p=79690247 (일본어 지명)
 created: 2026-10-18
-updated: 2026-11-25
+updated: 2026-11-27
 ---
 
 # 무릉 (Wuling)
@@ -313,6 +313,8 @@ C형 천사장(Type-C Tianshi Pillar)과 그것을 보조하는 C형 보조 기�
   - (2) 언녕(Yan Ning)이 관리자를 부른다. 응룡의 탐사 임무는 보통 담검당 근처에서 끝났는데, 응룡도 좀처럼 들어가지 못하던 더 깊은 곳까지 응룡장(Yinglung Pillar)이 늘어서 있다. 응룡장들은 당분간 그대로 두고, 관리자는 부서진 응룡장과 전갑을 부유식 회수기 II로 회수한다. 칩에서 나온 이름은 2년 전 대규모 탐사 작전의 대장이던 숙(Stern)과 안(Shore)이다. 그들이 더 깊은 안개 속으로 들어가며 이 응룡장들을 세웠고, 부서진 응룡장이 기록상의 마지막 지점이다. 언녕은 안에 관한 단서를 언에게 전하겠다고 한다.
   - (3) 언은 자기도 그 탐사 작전에 들어가야 했지만 중상으로 반년 동안 일어나지 못했다고 털어놓는다. 직속 상관이던 안 대장은 작전 전날 오후 찾아와, 작전 규모 때문에 소대 인원을 다 채워야 해서 언을 소대에서 빼고 회복하면 새 부대로 보내겠다고 했다. 그날 오후가 마지막 만남이었다. 응룡은 선배들이 2년 전에 이미 [알레이크레오스의 검](foundation.md#알레이크레오스의-검)을 찾아냈다는 것을 알았지만, 좌표를 조사할 수 있게 됐을 때는 안개가 훨씬 심해져 선배들이 전하려던 정보를 찾지 못했다. 관리자는 익(Benefit)이 봉인해 둔 것으로 보이는 상자와 안 대장의 전갑을 부유식 회수기 III으로 회수하고, 정보실이 분석한다. 언은 안 대장이 지키려던 책무를 가슴에 새기고 상처가 아물지 않은 이 땅에서 살겠다고 약속한다.
   - 영어 임무 목표로는 정보 문서 보관소에서 정보 부서가 제4차 대규모 감시 작전(Major Surveillance Op 4)의 전 과정을 분석·재현한 보고서를 열고, 관리자가 사본을 언에게 보낸다.
+- 침식의 그림자 관찰 일지: 침식을 연구하는 천사 하지가 연구 과제 자료를 모으러 금지 구역에 와서, 수치가 다른 침식의 그림자가 무리 지어 다니는 모습을 한 번 보았다. 관리자가 싸우고 하지가 기록한다. 짐승 모양과 사람 모양의 침식의 그림자가 서로 돕고 지원군을 부르며, 지원군이 또 지원군을 부른다. 하지는 원형이 된 이들이 생전에 서로 알거나 가까웠다면 침식의 그림자도 협동하는 행동을 유지한다는 가설을 세웠고, 이번 행동이 가설을 어느 정도 뒷받침한다고 본다. 하지는 전날 동료 낙안에게 뽑은 흉괘를 내내 걱정한다.
+- 과거의 보물: 현장 조사를 나온 천사 낙안은 떠나기 전 대선배들에게서 10년 전 연구 보고서를 찾아 달라는 공동 의뢰를 받았다. 초기 데이터가 담긴 원시 데이터 백업으로, 대균열 연구에 큰 의미가 있다. 의뢰한 선배들은 당시 실험팀의 생존자이고, 팀장은 그 재앙에 희생되었다. 관리자가 침식으로 설비가 고장 난 폐허를 지나 1번 백업을 찾고, 낙안이 고전적인 학술용 암호를 풀어 남은 두 곳을 찾는다. 낙안은 생활 구역 근처 화물 창고의 2번을, 관리자는 금지 구역 깊은 곳의 3번을 맡고, 합류 지점에서 '골칫거리'에 쫓기던 낙안을 관리자가 구한다. 낙안은 점괘를 보고 순조부, 평안구, 무사패, 쌍전결, 액막이 호리병 같은 부적을 늘 지닌다. 부모를 일찍 잃고 친척들에게 재앙을 부르는 아이라고 미움받다가 천사부 학원에 들어가서야 사람 대접을 받았고, 부적 대부분은 학원 선배와 동기들이 준 것이다.
 - 달이 가고 해가 오리라: 대균열이 닫힌 뒤 결의 부탁으로 여풍을 도와, 142년 재앙에서 함께 살아남은 친구 백상·연이·생이의 가족 유품과 여풍 부모(여현, 제이)의 흔적을 찾는다. 여풍 부모는 마지막 철수 대열에 여풍을 맡기고 담검당 북쪽 폐기 설비 적치장의 균열을 막으러 갔고, 유품은 남지 않았다. 그 자리의 천사들이 여풍 부모를 기억하는 일을 들려주고, 여풍은 '여풍'이라는 이름에 부끄럽지 않게 살겠다고 한다.
 - 슬픔은 늘 소리 없이 찾아온다: 응룡 대원 량이 유품을 반환하다 찾은 악기에 재앙으로 흩어진 남쪽 홍산 유랑 극단의 이름이 새겨져 있다. 극단은 부모 없는 아이들을 거두어 각지를 돌며 공연하고 사람을 도왔고, 아이가 자라면 극단에 남을지 악기를 들고 떠날지 고르게 했다. 악기는 다른 사람을 돕겠다는 책임의 표시였다. 관리자는 결, 펠리카와 함께 옛 단원인 요리사 심바다와 순찰대원 이랑에게 악기를 돌려주고, 마지막 피리는 옛 단원이던 봉이 동생 남현에게 물려준다.
 
@@ -418,6 +420,8 @@ C형 천사장(Type-C Tianshi Pillar)과 그것을 보조하는 C형 보조 기�
 - 해묵이 십 년 전 입었던 방호복 명찰의 이름. 「다시 찾아온 봄」(3)에서 프로젝트 이름이 셋 가운데 무엇으로 정해지는지(육령향의 반응 대사가 셋 모두 이어져 나온다). 실험 구역에 침식 조류가 든 시기.
 
 ## 히스토리
+
+- 2026-11-27: 북쪽 금지 구역에 탐색 임무 「침식의 그림자 관찰 일지」(하지의 협동 가설)와 「과거의 보물」(낙안과 대균열 실험팀의 원시 데이터 백업) 추가.
 
 - 2026-11-25: 무명검록 세 편과 돌아갈 길이 없다를 한국어 대사로 다시 씀(언녕과 언은 다른 사람, Shore·Stern·Benefit의 한국어 이름 안·숙·익). 장검 골짜기에 골짜기의 검 기둥 추가. 수명 절에 귀환의 종소리 대사와 종이 세 번 울릴 때 추가, 삼도종은 무릉성의 종이고 알림종은 이야기 속 종으로 정리.
 - 2026-11-23: 수돈 절에 「옛 인연과의 재회」 두 편, 실험 구역 절(C형 천사장, 「다시 찾아온 봄」 세 편, 정수 노드) 추가. 정수 노드를 수돈 설비에서 실험 구역 설비로 고침.
