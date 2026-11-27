@@ -1,7 +1,7 @@
 ---
 title: 무릉 (Wuling)
 type: guide
-aliases: [무릉, Wuling, 武陵, 무릉 과학 개발 구역, 무릉성, 무릉 대균열, 청파채, 수돈, 응룡 관문, 응룡 특수부대, Yinglung Special Task Force, 봉, Summit, 언, Phrase, 북쪽 금지 구역, North Wuling Exclusion Zone, 담검당, Tanjian Hall, 축 교관, Instructor Zhu, 진뢰, Blitzcrash, 창적, Cangzei Pirates, 이당가, Ruan Lin, 장검 골짜기, Sword Vault Dale, Deep Vaulted Steel, 침식 안개, Blight Miasma, 메인 스토리 2장, 수명, Suiming, 遂明, 여소귀, Yu Shigui, Bell of Recollection, Waking Bell, 선조의 샘, Ancestral Spring, Patron of the Spring, Du Ming, Marker Stone, 首礎, 수돈 내부, Marker Stone Interiors, 잔영, Æthillu, 원 천사, Tianshi Ruan, 무릉성 순찰대, Wuling Watchguards, 가반, Jia Ban, 철묘, Iron Boatswain, 수구, Rusty Hook, 도시 건설관, Urban Development Hall, 영수벽, Eternal Wall, 안사원, Serenity Garden, 공적비, Merit Stones, 귀환의 종소리, 기억의 종소리, 상진, Shang Jin, 알림종, 삼도종, Bell of Three Presences, 검이 숨겨진 골짜기, 연효무, Lian Xiaowu, 월턴, Walton, 유적 검 기둥, Ancient Sword Stele, 샘의 나그네, 두명, Du Ming, 슬픔은 늘 소리 없이 찾아온다, 침묵 속에 울려 퍼지는 슬픔, 무명검록, 무명의 칼날, Nameless Blades, 돌아갈 길이 없다, 닿을 수 없는 고향, Home Beyond Reach, 전우, Comrades, 강정구, 강정무, 강 천사, 능월, 옛 인연과의 재회, Old Acquaintance, 해묵, Xi Mo, 심교아, Shen Jiao'e, 실험 구역, Test Area, 다시 찾아온 봄, Spring's Return, 육령향, Lu Lingxiang, C형 천사장, Type-C Tianshi Pillar, C형 보조 기둥, Type-C Auxiliary Pillar, 기계 핵심 모듈, 경위 논밭, Meridian Grids, 정수 노드, Purification Node, 언녕, Yan Ning, 응룡 전갑, Yinglung War Case, 조, Brightfire, 령, Frigid, 구체원석충, 봉수장, Balepyre Tower, 골짜기의 검 기둥, Cliffside Riddles of Steel, 모서, 시민 광장, Citizen Square, 침식의 그림자 관찰 일지, Blightshade Watch, 하지, 과거의 보물, Treasures of the Past, 낙안, 순조부]
+aliases: [무릉, Wuling, 武陵, 무릉 과학 개발 구역, 무릉성, 무릉 대균열, 청파채, 수돈, 응룡 관문, 응룡 특수부대, Yinglung Special Task Force, 봉, Summit, 언, Phrase, 북쪽 금지 구역, North Wuling Exclusion Zone, 담검당, Tanjian Hall, 축 교관, Instructor Zhu, 진뢰, Blitzcrash, 창적, Cangzei Pirates, 이당가, Ruan Lin, 장검 골짜기, Sword Vault Dale, Deep Vaulted Steel, 침식 안개, Blight Miasma, 메인 스토리 2장, 수명, Suiming, 遂明, 여소귀, Yu Shigui, Bell of Recollection, Waking Bell, 선조의 샘, Ancestral Spring, Patron of the Spring, Du Ming, Marker Stone, 首礎, 수돈 내부, Marker Stone Interiors, 잔영, Æthillu, 원 천사, Tianshi Ruan, 무릉성 순찰대, Wuling Watchguards, 가반, Jia Ban, 철묘, Iron Boatswain, 수구, Rusty Hook, 도시 건설관, Urban Development Hall, 영수벽, Eternal Wall, 안사원, Serenity Garden, 공적비, Merit Stones, 귀환의 종소리, 기억의 종소리, 상진, Shang Jin, 알림종, 삼도종, Bell of Three Presences, 검이 숨겨진 골짜기, 연효무, Lian Xiaowu, 월턴, Walton, 유적 검 기둥, Ancient Sword Stele, 샘의 나그네, 두명, Du Ming, 슬픔은 늘 소리 없이 찾아온다, 침묵 속에 울려 퍼지는 슬픔, 무명검록, 무명의 칼날, Nameless Blades, 돌아갈 길이 없다, 닿을 수 없는 고향, Home Beyond Reach, 전우, Comrades, 강정구, 강정무, 강 천사, 능월, 옛 인연과의 재회, Old Acquaintance, 해묵, Xi Mo, 심교아, Shen Jiao'e, 실험 구역, Test Area, 다시 찾아온 봄, Spring's Return, 육령향, Lu Lingxiang, C형 천사장, Type-C Tianshi Pillar, C형 보조 기둥, Type-C Auxiliary Pillar, 기계 핵심 모듈, 경위 논밭, Meridian Grids, 정수 노드, Purification Node, 언녕, Yan Ning, 응룡 전갑, Yinglung War Case, 조, Brightfire, 령, Frigid, 구체원석충, 봉수장, Balepyre Tower, 골짜기의 검 기둥, Cliffside Riddles of Steel, 모서, 시민 광장, Citizen Square, 침식의 그림자 관찰 일지, Blightshade Watch, 하지, 과거의 보물, Treasures of the Past, 낙안, 순조부, 내 손안의 구세주, Palm-Top Savior, 식양 호리병, 좌고언, Zuo Guyan, 료무흔, 백상, 옛 댐, 진균 생태원, 거대 버섯을 향해서, 취기가 지나고, 로저, 시브카, 이이릴, L329 특수 사건]
 sources:
   - https://namu.wiki/w/명일방주:%20엔드필드/지역 (수명·장검 골짜기·수돈 문단 포함, 2026-11-03 수정본, 2026-11-04 열람, CC BY-NC-SA 2.0 KR)
   - https://namu.wiki/w/명일방주:%20엔드필드/등장인물%20및%20세력 (청파채·봉·수구와 철묘 문단 포함, 2026-10-25 수정본, 2026-11-05 열람, CC BY-NC-SA 2.0 KR)
@@ -28,6 +28,8 @@ sources:
   - https://warfarin.wiki/kr/missions/sm2l8m1 (달이 가고 해가 오리라) · sm2l7m1 (슬픔은 늘 소리 없이 찾아온다) · sm2l6m1 (검이 숨겨진 골짜기) 한국어 대사, 2026-11-21 열람 · sm2l4m1~sm2l4m4 (전우 · 무명/추억/기념/내일) 한국어 대사와 목표, 2026-11-22 열람 · sm2l4m5·sm2l4m6 (옛 인연과의 재회(1)(2)) · sm2l5m1~sm2l5m3 (다시 찾아온 봄(1)~(3)) 한국어 대사와 목표, 2026-11-23 열람
   - https://warfarin.wiki/en/missions/sm2l4m5 · sm2l4m6 · sm2l5m1 · sm2l5m3 (같은 임무의 영어 이름과 대사, 2026-11-23 열람)
   - https://warfarin.wiki/kr/missions/gm02m17 · gm02m18 · gm02m19 (무명검록(1)~(3)) · gm02m21 (돌아갈 길이 없다) · gm02m15 (골짜기의 검 기둥) · gm02m27 (귀환의 종소리) · gm02m8 (종이 세 번 울릴 때) 한국어 대사와 목표, /en/missions/gm02m15 · gm02m18 · gm02m19 · gm02m21 영어 대사, v1.6 데이터, 2026-11-25 열람 · gm02m20 (침식의 그림자 관찰 일지) · gm02m23 (과거의 보물) 한국어 대사와 목표, v1.7 데이터, 2026-11-27 열람
+  - https://warfarin.wiki/kr/missions/a1m8d1 · a1m8d2 · a1m8d3 (내 손안의 구세주(1)~(3)) · gm02m28 (거대 버섯을 향해서) · sm2l11m1 (취기가 지나고) 한국어 대사와 목표 · /kr/medals/dam-treader (댐 여행자 훈장), v1.7 데이터, 2026-11-28 열람
+  - https://endfield.wiki.gg/wiki/AIC_Support:_Palm-Top_Savior (내 손안의 구세주의 이벤트 이름, 2026-09-17 수정본, 2026-11-28 열람)
   - https://endfield.wiki.gg/wiki/Nameless_Blades_III (2026-09-05 수정본, 영어 임무 목표와 감시 작전 보고서, 2026-11-22 열람)
   - https://endfield.wiki.gg/wiki/North_Wuling_Exclusion_Zone (2026-10-19 수정본)
   - https://endfield.wiki.gg/wiki/Nexus_Files:_North_Wuling_Exclusion_Zone
@@ -45,7 +47,7 @@ sources:
   - https://gamewith.net/akendfield/73207 (영문 챕터명)
   - https://appmedia.jp/?p=79690247 (일본어 지명)
 created: 2026-10-18
-updated: 2026-11-27
+updated: 2026-11-28
 ---
 
 # 무릉 (Wuling)
@@ -148,7 +150,7 @@ updated: 2026-11-27
 3. 전우 · 기념: 철묘는 청파채 주민인 자신이 부탁할 수 없다며 형의 이름을 영수벽에 몰래 새기려 하지만, 벽에는 이미 '강정구'와 '수구'가 새로 새겨져 있다. 진천우는 수구의 본명을 아는 미브가 새겼다고 짐작한다. 추도식에서 미브는 이곳에 잠든 이들이 진정한 승리자라며 애도한다.
 4. 전우 · 내일: 도시 건설관의 고장 난 천사장을 고친다. 철묘는 다음 주 수습 순찰대원이 되면 사고가 잦은 수돈 쪽 근무를 신청해 할아버지와 형을 지키겠다고 말한다.
 
-endfield.wiki.gg 명단에는 여풍도 수습 대원으로 올라 있고, 그 밖에 Huang Di, Ji Bing, Lan Shan, Li Liangliang, Li Zhui, Liu, Ren Zhenyun, Yan Lin, Yu Shi, Zuo Guyan이 대원으로 적혀 있다. 여풍이 순찰대 소속이라는 게임 안 기록은 확인하지 못했다.
+endfield.wiki.gg 명단에는 여풍도 수습 대원으로 올라 있고, 그 밖에 Huang Di, Ji Bing, Lan Shan, Li Liangliang, Li Zhui, Liu, Ren Zhenyun, Yan Lin, Yu Shi, Zuo Guyan이 대원으로 적혀 있다. Zuo Guyan은 「[내 손안의 구세주](#내-손안의-구세주)」와 「드래곤 버블 여행기」의 순찰대원 좌고언이다. 여풍이 순찰대 소속이라는 게임 안 기록은 확인하지 못했다.
 
 ### 청파채
 
@@ -178,6 +180,16 @@ endfield.wiki.gg 명단에는 여풍도 수습 대원으로 올라 있고, 그 �
 3. 샘의 나그네(3): 일이 끝나고 지상으로 돌아와 두명, 탕탕과 이야기한다.
 
 펠리카는 BAKER 통신 "Ancestral Spring and Qingbo"(영어 텍스트)에서 샘의 근원에 염국 천사가 남긴 장치가 있을 줄은 몰랐다고 말한다. 관리자는 거의 물의 운동 에너지만으로 돌아가는 설계라며 감탄하고, 펠리카는 백여 년 전에 이미 이런 설계가 있었다는 데 놀란다. 펠리카는 홍산 과학원과 고요한 수도회라면 152년도 더 된 테라 기술 유물을 아직 꽤 가지고 있을 것이라고 말한다. 청파채 사람들이 스스로와 마음속의 선조의 샘에 기대게 되기까지 두명이 애썼다며, 청파채가 샘에 기대지 않고 사는 데 곧 익숙해지기를 바란다고 말한다.
+
+#### 내 손안의 구세주
+
+공업 지원 이벤트(영어 AIC Support: Palm-Top Savior)의 이벤트 임무 세 편이다. 한국어 대사로 옮겼다.
+
+1. 내 손안의 구세주(1): 천사부 학원 정문에서 언녕을 만난다. 관측소 데이터로 무릉의 심도 수치가 오르고 침식이 활발해지고 있어, 언녕은 주민을 지킬 식양 방호 장치를 만들었다. 가장 필요한 사람은 청파채 주민인데, 예전처럼 보급소에 물자를 쌓아 두는 식으로 전하면 장치를 빨리 개량할 수 없고 주민들이 의심할 수도 있다. 장방이는 성 밖 침식 때문에 바쁘다. 관리자가 장치를 청파채로 가져가기로 하고, 언녕은 물자 관리를 도울 [순찰대원](#무릉성-순찰대) 좌고언을 소개한다. 관리자가 구성 재료 몇 가지를 기본 재료로 바꾸자 장치가 좋아지고, 언녕은 실험용 식양 병을 바탕으로 한 장치라 프로토콜 오리지늄의 힘이 작용한 것 같다며 제자 백상과 함께 개량을 맡는다. 언녕은 장치를 식양 호리병이라 이름 짓고 생산과 분배를 관리자에게 부탁한다. 청파채의 료무흔은 무릉성 물건을 훔쳐 왔냐며 장식용 호리병 같다고 의심하다가, 손해 볼 것 없다며 써 보기로 한다.
+2. 내 손안의 구세주(2): 다시 찾은 청파채에서 료무흔이 크게 다쳐 있다. 침식에 당했지만 호리병 덕분에 목숨을 건졌다며 의심한 것을 사과한다. 마을 밖을 살피던 관리자는 청파채 안쪽까지 순찰을 나온 좌고언을 만난다. 좌고언은 오래전 순찰 중 아겔로스의 습격을 받았을 때 어두워 얼굴을 못 본 청파채 사람에게 구해졌고, 은혜를 갚으려고 주민 전부를 돕고 있었다. 순찰대원이 청파채 주민에게 도움을 받으면 안 된다고 안내서에 쓰여 있어, 미브 대장 귀에 들어가면 승진에 문제가 생길까 숨긴다. 좌고언이 언녕에게서 받은 개량 호리병 조합식을 건넨다. 정면으로 침식 조류를 견딜 정도는 아니지만 개량 전보다 성능이 훨씬 좋아졌다.
+3. 내 손안의 구세주(3): 료무흔과 함께 죽순을 캐러 다니던 화이가 아침에 다른 사람들과 숲에 나간 뒤 침식이 심해져 돌아오지 않는다. 주민들은 호리병으로도 못 막을까 봐 나서지 못한다. 새 호리병을 가져온 좌고언이 '무릉성에서 온 순찰대원'을 내세워 주민들을 자극하고, 관리자 일행은 수화자를 쓰러뜨려 화이 일행을 데려온다. 좌고언은 그사이 돌아갔다. 료무흔은 몇 년 전 어두운 밤 청파채로 돌아가다 수화자에게 공격받던 무릉 사람을 구했는데, 그 사람이 책에 도움받으면 반드시 갚으라고 쓰여 있다며 떠들어 그냥 가 버렸다고 말한다. 좌고언이 찾던 은인은 료무흔이다. 료무흔과 청파채 사람들은 식양 호리병을 '보물 호리병'이라 부른다.
+
+언녕은 좌고언에게 '언녕 천사님', 백상에게 '스승님'으로 불리는 천사다.
 
 #### 창적
 
@@ -223,6 +235,32 @@ endfield.wiki.gg 명단에는 여풍도 수습 대원으로 올라 있고, 그 �
 | 눈 덮인 소나무 숲 | 1.5 | |
 | 수명 | 1.5 | 홍산 과학원의 옛 수몰 도시를 재구성한 공간 |
 | [사의 그림](../content/si_painting.md) | 1.6 | 사가 그린 그림 세계. 인연 마을 객잔과 농장·목장 |
+| [옛 댐](#옛-댐) | 1.7 | 무릉 남쪽의 버려진 댐. 지금은 진균 생태원 |
+
+## 옛 댐
+
+무릉 남쪽의 댐이다. 연구 기지가 막 세워졌을 때 연맹 공단과 홍산 과학원이 함께 지었고, 침식이 심해지며 버려졌다. 공단 진균 전문가 로저가 물자가 모자란 댐에서 사람들을 먹이려고 키운 E21 실험용 버섯이 침식으로 변이해 환각을 일으켰고, 케르와 관리자가 변이 균핵을 없앤 뒤 판과 장방이가 공단과 함께 생태 연구 시설로 고치기로 했다. 댐에 갇혀 있던 랜드브레이커들은 케르를 리더로 삼아 일손으로 남았다. 이 이야기는 [케르: 새로운 여정](event_stories.md#새로운-여정)에 있다.
+
+- 버섯 장치: 벌꿀 와플을 던져 맞히거나 오퍼레이터로 공격하면 에너지 공급 버섯, 무지개 버섯, 버섯 덩굴, 환각의 벽이 반응한다. 지역 훈장 '댐 여행자 훈장'은 이것들과 모두 20회 상호작용하면 받는다. 덩굴은 화끈한 벌꿀 와플로 태우고, 에너지 공급 버섯은 벌꿀 와플로 에너지를 채워 문을 연다.
+- 댐 하층부에는 십여 년 전 공단의 작물 연구 시설과 지하 수십 m 깊이까지 실험실이 있었고 지금은 모두 폐쇄되었다. 최하층에는 폐기물 구역이 따로 있다.
+
+### 거대 버섯을 향해서
+
+탐색 임무. 한국어 대사로 옮겼다.
+
+- 공단 직원 시브카가 댐 하층부 중앙 제어실 근처에서 버섯 뿌리를 찾아 관리자를 부른다. 로저는 E21 버섯의 뿌리일지 모른다며 밖에서 지원을 맡고, 케르가 로저가 부탁한 장비와 갓 구운 벌꿀 와플을 가져온다.
+- 뿌리는 무언가를 향하듯 계속 아래로 뻗어 있다. 물에 잠긴 제어실 자료실에서 케르가 댐 설계도를 찾고, 관리자 일행은 제어실 꼭대기의 긴급 배수 장치를 돌려 물을 뺀 뒤 대형 파이프를 지나 최하층 폐기물 구역에 닿는다.
+- 폐기물 구역에는 예전 연구원들이 냄새가 너무 지독해 땅에 묻은 실험 비료가 남아 있었다. 비료 효과가 뛰어나 많은 양분이 필요한 E21 버섯이 뿌리를 그쪽으로 뻗었고, 보고서만큼 냄새가 지독하지 않은 것은 버섯이 비료를 흡수하며 악취를 중화했기 때문으로 짐작한다.
+- 로저는 스승이 꺼리던 'L329 특수 사건'이 이 비료와 얽혀 있고 스승도 그 사건 처리에 파견되었던 것 같다고 말한다. E21 버섯의 분해 능력을 연구하면 비료 효과는 두고 악취만 없앨 수 있을지 모른다고 한다. 시브카는 작물 연구가 위장이고 공단이 재앙을 일으킬 비밀 병기를 숨겼다고 의심하지만, 근거는 남은 기록 몇 가지뿐이다.
+
+### 취기가 지나고
+
+중요 임무. 한국어 대사로 옮겼다.
+
+- 로저가 댐에서 검수식을 연다며 관리자와 케르를 부른다. 실은 댐을 정리하며 모은 포자를 달콤로에 넣어 구운 벌꿀 와플을 나누는 잔치다. 이번 포자는 당도가 높아 새 조리법을 썼고, 포자를 모은 것은 허니브레이커들이다.
+- 와플을 먹은 셋은 정신을 잃고 같은 꿈을 꾼다. 꿈속 4번 협곡의 협곡 요새에서 로댄이 로저와 와플 먹기 대결을 했다고 하고, 무릉성은 결혼 선물로 버섯밭이 되어 있으며, 판은 로저의 결혼식에 가자고 한다. 신부 이이릴은 로저가 연구 조수이던 때 만났다가 침식 조류 때문에 헤어졌다고 말한다. 길을 잃은 로저를 찾아 결혼식장에 데려가면 꿈이 끝난다.
+- 꿈의 끝에서 E21 버섯이 말을 건다. 몸에 붙은 변이 균핵을 없애 준 보답으로 소원을 이뤄 주고 싶었고, 로저의 소원은 '다시는 헤어지지 않는 것'이라고 한다.
+- 깨어난 로저는 꿈속 청첩장이 실은 '로저 에이거스 교수에게 진균학 정교수 명예 칭호를 수여하는 것에 관한 통지'라고 밝힌다. 식용 진균 개발은 로저가 반평생을 바친 과제였고, 침식 조류 때문에 E21 버섯이 그 뒤 어떻게 자랐는지 몰랐다. 공단은 연구 성과를 인정해 로저를 이곳 진균 생태원의 정식 책임자로 임명했고, 로저는 남은 평생 E21 버섯과 헤어지지 않겠다고 한다.
 
 ## 수돈
 
@@ -404,7 +442,7 @@ C형 천사장(Type-C Tianshi Pillar)과 그것을 보조하는 C형 보조 기�
 - 140년 식양 개발에 힘을 보탠 베헤모스 대리인이 누구인지([베헤모스와 쉐이](behemoth.md)).
 - 장방이 직함의 공식 한국어 표기 (나무위키 '대리 책임자', 영문 Viceroy).
 - 아다시르가 봉인된 뒤의 경과.
-- 북쪽 금지 구역의 구획 이름(담검당 제외)과 Pale Blightshade의 한국어 표기. 무명검록(2)의 언녕이 응룡 대원인지(대사는 소속을 밝히지 않는다). Pale Blightshade가 축 교관의 그림자라는 말은 영어 위키 갤러리 설명에만 있다.
+- 북쪽 금지 구역의 구획 이름(담검당 제외)과 Pale Blightshade의 한국어 표기. 무명검록(2)의 언녕이 「내 손안의 구세주」의 천사 언녕과 같은 사람인지(무명검록(2) 대사는 소속을 밝히지 않는다). 언녕의 제자 백상이 「달이 가고 해가 오리라」의 여풍 친구 백상과 같은 사람인지. Pale Blightshade가 축 교관의 그림자라는 말은 영어 위키 갤러리 설명에만 있다.
 - 진뢰가 담검당에 맡겨진 까닭과 시기. 적 설명문은 담검당에 맡겨져 지냈다고만 하고, 결의 신뢰 대화 1은 자기가 길렀다고 한다.
 - 창적 적 9종의 영어 이름 짝(영어 목록은 Highway Reaver, Road Plunderer, Grove Archer, Sweeping Wind, Hill Smasher, Cloud Obliterator, Cloud Stalker, Nimbus Razor, Breaking Gust). 창적이 청파채 무법자 전체를 가리키는지 강경파만 가리키는지도 출처마다 다르다.
 - 홍산 환형산에서 자란 진천우가 언제 무릉 연구 기지 옆 담검당에 다녔는지. 사의 훈련 일지 8은 장소를 '홍산 과학원 본부, 담검당'(영어 Tanjian Hall, HAS)으로 적어, 홍산에 따로 담검당이 있는지도 확인하지 못했다.
@@ -421,6 +459,7 @@ C형 천사장(Type-C Tianshi Pillar)과 그것을 보조하는 C형 보조 기�
 
 ## 히스토리
 
+- 2026-11-28: 청파채 절에 이벤트 임무 「내 손안의 구세주」(언녕은 천사, 좌고언은 순찰대원) 추가. 1.7 하위 지역 옛 댐 절(버섯 장치, 「거대 버섯을 향해서」, 「취기가 지나고」) 추가.
 - 2026-11-27: 북쪽 금지 구역에 탐색 임무 「침식의 그림자 관찰 일지」(하지의 협동 가설)와 「과거의 보물」(낙안과 대균열 실험팀의 원시 데이터 백업) 추가.
 
 - 2026-11-25: 무명검록 세 편과 돌아갈 길이 없다를 한국어 대사로 다시 씀(언녕과 언은 다른 사람, Shore·Stern·Benefit의 한국어 이름 안·숙·익). 장검 골짜기에 골짜기의 검 기둥 추가. 수명 절에 귀환의 종소리 대사와 종이 세 번 울릴 때 추가, 삼도종은 무릉성의 종이고 알림종은 이야기 속 종으로 정리.
