@@ -5,11 +5,13 @@ aliases: [환경 장비, 최강 장비, 장비 파밍, 環境装備, 環境装�
 sources:
   - https://anothereden.game-info.wiki/d/%B4%C4%B6%AD%A5%AD%A5%E3%A5%E9%A1%A6%C1%F5%C8%F7%A4%DE%A4%C8%A4%E1 (Seesaa Wiki 「環境キャラ・装備まとめ」 環境装備一覧, 2025-07-09 수정본, Ver3.12.0 기준, CC BY-NC-SA 4.0)
   - https://anothereden.game-info.wiki/d/%C2%E83%C9%F4%C3%E6%CA%D4_%A5%B5%A5%D6%A5%A4%A5%D9%A5%F3%A5%C8 (Seesaa Wiki 「第3部中編_サブイベント」, 2023-09-18 수정본. 千年樹 무기 입수처와 공통 효과)
+  - https://anothereden.game-info.wiki/d/%C9%F0%B4%EF%B0%EC%CD%F7 (Seesaa Wiki 「武器一覧」, 2026-01-24 수정본과 댓글. ムジマ·料理 무기·リブラ・マアト 효과와 입수처, +10 수치)
+  - https://anothereden.game-info.wiki/d/%A5%DF%A5%CA%A5%EB%A5%AB%28%A5%A2%A5%CA%A5%B6%A1%BC%A5%B9%A5%BF%A5%A4%A5%EB%29 (Seesaa Wiki 「ミナルカ(アナザースタイル)」 관리자 답변(2025-02-23). 精霊 무기의 통상 공격 덮어쓰기)
   - https://altema.jp/anaden/runasoubi (altema 「ルーナ装備の作成方法と性能」, 2026-04-20 갱신본. ルーナ 무기 제작·강화 소재와 失楽の都 드롭)
   - ルーナ 무기를 쓰는 동료는 이 위키의 각 동료 카드와 [氷原のヌシ](../raids/hyougen_no_nushi.md)·[月光陣 혼성 파티](gekkou_party.md)
   - 사이트 데이터 ae_translation (失楽の都), ae_translation_all (용어 표기)
 created: 2026-10-17
-updated: 2026-11-21
+updated: 2026-11-27
 ---
 
 # 환경 장비와 입수처
@@ -28,10 +30,13 @@ updated: 2026-11-21
 | ルーナ | 外典 「剣の唄と失楽の翼」 필드 소재로 제작, 실락의 도시(失楽の都) 소재로 강화 → [아래](#ルーナ-무기) | [打ち直し 전후](weapon_reforging.md#쓰는-打ち直し-무기) | 서포터의 속도 |
 | プリズム | 協奏 「COMPLEX DREAM」 | [打ち直し 전후](weapon_reforging.md#쓰는-打ち直し-무기) | 초반 속도·치명타 확률 |
 | 悠久 / スピナル | [メビウスの迷宮](mobius_labyrinth.md) | 悠久 全属性攻撃 +15%, スピナル クリティカル時 피해 +10% (일부는 HP 최대 시 피해 +10%, 腕力/知性 증가) | 크리 효과가 필요 없는 확정 크리 동료(월화의 영애 히스메나 NS) |
+| ムジマ | 「ウクアージの鱗」 교환([旅の終わりと始まり](star5_release.md)). 이름은 ロッド·ソード·無慈丸(도)·アックス·ランス·ボウ·グローブ·ハンマー | 경과 턴 피해 +5%(최대 +50% / 10턴), 下剋上(Lv²÷700) | 장기전. 치명타 효과가 없어 치명타를 스킬로 채우는 동료가 든다([쿠치나와](../characters/kuchinawa.md)·[리나리아](../characters/linaria.md)·[우츠하라](../characters/utsuhara.md)·[은빛을 휘감은 번개술사(AS)](../characters/silver_striker_as.md)·[까마귀 밤의 밀정 츠바메](../characters/tsubame_alter.md)) |
 
 千年樹 무기 입수처: 杖 [氷原のヌシ](../raids/hyougen_no_nushi.md), 剣 災厄の大蛇, 刀 [坑道のヌシ](../raids/koudou_no_nushi.md), 斧 [暁の塔のヌシ](../raids/akatsuki_no_tou_no_nushi.md), 槍 アボモス大陸 보물 상자, 弓 [湿地帯のヌシ](../raids/shicchitai_no_nushi.md), 拳 ニャインズ・オブ・バトル(NOB) ファラオ, 槌 時間帝国発掘拠点 ヴェレット 빚 갚기 이벤트 5000만 도달.
 
 그 밖에는 쓰지 않는다: 機械仕掛け, アダマス, ウィズダム, 食器, 禍時.
+
+精霊 무기(火精霊の剣 등)는 통상 공격을 그 속성의 무기 공격으로 덮어쓴다. 통상 공격 변화 스킬이 있는 동료에게 들리면 변화 스킬이 나가지 않는다(미나르카(AS)는 「アウトレイジ」 대신 불 속성 검 공격이 나감).
 
 ## ルーナ 무기
 
@@ -70,6 +75,8 @@ updated: 2026-11-21
 | 지팡이 | 冥鬼の錫杖 | 現代八妖 「妖狸」 | [打ち直し 전후](weapon_reforging.md#쓰는-打ち直し-무기) | [셴화](../characters/xianhua.md)(打ち直し) |
 | 창 | 翠晶の槍 | 古代八妖 「煙々羅」 | [打ち直し 전후](weapon_reforging.md#쓰는-打ち直し-무기) | [클러그혼](../characters/clughorn.md)(打ち直し) |
 | 활 | 氷晶ノ雅弓 | 스토리, ヒヒイロコガネ 5개로 강화 | HP 최대 시 피해 +50%, MP +100 | [세리에스](../characters/cerius.md) |
+| 권갑 | リブラ・マアト | 外伝 「螺旋の記憶と原初の旋律」 亜人の章 宝物庫 이벤트 보상 | 腕力 +30, 치명타 피해 +15%, 준 피해 흡수 | [메릿](../characters/meryt.md#장비글래스터)(자해 HP 회복) |
+| 모든 종류 | 料理 무기 (深淵を断つ刹那の光芒(검) 등 8종) | 서브 이벤트 「料理」 숙련도 최대 | HP 최대 시 피해 +15%, 毒 무효 | 毒 대책([「幻惑王」Dr.フェタン](../raids/dr_fetan.md), [開眼 リヴァイア編](star5_release.md) 5전) |
 
 古代八妖·現代八妖 보스는 각 무기 종류의 翠晶·冥鬼 무기를 떨어뜨려 무기 파밍의 기본 대상이다.
 
@@ -77,5 +84,5 @@ updated: 2026-11-21
 
 ## 히스토리
 
-- 2026-11: ルーナ 무기 8종의 제작·강화 절 추가. 고난이도 기준으로 정리 (アン・キ・ディグマ 보상 절은 [星天 무기](seiten_equipment.md#昏き星の塊)와 보스 문서로 넘기고, 쓰지 않는 장비는 이름만 남김. 打ち直し 무기 효과는 [武器打ち直し](weapon_reforging.md)로 모음).
+- 2026-11: ルーナ 무기 8종의 제작·강화 절 추가. ムジマ 무기 시리즈, リブラ・マアト, 料理 무기 추가. 고난이도 기준으로 정리 (アン・キ・ディグマ 보상 절은 [星天 무기](seiten_equipment.md#昏き星の塊)와 보스 문서로 넘기고, 쓰지 않는 장비는 이름만 남김. 打ち直し 무기 효과는 [武器打ち直し](weapon_reforging.md)로 모음).
 - 2025-07 (Ver3.12.0): 표의 기준 시점. 공통 시리즈 중 최신은 3부 最終編의 赫耀.

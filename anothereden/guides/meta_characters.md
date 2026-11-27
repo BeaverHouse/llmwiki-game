@@ -28,7 +28,7 @@ sources:
   - "user-feedback (Austin): 메타 명단은 Seesaa·anothertier 교집합만 쓴다(일본·글로벌 유저층이 달라 기준이 다름), 두 사이트가 스타일을 다르게 고른 동료는 두 스타일 모두 적는다, 배포는 스토리 동료 전원 + 성능 좋은 배포, 교집합 밖은 파티·강적 문서가 멤버로 소개할 때만 문서를 만든다 (2026-10-29)"
   - 사이트 데이터 ae_translation_all (용어 표기)
 created: 2026-10-17
-updated: 2026-11-23
+updated: 2026-11-28
 ---
 
 # 고난이도 동료 명단
@@ -125,11 +125,11 @@ Seesaa 랭크 순(같은 랭크는 Seesaa 표 순서)이다.
 
 ## 교집합 밖
 
-파티 문서나 강적 문서가 멤버로 소개할 때만 문서를 둔다. 지금 문서가 있는 것은 질퍼니(AS)·빨간 외투의 화염술사(AS)·미스트레아(결정 파티), 우츠하라·오보로·오를레아(AS)(번개 파티, 강적 문서), [의협의 사냥꾼 라클레어](../characters/laclair_alter.md)(찌르기 파티), [가시나무 저주의 여인 셰이네](../characters/shanie_alter.md)·[멜로디(AS)](../characters/melody_as.md)(바람 파티, 강적 문서)다.
+파티 문서나 강적 문서가 멤버로 소개할 때만 문서를 둔다. 지금 문서가 있는 것은 질퍼니(AS)·빨간 외투의 화염술사(AS)·미스트레아(결정 파티), 우츠하라·오보로·오를레아(AS)(번개 파티, 강적 문서), [의협의 사냥꾼 라클레어](../characters/laclair_alter.md)(찌르기 파티), [가시나무 저주의 여인 셰이네](../characters/shanie_alter.md)·[멜로디(AS)](../characters/melody_as.md)(바람 파티, 강적 문서), 국화의 검객 아카네·이스카·클로드(ES)(베기 파티), 코마치(AS)(땅 파티)다.
 
 - Seesaa 대상 시점(Ver3.15.60) 뒤 실장이라 Seesaa 평가 없음: 테오도로스, 요르나, 다르니스(AS), [질퍼니(AS)](../characters/jillfunny_as.md), 월화의 영애 히스메나(AS는 대상 시점 뒤, NS는 Seesaa 표에 없음. 두 스타일 모두 쓰인다).
-- Seesaa만 S 이상(anothertier S 미만): [빨간 외투의 화염술사(AS)](../characters/red_clad_flame_user_as.md), 의협의 사냥꾼 라클레어, 코마치(AS), 이스카, 니나, 밀디, 러블리(AS), 붉은 소매의 행상인 시구레, 어둠 잠식의 몽마, [미스트레아](../characters/mistrare.md).
-- anothertier만 S 이상(Seesaa 표에 없음): [우츠하라](../characters/utsuhara.md), 에바, 국화의 검객 아카네, 클로드(ES), 펠미나(ES), 멜로디(AS), 니르야, [오보로](../characters/oboro.md), [오를레아(AS)](../characters/orleya_as.md), 라디카, 츠키하, 꽃피우는 공주 츠키하(AS).
+- Seesaa만 S 이상(anothertier S 미만): [빨간 외투의 화염술사(AS)](../characters/red_clad_flame_user_as.md), 의협의 사냥꾼 라클레어, [코마치(AS)](../characters/komachi_as.md), [이스카](../characters/isuka.md), 니나, 밀디, 러블리(AS), 붉은 소매의 행상인 시구레, 어둠 잠식의 몽마, [미스트레아](../characters/mistrare.md).
+- anothertier만 S 이상(Seesaa 표에 없음): [우츠하라](../characters/utsuhara.md), [에바](../characters/eva.md), [국화의 검객 아카네](../characters/akane_alter.md), [클로드(ES)](../characters/claude_es.md), 펠미나(ES), 멜로디(AS), 니르야, [오보로](../characters/oboro.md), [오를레아(AS)](../characters/orleya_as.md), 라디카, 츠키하, 꽃피우는 공주 츠키하(AS).
 
 ## 히스토리
 
