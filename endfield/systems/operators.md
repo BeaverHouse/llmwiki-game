@@ -5,9 +5,9 @@ aliases: [오퍼레이터, 오퍼레이터 목록, 캐릭터 목록, 직군, 속
 sources:
   - https://namu.wiki/w/명일방주:%20엔드필드/오퍼레이터 (2026-09-02 수정본, CC BY-NC-SA 2.0 KR)
   - "user-feedback (Austin): 사 출시 (2026-10-19)"
-  - https://endfield.wiki.gg/wiki/Headhunting/Banners (명하 한정 헤드헌팅 시작 2026-11-05)
+  - https://endfield.wiki.gg/wiki/Headhunting/Banners (명하 한정 헤드헌팅 시작 2026-11-05, 케르 한정 헤드헌팅 시작 2026-11-25 아시아 서버)
 created: 2026-10-14
-updated: 2026-11-06
+updated: 2026-11-26
 ---
 
 # 오퍼레이터 개요
@@ -51,7 +51,7 @@ updated: 2026-11-06
 
 ## 명단
 
-2026-11-06 기준 34명이다. 사는 2026-10-15, 명하는 2026-11-05에 출시되었다.
+2026-11-26 기준 35명이다. 사는 2026-10-15, 명하는 2026-11-05, 케르는 2026-11-25에 출시되었다.
 
 | 오퍼레이터 | 속성 | 무기 | 직군 | 문서 |
 |---|---|---|---|---|
@@ -82,6 +82,7 @@ updated: 2026-11-06
 | 질베르타 | 자연 | 아츠 유닛 | 서포터 | [operators/gilberta.md](../operators/gilberta.md) |
 | 결 | 자연 | 아츠 유닛 | 캐스터 | [operators/arcane.md](../operators/arcane.md) |
 | 티프로스 | 자연 | 아츠 유닛 | 스트라이커 | [operators/typhoeus.md](../operators/typhoeus.md) |
+| 케르 | 자연 | 장병기 | 뱅가드 | [operators/kay.md](../operators/kay.md) |
 | 안탈 | 전기 | 아츠 유닛 | 서포터 | [operators/antal.md](../operators/antal.md) |
 | 펠리카 | 전기 | 아츠 유닛 | 캐스터 | [operators/perlica.md](../operators/perlica.md) |
 | 아비웨나 | 전기 | 장병기 | 스트라이커 | [operators/avywenna.md](../operators/avywenna.md) |
@@ -101,6 +102,7 @@ updated: 2026-11-06
 
 ## 히스토리
 
+- 2026-11-25: 케르 출시.
 - 2026-11-05: 명하 출시.
 - 2026-10-15: 사 출시.
 - 2026-10: 최초 작성.
