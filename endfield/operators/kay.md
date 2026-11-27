@@ -8,7 +8,7 @@ sources:
   - https://endfield.wiki.gg/wiki/Sweet_Deal · Raid_Comet (2026-11-25 수정본) · Chimeric_Justice (2026-09-02 수정본)
   - https://endfield.wiki.gg/wiki/Headhunting/Banners (Anvil, Backpack, Plus A Pot o'Honey, 아시아 서버 2026-11-25 ~ 12-23)
 created: 2026-11-26
-updated: 2026-11-26
+updated: 2026-11-27
 ---
 
 # 케르 (Kay)
@@ -29,7 +29,7 @@ updated: 2026-11-26
 
 [리컨비너](../world/reconvener.md)이며, 기억 원형은 테라의 케오베로 알려져 있다. endfield.wiki.gg는 케르를 엘더즈로 보는 페로 하위 집단 Cerberus의 유일한 사람으로 적는다([종족](../world/races.md)). 한국어판에서는 자기를 '케르'라고 3인칭으로 부른다.
 
-오퍼레이터 스토리는 「케르: 새로운 여정」이다. 소개 문구는 "소중한 선물을 전하기 위해 길을 나선 케르. 이번 여정의 목적지는 과연...?"이다. EP는 「JUST THE START」다.
+오퍼레이터 스토리는 「케르: 새로운 여정」이다. 소개 문구는 "소중한 선물을 전하기 위해 길을 나선 케르. 이번 여정의 목적지는 과연...?"이다. EP는 「JUST THE START」다. 무릉 남쪽 댐에서 관리자를 만나는 이야기 줄거리는 [오퍼레이터 이벤트 스토리](../world/event_stories.md#새로운-여정)에 있다.
 
 ### 기본 파일
 

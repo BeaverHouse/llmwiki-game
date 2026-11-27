@@ -4,11 +4,10 @@
 
 ## 다음 작업
 
-- 명하 이벤트 스토리 Back to the Rustics | world/event_stories.md | 이벤트 스토리 문서에 1.6 이야기만 빠짐. 하위 임무 풀숲을 헤치며(Parting Grass) → 불을 지피리라(Kindling the Fire) → 가지를 찾아서(Seeking the Branch), Pan'an 마을과 Mu Xing, 사가 명하를 미션 제로에 끌어들인 경위. 이야기 전체의 한국어 제목은 아직 못 찾음. 이벤트는 11-26에 끝났으니 대사가 채워졌는지부터 본다 | 나무위키 스토리 문서, endfield.wiki.gg Argent_Flow/Story·각 하위 임무 문서, warfarin.wiki 한국어 스토리 리더
-- 「침식의 그림자 관찰 일지」·「과거의 보물」 줄거리 | world/wuling.md 북쪽 금지 구역 | 탐색 절에 이름만 있음. 천사 하지가 협동하는 침식의 그림자를 관찰하는 임무와, 낙안이 대균열 실험팀의 10년 전 원시 데이터 백업 세 개를 찾는 임무. 둘 다 낙안의 점괘가 이어진다 | warfarin.wiki/kr·en/missions/gm02m20 · gm02m23
-- 「내 손안의 구세주」(1)~(3) 줄거리와 언녕 | world/wuling.md | 무명검록(2)의 언녕이 천사부 학원에서 의뢰하는 임무. 언녕의 소속을 밝힐 수 있을지 확인 | warfarin.wiki 한국어 스토리 리더(무릉 탐색·서브 임무 대사는 gm02m{N} 번호. 사이트맵 /sitemap/kr.xml에 전체 목록이 있고, 이 임무 번호는 아직 열어 보지 않음)
-- 1.7 이벤트 「뜻밖의 만남, 버섯 동산 대모험」(Meeting You in the World o'Shrooms)과 오퍼레이터 스토리 「케르: 새로운 여정」 줄거리 | world/event_stories.md, operators/kay.md 배경 절에 링크 | 케르가 관리자를 만난 무릉 외곽 이야기와 '소중한 선물'의 내용. 무릉의 버섯 지역에서 와플을 아츠로 쓰는 장면이 나온다는 나무위키 서술을 대사로 확인 | 나무위키 스토리 문서, endfield.wiki.gg 이벤트·임무 문서, warfarin.wiki 한국어 스토리 리더
-- 미미노(Mimino) 오퍼레이터 문서 | operators/mimino.md | 1.7 버전 5성 물리 권총 서포터, 로그인 보상(Workers' Guards: Roll Call). 연맹 공단 소속, 4번 협곡 출신. 휴대 장치를 던져 배틀·연계 스킬로 터뜨려 방어 불능과 버프 장판을 만든다. 2026-11-25 기준 출시 전이라 스킬 배율이 채워진 뒤 쓴다 | 나무위키, endfield.wiki.gg Mimino
+- 명하 배경 절을 한국어 텍스트로 다시 옮기기 | operators/argent_flow.md | 지금은 영어 텍스트를 옮긴 것인데, 나무위키 명하 문서 2026-11-26 수정본에 기본 파일·인사 요약서·파일 자료 1~4·대사 한국어 전문이 올라왔다. 2026-11-27에 반안·낙역·복뢰와 대화 2만 고쳤고, 나머지(파일 자료 1의 대항전 종목, 파일 자료 3 인용문, 신뢰 대화 4 등)는 영어 번역과 뜻이 다른 곳이 있다 | 나무위키 명하(2026-11-26 수정본)
+- 「내 손안의 구세주」(1)~(3) 줄거리와 언녕 | world/wuling.md | 언녕이 천사부 학원에서 의뢰하고 식양 호리병을 청파채 주민에게 전하는 중요 임무. endfield.wiki.gg 이벤트 목록의 상시 이벤트 AIC Support: Palm-Top Savior와 같은 것으로 보인다. 언녕의 소속을 밝힐 수 있을지 확인 | warfarin.wiki 한국어 스토리 리더. 대사 페이지 번호를 못 찾음(gm02m25는 비어 있고 gm02m26은 「다음 목적지」, f1m36은 「그림 개업」). 사이트맵 /sitemap/kr.xml의 a1m·e·db01 계열이나 endfield.wiki.gg Palm-Top_Savior 문서에서 찾는다
+- 1.7 무릉 남쪽 댐 지역과 부가 임무 | world/wuling.md | 케르 이야기의 무대인 버려진 댐(연구 기지 시절 연맹 공단과 홍산 과학원이 함께 지음)이 생태 연구 시설로 바뀌었다. 같은 곳의 임무 「거대 버섯을 향해서」(시브카)·「취기가 지나고」(로저), 버섯 지역의 수집 요소와 훈장(Shroom City, Dam Treader)을 확인해 하위 지역으로 넣을지 본다 | warfarin.wiki 한국어 임무 목록·대사, endfield.wiki.gg 지역·임무 문서, 나무위키 지역 문서
+- 미미노(Mimino) 오퍼레이터 문서 | operators/mimino.md | 1.7 버전 5성 물리 권총 서포터, 로그인 보상(Workers' Guards: Roll Call). 연맹 공단 소속, 4번 협곡 출신. 휴대 장치를 던져 배틀·연계 스킬로 터뜨려 방어 불능과 버프 장판을 만든다. 2026-11-27에도 endfield.wiki.gg 문서는 출시 예정(Upcoming)이고 능력치·스킬·재능 칸이 비어 있어 채워진 뒤 쓴다 | 나무위키, endfield.wiki.gg Mimino
 - 재검증 | parties/typhoeus_party.md 케르 편성 구상(티프로스·케르·결·리노) | 2026-12-09. 실제 편성·클리어 영상과 대조해 정석으로 올리거나 고친다. 나무위키의 다른 추천 편성 케르·결·탕탕·리노(결 메인)도 이때 결 파티 문서에 판정해 넣는다 | 나무위키 케르 추천 편성, 커뮤니티 공략·영상
 
 ## 확인 필요
@@ -18,6 +17,8 @@
 - 케르 연계 스킬의 강제 자연 폭발이 적의 자연 부착 스택을 하나 올리는지 | operators/kay.md, parties/typhoeus_party.md, systems/interactions.md | 올리면 티프로스가 흡수할 부착이 바퀴마다 1스택 늘어 에너지 +12가 붙는다. 텍스트는 정하지 않는다 | 답 기한 2026-11-28. 없으면 지금처럼 확인하지 못한 것으로 둔다
 
 ## 완료
+
+- 2026-11-27: world/event_stories.md 명하 이야기 「명하: 돌아온 손님」(Back to the Rustics, c37m1~m3)과 케르 이야기 「케르: 새로운 여정」(I Dream of Honey Waffles, c40m1~m3)을 한국어 대사로, world/wuling.md 「침식의 그림자 관찰 일지」(gm02m20)·「과거의 보물」(gm02m23), operators/argent_flow.md·world/timeline.md·world/zeroth_directive.md·operators/kay.md에 반영, glossary.md 표기. 두 이야기의 한국어 제목은 나무위키 오퍼레이터 문서의 오퍼레이터 스토리 이름이고, 1.7 이벤트 「뜻밖의 만남, 버섯 동산 대모험」은 버전 이름이라 케르 이야기와 따로 봄. 십 년 전 원정에서 관리자가 명하를 구한 일은 대사로 확인했지만 대사가 '극점 원정'이라는 이름을 쓰지 않아 연표에 그렇게 적음. 명하 문서의 Pan'an·Luoyi·Fulei를 한국어 텍스트 반안·낙역·복뢰로 바꿈. 「내 손안의 구세주」는 대사 번호를 못 찾아 남김. 미미노는 아직 출시 전이라 남김
 
 - 2026-11-26: operators/kay.md(케르. 출시 뒤 한국어 표기가 '케르'로 나와 슬러그는 영어 이름 kay, 나무위키 2026-11-25 수정본의 한국어 스킬 이름과 기록, endfield.wiki.gg 수치), parties/typhoeus_party.md 케르 편성 구상, parties/synergy.md·systems/interactions.md·systems/weapons.md·systems/operators.md에 케르 반영, world/civilization_band.md Morospolis의 한국어 표기 마르스폴리스(케르 파일 자료 3). 파일 자료 2 개방 조건은 나무위키 50%, endfield.wiki.gg 100%로 달라 양쪽을 적음. 키메라의 정의 등급은 나무위키 운용 절이 4성으로 적지만 endfield.wiki.gg와 무기 문서대로 5성으로 둠. 명하 이야기와 무릉 임무 세 건은 케르 문서에 회차를 써서 남김
 
