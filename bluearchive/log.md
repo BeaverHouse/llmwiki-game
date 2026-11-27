@@ -1,5 +1,6 @@
 # Blue Archive — 변경 기록 (append-only, 최신이 위)
 
+- 2026-11-27 | ai | notes/3s39_goz_meta.md 신설, index.md·raids/goz.md | S39 실내 고즈 대결전 세 장갑 리포트를 쓰고 목록과 보스 문서에 연결함 | 사이트 3S39-1~3 요약·파티 조회, 학생 스킬
 - 2026-11-23 | ai | guides/beginner.md·guides/stat_guide.md·glossary.md·index.md | 총력전 난이도 개방 조건, 한국 서버가 따라오는 보스 순서, 골드 순위·동점 규칙, 상위 기록만 있어 INSANE이 0건인 시즌 읽는 법, 버프 중첩 규칙을 넣고 플레권·골드·페스를 용어집에 등록함 | 답변 리뷰 3714·3716·3719·3731·3734~3736·3743~3747·3750·3754·3755·3764·3768·3769, 나무위키 총력전, 사이트 raid list·S91 조회
 - 2026-11-21 | ai | guides/beginner.md·glossary.md·index.md | 대결전에 LUNATIC이 없고 장갑별 전투가 따로라 학생을 다시 쓸 수 있다는 규칙을 넣고 토토인·토인인·일섭·택틱을 용어집에 등록함 | 답변 리뷰 3625·3627·3652·3611, 나무위키 대결전
 - 2026-11-19 | ai | guides/mission.md·guides/recruitment.md 신설, guides/content_guide.md·glossary.md·index.md | 임무 입문과 모집 규칙 문서를 쓰고 전술대항전 절에 진행 방식·보상·편성 원칙을, 용어집에 총력전·대결전 외국어 이름과 난이도·모집 용어를 넣음. 임무 편성 원칙에 광역 스킬 모양과 총력전 평가 차이를, 전술대항전 원칙에 코스트 가속 학생을 넣음 | 넥슨 공식 가이드·공지·확률표, 나무위키, bluearchive.wiki, 선생님 공략 글, user-feedback (Austin)

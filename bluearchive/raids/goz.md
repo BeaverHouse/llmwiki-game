@@ -4,7 +4,7 @@ type: raid-guide
 sources:
   - "seed: 내장 가이드에서 이전 (2026-07-06)"
 created: 2026-07-06
-updated: 2026-10-29
+updated: 2026-11-27
 ---
 
 # 고즈 (Goz)
@@ -41,3 +41,4 @@ updated: 2026-10-29
 ## 시즌 리포트
 
 - [총력전 S87](../notes/s87_goz_meta.md)
+- [대결전 S39](../notes/3s39_goz_meta.md)
