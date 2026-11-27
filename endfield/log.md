@@ -1,5 +1,7 @@
 # Arknights: Endfield — 변경 기록 (append-only, 최신이 위)
 
+- 2026-11-28 | ai | operators/argent_flow.md·world/factions.md·world/yan.md·world/wuling.md·world/event_stories.md·glossary.md·index.md·backlog.md | 명하 배경 기록을 한국어 텍스트로 다시 옮기고 무릉에 「내 손안의 구세주」와 1.7 옛 댐 절을 새로 씀 | 정기 성장 작업, 나무위키 명하(2026-11-26 수정본), warfarin.wiki 한국어 대사(a1m8d1~d3, gm02m28, sm2l11m1), endfield.wiki.gg AIC_Support:_Palm-Top_Savior
+
 - 2026-11-27 | ai | world/event_stories.md·world/wuling.md·operators/argent_flow.md·operators/kay.md·world/timeline.md·world/zeroth_directive.md·glossary.md·index.md·backlog.md | 명하·케르 이벤트 스토리와 북쪽 금지 구역 탐색 임무 두 편을 한국어 대사로 쓰고, 십 년 전 원정에서 관리자가 명하를 구한 일을 확인된 사실로 옮김 | 정기 성장 작업, warfarin.wiki 한국어 대사(c37m1~m3, c40m1~m3, gm02m20, gm02m23), endfield.wiki.gg Back_to_the_Rustics·I_Dream_of_Honey_Waffles, 나무위키 명하·케르(2026-11-26 수정본)
 
 - 2026-11-26 | ai | operators/kay.md·parties/typhoeus_party.md·parties/synergy.md·systems/interactions.md·systems/weapons.md·systems/operators.md·world/civilization_band.md·glossary.md·index.md·backlog.md | 1.7 신규 오퍼레이터 케르 문서와 티프로스 파티의 케르 편성 구상을 쓰고 규칙·색인·무기·명단에 케르를 반영함 | 정기 성장 작업, 나무위키 케르(2026-11-25 수정본), endfield.wiki.gg Kay·Kay/File·Sweet_Deal·Raid_Comet·Headhunting/Banners
