@@ -1,6 +1,7 @@
 ---
 title: 블루 아카이브 컨텐츠 가이드
 type: guide
+aliases: [전술대항전, 전술 대회, 전술대회, PvP, 종합전술시험, 종전시, 제약해제결전]
 sources:
   - "seed: 내장 가이드에서 이전 (2026-07-06)"
   - "https://forum.nexon.com/bluearchive/board_view?board=1071&thread=2719477"
@@ -14,7 +15,7 @@ sources:
   - "user-feedback (Austin): 전술대항전은 코스트를 당겨 주는 학생이 필수 (2026-11-18)"
   - "https://namu.wiki/w/블루%20아카이브/종합전술시험 (회차 구성·클리어 규칙·점수와 코인·시험별 적과 편성, 종전시 용례, 2026-11-25 열람)"
 created: 2026-07-06
-updated: 2026-11-25
+updated: 2026-11-27
 ---
 
 # 블루 아카이브 컨텐츠 가이드

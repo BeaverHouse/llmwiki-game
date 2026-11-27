@@ -1,5 +1,6 @@
 # Blue Archive — 변경 기록 (append-only, 최신이 위)
 
+- 2026-11-27 | ai | guides/eligma.md·guides/recruitment.md·glossary.md·guides/content_guide.md·guides/bounty_commission_scrimmage.md·index.md | 단계별 엘레프 필요량과 4성부터의 엘리그마, 선택권 규칙을 넣고 플레권 항목의 선택권 오해 문구를 고치고 전술대회·거점방어 별칭을 붙임 | 답변 리뷰 3979·3980·3998·4000·4006~4008, game8 神名文字の必要数·セレクトチケット
 - 2026-11-26 | ai | guides/stat_guide.md·glossary.md·index.md | 지형 적성이 엄폐 성공·엄폐 무시 확률도 정한다는 표와 같은 계열 버프·디버프 덮어쓰기 규칙을 넣고 방깎·장판을 용어집에 등록함 | 답변 리뷰 3963·3964, 나무위키 블루 아카이브/편성, 사이트 학생 조회
 - 2026-11-25 | ai | guides/bounty_commission_scrimmage.md 신설, guides/content_guide.md·guides/mission.md·notes/skill_build_trends.md·glossary.md·index.md | 현상수배·특별의뢰·학원교류회 공략을 쓰고, 종합전술시험을 한 회차에 시험 하나를 세 번 깨는 규칙으로 고쳐 시험별 적과 편성을 넣고, 종전시·특임·경던을 용어집에 등록함 | 답변 리뷰 3897~3899·3907·3924·3926·3936~3939·3950, 나무위키 현상수배·업무·학원교류회·종합전술시험
 - 2026-11-23 | ai | guides/beginner.md·guides/stat_guide.md·glossary.md·index.md | 총력전 난이도 개방 조건, 한국 서버가 따라오는 보스 순서, 골드 순위·동점 규칙, 상위 기록만 있어 INSANE이 0건인 시즌 읽는 법, 버프 중첩 규칙을 넣고 플레권·골드·페스를 용어집에 등록함 | 답변 리뷰 3714·3716·3719·3731·3734~3736·3743~3747·3750·3754·3755·3764·3768·3769, 나무위키 총력전, 사이트 raid list·S91 조회
