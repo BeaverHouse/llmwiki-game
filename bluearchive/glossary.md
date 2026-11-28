@@ -21,7 +21,7 @@ sources:
   - "https://www.233leyuan.com/post-detail/2067609358565556224 (总力战·大决战 용례, 2026-11-19)"
   - "https://forum.nexon.com/bluearchive/board_view?board=1071&thread=2719471 (한국 서버 표기 전술 대회)"
   - "https://forum.nexon.com/bluearchive/board_view?board=1071&thread=2719463 (모집 스택·특별 스택·모집 마일리지)"
-  - "https://namu.wiki/w/블루%20아카이브/대결전 (토토인·토인인, 택틱·일섭 용례, 2026-11-21 열람)"
+  - "https://namu.wiki/w/블루%20아카이브/대결전 (토토인·토인인, 택틱·일섭·3속성 용례, 세 속성 점수 합산 순위, 2026-11-28 열람)"
   - "https://namu.wiki/w/블루%20아카이브/종합전술시험 (Joint Firing Drill, 종전시 용례, 2026-11-25 열람)"
   - "https://namu.wiki/w/블루%20아카이브/업무 (特別依頼·Commissions, 특임·경던 용례, 2026-11-25 열람)"
   - "https://namu.wiki/w/블루%20아카이브/현상수배 (指名手配·Bounty, 2026-11-25 열람)"
@@ -29,7 +29,7 @@ sources:
   - "https://namu.wiki/w/블루%20아카이브/편성 (방깎·장판 용례, 2026-11-26 열람)"
   - "https://game8.jp/blue-archive/744568 (セレクトチケット, 2026-11-27 열람)"
 created: 2026-07-06
-updated: 2026-11-27
+updated: 2026-11-28
 ---
 
 # 용어집 (Glossary)
@@ -148,6 +148,7 @@ updated: 2026-11-27
 | 침수 | 컷이 올라가 어떤 난이도 클리어 점수가 한 등급 아래(플래티넘 → 골드 등)로 밀려나는 것. 등급 기준이 서버마다 달라 판정도 서버별 | [beginner.md](guides/beginner.md) |
 | 천장 | 모집 횟수를 채우면 픽업 학생을 확정으로 얻는 장치. 지금은 스택 200개 | [recruitment.md](guides/recruitment.md) |
 | 토토인 / 토인인 | 대결전 세 장갑의 최고 난이도 구성. 토토인은 TORMENT 둘·INSANE 하나(일본 서버 S27부터), 토인인은 TORMENT 하나·INSANE 둘(그 전). "토인인"은 학생·보스 이름이 아님 | [beginner.md](guides/beginner.md) |
+| 속성 / 3속성 (대결전) | 대결전에서 속성은 장갑별 전투 하나. 3속성은 그 시즌의 세 장갑 전부. 순위·플래티넘은 세 장갑 점수 합이라 "3속성 플레 조합"은 세 장갑 파티를 묻는 말이고 학생 속성 구성이 아님 | [beginner.md](guides/beginner.md) |
 | 일섭 / 한섭 | 일본 서버 / 한국 서버. 사이트 시즌 기록은 일섭 기준 | [beginner.md](guides/beginner.md) |
 | 택틱 | 편성과 운영 방식. "고즈 인세인 택틱"은 그 난이도를 깨는 파티를 묻는 말 | [beginner.md](guides/beginner.md) |
 | 방깎 | 적 방어력 감소. "방깎 요원"은 이 디버프를 맡는 학생 | [stat_guide.md](guides/stat_guide.md) |
